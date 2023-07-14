@@ -1,0 +1,4028 @@
+year,team_id,scoring_period_id,date,player_name,player_pos
+2022,12,1,2022-04-07,Eric Haase,C
+2022,12,1,2022-04-07,Yoshi Tsutsugo,1B
+2022,12,1,2022-04-07,Ozzie Albies,2B
+2022,12,1,2022-04-07,Manny Machado,3B
+2022,12,1,2022-04-07,Jazz Chisholm Jr.,SS
+2022,12,1,2022-04-07,Bryce Harper,OF
+2022,12,1,2022-04-07,Cody Bellinger,OF
+2022,12,1,2022-04-07,Giancarlo Stanton,OF
+2022,12,1,2022-04-07,Corey Seager,UTIL
+2022,12,1,2022-04-07,Josh Donaldson,UTIL
+2022,12,1,2022-04-07,Jorge Soler,Bench
+2022,12,1,2022-04-07,Trevor Bauer,Bench
+2022,12,1,2022-04-07,Antonio Senzatela,Bench
+2022,12,1,2022-04-07,Corey Kluber,Bench
+2022,12,1,2022-04-07,Fernando Tatis Jr.,IL
+2022,12,1,2022-04-07,Corbin Burnes,SP
+2022,12,1,2022-04-07,Zac Gallen,SP
+2022,12,1,2022-04-07,Triston McKenzie,SP
+2022,12,1,2022-04-07,Alex Wood,SP
+2022,12,1,2022-04-07,Joe Ryan,SP
+2022,12,1,2022-04-07,Postponed,SP
+2022,12,1,2022-04-07,Postponed,SP
+2022,12,1,2022-04-07,Craig Kimbrel,RP
+2022,12,1,2022-04-07,Kenley Jansen,RP
+2022,12,1,2022-04-07,Postponed,RP
+2022,12,1,2022-04-07,Drew Rasmussen,RP
+2022,12,2,2022-04-08,Eric Haase,C
+2022,12,2,2022-04-08,Yoshi Tsutsugo,1B
+2022,12,2,2022-04-08,Ozzie Albies,2B
+2022,12,2,2022-04-08,Manny Machado,3B
+2022,12,2,2022-04-08,Jazz Chisholm Jr.,SS
+2022,12,2,2022-04-08,Bryce Harper,OF
+2022,12,2,2022-04-08,Cody Bellinger,OF
+2022,12,2,2022-04-08,Postponed,OF
+2022,12,2,2022-04-08,Jorge Soler,OF
+2022,12,2,2022-04-08,Corey Seager,UTIL
+2022,12,2,2022-04-08,Jeremy Pena,UTIL
+2022,12,2,2022-04-08,Giancarlo Stanton,Bench
+2022,12,2,2022-04-08,Josh Donaldson,Bench
+2022,12,2,2022-04-08,Trevor Bauer,Bench
+2022,12,2,2022-04-08,Antonio Senzatela,Bench
+2022,12,2,2022-04-08,Corey Kluber,Bench
+2022,12,2,2022-04-08,Fernando Tatis Jr.,IL
+2022,12,2,2022-04-08,Corbin Burnes,SP
+2022,12,2,2022-04-08,Postponed,SP
+2022,12,2,2022-04-08,Zac Gallen,SP
+2022,12,2,2022-04-08,Triston McKenzie,SP
+2022,12,2,2022-04-08,Alex Wood,SP
+2022,12,2,2022-04-08,Joe Ryan,SP
+2022,12,2,2022-04-08,Craig Kimbrel,RP
+2022,12,2,2022-04-08,Kenley Jansen,RP
+2022,12,2,2022-04-08,Drew Rasmussen,RP
+2022,12,3,2022-04-09,Eric Haase,C
+2022,12,3,2022-04-09,Yoshi Tsutsugo,1B
+2022,12,3,2022-04-09,Ozzie Albies,2B
+2022,12,3,2022-04-09,Manny Machado,3B
+2022,12,3,2022-04-09,Jeremy Pena,SS
+2022,12,3,2022-04-09,Bryce Harper,OF
+2022,12,3,2022-04-09,Giancarlo Stanton,OF
+2022,12,3,2022-04-09,Jorge Soler,OF
+2022,12,3,2022-04-09,Corey Seager,UTIL
+2022,12,3,2022-04-09,Josh Donaldson,UTIL
+2022,12,3,2022-04-09,Cody Bellinger,Bench
+2022,12,3,2022-04-09,Jazz Chisholm Jr.,Bench
+2022,12,3,2022-04-09,Jurickson Profar,Bench
+2022,12,3,2022-04-09,Joe Ryan,Bench
+2022,12,3,2022-04-09,Trevor Bauer,Bench
+2022,12,3,2022-04-09,Corey Kluber,Bench
+2022,12,3,2022-04-09,Fernando Tatis Jr.,IL
+2022,12,3,2022-04-09,Corbin Burnes,SP
+2022,12,3,2022-04-09,Zac Gallen,SP
+2022,12,3,2022-04-09,Triston McKenzie,SP
+2022,12,3,2022-04-09,Alex Wood,SP
+2022,12,3,2022-04-09,Drew Rasmussen,SP
+2022,12,3,2022-04-09,Craig Kimbrel,RP
+2022,12,3,2022-04-09,Kenley Jansen,RP
+2022,12,4,2022-04-10,Eric Haase,C
+2022,12,4,2022-04-10,Yoshi Tsutsugo,1B
+2022,12,4,2022-04-10,Ozzie Albies,2B
+2022,12,4,2022-04-10,Manny Machado,3B
+2022,12,4,2022-04-10,Jazz Chisholm Jr.,SS
+2022,12,4,2022-04-10,Bryce Harper,OF
+2022,12,4,2022-04-10,Cody Bellinger,OF
+2022,12,4,2022-04-10,Jorge Soler,OF
+2022,12,4,2022-04-10,Corey Seager,UTIL
+2022,12,4,2022-04-10,Giancarlo Stanton,UTIL
+2022,12,4,2022-04-10,Josh Donaldson,Bench
+2022,12,4,2022-04-10,Jeremy Pena,Bench
+2022,12,4,2022-04-10,Jurickson Profar,Bench
+2022,12,4,2022-04-10,Alex Wood,Bench
+2022,12,4,2022-04-10,Drew Rasmussen,Bench
+2022,12,4,2022-04-10,Joe Ryan,Bench
+2022,12,4,2022-04-10,Trevor Bauer,Bench
+2022,12,4,2022-04-10,Fernando Tatis Jr.,IL
+2022,12,4,2022-04-10,Corbin Burnes,SP
+2022,12,4,2022-04-10,Zac Gallen,SP
+2022,12,4,2022-04-10,Triston McKenzie,SP
+2022,12,4,2022-04-10,Corey Kluber,SP
+2022,12,4,2022-04-10,Craig Kimbrel,RP
+2022,12,4,2022-04-10,Kenley Jansen,RP
+2022,12,5,2022-04-11,Eric Haase,C
+2022,12,5,2022-04-11,Yoshi Tsutsugo,1B
+2022,12,5,2022-04-11,Ozzie Albies,2B
+2022,12,5,2022-04-11,Manny Machado,3B
+2022,12,5,2022-04-11,Jazz Chisholm Jr.,SS
+2022,12,5,2022-04-11,Bryce Harper,OF
+2022,12,5,2022-04-11,Giancarlo Stanton,OF
+2022,12,5,2022-04-11,Jorge Soler,OF
+2022,12,5,2022-04-11,Corey Seager,UTIL
+2022,12,5,2022-04-11,Jurickson Profar,UTIL
+2022,12,5,2022-04-11,Cody Bellinger,Bench
+2022,12,5,2022-04-11,Josh Donaldson,Bench
+2022,12,5,2022-04-11,Jeremy Pena,Bench
+2022,12,5,2022-04-11,Drew Rasmussen,Bench
+2022,12,5,2022-04-11,Joe Ryan,Bench
+2022,12,5,2022-04-11,Trevor Bauer,Bench
+2022,12,5,2022-04-11,Fernando Tatis Jr.,IL
+2022,12,5,2022-04-11,Corbin Burnes,SP
+2022,12,5,2022-04-11,Zac Gallen,SP
+2022,12,5,2022-04-11,Triston McKenzie,SP
+2022,12,5,2022-04-11,Alex Wood,SP
+2022,12,5,2022-04-11,Corey Kluber,SP
+2022,12,5,2022-04-11,Craig Kimbrel,RP
+2022,12,5,2022-04-11,Kenley Jansen,RP
+2022,12,6,2022-04-12,Eric Haase,C
+2022,12,6,2022-04-12,Yoshi Tsutsugo,1B
+2022,12,6,2022-04-12,Ozzie Albies,2B
+2022,12,6,2022-04-12,Manny Machado,3B
+2022,12,6,2022-04-12,Jazz Chisholm Jr.,SS
+2022,12,6,2022-04-12,Bryce Harper,OF
+2022,12,6,2022-04-12,Cody Bellinger,OF
+2022,12,6,2022-04-12,Giancarlo Stanton,OF
+2022,12,6,2022-04-12,Corey Seager,UTIL
+2022,12,6,2022-04-12,Josh Donaldson,UTIL
+2022,12,6,2022-04-12,Jorge Soler,Bench
+2022,12,6,2022-04-12,Jeremy Pena,Bench
+2022,12,6,2022-04-12,Jurickson Profar,Bench
+2022,12,6,2022-04-12,Alex Wood,Bench
+2022,12,6,2022-04-12,Drew Rasmussen,Bench
+2022,12,6,2022-04-12,Joe Ryan,Bench
+2022,12,6,2022-04-12,Trevor Bauer,Bench
+2022,12,6,2022-04-12,Fernando Tatis Jr.,IL
+2022,12,6,2022-04-12,Corbin Burnes,SP
+2022,12,6,2022-04-12,Zac Gallen,SP
+2022,12,6,2022-04-12,Triston McKenzie,SP
+2022,12,6,2022-04-12,Corey Kluber,SP
+2022,12,6,2022-04-12,Craig Kimbrel,RP
+2022,12,6,2022-04-12,Kenley Jansen,RP
+2022,12,7,2022-04-13,Eric Haase,C
+2022,12,7,2022-04-13,Jurickson Profar,1B
+2022,12,7,2022-04-13,Ozzie Albies,2B
+2022,12,7,2022-04-13,Manny Machado,3B
+2022,12,7,2022-04-13,Jeremy Pena,SS
+2022,12,7,2022-04-13,Bryce Harper,OF
+2022,12,7,2022-04-13,Cody Bellinger,OF
+2022,12,7,2022-04-13,Giancarlo Stanton,OF
+2022,12,7,2022-04-13,Josh Donaldson,UTIL
+2022,12,7,2022-04-13,Corey Seager,Bench
+2022,12,7,2022-04-13,Jazz Chisholm Jr.,Bench
+2022,12,7,2022-04-13,Jorge Soler,Bench
+2022,12,7,2022-04-13,Alex Wood,Bench
+2022,12,7,2022-04-13,Drew Rasmussen,Bench
+2022,12,7,2022-04-13,Joe Ryan,Bench
+2022,12,7,2022-04-13,Trevor Bauer,Bench
+2022,12,7,2022-04-13,Fernando Tatis Jr.,IL
+2022,12,7,2022-04-13,Corbin Burnes,SP
+2022,12,7,2022-04-13,Zac Gallen,SP
+2022,12,7,2022-04-13,Triston McKenzie,SP
+2022,12,7,2022-04-13,Corey Kluber,SP
+2022,12,7,2022-04-13,Craig Kimbrel,RP
+2022,12,7,2022-04-13,Kenley Jansen,RP
+2022,12,7,2022-04-13,Aaron Loup,RP
+2022,12,8,2022-04-14,Eric Haase,C
+2022,12,8,2022-04-14,Jurickson Profar,1B
+2022,12,8,2022-04-14,Ozzie Albies,2B
+2022,12,8,2022-04-14,Manny Machado,3B
+2022,12,8,2022-04-14,Jazz Chisholm Jr.,SS
+2022,12,8,2022-04-14,Bryce Harper,OF
+2022,12,8,2022-04-14,Cody Bellinger,OF
+2022,12,8,2022-04-14,Giancarlo Stanton,OF
+2022,12,8,2022-04-14,Corey Seager,UTIL
+2022,12,8,2022-04-14,Josh Donaldson,UTIL
+2022,12,8,2022-04-14,Jorge Soler,Bench
+2022,12,8,2022-04-14,Jeremy Pena,Bench
+2022,12,8,2022-04-14,Alex Wood,Bench
+2022,12,8,2022-04-14,Drew Rasmussen,Bench
+2022,12,8,2022-04-14,Joe Ryan,Bench
+2022,12,8,2022-04-14,Trevor Bauer,Bench
+2022,12,8,2022-04-14,Fernando Tatis Jr.,IL
+2022,12,8,2022-04-14,Corbin Burnes,SP
+2022,12,8,2022-04-14,Zac Gallen,SP
+2022,12,8,2022-04-14,Triston McKenzie,SP
+2022,12,8,2022-04-14,Corey Kluber,SP
+2022,12,8,2022-04-14,Craig Kimbrel,RP
+2022,12,8,2022-04-14,Kenley Jansen,RP
+2022,12,8,2022-04-14,Aaron Loup,RP
+2022,12,9,2022-04-15,Eric Haase,C
+2022,12,9,2022-04-15,Jurickson Profar,1B
+2022,12,9,2022-04-15,Ozzie Albies,2B
+2022,12,9,2022-04-15,Manny Machado,3B
+2022,12,9,2022-04-15,Jazz Chisholm Jr.,SS
+2022,12,9,2022-04-15,Bryce Harper,OF
+2022,12,9,2022-04-15,Cody Bellinger,OF
+2022,12,9,2022-04-15,Giancarlo Stanton,OF
+2022,12,9,2022-04-15,Corey Seager,UTIL
+2022,12,9,2022-04-15,Josh Donaldson,UTIL
+2022,12,9,2022-04-15,Jorge Soler,Bench
+2022,12,9,2022-04-15,Jeremy Pena,Bench
+2022,12,9,2022-04-15,Zac Gallen,Bench
+2022,12,9,2022-04-15,Alex Wood,Bench
+2022,12,9,2022-04-15,Trevor Bauer,Bench
+2022,12,9,2022-04-15,Fernando Tatis Jr.,IL
+2022,12,9,2022-04-15,Corbin Burnes,SP
+2022,12,9,2022-04-15,Triston McKenzie,SP
+2022,12,9,2022-04-15,Drew Rasmussen,SP
+2022,12,9,2022-04-15,Joe Ryan,SP
+2022,12,9,2022-04-15,Corey Kluber,SP
+2022,12,9,2022-04-15,Craig Kimbrel,RP
+2022,12,9,2022-04-15,Kenley Jansen,RP
+2022,12,9,2022-04-15,Aaron Loup,RP
+2022,12,10,2022-04-16,Eric Haase,C
+2022,12,10,2022-04-16,Jurickson Profar,1B
+2022,12,10,2022-04-16,Ozzie Albies,2B
+2022,12,10,2022-04-16,Manny Machado,3B
+2022,12,10,2022-04-16,Jazz Chisholm Jr.,SS
+2022,12,10,2022-04-16,Bryce Harper,OF
+2022,12,10,2022-04-16,Cody Bellinger,OF
+2022,12,10,2022-04-16,Giancarlo Stanton,OF
+2022,12,10,2022-04-16,Corey Seager,UTIL
+2022,12,10,2022-04-16,Josh Donaldson,UTIL
+2022,12,10,2022-04-16,Jorge Soler,Bench
+2022,12,10,2022-04-16,Jeremy Pena,Bench
+2022,12,10,2022-04-16,Zac Gallen,Bench
+2022,12,10,2022-04-16,Alex Wood,Bench
+2022,12,10,2022-04-16,Trevor Bauer,Bench
+2022,12,10,2022-04-16,Fernando Tatis Jr.,IL
+2022,12,10,2022-04-16,Corbin Burnes,SP
+2022,12,10,2022-04-16,Triston McKenzie,SP
+2022,12,10,2022-04-16,Drew Rasmussen,SP
+2022,12,10,2022-04-16,Joe Ryan,SP
+2022,12,10,2022-04-16,Corey Kluber,SP
+2022,12,10,2022-04-16,Craig Kimbrel,RP
+2022,12,10,2022-04-16,Kenley Jansen,RP
+2022,12,10,2022-04-16,Aaron Loup,RP
+2022,12,11,2022-04-17,Eric Haase,C
+2022,12,11,2022-04-17,Jurickson Profar,1B
+2022,12,11,2022-04-17,Ozzie Albies,2B
+2022,12,11,2022-04-17,Manny Machado,3B
+2022,12,11,2022-04-17,Jazz Chisholm Jr.,SS
+2022,12,11,2022-04-17,Bryce Harper,OF
+2022,12,11,2022-04-17,Cody Bellinger,OF
+2022,12,11,2022-04-17,Giancarlo Stanton,OF
+2022,12,11,2022-04-17,Corey Seager,UTIL
+2022,12,11,2022-04-17,Josh Donaldson,UTIL
+2022,12,11,2022-04-17,Jorge Soler,Bench
+2022,12,11,2022-04-17,Jeremy Pena,Bench
+2022,12,11,2022-04-17,Zac Gallen,Bench
+2022,12,11,2022-04-17,Joe Ryan,Bench
+2022,12,11,2022-04-17,Trevor Bauer,Bench
+2022,12,11,2022-04-17,Fernando Tatis Jr.,IL
+2022,12,11,2022-04-17,Corbin Burnes,SP
+2022,12,11,2022-04-17,Triston McKenzie,SP
+2022,12,11,2022-04-17,Alex Wood,SP
+2022,12,11,2022-04-17,Drew Rasmussen,SP
+2022,12,11,2022-04-17,Corey Kluber,SP
+2022,12,11,2022-04-17,Craig Kimbrel,RP
+2022,12,11,2022-04-17,Kenley Jansen,RP
+2022,12,11,2022-04-17,Aaron Loup,RP
+2022,12,12,2022-04-18,Eric Haase,C
+2022,12,12,2022-04-18,Jurickson Profar,1B
+2022,12,12,2022-04-18,Ozzie Albies,2B
+2022,12,12,2022-04-18,Manny Machado,3B
+2022,12,12,2022-04-18,Jazz Chisholm Jr.,SS
+2022,12,12,2022-04-18,Bryce Harper,OF
+2022,12,12,2022-04-18,Cody Bellinger,OF
+2022,12,12,2022-04-18,Giancarlo Stanton,OF
+2022,12,12,2022-04-18,Corey Seager,UTIL
+2022,12,12,2022-04-18,Jeremy Pena,UTIL
+2022,12,12,2022-04-18,Jorge Soler,Bench
+2022,12,12,2022-04-18,Josh Donaldson,Bench
+2022,12,12,2022-04-18,Joe Ryan,Bench
+2022,12,12,2022-04-18,Trevor Bauer,Bench
+2022,12,12,2022-04-18,Corey Kluber,Bench
+2022,12,12,2022-04-18,Fernando Tatis Jr.,IL
+2022,12,12,2022-04-18,Corbin Burnes,SP
+2022,12,12,2022-04-18,Zac Gallen,SP
+2022,12,12,2022-04-18,Postponed,SP
+2022,12,12,2022-04-18,Triston McKenzie,SP
+2022,12,12,2022-04-18,Postponed,SP
+2022,12,12,2022-04-18,Alex Wood,SP
+2022,12,12,2022-04-18,Postponed,SP
+2022,12,12,2022-04-18,Drew Rasmussen,SP
+2022,12,12,2022-04-18,Craig Kimbrel,RP
+2022,12,12,2022-04-18,Kenley Jansen,RP
+2022,12,12,2022-04-18,Aaron Loup,RP
+2022,12,13,2022-04-19,Joey Bart,C
+2022,12,13,2022-04-19,Jurickson Profar,1B
+2022,12,13,2022-04-19,Ozzie Albies,2B
+2022,12,13,2022-04-19,Manny Machado,3B
+2022,12,13,2022-04-19,Jazz Chisholm Jr.,SS
+2022,12,13,2022-04-19,Bryce Harper,OF
+2022,12,13,2022-04-19,Giancarlo Stanton,OF
+2022,12,13,2022-04-19,Jorge Soler,OF
+2022,12,13,2022-04-19,Corey Seager,UTIL
+2022,12,13,2022-04-19,Josh Donaldson,UTIL
+2022,12,13,2022-04-19,Cody Bellinger,Bench
+2022,12,13,2022-04-19,Jeremy Pena,Bench
+2022,12,13,2022-04-19,Zac Gallen,Bench
+2022,12,13,2022-04-19,Joe Ryan,Bench
+2022,12,13,2022-04-19,Trevor Bauer,Bench
+2022,12,13,2022-04-19,Fernando Tatis Jr.,IL
+2022,12,13,2022-04-19,Corbin Burnes,SP
+2022,12,13,2022-04-19,Triston McKenzie,SP
+2022,12,13,2022-04-19,Postponed,SP
+2022,12,13,2022-04-19,Alex Wood,SP
+2022,12,13,2022-04-19,Drew Rasmussen,SP
+2022,12,13,2022-04-19,Corey Kluber,SP
+2022,12,13,2022-04-19,Craig Kimbrel,RP
+2022,12,13,2022-04-19,Kenley Jansen,RP
+2022,12,13,2022-04-19,Aaron Loup,RP
+2022,12,14,2022-04-20,Joey Bart,C
+2022,12,14,2022-04-20,Jurickson Profar,1B
+2022,12,14,2022-04-20,Ozzie Albies,2B
+2022,12,14,2022-04-20,Manny Machado,3B
+2022,12,14,2022-04-20,Jazz Chisholm Jr.,SS
+2022,12,14,2022-04-20,Bryce Harper,OF
+2022,12,14,2022-04-20,Cody Bellinger,OF
+2022,12,14,2022-04-20,Giancarlo Stanton,OF
+2022,12,14,2022-04-20,Corey Seager,UTIL
+2022,12,14,2022-04-20,Josh Donaldson,UTIL
+2022,12,14,2022-04-20,Jorge Soler,Bench
+2022,12,14,2022-04-20,Jeremy Pena,Bench
+2022,12,14,2022-04-20,Zac Gallen,Bench
+2022,12,14,2022-04-20,Joe Ryan,Bench
+2022,12,14,2022-04-20,Trevor Bauer,Bench
+2022,12,14,2022-04-20,Fernando Tatis Jr.,IL
+2022,12,14,2022-04-20,Corbin Burnes,SP
+2022,12,14,2022-04-20,Triston McKenzie,SP
+2022,12,14,2022-04-20,Alex Wood,SP
+2022,12,14,2022-04-20,Drew Rasmussen,SP
+2022,12,14,2022-04-20,Corey Kluber,SP
+2022,12,14,2022-04-20,Craig Kimbrel,RP
+2022,12,14,2022-04-20,Kenley Jansen,RP
+2022,12,14,2022-04-20,Aaron Loup,RP
+2022,12,15,2022-04-21,Joey Bart,C
+2022,12,15,2022-04-21,Jurickson Profar,1B
+2022,12,15,2022-04-21,Ozzie Albies,2B
+2022,12,15,2022-04-21,Manny Machado,3B
+2022,12,15,2022-04-21,Jazz Chisholm Jr.,SS
+2022,12,15,2022-04-21,Bryce Harper,OF
+2022,12,15,2022-04-21,Giancarlo Stanton,OF
+2022,12,15,2022-04-21,Jorge Soler,OF
+2022,12,15,2022-04-21,Corey Seager,UTIL
+2022,12,15,2022-04-21,Josh Donaldson,UTIL
+2022,12,15,2022-04-21,Cody Bellinger,Bench
+2022,12,15,2022-04-21,Jeremy Pena,Bench
+2022,12,15,2022-04-21,Drew Rasmussen,Bench
+2022,12,15,2022-04-21,Trevor Bauer,Bench
+2022,12,15,2022-04-21,Corey Kluber,Bench
+2022,12,15,2022-04-21,Fernando Tatis Jr.,IL
+2022,12,15,2022-04-21,Corbin Burnes,SP
+2022,12,15,2022-04-21,Zac Gallen,SP
+2022,12,15,2022-04-21,Triston McKenzie,SP
+2022,12,15,2022-04-21,Alex Wood,SP
+2022,12,15,2022-04-21,Joe Ryan,SP
+2022,12,15,2022-04-21,Craig Kimbrel,RP
+2022,12,15,2022-04-21,Kenley Jansen,RP
+2022,12,15,2022-04-21,Aaron Loup,RP
+2022,12,16,2022-04-22,Joey Bart,C
+2022,12,16,2022-04-22,Jurickson Profar,1B
+2022,12,16,2022-04-22,Ozzie Albies,2B
+2022,12,16,2022-04-22,Manny Machado,3B
+2022,12,16,2022-04-22,Jazz Chisholm Jr.,SS
+2022,12,16,2022-04-22,Bryce Harper,OF
+2022,12,16,2022-04-22,Giancarlo Stanton,OF
+2022,12,16,2022-04-22,Jorge Soler,OF
+2022,12,16,2022-04-22,Corey Seager,UTIL
+2022,12,16,2022-04-22,Josh Donaldson,UTIL
+2022,12,16,2022-04-22,Cody Bellinger,Bench
+2022,12,16,2022-04-22,Jeremy Pena,Bench
+2022,12,16,2022-04-22,Drew Rasmussen,Bench
+2022,12,16,2022-04-22,Joe Ryan,Bench
+2022,12,16,2022-04-22,Trevor Bauer,Bench
+2022,12,16,2022-04-22,Fernando Tatis Jr.,IL
+2022,12,16,2022-04-22,Corbin Burnes,SP
+2022,12,16,2022-04-22,Zac Gallen,SP
+2022,12,16,2022-04-22,Triston McKenzie,SP
+2022,12,16,2022-04-22,Alex Wood,SP
+2022,12,16,2022-04-22,Corey Kluber,SP
+2022,12,16,2022-04-22,Craig Kimbrel,RP
+2022,12,16,2022-04-22,Kenley Jansen,RP
+2022,12,16,2022-04-22,Aaron Loup,RP
+2022,12,17,2022-04-23,Joey Bart,C
+2022,12,17,2022-04-23,Jurickson Profar,1B
+2022,12,17,2022-04-23,Ozzie Albies,2B
+2022,12,17,2022-04-23,Manny Machado,3B
+2022,12,17,2022-04-23,Jazz Chisholm Jr.,SS
+2022,12,17,2022-04-23,Bryce Harper,OF
+2022,12,17,2022-04-23,Cody Bellinger,OF
+2022,12,17,2022-04-23,Giancarlo Stanton,OF
+2022,12,17,2022-04-23,Corey Seager,UTIL
+2022,12,17,2022-04-23,Josh Donaldson,UTIL
+2022,12,17,2022-04-23,Jorge Soler,Bench
+2022,12,17,2022-04-23,Jeremy Pena,Bench
+2022,12,17,2022-04-23,Triston McKenzie,Bench
+2022,12,17,2022-04-23,Drew Rasmussen,Bench
+2022,12,17,2022-04-23,Trevor Bauer,Bench
+2022,12,17,2022-04-23,Fernando Tatis Jr.,IL
+2022,12,17,2022-04-23,Corbin Burnes,SP
+2022,12,17,2022-04-23,Zac Gallen,SP
+2022,12,17,2022-04-23,Alex Wood,SP
+2022,12,17,2022-04-23,Joe Ryan,SP
+2022,12,17,2022-04-23,Corey Kluber,SP
+2022,12,17,2022-04-23,Craig Kimbrel,RP
+2022,12,17,2022-04-23,Kenley Jansen,RP
+2022,12,17,2022-04-23,Aaron Loup,RP
+2022,12,18,2022-04-24,Joey Bart,C
+2022,12,18,2022-04-24,Jurickson Profar,1B
+2022,12,18,2022-04-24,Ozzie Albies,2B
+2022,12,18,2022-04-24,Manny Machado,3B
+2022,12,18,2022-04-24,Jazz Chisholm Jr.,SS
+2022,12,18,2022-04-24,Bryce Harper,OF
+2022,12,18,2022-04-24,Cody Bellinger,OF
+2022,12,18,2022-04-24,Jorge Soler,OF
+2022,12,18,2022-04-24,Corey Seager,UTIL
+2022,12,18,2022-04-24,Josh Donaldson,UTIL
+2022,12,18,2022-04-24,Giancarlo Stanton,Bench
+2022,12,18,2022-04-24,Jeremy Pena,Bench
+2022,12,18,2022-04-24,Triston McKenzie,Bench
+2022,12,18,2022-04-24,Drew Rasmussen,Bench
+2022,12,18,2022-04-24,Trevor Bauer,Bench
+2022,12,18,2022-04-24,Fernando Tatis Jr.,IL
+2022,12,18,2022-04-24,Corbin Burnes,SP
+2022,12,18,2022-04-24,Zac Gallen,SP
+2022,12,18,2022-04-24,Alex Wood,SP
+2022,12,18,2022-04-24,Joe Ryan,SP
+2022,12,18,2022-04-24,Corey Kluber,SP
+2022,12,18,2022-04-24,Craig Kimbrel,RP
+2022,12,18,2022-04-24,Kenley Jansen,RP
+2022,12,18,2022-04-24,Aaron Loup,RP
+2022,12,19,2022-04-25,Joey Bart,C
+2022,12,19,2022-04-25,Jurickson Profar,1B
+2022,12,19,2022-04-25,Ozzie Albies,2B
+2022,12,19,2022-04-25,Manny Machado,3B
+2022,12,19,2022-04-25,Jazz Chisholm Jr.,SS
+2022,12,19,2022-04-25,Bryce Harper,OF
+2022,12,19,2022-04-25,Cody Bellinger,OF
+2022,12,19,2022-04-25,Jorge Soler,OF
+2022,12,19,2022-04-25,Corey Seager,UTIL
+2022,12,19,2022-04-25,Jeremy Pena,UTIL
+2022,12,19,2022-04-25,Giancarlo Stanton,Bench
+2022,12,19,2022-04-25,Josh Donaldson,Bench
+2022,12,19,2022-04-25,Triston McKenzie,Bench
+2022,12,19,2022-04-25,Drew Rasmussen,Bench
+2022,12,19,2022-04-25,Trevor Bauer,Bench
+2022,12,19,2022-04-25,Fernando Tatis Jr.,IL
+2022,12,19,2022-04-25,Corbin Burnes,SP
+2022,12,19,2022-04-25,Zac Gallen,SP
+2022,12,19,2022-04-25,Alex Wood,SP
+2022,12,19,2022-04-25,Joe Ryan,SP
+2022,12,19,2022-04-25,Corey Kluber,SP
+2022,12,19,2022-04-25,Craig Kimbrel,RP
+2022,12,19,2022-04-25,Kenley Jansen,RP
+2022,12,19,2022-04-25,Aaron Loup,RP
+2022,12,20,2022-04-26,Joey Bart,C
+2022,12,20,2022-04-26,Jurickson Profar,1B
+2022,12,20,2022-04-26,Ozzie Albies,2B
+2022,12,20,2022-04-26,Manny Machado,3B
+2022,12,20,2022-04-26,Jazz Chisholm Jr.,SS
+2022,12,20,2022-04-26,Bryce Harper,OF
+2022,12,20,2022-04-26,Cody Bellinger,OF
+2022,12,20,2022-04-26,Giancarlo Stanton,OF
+2022,12,20,2022-04-26,Josh Donaldson,UTIL
+2022,12,20,2022-04-26,Jeremy Pena,UTIL
+2022,12,20,2022-04-26,Corey Seager,Bench
+2022,12,20,2022-04-26,Jorge Soler,Bench
+2022,12,20,2022-04-26,Triston McKenzie,Bench
+2022,12,20,2022-04-26,Alex Wood,Bench
+2022,12,20,2022-04-26,Trevor Bauer,Bench
+2022,12,20,2022-04-26,Fernando Tatis Jr.,IL
+2022,12,20,2022-04-26,Corbin Burnes,SP
+2022,12,20,2022-04-26,Zac Gallen,SP
+2022,12,20,2022-04-26,Drew Rasmussen,SP
+2022,12,20,2022-04-26,Joe Ryan,SP
+2022,12,20,2022-04-26,Corey Kluber,SP
+2022,12,20,2022-04-26,Craig Kimbrel,RP
+2022,12,20,2022-04-26,Kenley Jansen,RP
+2022,12,20,2022-04-26,Aaron Loup,RP
+2022,12,21,2022-04-27,Joey Bart,C
+2022,12,21,2022-04-27,Jurickson Profar,1B
+2022,12,21,2022-04-27,Ozzie Albies,2B
+2022,12,21,2022-04-27,Manny Machado,3B
+2022,12,21,2022-04-27,Jazz Chisholm Jr.,SS
+2022,12,21,2022-04-27,Bryce Harper,OF
+2022,12,21,2022-04-27,Cody Bellinger,OF
+2022,12,21,2022-04-27,Jorge Soler,OF
+2022,12,21,2022-04-27,Josh Donaldson,UTIL
+2022,12,21,2022-04-27,Jeremy Pena,UTIL
+2022,12,21,2022-04-27,Corey Seager,Bench
+2022,12,21,2022-04-27,Giancarlo Stanton,Bench
+2022,12,21,2022-04-27,Triston McKenzie,Bench
+2022,12,21,2022-04-27,Alex Wood,Bench
+2022,12,21,2022-04-27,Trevor Bauer,Bench
+2022,12,21,2022-04-27,Fernando Tatis Jr.,IL
+2022,12,21,2022-04-27,Corbin Burnes,SP
+2022,12,21,2022-04-27,Zac Gallen,SP
+2022,12,21,2022-04-27,Drew Rasmussen,SP
+2022,12,21,2022-04-27,Joe Ryan,SP
+2022,12,21,2022-04-27,Corey Kluber,SP
+2022,12,21,2022-04-27,Craig Kimbrel,RP
+2022,12,21,2022-04-27,Kenley Jansen,RP
+2022,12,21,2022-04-27,Aaron Loup,RP
+2022,12,22,2022-04-28,Joey Bart,C
+2022,12,22,2022-04-28,Jurickson Profar,1B
+2022,12,22,2022-04-28,Ozzie Albies,2B
+2022,12,22,2022-04-28,Manny Machado,3B
+2022,12,22,2022-04-28,Corey Seager,SS
+2022,12,22,2022-04-28,Bryce Harper,OF
+2022,12,22,2022-04-28,Giancarlo Stanton,OF
+2022,12,22,2022-04-28,Jorge Soler,OF
+2022,12,22,2022-04-28,Josh Donaldson,UTIL
+2022,12,22,2022-04-28,Jeremy Pena,UTIL
+2022,12,22,2022-04-28,Cody Bellinger,Bench
+2022,12,22,2022-04-28,Jazz Chisholm Jr.,Bench
+2022,12,22,2022-04-28,Triston McKenzie,Bench
+2022,12,22,2022-04-28,Alex Wood,Bench
+2022,12,22,2022-04-28,Trevor Bauer,Bench
+2022,12,22,2022-04-28,Fernando Tatis Jr.,IL
+2022,12,22,2022-04-28,Corbin Burnes,SP
+2022,12,22,2022-04-28,Zac Gallen,SP
+2022,12,22,2022-04-28,Drew Rasmussen,SP
+2022,12,22,2022-04-28,Joe Ryan,SP
+2022,12,22,2022-04-28,Corey Kluber,SP
+2022,12,22,2022-04-28,Craig Kimbrel,RP
+2022,12,22,2022-04-28,Kenley Jansen,RP
+2022,12,22,2022-04-28,Aaron Loup,RP
+2022,12,23,2022-04-29,Joey Bart,C
+2022,12,23,2022-04-29,Jurickson Profar,1B
+2022,12,23,2022-04-29,Ozzie Albies,2B
+2022,12,23,2022-04-29,Manny Machado,3B
+2022,12,23,2022-04-29,Jazz Chisholm Jr.,SS
+2022,12,23,2022-04-29,Bryce Harper,OF
+2022,12,23,2022-04-29,Cody Bellinger,OF
+2022,12,23,2022-04-29,Giancarlo Stanton,OF
+2022,12,23,2022-04-29,Corey Seager,UTIL
+2022,12,23,2022-04-29,Jeremy Pena,UTIL
+2022,12,23,2022-04-29,Jorge Soler,Bench
+2022,12,23,2022-04-29,Josh Donaldson,Bench
+2022,12,23,2022-04-29,Triston McKenzie,Bench
+2022,12,23,2022-04-29,Drew Rasmussen,Bench
+2022,12,23,2022-04-29,Trevor Bauer,Bench
+2022,12,23,2022-04-29,Fernando Tatis Jr.,IL
+2022,12,23,2022-04-29,Corbin Burnes,SP
+2022,12,23,2022-04-29,Zac Gallen,SP
+2022,12,23,2022-04-29,Alex Wood,SP
+2022,12,23,2022-04-29,Joe Ryan,SP
+2022,12,23,2022-04-29,Corey Kluber,SP
+2022,12,23,2022-04-29,Craig Kimbrel,RP
+2022,12,23,2022-04-29,Kenley Jansen,RP
+2022,12,23,2022-04-29,Aaron Loup,RP
+2022,12,24,2022-04-30,Joey Bart,C
+2022,12,24,2022-04-30,Jurickson Profar,1B
+2022,12,24,2022-04-30,Ozzie Albies,2B
+2022,12,24,2022-04-30,Manny Machado,3B
+2022,12,24,2022-04-30,Jazz Chisholm Jr.,SS
+2022,12,24,2022-04-30,Bryce Harper,OF
+2022,12,24,2022-04-30,Cody Bellinger,OF
+2022,12,24,2022-04-30,Giancarlo Stanton,OF
+2022,12,24,2022-04-30,Corey Seager,UTIL
+2022,12,24,2022-04-30,Jeremy Pena,UTIL
+2022,12,24,2022-04-30,Jorge Soler,Bench
+2022,12,24,2022-04-30,Josh Donaldson,Bench
+2022,12,24,2022-04-30,Triston McKenzie,Bench
+2022,12,24,2022-04-30,Drew Rasmussen,Bench
+2022,12,24,2022-04-30,Trevor Bauer,Bench
+2022,12,24,2022-04-30,Fernando Tatis Jr.,IL
+2022,12,24,2022-04-30,Corbin Burnes,SP
+2022,12,24,2022-04-30,Zac Gallen,SP
+2022,12,24,2022-04-30,Alex Wood,SP
+2022,12,24,2022-04-30,Joe Ryan,SP
+2022,12,24,2022-04-30,Corey Kluber,SP
+2022,12,24,2022-04-30,Craig Kimbrel,RP
+2022,12,24,2022-04-30,Kenley Jansen,RP
+2022,12,24,2022-04-30,Aaron Loup,RP
+2022,12,25,2022-05-01,Joey Bart,C
+2022,12,25,2022-05-01,Jurickson Profar,1B
+2022,12,25,2022-05-01,Ozzie Albies,2B
+2022,12,25,2022-05-01,Manny Machado,3B
+2022,12,25,2022-05-01,Jazz Chisholm Jr.,SS
+2022,12,25,2022-05-01,Bryce Harper,OF
+2022,12,25,2022-05-01,Cody Bellinger,OF
+2022,12,25,2022-05-01,Giancarlo Stanton,OF
+2022,12,25,2022-05-01,Corey Seager,UTIL
+2022,12,25,2022-05-01,Jeremy Pena,UTIL
+2022,12,25,2022-05-01,Jorge Soler,Bench
+2022,12,25,2022-05-01,Josh Donaldson,Bench
+2022,12,25,2022-05-01,Triston McKenzie,Bench
+2022,12,25,2022-05-01,Drew Rasmussen,Bench
+2022,12,25,2022-05-01,Trevor Bauer,Bench
+2022,12,25,2022-05-01,Fernando Tatis Jr.,IL
+2022,12,25,2022-05-01,Corbin Burnes,SP
+2022,12,25,2022-05-01,Zac Gallen,SP
+2022,12,25,2022-05-01,Alex Wood,SP
+2022,12,25,2022-05-01,Joe Ryan,SP
+2022,12,25,2022-05-01,Corey Kluber,SP
+2022,12,25,2022-05-01,Craig Kimbrel,RP
+2022,12,25,2022-05-01,Kenley Jansen,RP
+2022,12,25,2022-05-01,Aaron Loup,RP
+2022,12,26,2022-05-02,Joey Bart,C
+2022,12,26,2022-05-02,Jurickson Profar,1B
+2022,12,26,2022-05-02,Ozzie Albies,2B
+2022,12,26,2022-05-02,Josh Donaldson,3B
+2022,12,26,2022-05-02,Jazz Chisholm Jr.,SS
+2022,12,26,2022-05-02,Bryce Harper,OF
+2022,12,26,2022-05-02,Cody Bellinger,OF
+2022,12,26,2022-05-02,Giancarlo Stanton,OF
+2022,12,26,2022-05-02,Jorge Soler,UTIL
+2022,12,26,2022-05-02,Jeremy Pena,UTIL
+2022,12,26,2022-05-02,Manny Machado,Bench
+2022,12,26,2022-05-02,Corey Seager,Bench
+2022,12,26,2022-05-02,Triston McKenzie,Bench
+2022,12,26,2022-05-02,Alex Wood,Bench
+2022,12,26,2022-05-02,Trevor Bauer,Bench
+2022,12,26,2022-05-02,Fernando Tatis Jr.,IL
+2022,12,26,2022-05-02,Corbin Burnes,SP
+2022,12,26,2022-05-02,Zac Gallen,SP
+2022,12,26,2022-05-02,Drew Rasmussen,SP
+2022,12,26,2022-05-02,Joe Ryan,SP
+2022,12,26,2022-05-02,Corey Kluber,SP
+2022,12,26,2022-05-02,Craig Kimbrel,RP
+2022,12,26,2022-05-02,Kenley Jansen,RP
+2022,12,26,2022-05-02,Aaron Loup,RP
+2022,12,27,2022-05-03,Joey Bart,C
+2022,12,27,2022-05-03,Jurickson Profar,1B
+2022,12,27,2022-05-03,Ozzie Albies,2B
+2022,12,27,2022-05-03,Manny Machado,3B
+2022,12,27,2022-05-03,Jazz Chisholm Jr.,SS
+2022,12,27,2022-05-03,Bryce Harper,OF
+2022,12,27,2022-05-03,Cody Bellinger,OF
+2022,12,27,2022-05-03,Giancarlo Stanton,OF
+2022,12,27,2022-05-03,Corey Seager,UTIL
+2022,12,27,2022-05-03,Jeremy Pena,UTIL
+2022,12,27,2022-05-03,Jorge Soler,Bench
+2022,12,27,2022-05-03,Josh Donaldson,Bench
+2022,12,27,2022-05-03,Triston McKenzie,Bench
+2022,12,27,2022-05-03,Alex Wood,Bench
+2022,12,27,2022-05-03,Trevor Bauer,Bench
+2022,12,27,2022-05-03,Fernando Tatis Jr.,IL
+2022,12,27,2022-05-03,Corbin Burnes,SP
+2022,12,27,2022-05-03,Zac Gallen,SP
+2022,12,27,2022-05-03,Drew Rasmussen,SP
+2022,12,27,2022-05-03,Joe Ryan,SP
+2022,12,27,2022-05-03,Corey Kluber,SP
+2022,12,27,2022-05-03,Postponed,SP
+2022,12,27,2022-05-03,Craig Kimbrel,RP
+2022,12,27,2022-05-03,Kenley Jansen,RP
+2022,12,27,2022-05-03,Aaron Loup,RP
+2022,12,28,2022-05-04,Joey Bart,C
+2022,12,28,2022-05-04,Jurickson Profar,1B
+2022,12,28,2022-05-04,Ozzie Albies,2B
+2022,12,28,2022-05-04,Manny Machado,3B
+2022,12,28,2022-05-04,Jazz Chisholm Jr.,SS
+2022,12,28,2022-05-04,Bryce Harper,OF
+2022,12,28,2022-05-04,Cody Bellinger,OF
+2022,12,28,2022-05-04,Giancarlo Stanton,OF
+2022,12,28,2022-05-04,Corey Seager,UTIL
+2022,12,28,2022-05-04,Josh Donaldson,UTIL
+2022,12,28,2022-05-04,Jorge Soler,Bench
+2022,12,28,2022-05-04,Jeremy Pena,Bench
+2022,12,28,2022-05-04,Triston McKenzie,Bench
+2022,12,28,2022-05-04,Alex Wood,Bench
+2022,12,28,2022-05-04,Trevor Bauer,Bench
+2022,12,28,2022-05-04,Fernando Tatis Jr.,IL
+2022,12,28,2022-05-04,Corbin Burnes,SP
+2022,12,28,2022-05-04,Zac Gallen,SP
+2022,12,28,2022-05-04,Drew Rasmussen,SP
+2022,12,28,2022-05-04,Joe Ryan,SP
+2022,12,28,2022-05-04,Corey Kluber,SP
+2022,12,28,2022-05-04,Craig Kimbrel,RP
+2022,12,28,2022-05-04,Kenley Jansen,RP
+2022,12,28,2022-05-04,Aaron Loup,RP
+2022,12,29,2022-05-05,Joey Bart,C
+2022,12,29,2022-05-05,Jurickson Profar,1B
+2022,12,29,2022-05-05,Ozzie Albies,2B
+2022,12,29,2022-05-05,Manny Machado,3B
+2022,12,29,2022-05-05,Jazz Chisholm Jr.,SS
+2022,12,29,2022-05-05,Bryce Harper,OF
+2022,12,29,2022-05-05,Cody Bellinger,OF
+2022,12,29,2022-05-05,Giancarlo Stanton,OF
+2022,12,29,2022-05-05,Jorge Soler,UTIL
+2022,12,29,2022-05-05,Jeremy Pena,UTIL
+2022,12,29,2022-05-05,Corey Seager,Bench
+2022,12,29,2022-05-05,Josh Donaldson,Bench
+2022,12,29,2022-05-05,Triston McKenzie,Bench
+2022,12,29,2022-05-05,Alex Wood,Bench
+2022,12,29,2022-05-05,Trevor Bauer,Bench
+2022,12,29,2022-05-05,Fernando Tatis Jr.,IL
+2022,12,29,2022-05-05,Corbin Burnes,SP
+2022,12,29,2022-05-05,Zac Gallen,SP
+2022,12,29,2022-05-05,Drew Rasmussen,SP
+2022,12,29,2022-05-05,Joe Ryan,SP
+2022,12,29,2022-05-05,Corey Kluber,SP
+2022,12,29,2022-05-05,Craig Kimbrel,RP
+2022,12,29,2022-05-05,Kenley Jansen,RP
+2022,12,29,2022-05-05,Aaron Loup,RP
+2022,12,30,2022-05-06,Joey Bart,C
+2022,12,30,2022-05-06,Jurickson Profar,1B
+2022,12,30,2022-05-06,Ozzie Albies,2B
+2022,12,30,2022-05-06,Manny Machado,3B
+2022,12,30,2022-05-06,Jazz Chisholm Jr.,SS
+2022,12,30,2022-05-06,Postponed,SS
+2022,12,30,2022-05-06,Bryce Harper,OF
+2022,12,30,2022-05-06,Giancarlo Stanton,OF
+2022,12,30,2022-05-06,Jorge Soler,OF
+2022,12,30,2022-05-06,Postponed,OF
+2022,12,30,2022-05-06,Corey Seager,UTIL
+2022,12,30,2022-05-06,Jeremy Pena,UTIL
+2022,12,30,2022-05-06,Cody Bellinger,Bench
+2022,12,30,2022-05-06,Josh Donaldson,Bench
+2022,12,30,2022-05-06,Triston McKenzie,Bench
+2022,12,30,2022-05-06,Alex Wood,Bench
+2022,12,30,2022-05-06,Trevor Bauer,Bench
+2022,12,30,2022-05-06,Fernando Tatis Jr.,IL
+2022,12,30,2022-05-06,Corbin Burnes,SP
+2022,12,30,2022-05-06,Zac Gallen,SP
+2022,12,30,2022-05-06,Drew Rasmussen,SP
+2022,12,30,2022-05-06,Joe Ryan,SP
+2022,12,30,2022-05-06,Corey Kluber,SP
+2022,12,30,2022-05-06,Postponed,SP
+2022,12,30,2022-05-06,Craig Kimbrel,RP
+2022,12,30,2022-05-06,Postponed,RP
+2022,12,30,2022-05-06,Kenley Jansen,RP
+2022,12,30,2022-05-06,Aaron Loup,RP
+2022,12,31,2022-05-07,Joey Bart,C
+2022,12,31,2022-05-07,Jurickson Profar,1B
+2022,12,31,2022-05-07,Ozzie Albies,2B
+2022,12,31,2022-05-07,Manny Machado,3B
+2022,12,31,2022-05-07,Jazz Chisholm Jr.,SS
+2022,12,31,2022-05-07,Postponed,SS
+2022,12,31,2022-05-07,Bryce Harper,OF
+2022,12,31,2022-05-07,Cody Bellinger,OF
+2022,12,31,2022-05-07,Jorge Soler,OF
+2022,12,31,2022-05-07,Corey Seager,UTIL
+2022,12,31,2022-05-07,Jeremy Pena,UTIL
+2022,12,31,2022-05-07,Giancarlo Stanton,Bench
+2022,12,31,2022-05-07,Josh Donaldson,Bench
+2022,12,31,2022-05-07,Triston McKenzie,Bench
+2022,12,31,2022-05-07,Alex Wood,Bench
+2022,12,31,2022-05-07,Trevor Bauer,Bench
+2022,12,31,2022-05-07,Fernando Tatis Jr.,IL
+2022,12,31,2022-05-07,Corbin Burnes,SP
+2022,12,31,2022-05-07,Zac Gallen,SP
+2022,12,31,2022-05-07,Drew Rasmussen,SP
+2022,12,31,2022-05-07,Joe Ryan,SP
+2022,12,31,2022-05-07,Corey Kluber,SP
+2022,12,31,2022-05-07,Craig Kimbrel,RP
+2022,12,31,2022-05-07,Postponed,RP
+2022,12,31,2022-05-07,Kenley Jansen,RP
+2022,12,31,2022-05-07,Aaron Loup,RP
+2022,12,32,2022-05-08,Joey Bart,C
+2022,12,32,2022-05-08,Jurickson Profar,1B
+2022,12,32,2022-05-08,Ozzie Albies,2B
+2022,12,32,2022-05-08,Manny Machado,3B
+2022,12,32,2022-05-08,Jazz Chisholm Jr.,SS
+2022,12,32,2022-05-08,Bryce Harper,OF
+2022,12,32,2022-05-08,Giancarlo Stanton,OF
+2022,12,32,2022-05-08,Jorge Soler,OF
+2022,12,32,2022-05-08,Corey Seager,UTIL
+2022,12,32,2022-05-08,Josh Donaldson,UTIL
+2022,12,32,2022-05-08,Cody Bellinger,Bench
+2022,12,32,2022-05-08,Jeremy Pena,Bench
+2022,12,32,2022-05-08,Triston McKenzie,Bench
+2022,12,32,2022-05-08,Alex Wood,Bench
+2022,12,32,2022-05-08,Trevor Bauer,Bench
+2022,12,32,2022-05-08,Fernando Tatis Jr.,IL
+2022,12,32,2022-05-08,Corbin Burnes,SP
+2022,12,32,2022-05-08,Zac Gallen,SP
+2022,12,32,2022-05-08,Drew Rasmussen,SP
+2022,12,32,2022-05-08,Joe Ryan,SP
+2022,12,32,2022-05-08,Corey Kluber,SP
+2022,12,32,2022-05-08,Craig Kimbrel,RP
+2022,12,32,2022-05-08,Kenley Jansen,RP
+2022,12,32,2022-05-08,Aaron Loup,RP
+2022,12,33,2022-05-09,Joey Bart,C
+2022,12,33,2022-05-09,Jurickson Profar,1B
+2022,12,33,2022-05-09,Jazz Chisholm Jr.,2B
+2022,12,33,2022-05-09,Manny Machado,3B
+2022,12,33,2022-05-09,Corey Seager,SS
+2022,12,33,2022-05-09,Bryce Harper,OF
+2022,12,33,2022-05-09,Giancarlo Stanton,OF
+2022,12,33,2022-05-09,Jorge Soler,OF
+2022,12,33,2022-05-09,Cody Bellinger,UTIL
+2022,12,33,2022-05-09,Josh Donaldson,UTIL
+2022,12,33,2022-05-09,Ozzie Albies,Bench
+2022,12,33,2022-05-09,Jeremy Pena,Bench
+2022,12,33,2022-05-09,Triston McKenzie,Bench
+2022,12,33,2022-05-09,Alex Wood,Bench
+2022,12,33,2022-05-09,Trevor Bauer,Bench
+2022,12,33,2022-05-09,Fernando Tatis Jr.,IL
+2022,12,33,2022-05-09,Corbin Burnes,SP
+2022,12,33,2022-05-09,Zac Gallen,SP
+2022,12,33,2022-05-09,Drew Rasmussen,SP
+2022,12,33,2022-05-09,Joe Ryan,SP
+2022,12,33,2022-05-09,Corey Kluber,SP
+2022,12,33,2022-05-09,Craig Kimbrel,RP
+2022,12,33,2022-05-09,Kenley Jansen,RP
+2022,12,33,2022-05-09,Aaron Loup,RP
+2022,12,34,2022-05-10,Joey Bart,C
+2022,12,34,2022-05-10,Josh Naylor,1B
+2022,12,34,2022-05-10,Ozzie Albies,2B
+2022,12,34,2022-05-10,Manny Machado,3B
+2022,12,34,2022-05-10,Jeremy Pena,SS
+2022,12,34,2022-05-10,Bryce Harper,OF
+2022,12,34,2022-05-10,Cody Bellinger,OF
+2022,12,34,2022-05-10,Giancarlo Stanton,OF
+2022,12,34,2022-05-10,Corey Seager,UTIL
+2022,12,34,2022-05-10,Josh Donaldson,UTIL
+2022,12,34,2022-05-10,Jazz Chisholm Jr.,Bench
+2022,12,34,2022-05-10,Jorge Soler,Bench
+2022,12,34,2022-05-10,Jurickson Profar,Bench
+2022,12,34,2022-05-10,Triston McKenzie,Bench
+2022,12,34,2022-05-10,Trevor Bauer,Bench
+2022,12,34,2022-05-10,Fernando Tatis Jr.,IL
+2022,12,34,2022-05-10,Corbin Burnes,SP
+2022,12,34,2022-05-10,Zac Gallen,SP
+2022,12,34,2022-05-10,Drew Rasmussen,SP
+2022,12,34,2022-05-10,Joe Ryan,SP
+2022,12,34,2022-05-10,Corey Kluber,SP
+2022,12,34,2022-05-10,Craig Kimbrel,RP
+2022,12,34,2022-05-10,Kenley Jansen,RP
+2022,12,34,2022-05-10,Aaron Loup,RP
+2022,12,35,2022-05-11,Joey Bart,C
+2022,12,35,2022-05-11,Josh Naylor,1B
+2022,12,35,2022-05-11,Ozzie Albies,2B
+2022,12,35,2022-05-11,Manny Machado,3B
+2022,12,35,2022-05-11,Jazz Chisholm Jr.,SS
+2022,12,35,2022-05-11,Bryce Harper,OF
+2022,12,35,2022-05-11,Cody Bellinger,OF
+2022,12,35,2022-05-11,Jorge Soler,OF
+2022,12,35,2022-05-11,Corey Seager,UTIL
+2022,12,35,2022-05-11,Jeremy Pena,UTIL
+2022,12,35,2022-05-11,Giancarlo Stanton,Bench
+2022,12,35,2022-05-11,Josh Donaldson,Bench
+2022,12,35,2022-05-11,Jurickson Profar,Bench
+2022,12,35,2022-05-11,Triston McKenzie,Bench
+2022,12,35,2022-05-11,Trevor Bauer,Bench
+2022,12,35,2022-05-11,Fernando Tatis Jr.,IL
+2022,12,35,2022-05-11,Corbin Burnes,SP
+2022,12,35,2022-05-11,Zac Gallen,SP
+2022,12,35,2022-05-11,Drew Rasmussen,SP
+2022,12,35,2022-05-11,Joe Ryan,SP
+2022,12,35,2022-05-11,Corey Kluber,SP
+2022,12,35,2022-05-11,Postponed,SP
+2022,12,35,2022-05-11,Craig Kimbrel,RP
+2022,12,35,2022-05-11,Kenley Jansen,RP
+2022,12,35,2022-05-11,Aaron Loup,RP
+2022,12,36,2022-05-12,Joey Bart,C
+2022,12,36,2022-05-12,Jurickson Profar,1B
+2022,12,36,2022-05-12,Ozzie Albies,2B
+2022,12,36,2022-05-12,Josh Donaldson,3B
+2022,12,36,2022-05-12,Jazz Chisholm Jr.,SS
+2022,12,36,2022-05-12,Bryce Harper,OF
+2022,12,36,2022-05-12,Cody Bellinger,OF
+2022,12,36,2022-05-12,Giancarlo Stanton,OF
+2022,12,36,2022-05-12,Corey Seager,UTIL
+2022,12,36,2022-05-12,Jeremy Pena,UTIL
+2022,12,36,2022-05-12,Manny Machado,Bench
+2022,12,36,2022-05-12,Jorge Soler,Bench
+2022,12,36,2022-05-12,Josh Naylor,Bench
+2022,12,36,2022-05-12,Triston McKenzie,Bench
+2022,12,36,2022-05-12,Trevor Bauer,Bench
+2022,12,36,2022-05-12,Fernando Tatis Jr.,IL
+2022,12,36,2022-05-12,Corbin Burnes,SP
+2022,12,36,2022-05-12,Zac Gallen,SP
+2022,12,36,2022-05-12,Drew Rasmussen,SP
+2022,12,36,2022-05-12,Joe Ryan,SP
+2022,12,36,2022-05-12,Corey Kluber,SP
+2022,12,36,2022-05-12,Craig Kimbrel,RP
+2022,12,36,2022-05-12,Kenley Jansen,RP
+2022,12,36,2022-05-12,Aaron Loup,RP
+2022,12,37,2022-05-13,Joey Bart,C
+2022,12,37,2022-05-13,Jurickson Profar,1B
+2022,12,37,2022-05-13,Ozzie Albies,2B
+2022,12,37,2022-05-13,Manny Machado,3B
+2022,12,37,2022-05-13,Jazz Chisholm Jr.,SS
+2022,12,37,2022-05-13,Bryce Harper,OF
+2022,12,37,2022-05-13,Cody Bellinger,OF
+2022,12,37,2022-05-13,Giancarlo Stanton,OF
+2022,12,37,2022-05-13,Corey Seager,UTIL
+2022,12,37,2022-05-13,Josh Donaldson,UTIL
+2022,12,37,2022-05-13,Jorge Soler,Bench
+2022,12,37,2022-05-13,Jeremy Pena,Bench
+2022,12,37,2022-05-13,Josh Naylor,Bench
+2022,12,37,2022-05-13,Triston McKenzie,Bench
+2022,12,37,2022-05-13,Trevor Bauer,Bench
+2022,12,37,2022-05-13,Fernando Tatis Jr.,IL
+2022,12,37,2022-05-13,Corbin Burnes,SP
+2022,12,37,2022-05-13,Zac Gallen,SP
+2022,12,37,2022-05-13,Drew Rasmussen,SP
+2022,12,37,2022-05-13,Joe Ryan,SP
+2022,12,37,2022-05-13,Corey Kluber,SP
+2022,12,37,2022-05-13,Craig Kimbrel,RP
+2022,12,37,2022-05-13,Kenley Jansen,RP
+2022,12,37,2022-05-13,Aaron Loup,RP
+2022,12,38,2022-05-14,Joey Bart,C
+2022,12,38,2022-05-14,Jurickson Profar,1B
+2022,12,38,2022-05-14,Ozzie Albies,2B
+2022,12,38,2022-05-14,Manny Machado,3B
+2022,12,38,2022-05-14,Jazz Chisholm Jr.,SS
+2022,12,38,2022-05-14,Bryce Harper,OF
+2022,12,38,2022-05-14,Cody Bellinger,OF
+2022,12,38,2022-05-14,Giancarlo Stanton,OF
+2022,12,38,2022-05-14,Corey Seager,UTIL
+2022,12,38,2022-05-14,Josh Donaldson,UTIL
+2022,12,38,2022-05-14,Jorge Soler,Bench
+2022,12,38,2022-05-14,Jeremy Pena,Bench
+2022,12,38,2022-05-14,Triston McKenzie,Bench
+2022,12,38,2022-05-14,Trevor Bauer,Bench
+2022,12,38,2022-05-14,Martin Perez,Bench
+2022,12,38,2022-05-14,Fernando Tatis Jr.,IL
+2022,12,38,2022-05-14,Josh Naylor,IL
+2022,12,38,2022-05-14,Corbin Burnes,SP
+2022,12,38,2022-05-14,Zac Gallen,SP
+2022,12,38,2022-05-14,Drew Rasmussen,SP
+2022,12,38,2022-05-14,Joe Ryan,SP
+2022,12,38,2022-05-14,Corey Kluber,SP
+2022,12,38,2022-05-14,Craig Kimbrel,RP
+2022,12,38,2022-05-14,Kenley Jansen,RP
+2022,12,38,2022-05-14,Aaron Loup,RP
+2022,12,39,2022-05-15,Joey Bart,C
+2022,12,39,2022-05-15,Jurickson Profar,1B
+2022,12,39,2022-05-15,Ozzie Albies,2B
+2022,12,39,2022-05-15,Josh Donaldson,3B
+2022,12,39,2022-05-15,Jeremy Pena,SS
+2022,12,39,2022-05-15,Bryce Harper,OF
+2022,12,39,2022-05-15,Cody Bellinger,OF
+2022,12,39,2022-05-15,Giancarlo Stanton,OF
+2022,12,39,2022-05-15,Corey Seager,UTIL
+2022,12,39,2022-05-15,Jorge Soler,UTIL
+2022,12,39,2022-05-15,Manny Machado,Bench
+2022,12,39,2022-05-15,Jazz Chisholm Jr.,Bench
+2022,12,39,2022-05-15,Drew Rasmussen,Bench
+2022,12,39,2022-05-15,Joe Ryan,Bench
+2022,12,39,2022-05-15,Trevor Bauer,Bench
+2022,12,39,2022-05-15,Fernando Tatis Jr.,IL
+2022,12,39,2022-05-15,Josh Naylor,IL
+2022,12,39,2022-05-15,Corbin Burnes,SP
+2022,12,39,2022-05-15,Zac Gallen,SP
+2022,12,39,2022-05-15,Triston McKenzie,SP
+2022,12,39,2022-05-15,Corey Kluber,SP
+2022,12,39,2022-05-15,Martin Perez,SP
+2022,12,39,2022-05-15,Craig Kimbrel,RP
+2022,12,39,2022-05-15,Kenley Jansen,RP
+2022,12,39,2022-05-15,Aaron Loup,RP
+2022,12,40,2022-05-16,Joey Bart,C
+2022,12,40,2022-05-16,Jurickson Profar,1B
+2022,12,40,2022-05-16,Ozzie Albies,2B
+2022,12,40,2022-05-16,Josh Donaldson,3B
+2022,12,40,2022-05-16,Jazz Chisholm Jr.,SS
+2022,12,40,2022-05-16,Cody Bellinger,OF
+2022,12,40,2022-05-16,Giancarlo Stanton,OF
+2022,12,40,2022-05-16,Jorge Soler,OF
+2022,12,40,2022-05-16,Corey Seager,UTIL
+2022,12,40,2022-05-16,Jeremy Pena,UTIL
+2022,12,40,2022-05-16,Bryce Harper,Bench
+2022,12,40,2022-05-16,Manny Machado,Bench
+2022,12,40,2022-05-16,Drew Rasmussen,Bench
+2022,12,40,2022-05-16,Joe Ryan,Bench
+2022,12,40,2022-05-16,Trevor Bauer,Bench
+2022,12,40,2022-05-16,Fernando Tatis Jr.,IL
+2022,12,40,2022-05-16,Josh Naylor,IL
+2022,12,40,2022-05-16,Corbin Burnes,SP
+2022,12,40,2022-05-16,Zac Gallen,SP
+2022,12,40,2022-05-16,Triston McKenzie,SP
+2022,12,40,2022-05-16,Corey Kluber,SP
+2022,12,40,2022-05-16,Martin Perez,SP
+2022,12,40,2022-05-16,Craig Kimbrel,RP
+2022,12,40,2022-05-16,Kenley Jansen,RP
+2022,12,40,2022-05-16,Aaron Loup,RP
+2022,12,41,2022-05-17,Joey Bart,C
+2022,12,41,2022-05-17,Jurickson Profar,1B
+2022,12,41,2022-05-17,Ozzie Albies,2B
+2022,12,41,2022-05-17,Manny Machado,3B
+2022,12,41,2022-05-17,Jazz Chisholm Jr.,SS
+2022,12,41,2022-05-17,Cody Bellinger,OF
+2022,12,41,2022-05-17,Giancarlo Stanton,OF
+2022,12,41,2022-05-17,Jorge Soler,OF
+2022,12,41,2022-05-17,Corey Seager,UTIL
+2022,12,41,2022-05-17,Jeremy Pena,UTIL
+2022,12,41,2022-05-17,Bryce Harper,Bench
+2022,12,41,2022-05-17,Josh Donaldson,Bench
+2022,12,41,2022-05-17,Drew Rasmussen,Bench
+2022,12,41,2022-05-17,Joe Ryan,Bench
+2022,12,41,2022-05-17,Trevor Bauer,Bench
+2022,12,41,2022-05-17,Fernando Tatis Jr.,IL
+2022,12,41,2022-05-17,Josh Naylor,IL
+2022,12,41,2022-05-17,Corbin Burnes,SP
+2022,12,41,2022-05-17,Zac Gallen,SP
+2022,12,41,2022-05-17,Triston McKenzie,SP
+2022,12,41,2022-05-17,Corey Kluber,SP
+2022,12,41,2022-05-17,Martin Perez,SP
+2022,12,41,2022-05-17,Craig Kimbrel,RP
+2022,12,41,2022-05-17,Kenley Jansen,RP
+2022,12,41,2022-05-17,Aaron Loup,RP
+2022,12,42,2022-05-18,Joey Bart,C
+2022,12,42,2022-05-18,Jurickson Profar,1B
+2022,12,42,2022-05-18,Ozzie Albies,2B
+2022,12,42,2022-05-18,Manny Machado,3B
+2022,12,42,2022-05-18,Jazz Chisholm Jr.,SS
+2022,12,42,2022-05-18,Cody Bellinger,OF
+2022,12,42,2022-05-18,Giancarlo Stanton,OF
+2022,12,42,2022-05-18,Jorge Soler,OF
+2022,12,42,2022-05-18,Corey Seager,UTIL
+2022,12,42,2022-05-18,Jeremy Pena,UTIL
+2022,12,42,2022-05-18,Bryce Harper,Bench
+2022,12,42,2022-05-18,Josh Donaldson,Bench
+2022,12,42,2022-05-18,Drew Rasmussen,Bench
+2022,12,42,2022-05-18,Joe Ryan,Bench
+2022,12,42,2022-05-18,Trevor Bauer,Bench
+2022,12,42,2022-05-18,Fernando Tatis Jr.,IL
+2022,12,42,2022-05-18,Josh Naylor,IL
+2022,12,42,2022-05-18,Corbin Burnes,SP
+2022,12,42,2022-05-18,Zac Gallen,SP
+2022,12,42,2022-05-18,Triston McKenzie,SP
+2022,12,42,2022-05-18,Postponed,SP
+2022,12,42,2022-05-18,Corey Kluber,SP
+2022,12,42,2022-05-18,Martin Perez,SP
+2022,12,42,2022-05-18,Craig Kimbrel,RP
+2022,12,42,2022-05-18,Kenley Jansen,RP
+2022,12,42,2022-05-18,Aaron Loup,RP
+2022,12,43,2022-05-19,Joey Bart,C
+2022,12,43,2022-05-19,Jurickson Profar,1B
+2022,12,43,2022-05-19,Ozzie Albies,2B
+2022,12,43,2022-05-19,Manny Machado,3B
+2022,12,43,2022-05-19,Jeremy Pena,SS
+2022,12,43,2022-05-19,Bryce Harper,OF
+2022,12,43,2022-05-19,Cody Bellinger,OF
+2022,12,43,2022-05-19,Giancarlo Stanton,OF
+2022,12,43,2022-05-19,Corey Seager,UTIL
+2022,12,43,2022-05-19,Josh Donaldson,UTIL
+2022,12,43,2022-05-19,Jazz Chisholm Jr.,Bench
+2022,12,43,2022-05-19,Jorge Soler,Bench
+2022,12,43,2022-05-19,Joe Ryan,Bench
+2022,12,43,2022-05-19,Trevor Bauer,Bench
+2022,12,43,2022-05-19,Corey Kluber,Bench
+2022,12,43,2022-05-19,Fernando Tatis Jr.,IL
+2022,12,43,2022-05-19,Josh Naylor,IL
+2022,12,43,2022-05-19,Corbin Burnes,SP
+2022,12,43,2022-05-19,Zac Gallen,SP
+2022,12,43,2022-05-19,Triston McKenzie,SP
+2022,12,43,2022-05-19,Drew Rasmussen,SP
+2022,12,43,2022-05-19,Martin Perez,SP
+2022,12,43,2022-05-19,Craig Kimbrel,RP
+2022,12,43,2022-05-19,Kenley Jansen,RP
+2022,12,43,2022-05-19,Aaron Loup,RP
+2022,12,44,2022-05-20,Joey Bart,C
+2022,12,44,2022-05-20,Jurickson Profar,1B
+2022,12,44,2022-05-20,Ozzie Albies,2B
+2022,12,44,2022-05-20,Manny Machado,3B
+2022,12,44,2022-05-20,Jazz Chisholm Jr.,SS
+2022,12,44,2022-05-20,Bryce Harper,OF
+2022,12,44,2022-05-20,Cody Bellinger,OF
+2022,12,44,2022-05-20,Giancarlo Stanton,OF
+2022,12,44,2022-05-20,Jorge Soler,UTIL
+2022,12,44,2022-05-20,Jeremy Pena,UTIL
+2022,12,44,2022-05-20,Corey Seager,Bench
+2022,12,44,2022-05-20,Josh Donaldson,Bench
+2022,12,44,2022-05-20,Joe Ryan,Bench
+2022,12,44,2022-05-20,Trevor Bauer,Bench
+2022,12,44,2022-05-20,Corey Kluber,Bench
+2022,12,44,2022-05-20,Fernando Tatis Jr.,IL
+2022,12,44,2022-05-20,Josh Naylor,IL
+2022,12,44,2022-05-20,Corbin Burnes,SP
+2022,12,44,2022-05-20,Zac Gallen,SP
+2022,12,44,2022-05-20,Triston McKenzie,SP
+2022,12,44,2022-05-20,Drew Rasmussen,SP
+2022,12,44,2022-05-20,Martin Perez,SP
+2022,12,44,2022-05-20,Craig Kimbrel,RP
+2022,12,44,2022-05-20,Kenley Jansen,RP
+2022,12,44,2022-05-20,Aaron Loup,RP
+2022,12,45,2022-05-21,Joey Bart,C
+2022,12,45,2022-05-21,Jurickson Profar,1B
+2022,12,45,2022-05-21,Ozzie Albies,2B
+2022,12,45,2022-05-21,Manny Machado,3B
+2022,12,45,2022-05-21,Jazz Chisholm Jr.,SS
+2022,12,45,2022-05-21,Bryce Harper,OF
+2022,12,45,2022-05-21,Cody Bellinger,OF
+2022,12,45,2022-05-21,Giancarlo Stanton,OF
+2022,12,45,2022-05-21,Jorge Soler,UTIL
+2022,12,45,2022-05-21,Jeremy Pena,UTIL
+2022,12,45,2022-05-21,Corey Seager,Bench
+2022,12,45,2022-05-21,Josh Donaldson,Bench
+2022,12,45,2022-05-21,Drew Rasmussen,Bench
+2022,12,45,2022-05-21,Trevor Bauer,Bench
+2022,12,45,2022-05-21,Corey Kluber,Bench
+2022,12,45,2022-05-21,Fernando Tatis Jr.,IL
+2022,12,45,2022-05-21,Josh Naylor,IL
+2022,12,45,2022-05-21,Corbin Burnes,SP
+2022,12,45,2022-05-21,Zac Gallen,SP
+2022,12,45,2022-05-21,Triston McKenzie,SP
+2022,12,45,2022-05-21,Postponed,SP
+2022,12,45,2022-05-21,Joe Ryan,SP
+2022,12,45,2022-05-21,Martin Perez,SP
+2022,12,45,2022-05-21,Craig Kimbrel,RP
+2022,12,45,2022-05-21,Kenley Jansen,RP
+2022,12,45,2022-05-21,Aaron Loup,RP
+2022,12,46,2022-05-22,Joey Bart,C
+2022,12,46,2022-05-22,Jurickson Profar,1B
+2022,12,46,2022-05-22,Ozzie Albies,2B
+2022,12,46,2022-05-22,Manny Machado,3B
+2022,12,46,2022-05-22,Jazz Chisholm Jr.,SS
+2022,12,46,2022-05-22,Bryce Harper,OF
+2022,12,46,2022-05-22,Cody Bellinger,OF
+2022,12,46,2022-05-22,Giancarlo Stanton,OF
+2022,12,46,2022-05-22,Corey Seager,UTIL
+2022,12,46,2022-05-22,Josh Donaldson,UTIL
+2022,12,46,2022-05-22,Jorge Soler,Bench
+2022,12,46,2022-05-22,Jeremy Pena,Bench
+2022,12,46,2022-05-22,Josh Naylor,Bench
+2022,12,46,2022-05-22,Triston McKenzie,Bench
+2022,12,46,2022-05-22,Drew Rasmussen,Bench
+2022,12,46,2022-05-22,Joe Ryan,Bench
+2022,12,46,2022-05-22,Fernando Tatis Jr.,IL
+2022,12,46,2022-05-22,Corbin Burnes,SP
+2022,12,46,2022-05-22,Zac Gallen,SP
+2022,12,46,2022-05-22,Corey Kluber,SP
+2022,12,46,2022-05-22,Martin Perez,SP
+2022,12,46,2022-05-22,Austin Gomber,SP
+2022,12,46,2022-05-22,Craig Kimbrel,RP
+2022,12,46,2022-05-22,Kenley Jansen,RP
+2022,12,47,2022-05-23,Joey Bart,C
+2022,12,47,2022-05-23,Jurickson Profar,1B
+2022,12,47,2022-05-23,Ozzie Albies,2B
+2022,12,47,2022-05-23,Manny Machado,3B
+2022,12,47,2022-05-23,Jeremy Pena,SS
+2022,12,47,2022-05-23,Bryce Harper,OF
+2022,12,47,2022-05-23,Cody Bellinger,OF
+2022,12,47,2022-05-23,Giancarlo Stanton,OF
+2022,12,47,2022-05-23,Josh Naylor,UTIL
+2022,12,47,2022-05-23,Corey Seager,Bench
+2022,12,47,2022-05-23,Jazz Chisholm Jr.,Bench
+2022,12,47,2022-05-23,Jorge Soler,Bench
+2022,12,47,2022-05-23,Triston McKenzie,Bench
+2022,12,47,2022-05-23,Drew Rasmussen,Bench
+2022,12,47,2022-05-23,Joe Ryan,Bench
+2022,12,47,2022-05-23,Fernando Tatis Jr.,IL
+2022,12,47,2022-05-23,Josh Donaldson,IL
+2022,12,47,2022-05-23,Corbin Burnes,SP
+2022,12,47,2022-05-23,Zac Gallen,SP
+2022,12,47,2022-05-23,Corey Kluber,SP
+2022,12,47,2022-05-23,Martin Perez,SP
+2022,12,47,2022-05-23,Austin Gomber,SP
+2022,12,47,2022-05-23,Craig Kimbrel,RP
+2022,12,47,2022-05-23,Kenley Jansen,RP
+2022,12,48,2022-05-24,Joey Bart,C
+2022,12,48,2022-05-24,Jurickson Profar,1B
+2022,12,48,2022-05-24,Ozzie Albies,2B
+2022,12,48,2022-05-24,Manny Machado,3B
+2022,12,48,2022-05-24,Jeremy Pena,SS
+2022,12,48,2022-05-24,Bryce Harper,OF
+2022,12,48,2022-05-24,Giancarlo Stanton,OF
+2022,12,48,2022-05-24,Jorge Soler,OF
+2022,12,48,2022-05-24,Corey Seager,UTIL
+2022,12,48,2022-05-24,Josh Naylor,UTIL
+2022,12,48,2022-05-24,Cody Bellinger,Bench
+2022,12,48,2022-05-24,Jazz Chisholm Jr.,Bench
+2022,12,48,2022-05-24,Triston McKenzie,Bench
+2022,12,48,2022-05-24,Drew Rasmussen,Bench
+2022,12,48,2022-05-24,Joe Ryan,Bench
+2022,12,48,2022-05-24,Fernando Tatis Jr.,IL
+2022,12,48,2022-05-24,Josh Donaldson,IL
+2022,12,48,2022-05-24,Corbin Burnes,SP
+2022,12,48,2022-05-24,Zac Gallen,SP
+2022,12,48,2022-05-24,Corey Kluber,SP
+2022,12,48,2022-05-24,Martin Perez,SP
+2022,12,48,2022-05-24,Austin Gomber,SP
+2022,12,48,2022-05-24,Craig Kimbrel,RP
+2022,12,48,2022-05-24,Kenley Jansen,RP
+2022,12,48,2022-05-24,Adam Cimber,RP
+2022,12,49,2022-05-25,Joey Bart,C
+2022,12,49,2022-05-25,Jurickson Profar,1B
+2022,12,49,2022-05-25,Ozzie Albies,2B
+2022,12,49,2022-05-25,Manny Machado,3B
+2022,12,49,2022-05-25,Jazz Chisholm Jr.,SS
+2022,12,49,2022-05-25,Bryce Harper,OF
+2022,12,49,2022-05-25,Cody Bellinger,OF
+2022,12,49,2022-05-25,Giancarlo Stanton,OF
+2022,12,49,2022-05-25,Corey Seager,UTIL
+2022,12,49,2022-05-25,Josh Naylor,UTIL
+2022,12,49,2022-05-25,Jorge Soler,Bench
+2022,12,49,2022-05-25,Jeremy Pena,Bench
+2022,12,49,2022-05-25,Triston McKenzie,Bench
+2022,12,49,2022-05-25,Joe Ryan,Bench
+2022,12,49,2022-05-25,Corey Kluber,Bench
+2022,12,49,2022-05-25,Fernando Tatis Jr.,IL
+2022,12,49,2022-05-25,Josh Donaldson,IL
+2022,12,49,2022-05-25,Corbin Burnes,SP
+2022,12,49,2022-05-25,Zac Gallen,SP
+2022,12,49,2022-05-25,Drew Rasmussen,SP
+2022,12,49,2022-05-25,Martin Perez,SP
+2022,12,49,2022-05-25,Austin Gomber,SP
+2022,12,49,2022-05-25,Craig Kimbrel,RP
+2022,12,49,2022-05-25,Kenley Jansen,RP
+2022,12,49,2022-05-25,Adam Cimber,RP
+2022,12,50,2022-05-26,William Contreras,C
+2022,12,50,2022-05-26,Jurickson Profar,1B
+2022,12,50,2022-05-26,Ozzie Albies,2B
+2022,12,50,2022-05-26,Manny Machado,3B
+2022,12,50,2022-05-26,Jazz Chisholm Jr.,SS
+2022,12,50,2022-05-26,Bryce Harper,OF
+2022,12,50,2022-05-26,Cody Bellinger,OF
+2022,12,50,2022-05-26,Jorge Soler,OF
+2022,12,50,2022-05-26,Corey Seager,UTIL
+2022,12,50,2022-05-26,Josh Naylor,UTIL
+2022,12,50,2022-05-26,Josh Donaldson,Bench
+2022,12,50,2022-05-26,Jeremy Pena,Bench
+2022,12,50,2022-05-26,Triston McKenzie,Bench
+2022,12,50,2022-05-26,Drew Rasmussen,Bench
+2022,12,50,2022-05-26,Ryan Tepera,Bench
+2022,12,50,2022-05-26,Fernando Tatis Jr.,IL
+2022,12,50,2022-05-26,Giancarlo Stanton,IL
+2022,12,50,2022-05-26,Joe Ryan,IL
+2022,12,50,2022-05-26,Corbin Burnes,SP
+2022,12,50,2022-05-26,Zac Gallen,SP
+2022,12,50,2022-05-26,Martin Perez,SP
+2022,12,50,2022-05-26,Austin Gomber,SP
+2022,12,50,2022-05-26,Nick Pivetta,SP
+2022,12,50,2022-05-26,Craig Kimbrel,RP
+2022,12,50,2022-05-26,Kenley Jansen,RP
+2022,12,50,2022-05-26,Adam Cimber,RP
+2022,12,51,2022-05-27,William Contreras,C
+2022,12,51,2022-05-27,Jurickson Profar,1B
+2022,12,51,2022-05-27,Ozzie Albies,2B
+2022,12,51,2022-05-27,Manny Machado,3B
+2022,12,51,2022-05-27,Jazz Chisholm Jr.,SS
+2022,12,51,2022-05-27,Bryce Harper,OF
+2022,12,51,2022-05-27,Cody Bellinger,OF
+2022,12,51,2022-05-27,Jorge Soler,OF
+2022,12,51,2022-05-27,Corey Seager,UTIL
+2022,12,51,2022-05-27,Josh Naylor,UTIL
+2022,12,51,2022-05-27,Josh Donaldson,Bench
+2022,12,51,2022-05-27,Jeremy Pena,Bench
+2022,12,51,2022-05-27,Triston McKenzie,Bench
+2022,12,51,2022-05-27,Drew Rasmussen,Bench
+2022,12,51,2022-05-27,Adam Cimber,Bench
+2022,12,51,2022-05-27,Fernando Tatis Jr.,IL
+2022,12,51,2022-05-27,Giancarlo Stanton,IL
+2022,12,51,2022-05-27,Joe Ryan,IL
+2022,12,51,2022-05-27,Corbin Burnes,SP
+2022,12,51,2022-05-27,Zac Gallen,SP
+2022,12,51,2022-05-27,Martin Perez,SP
+2022,12,51,2022-05-27,Austin Gomber,SP
+2022,12,51,2022-05-27,Nick Pivetta,SP
+2022,12,51,2022-05-27,Postponed,SP
+2022,12,51,2022-05-27,Craig Kimbrel,RP
+2022,12,51,2022-05-27,Kenley Jansen,RP
+2022,12,51,2022-05-27,Ryan Tepera,RP
+2022,12,52,2022-05-28,William Contreras,C
+2022,12,52,2022-05-28,Jurickson Profar,1B
+2022,12,52,2022-05-28,Ozzie Albies,2B
+2022,12,52,2022-05-28,Manny Machado,3B
+2022,12,52,2022-05-28,Jazz Chisholm Jr.,SS
+2022,12,52,2022-05-28,Bryce Harper,OF
+2022,12,52,2022-05-28,Cody Bellinger,OF
+2022,12,52,2022-05-28,Jorge Soler,OF
+2022,12,52,2022-05-28,Corey Seager,UTIL
+2022,12,52,2022-05-28,Josh Naylor,UTIL
+2022,12,52,2022-05-28,Jeremy Pena,Bench
+2022,12,52,2022-05-28,Kenley Jansen,Bench
+2022,12,52,2022-05-28,Drew Rasmussen,Bench
+2022,12,52,2022-05-28,Joe Ryan,Bench
+2022,12,52,2022-05-28,Nick Pivetta,Bench
+2022,12,52,2022-05-28,Fernando Tatis Jr.,IL
+2022,12,52,2022-05-28,Giancarlo Stanton,IL
+2022,12,52,2022-05-28,Josh Donaldson,IL
+2022,12,52,2022-05-28,Corbin Burnes,SP
+2022,12,52,2022-05-28,Zac Gallen,SP
+2022,12,52,2022-05-28,Triston McKenzie,SP
+2022,12,52,2022-05-28,Martin Perez,SP
+2022,12,52,2022-05-28,Austin Gomber,SP
+2022,12,52,2022-05-28,Craig Kimbrel,RP
+2022,12,52,2022-05-28,Adam Cimber,RP
+2022,12,52,2022-05-28,Ryan Tepera,RP
+2022,12,53,2022-05-29,William Contreras,C
+2022,12,53,2022-05-29,Jurickson Profar,1B
+2022,12,53,2022-05-29,Ozzie Albies,2B
+2022,12,53,2022-05-29,Manny Machado,3B
+2022,12,53,2022-05-29,Jazz Chisholm Jr.,SS
+2022,12,53,2022-05-29,Bryce Harper,OF
+2022,12,53,2022-05-29,Cody Bellinger,OF
+2022,12,53,2022-05-29,Jorge Soler,OF
+2022,12,53,2022-05-29,Corey Seager,UTIL
+2022,12,53,2022-05-29,Josh Naylor,UTIL
+2022,12,53,2022-05-29,Jeremy Pena,Bench
+2022,12,53,2022-05-29,Kenley Jansen,Bench
+2022,12,53,2022-05-29,Drew Rasmussen,Bench
+2022,12,53,2022-05-29,Joe Ryan,Bench
+2022,12,53,2022-05-29,Martin Perez,Bench
+2022,12,53,2022-05-29,Fernando Tatis Jr.,IL
+2022,12,53,2022-05-29,Giancarlo Stanton,IL
+2022,12,53,2022-05-29,Josh Donaldson,IL
+2022,12,53,2022-05-29,Corbin Burnes,SP
+2022,12,53,2022-05-29,Zac Gallen,SP
+2022,12,53,2022-05-29,Triston McKenzie,SP
+2022,12,53,2022-05-29,Austin Gomber,SP
+2022,12,53,2022-05-29,Nick Pivetta,SP
+2022,12,53,2022-05-29,Craig Kimbrel,RP
+2022,12,53,2022-05-29,Adam Cimber,RP
+2022,12,53,2022-05-29,Ryan Tepera,RP
+2022,12,54,2022-05-30,William Contreras,C
+2022,12,54,2022-05-30,Jurickson Profar,1B
+2022,12,54,2022-05-30,Ozzie Albies,2B
+2022,12,54,2022-05-30,Manny Machado,3B
+2022,12,54,2022-05-30,Jazz Chisholm Jr.,SS
+2022,12,54,2022-05-30,Bryce Harper,OF
+2022,12,54,2022-05-30,Cody Bellinger,OF
+2022,12,54,2022-05-30,Jorge Soler,OF
+2022,12,54,2022-05-30,Corey Seager,UTIL
+2022,12,54,2022-05-30,Josh Naylor,UTIL
+2022,12,54,2022-05-30,Jeremy Pena,Bench
+2022,12,54,2022-05-30,Drew Rasmussen,Bench
+2022,12,54,2022-05-30,Joe Ryan,Bench
+2022,12,54,2022-05-30,Martin Perez,Bench
+2022,12,54,2022-05-30,Adam Cimber,Bench
+2022,12,54,2022-05-30,Fernando Tatis Jr.,IL
+2022,12,54,2022-05-30,Giancarlo Stanton,IL
+2022,12,54,2022-05-30,Josh Donaldson,IL
+2022,12,54,2022-05-30,Corbin Burnes,SP
+2022,12,54,2022-05-30,Zac Gallen,SP
+2022,12,54,2022-05-30,Triston McKenzie,SP
+2022,12,54,2022-05-30,Austin Gomber,SP
+2022,12,54,2022-05-30,Nick Pivetta,SP
+2022,12,54,2022-05-30,Craig Kimbrel,RP
+2022,12,54,2022-05-30,Kenley Jansen,RP
+2022,12,54,2022-05-30,Ryan Tepera,RP
+2022,12,55,2022-05-31,William Contreras,C
+2022,12,55,2022-05-31,Jurickson Profar,1B
+2022,12,55,2022-05-31,Ozzie Albies,2B
+2022,12,55,2022-05-31,Manny Machado,3B
+2022,12,55,2022-05-31,Jazz Chisholm Jr.,SS
+2022,12,55,2022-05-31,Bryce Harper,OF
+2022,12,55,2022-05-31,Jorge Soler,OF
+2022,12,55,2022-05-31,Josh Naylor,OF
+2022,12,55,2022-05-31,Corey Seager,UTIL
+2022,12,55,2022-05-31,Jeremy Pena,UTIL
+2022,12,55,2022-05-31,Cody Bellinger,Bench
+2022,12,55,2022-05-31,Drew Rasmussen,Bench
+2022,12,55,2022-05-31,Joe Ryan,Bench
+2022,12,55,2022-05-31,Austin Gomber,Bench
+2022,12,55,2022-05-31,Adam Cimber,Bench
+2022,12,55,2022-05-31,Fernando Tatis Jr.,IL
+2022,12,55,2022-05-31,Giancarlo Stanton,IL
+2022,12,55,2022-05-31,Josh Donaldson,IL
+2022,12,55,2022-05-31,Corbin Burnes,SP
+2022,12,55,2022-05-31,Zac Gallen,SP
+2022,12,55,2022-05-31,Triston McKenzie,SP
+2022,12,55,2022-05-31,Martin Perez,SP
+2022,12,55,2022-05-31,Nick Pivetta,SP
+2022,12,55,2022-05-31,Craig Kimbrel,RP
+2022,12,55,2022-05-31,Kenley Jansen,RP
+2022,12,55,2022-05-31,Ryan Tepera,RP
+2022,12,56,2022-06-01,William Contreras,C
+2022,12,56,2022-06-01,Jurickson Profar,1B
+2022,12,56,2022-06-01,Ozzie Albies,2B
+2022,12,56,2022-06-01,Manny Machado,3B
+2022,12,56,2022-06-01,Jazz Chisholm Jr.,SS
+2022,12,56,2022-06-01,Bryce Harper,OF
+2022,12,56,2022-06-01,Jorge Soler,OF
+2022,12,56,2022-06-01,Josh Naylor,OF
+2022,12,56,2022-06-01,Corey Seager,UTIL
+2022,12,56,2022-06-01,Patrick Wisdom,UTIL
+2022,12,56,2022-06-01,Cody Bellinger,Bench
+2022,12,56,2022-06-01,Jeremy Pena,Bench
+2022,12,56,2022-06-01,Kenley Jansen,Bench
+2022,12,56,2022-06-01,Drew Rasmussen,Bench
+2022,12,56,2022-06-01,Joe Ryan,Bench
+2022,12,56,2022-06-01,Fernando Tatis Jr.,IL
+2022,12,56,2022-06-01,Giancarlo Stanton,IL
+2022,12,56,2022-06-01,Josh Donaldson,IL
+2022,12,56,2022-06-01,Corbin Burnes,SP
+2022,12,56,2022-06-01,Zac Gallen,SP
+2022,12,56,2022-06-01,Triston McKenzie,SP
+2022,12,56,2022-06-01,Martin Perez,SP
+2022,12,56,2022-06-01,Nick Pivetta,SP
+2022,12,56,2022-06-01,Craig Kimbrel,RP
+2022,12,56,2022-06-01,Adam Cimber,RP
+2022,12,56,2022-06-01,Ryan Tepera,RP
+2022,12,56,2022-06-01,Postponed,RP
+2022,12,57,2022-06-02,William Contreras,C
+2022,12,57,2022-06-02,Jurickson Profar,1B
+2022,12,57,2022-06-02,Ozzie Albies,2B
+2022,12,57,2022-06-02,Manny Machado,3B
+2022,12,57,2022-06-02,Jazz Chisholm Jr.,SS
+2022,12,57,2022-06-02,Cody Bellinger,OF
+2022,12,57,2022-06-02,Jorge Soler,OF
+2022,12,57,2022-06-02,Josh Naylor,OF
+2022,12,57,2022-06-02,Corey Seager,UTIL
+2022,12,57,2022-06-02,Patrick Wisdom,UTIL
+2022,12,57,2022-06-02,Bryce Harper,Bench
+2022,12,57,2022-06-02,Jeremy Pena,Bench
+2022,12,57,2022-06-02,Craig Kimbrel,Bench
+2022,12,57,2022-06-02,Triston McKenzie,Bench
+2022,12,57,2022-06-02,Drew Rasmussen,Bench
+2022,12,57,2022-06-02,Joe Ryan,Bench
+2022,12,57,2022-06-02,Fernando Tatis Jr.,IL
+2022,12,57,2022-06-02,Giancarlo Stanton,IL
+2022,12,57,2022-06-02,Josh Donaldson,IL
+2022,12,57,2022-06-02,Corbin Burnes,SP
+2022,12,57,2022-06-02,Zac Gallen,SP
+2022,12,57,2022-06-02,Martin Perez,SP
+2022,12,57,2022-06-02,Nick Pivetta,SP
+2022,12,57,2022-06-02,Kenley Jansen,RP
+2022,12,57,2022-06-02,Adam Cimber,RP
+2022,12,57,2022-06-02,Ryan Tepera,RP
+2022,12,58,2022-06-03,William Contreras,C
+2022,12,58,2022-06-03,Josh Naylor,1B
+2022,12,58,2022-06-03,Jazz Chisholm Jr.,2B
+2022,12,58,2022-06-03,Manny Machado,3B
+2022,12,58,2022-06-03,Corey Seager,SS
+2022,12,58,2022-06-03,Bryce Harper,OF
+2022,12,58,2022-06-03,Jorge Soler,OF
+2022,12,58,2022-06-03,Jurickson Profar,OF
+2022,12,58,2022-06-03,Josh Donaldson,UTIL
+2022,12,58,2022-06-03,Jeremy Pena,UTIL
+2022,12,58,2022-06-03,Ozzie Albies,Bench
+2022,12,58,2022-06-03,Cody Bellinger,Bench
+2022,12,58,2022-06-03,Patrick Wisdom,Bench
+2022,12,58,2022-06-03,Triston McKenzie,Bench
+2022,12,58,2022-06-03,Drew Rasmussen,Bench
+2022,12,58,2022-06-03,Adam Cimber,Bench
+2022,12,58,2022-06-03,Fernando Tatis Jr.,IL
+2022,12,58,2022-06-03,Giancarlo Stanton,IL
+2022,12,58,2022-06-03,Joe Ryan,IL
+2022,12,58,2022-06-03,Corbin Burnes,SP
+2022,12,58,2022-06-03,Zac Gallen,SP
+2022,12,58,2022-06-03,Martin Perez,SP
+2022,12,58,2022-06-03,Nick Pivetta,SP
+2022,12,58,2022-06-03,Craig Kimbrel,RP
+2022,12,58,2022-06-03,Kenley Jansen,RP
+2022,12,58,2022-06-03,Ryan Tepera,RP
+2022,12,59,2022-06-04,William Contreras,C
+2022,12,59,2022-06-04,Jurickson Profar,1B
+2022,12,59,2022-06-04,Ozzie Albies,2B
+2022,12,59,2022-06-04,Manny Machado,3B
+2022,12,59,2022-06-04,Jazz Chisholm Jr.,SS
+2022,12,59,2022-06-04,Bryce Harper,OF
+2022,12,59,2022-06-04,Jorge Soler,OF
+2022,12,59,2022-06-04,Josh Naylor,OF
+2022,12,59,2022-06-04,Corey Seager,UTIL
+2022,12,59,2022-06-04,Jeremy Pena,UTIL
+2022,12,59,2022-06-04,Cody Bellinger,Bench
+2022,12,59,2022-06-04,Josh Donaldson,Bench
+2022,12,59,2022-06-04,Patrick Wisdom,Bench
+2022,12,59,2022-06-04,Kenley Jansen,Bench
+2022,12,59,2022-06-04,Drew Rasmussen,Bench
+2022,12,59,2022-06-04,Martin Perez,Bench
+2022,12,59,2022-06-04,Fernando Tatis Jr.,IL
+2022,12,59,2022-06-04,Giancarlo Stanton,IL
+2022,12,59,2022-06-04,Joe Ryan,IL
+2022,12,59,2022-06-04,Corbin Burnes,SP
+2022,12,59,2022-06-04,Zac Gallen,SP
+2022,12,59,2022-06-04,Triston McKenzie,SP
+2022,12,59,2022-06-04,Nick Pivetta,SP
+2022,12,59,2022-06-04,Craig Kimbrel,RP
+2022,12,59,2022-06-04,Adam Cimber,RP
+2022,12,59,2022-06-04,Ryan Tepera,RP
+2022,12,60,2022-06-05,William Contreras,C
+2022,12,60,2022-06-05,Jurickson Profar,1B
+2022,12,60,2022-06-05,Ozzie Albies,2B
+2022,12,60,2022-06-05,Manny Machado,3B
+2022,12,60,2022-06-05,Jeremy Pena,SS
+2022,12,60,2022-06-05,Bryce Harper,OF
+2022,12,60,2022-06-05,Jorge Soler,OF
+2022,12,60,2022-06-05,Patrick Wisdom,OF
+2022,12,60,2022-06-05,Corey Seager,UTIL
+2022,12,60,2022-06-05,Josh Donaldson,UTIL
+2022,12,60,2022-06-05,Cody Bellinger,Bench
+2022,12,60,2022-06-05,Jazz Chisholm Jr.,Bench
+2022,12,60,2022-06-05,Giancarlo Stanton,Bench
+2022,12,60,2022-06-05,Josh Naylor,Bench
+2022,12,60,2022-06-05,Nick Pivetta,Bench
+2022,12,60,2022-06-05,Fernando Tatis Jr.,IL
+2022,12,60,2022-06-05,Joe Ryan,IL
+2022,12,60,2022-06-05,Corbin Burnes,SP
+2022,12,60,2022-06-05,Zac Gallen,SP
+2022,12,60,2022-06-05,Triston McKenzie,SP
+2022,12,60,2022-06-05,Drew Rasmussen,SP
+2022,12,60,2022-06-05,Martin Perez,SP
+2022,12,60,2022-06-05,Craig Kimbrel,RP
+2022,12,60,2022-06-05,Kenley Jansen,RP
+2022,12,60,2022-06-05,Adam Cimber,RP
+2022,12,61,2022-06-06,William Contreras,C
+2022,12,61,2022-06-06,Jurickson Profar,1B
+2022,12,61,2022-06-06,Ozzie Albies,2B
+2022,12,61,2022-06-06,Manny Machado,3B
+2022,12,61,2022-06-06,Jeremy Pena,SS
+2022,12,61,2022-06-06,Postponed,SS
+2022,12,61,2022-06-06,Bryce Harper,OF
+2022,12,61,2022-06-06,Jorge Soler,OF
+2022,12,61,2022-06-06,Josh Naylor,OF
+2022,12,61,2022-06-06,Corey Seager,UTIL
+2022,12,61,2022-06-06,Josh Donaldson,UTIL
+2022,12,61,2022-06-06,Cody Bellinger,Bench
+2022,12,61,2022-06-06,Jazz Chisholm Jr.,Bench
+2022,12,61,2022-06-06,Giancarlo Stanton,Bench
+2022,12,61,2022-06-06,Patrick Wisdom,Bench
+2022,12,61,2022-06-06,Nick Pivetta,Bench
+2022,12,61,2022-06-06,Fernando Tatis Jr.,IL
+2022,12,61,2022-06-06,Joe Ryan,IL
+2022,12,61,2022-06-06,Corbin Burnes,SP
+2022,12,61,2022-06-06,Zac Gallen,SP
+2022,12,61,2022-06-06,Triston McKenzie,SP
+2022,12,61,2022-06-06,Postponed,SP
+2022,12,61,2022-06-06,Drew Rasmussen,SP
+2022,12,61,2022-06-06,Martin Perez,SP
+2022,12,61,2022-06-06,Craig Kimbrel,RP
+2022,12,61,2022-06-06,Kenley Jansen,RP
+2022,12,61,2022-06-06,Adam Cimber,RP
+2022,12,62,2022-06-07,Patrick Wisdom,1B
+2022,12,62,2022-06-07,Ozzie Albies,2B
+2022,12,62,2022-06-07,Manny Machado,3B
+2022,12,62,2022-06-07,Jazz Chisholm Jr.,SS
+2022,12,62,2022-06-07,Bryce Harper,OF
+2022,12,62,2022-06-07,Giancarlo Stanton,OF
+2022,12,62,2022-06-07,Jorge Soler,OF
+2022,12,62,2022-06-07,Corey Seager,UTIL
+2022,12,62,2022-06-07,Jurickson Profar,UTIL
+2022,12,62,2022-06-07,Cody Bellinger,Bench
+2022,12,62,2022-06-07,Josh Donaldson,Bench
+2022,12,62,2022-06-07,Jeremy Pena,Bench
+2022,12,62,2022-06-07,Josh Naylor,Bench
+2022,12,62,2022-06-07,Triston McKenzie,Bench
+2022,12,62,2022-06-07,Nick Pivetta,Bench
+2022,12,62,2022-06-07,Fernando Tatis Jr.,IL
+2022,12,62,2022-06-07,Joe Ryan,IL
+2022,12,62,2022-06-07,Corbin Burnes,SP
+2022,12,62,2022-06-07,Zac Gallen,SP
+2022,12,62,2022-06-07,Drew Rasmussen,SP
+2022,12,62,2022-06-07,Martin Perez,SP
+2022,12,62,2022-06-07,Edward Cabrera,SP
+2022,12,62,2022-06-07,Craig Kimbrel,RP
+2022,12,62,2022-06-07,Kenley Jansen,RP
+2022,12,62,2022-06-07,Adam Cimber,RP
+2022,12,63,2022-06-08,MJ Melendez,C
+2022,12,63,2022-06-08,Josh Naylor,1B
+2022,12,63,2022-06-08,Ozzie Albies,2B
+2022,12,63,2022-06-08,Manny Machado,3B
+2022,12,63,2022-06-08,Jazz Chisholm Jr.,SS
+2022,12,63,2022-06-08,Bryce Harper,OF
+2022,12,63,2022-06-08,Giancarlo Stanton,OF
+2022,12,63,2022-06-08,Jorge Soler,OF
+2022,12,63,2022-06-08,Postponed,OF
+2022,12,63,2022-06-08,Corey Seager,UTIL
+2022,12,63,2022-06-08,Jurickson Profar,UTIL
+2022,12,63,2022-06-08,Cody Bellinger,Bench
+2022,12,63,2022-06-08,Josh Donaldson,Bench
+2022,12,63,2022-06-08,Jeremy Pena,Bench
+2022,12,63,2022-06-08,Patrick Wisdom,Bench
+2022,12,63,2022-06-08,Triston McKenzie,Bench
+2022,12,63,2022-06-08,Nick Pivetta,Bench
+2022,12,63,2022-06-08,Fernando Tatis Jr.,IL
+2022,12,63,2022-06-08,Craig Kimbrel,IL
+2022,12,63,2022-06-08,Joe Ryan,IL
+2022,12,63,2022-06-08,Corbin Burnes,SP
+2022,12,63,2022-06-08,Zac Gallen,SP
+2022,12,63,2022-06-08,Drew Rasmussen,SP
+2022,12,63,2022-06-08,Martin Perez,SP
+2022,12,63,2022-06-08,Edward Cabrera,SP
+2022,12,63,2022-06-08,Kenley Jansen,RP
+2022,12,63,2022-06-08,Adam Cimber,RP
+2022,12,64,2022-06-09,MJ Melendez,C
+2022,12,64,2022-06-09,Josh Naylor,1B
+2022,12,64,2022-06-09,Ozzie Albies,2B
+2022,12,64,2022-06-09,Josh Donaldson,3B
+2022,12,64,2022-06-09,Jazz Chisholm Jr.,SS
+2022,12,64,2022-06-09,Bryce Harper,OF
+2022,12,64,2022-06-09,Giancarlo Stanton,OF
+2022,12,64,2022-06-09,Jorge Soler,OF
+2022,12,64,2022-06-09,Manny Machado,UTIL
+2022,12,64,2022-06-09,Cody Bellinger,UTIL
+2022,12,64,2022-06-09,Corey Seager,Bench
+2022,12,64,2022-06-09,Jeremy Pena,Bench
+2022,12,64,2022-06-09,Jurickson Profar,Bench
+2022,12,64,2022-06-09,Patrick Wisdom,Bench
+2022,12,64,2022-06-09,Martin Perez,Bench
+2022,12,64,2022-06-09,Edward Cabrera,Bench
+2022,12,64,2022-06-09,Fernando Tatis Jr.,IL
+2022,12,64,2022-06-09,Craig Kimbrel,IL
+2022,12,64,2022-06-09,Joe Ryan,IL
+2022,12,64,2022-06-09,Corbin Burnes,SP
+2022,12,64,2022-06-09,Zac Gallen,SP
+2022,12,64,2022-06-09,Triston McKenzie,SP
+2022,12,64,2022-06-09,Drew Rasmussen,SP
+2022,12,64,2022-06-09,Nick Pivetta,SP
+2022,12,64,2022-06-09,Kenley Jansen,RP
+2022,12,64,2022-06-09,Adam Cimber,RP
+2022,12,65,2022-06-10,MJ Melendez,C
+2022,12,65,2022-06-10,Jurickson Profar,1B
+2022,12,65,2022-06-10,Ozzie Albies,2B
+2022,12,65,2022-06-10,Manny Machado,3B
+2022,12,65,2022-06-10,Jazz Chisholm Jr.,SS
+2022,12,65,2022-06-10,Bryce Harper,OF
+2022,12,65,2022-06-10,Giancarlo Stanton,OF
+2022,12,65,2022-06-10,Jorge Soler,OF
+2022,12,65,2022-06-10,Corey Seager,UTIL
+2022,12,65,2022-06-10,Patrick Wisdom,UTIL
+2022,12,65,2022-06-10,Cody Bellinger,Bench
+2022,12,65,2022-06-10,Josh Donaldson,Bench
+2022,12,65,2022-06-10,Jeremy Pena,Bench
+2022,12,65,2022-06-10,Josh Naylor,Bench
+2022,12,65,2022-06-10,Drew Rasmussen,Bench
+2022,12,65,2022-06-10,Martin Perez,Bench
+2022,12,65,2022-06-10,Fernando Tatis Jr.,IL
+2022,12,65,2022-06-10,Craig Kimbrel,IL
+2022,12,65,2022-06-10,Joe Ryan,IL
+2022,12,65,2022-06-10,Corbin Burnes,SP
+2022,12,65,2022-06-10,Zac Gallen,SP
+2022,12,65,2022-06-10,Triston McKenzie,SP
+2022,12,65,2022-06-10,Nick Pivetta,SP
+2022,12,65,2022-06-10,Edward Cabrera,SP
+2022,12,65,2022-06-10,Kenley Jansen,RP
+2022,12,65,2022-06-10,Adam Cimber,RP
+2022,12,66,2022-06-11,MJ Melendez,C
+2022,12,66,2022-06-11,Jurickson Profar,1B
+2022,12,66,2022-06-11,Ozzie Albies,2B
+2022,12,66,2022-06-11,Manny Machado,3B
+2022,12,66,2022-06-11,Jazz Chisholm Jr.,SS
+2022,12,66,2022-06-11,Bryce Harper,OF
+2022,12,66,2022-06-11,Giancarlo Stanton,OF
+2022,12,66,2022-06-11,Jorge Soler,OF
+2022,12,66,2022-06-11,Corey Seager,UTIL
+2022,12,66,2022-06-11,Jeremy Pena,UTIL
+2022,12,66,2022-06-11,Cody Bellinger,Bench
+2022,12,66,2022-06-11,Josh Donaldson,Bench
+2022,12,66,2022-06-11,Josh Naylor,Bench
+2022,12,66,2022-06-11,Patrick Wisdom,Bench
+2022,12,66,2022-06-11,Drew Rasmussen,Bench
+2022,12,66,2022-06-11,Nick Pivetta,Bench
+2022,12,66,2022-06-11,Fernando Tatis Jr.,IL
+2022,12,66,2022-06-11,Craig Kimbrel,IL
+2022,12,66,2022-06-11,Joe Ryan,IL
+2022,12,66,2022-06-11,Corbin Burnes,SP
+2022,12,66,2022-06-11,Zac Gallen,SP
+2022,12,66,2022-06-11,Triston McKenzie,SP
+2022,12,66,2022-06-11,Martin Perez,SP
+2022,12,66,2022-06-11,Edward Cabrera,SP
+2022,12,66,2022-06-11,Kenley Jansen,RP
+2022,12,66,2022-06-11,Adam Cimber,RP
+2022,12,67,2022-06-12,MJ Melendez,C
+2022,12,67,2022-06-12,Patrick Wisdom,1B
+2022,12,67,2022-06-12,Ozzie Albies,2B
+2022,12,67,2022-06-12,Manny Machado,3B
+2022,12,67,2022-06-12,Jazz Chisholm Jr.,SS
+2022,12,67,2022-06-12,Bryce Harper,OF
+2022,12,67,2022-06-12,Giancarlo Stanton,OF
+2022,12,67,2022-06-12,Jorge Soler,OF
+2022,12,67,2022-06-12,Corey Seager,UTIL
+2022,12,67,2022-06-12,Jeremy Pena,UTIL
+2022,12,67,2022-06-12,Cody Bellinger,Bench
+2022,12,67,2022-06-12,Josh Donaldson,Bench
+2022,12,67,2022-06-12,Jurickson Profar,Bench
+2022,12,67,2022-06-12,Josh Naylor,Bench
+2022,12,67,2022-06-12,Drew Rasmussen,Bench
+2022,12,67,2022-06-12,Nick Pivetta,Bench
+2022,12,67,2022-06-12,Fernando Tatis Jr.,IL
+2022,12,67,2022-06-12,Craig Kimbrel,IL
+2022,12,67,2022-06-12,Joe Ryan,IL
+2022,12,67,2022-06-12,Corbin Burnes,SP
+2022,12,67,2022-06-12,Zac Gallen,SP
+2022,12,67,2022-06-12,Triston McKenzie,SP
+2022,12,67,2022-06-12,Martin Perez,SP
+2022,12,67,2022-06-12,Edward Cabrera,SP
+2022,12,67,2022-06-12,Kenley Jansen,RP
+2022,12,67,2022-06-12,Adam Cimber,RP
+2022,12,68,2022-06-13,MJ Melendez,C
+2022,12,68,2022-06-13,Patrick Wisdom,1B
+2022,12,68,2022-06-13,Ozzie Albies,2B
+2022,12,68,2022-06-13,Manny Machado,3B
+2022,12,68,2022-06-13,Jazz Chisholm Jr.,SS
+2022,12,68,2022-06-13,Bryce Harper,OF
+2022,12,68,2022-06-13,Giancarlo Stanton,OF
+2022,12,68,2022-06-13,Jorge Soler,OF
+2022,12,68,2022-06-13,Corey Seager,UTIL
+2022,12,68,2022-06-13,Jeremy Pena,UTIL
+2022,12,68,2022-06-13,Cody Bellinger,Bench
+2022,12,68,2022-06-13,Josh Donaldson,Bench
+2022,12,68,2022-06-13,Jurickson Profar,Bench
+2022,12,68,2022-06-13,Josh Naylor,Bench
+2022,12,68,2022-06-13,Drew Rasmussen,Bench
+2022,12,68,2022-06-13,Nick Pivetta,Bench
+2022,12,68,2022-06-13,Fernando Tatis Jr.,IL
+2022,12,68,2022-06-13,Craig Kimbrel,IL
+2022,12,68,2022-06-13,Joe Ryan,IL
+2022,12,68,2022-06-13,Corbin Burnes,SP
+2022,12,68,2022-06-13,Zac Gallen,SP
+2022,12,68,2022-06-13,Triston McKenzie,SP
+2022,12,68,2022-06-13,Martin Perez,SP
+2022,12,68,2022-06-13,Edward Cabrera,SP
+2022,12,68,2022-06-13,Kenley Jansen,RP
+2022,12,68,2022-06-13,Adam Cimber,RP
+2022,12,69,2022-06-14,MJ Melendez,C
+2022,12,69,2022-06-14,Patrick Wisdom,1B
+2022,12,69,2022-06-14,Ozzie Albies,2B
+2022,12,69,2022-06-14,Manny Machado,3B
+2022,12,69,2022-06-14,Jazz Chisholm Jr.,SS
+2022,12,69,2022-06-14,Bryce Harper,OF
+2022,12,69,2022-06-14,Giancarlo Stanton,OF
+2022,12,69,2022-06-14,Jorge Soler,OF
+2022,12,69,2022-06-14,Corey Seager,UTIL
+2022,12,69,2022-06-14,Cody Bellinger,UTIL
+2022,12,69,2022-06-14,Josh Donaldson,Bench
+2022,12,69,2022-06-14,Jeremy Pena,Bench
+2022,12,69,2022-06-14,Jurickson Profar,Bench
+2022,12,69,2022-06-14,Josh Naylor,Bench
+2022,12,69,2022-06-14,Drew Rasmussen,Bench
+2022,12,69,2022-06-14,Nick Pivetta,Bench
+2022,12,69,2022-06-14,Fernando Tatis Jr.,IL
+2022,12,69,2022-06-14,Craig Kimbrel,IL
+2022,12,69,2022-06-14,Joe Ryan,IL
+2022,12,69,2022-06-14,Corbin Burnes,SP
+2022,12,69,2022-06-14,Zac Gallen,SP
+2022,12,69,2022-06-14,Triston McKenzie,SP
+2022,12,69,2022-06-14,Martin Perez,SP
+2022,12,69,2022-06-14,Edward Cabrera,SP
+2022,12,69,2022-06-14,Kenley Jansen,RP
+2022,12,69,2022-06-14,Adam Cimber,RP
+2022,12,70,2022-06-15,MJ Melendez,C
+2022,12,70,2022-06-15,Jurickson Profar,1B
+2022,12,70,2022-06-15,Jazz Chisholm Jr.,2B
+2022,12,70,2022-06-15,Manny Machado,3B
+2022,12,70,2022-06-15,Corey Seager,SS
+2022,12,70,2022-06-15,Bryce Harper,OF
+2022,12,70,2022-06-15,Giancarlo Stanton,OF
+2022,12,70,2022-06-15,Jorge Soler,OF
+2022,12,70,2022-06-15,Josh Naylor,UTIL
+2022,12,70,2022-06-15,Patrick Wisdom,UTIL
+2022,12,70,2022-06-15,Cody Bellinger,Bench
+2022,12,70,2022-06-15,Josh Donaldson,Bench
+2022,12,70,2022-06-15,Drew Rasmussen,Bench
+2022,12,70,2022-06-15,Joe Ryan,Bench
+2022,12,70,2022-06-15,Nick Pivetta,Bench
+2022,12,70,2022-06-15,Ozzie Albies,IL
+2022,12,70,2022-06-15,Fernando Tatis Jr.,IL
+2022,12,70,2022-06-15,Jeremy Pena,IL
+2022,12,70,2022-06-15,Corbin Burnes,SP
+2022,12,70,2022-06-15,Zac Gallen,SP
+2022,12,70,2022-06-15,Triston McKenzie,SP
+2022,12,70,2022-06-15,Martin Perez,SP
+2022,12,70,2022-06-15,Edward Cabrera,SP
+2022,12,70,2022-06-15,Craig Kimbrel,RP
+2022,12,70,2022-06-15,Kenley Jansen,RP
+2022,12,70,2022-06-15,Adam Cimber,RP
+2022,12,71,2022-06-16,MJ Melendez,C
+2022,12,71,2022-06-16,Jurickson Profar,1B
+2022,12,71,2022-06-16,Jazz Chisholm Jr.,2B
+2022,12,71,2022-06-16,Manny Machado,3B
+2022,12,71,2022-06-16,Corey Seager,SS
+2022,12,71,2022-06-16,Bryce Harper,OF
+2022,12,71,2022-06-16,Giancarlo Stanton,OF
+2022,12,71,2022-06-16,Josh Naylor,OF
+2022,12,71,2022-06-16,Josh Donaldson,UTIL
+2022,12,71,2022-06-16,Patrick Wisdom,UTIL
+2022,12,71,2022-06-16,Cody Bellinger,Bench
+2022,12,71,2022-06-16,Jorge Soler,Bench
+2022,12,71,2022-06-16,Drew Rasmussen,Bench
+2022,12,71,2022-06-16,Joe Ryan,Bench
+2022,12,71,2022-06-16,Nick Pivetta,Bench
+2022,12,71,2022-06-16,Ozzie Albies,IL
+2022,12,71,2022-06-16,Fernando Tatis Jr.,IL
+2022,12,71,2022-06-16,Jeremy Pena,IL
+2022,12,71,2022-06-16,Corbin Burnes,SP
+2022,12,71,2022-06-16,Zac Gallen,SP
+2022,12,71,2022-06-16,Triston McKenzie,SP
+2022,12,71,2022-06-16,Martin Perez,SP
+2022,12,71,2022-06-16,Edward Cabrera,SP
+2022,12,71,2022-06-16,Craig Kimbrel,RP
+2022,12,71,2022-06-16,Kenley Jansen,RP
+2022,12,71,2022-06-16,Adam Cimber,RP
+2022,12,72,2022-06-17,MJ Melendez,C
+2022,12,72,2022-06-17,Jurickson Profar,1B
+2022,12,72,2022-06-17,Jazz Chisholm Jr.,2B
+2022,12,72,2022-06-17,Manny Machado,3B
+2022,12,72,2022-06-17,Corey Seager,SS
+2022,12,72,2022-06-17,Bryce Harper,OF
+2022,12,72,2022-06-17,Giancarlo Stanton,OF
+2022,12,72,2022-06-17,Josh Naylor,OF
+2022,12,72,2022-06-17,Jorge Soler,UTIL
+2022,12,72,2022-06-17,Josh Donaldson,UTIL
+2022,12,72,2022-06-17,Cody Bellinger,Bench
+2022,12,72,2022-06-17,Drew Rasmussen,Bench
+2022,12,72,2022-06-17,Joe Ryan,Bench
+2022,12,72,2022-06-17,Nick Pivetta,Bench
+2022,12,72,2022-06-17,Jeffrey Springs,Bench
+2022,12,72,2022-06-17,Ozzie Albies,IL
+2022,12,72,2022-06-17,Fernando Tatis Jr.,IL
+2022,12,72,2022-06-17,Jeremy Pena,IL
+2022,12,72,2022-06-17,Corbin Burnes,SP
+2022,12,72,2022-06-17,Zac Gallen,SP
+2022,12,72,2022-06-17,Triston McKenzie,SP
+2022,12,72,2022-06-17,Martin Perez,SP
+2022,12,72,2022-06-17,Edward Cabrera,SP
+2022,12,72,2022-06-17,Craig Kimbrel,RP
+2022,12,72,2022-06-17,Kenley Jansen,RP
+2022,12,72,2022-06-17,Adam Cimber,RP
+2022,12,73,2022-06-18,MJ Melendez,C
+2022,12,73,2022-06-18,Jurickson Profar,1B
+2022,12,73,2022-06-18,Jazz Chisholm Jr.,2B
+2022,12,73,2022-06-18,Manny Machado,3B
+2022,12,73,2022-06-18,Corey Seager,SS
+2022,12,73,2022-06-18,Bryce Harper,OF
+2022,12,73,2022-06-18,Cody Bellinger,OF
+2022,12,73,2022-06-18,Giancarlo Stanton,OF
+2022,12,73,2022-06-18,Jorge Soler,UTIL
+2022,12,73,2022-06-18,Josh Donaldson,UTIL
+2022,12,73,2022-06-18,Josh Naylor,Bench
+2022,12,73,2022-06-18,Drew Rasmussen,Bench
+2022,12,73,2022-06-18,Joe Ryan,Bench
+2022,12,73,2022-06-18,Nick Pivetta,Bench
+2022,12,73,2022-06-18,Edward Cabrera,Bench
+2022,12,73,2022-06-18,Ozzie Albies,IL
+2022,12,73,2022-06-18,Fernando Tatis Jr.,IL
+2022,12,73,2022-06-18,Jeremy Pena,IL
+2022,12,73,2022-06-18,Corbin Burnes,SP
+2022,12,73,2022-06-18,Zac Gallen,SP
+2022,12,73,2022-06-18,Triston McKenzie,SP
+2022,12,73,2022-06-18,Martin Perez,SP
+2022,12,73,2022-06-18,Jeffrey Springs,SP
+2022,12,73,2022-06-18,Craig Kimbrel,RP
+2022,12,73,2022-06-18,Kenley Jansen,RP
+2022,12,73,2022-06-18,Adam Cimber,RP
+2022,12,74,2022-06-19,MJ Melendez,C
+2022,12,74,2022-06-19,Jurickson Profar,1B
+2022,12,74,2022-06-19,Jazz Chisholm Jr.,2B
+2022,12,74,2022-06-19,Manny Machado,3B
+2022,12,74,2022-06-19,Corey Seager,SS
+2022,12,74,2022-06-19,Giancarlo Stanton,OF
+2022,12,74,2022-06-19,Jorge Soler,OF
+2022,12,74,2022-06-19,Josh Naylor,OF
+2022,12,74,2022-06-19,Cody Bellinger,UTIL
+2022,12,74,2022-06-19,Josh Donaldson,UTIL
+2022,12,74,2022-06-19,Bryce Harper,Bench
+2022,12,74,2022-06-19,Drew Rasmussen,Bench
+2022,12,74,2022-06-19,Joe Ryan,Bench
+2022,12,74,2022-06-19,Edward Cabrera,Bench
+2022,12,74,2022-06-19,Jeffrey Springs,Bench
+2022,12,74,2022-06-19,Ozzie Albies,IL
+2022,12,74,2022-06-19,Fernando Tatis Jr.,IL
+2022,12,74,2022-06-19,Jeremy Pena,IL
+2022,12,74,2022-06-19,Corbin Burnes,SP
+2022,12,74,2022-06-19,Zac Gallen,SP
+2022,12,74,2022-06-19,Triston McKenzie,SP
+2022,12,74,2022-06-19,Martin Perez,SP
+2022,12,74,2022-06-19,Nick Pivetta,SP
+2022,12,74,2022-06-19,Craig Kimbrel,RP
+2022,12,74,2022-06-19,Kenley Jansen,RP
+2022,12,74,2022-06-19,Adam Cimber,RP
+2022,12,75,2022-06-20,MJ Melendez,C
+2022,12,75,2022-06-20,Jurickson Profar,1B
+2022,12,75,2022-06-20,Jazz Chisholm Jr.,2B
+2022,12,75,2022-06-20,Manny Machado,3B
+2022,12,75,2022-06-20,Corey Seager,SS
+2022,12,75,2022-06-20,Giancarlo Stanton,OF
+2022,12,75,2022-06-20,Jorge Soler,OF
+2022,12,75,2022-06-20,Josh Naylor,OF
+2022,12,75,2022-06-20,Josh Donaldson,UTIL
+2022,12,75,2022-06-20,AJ Pollock,UTIL
+2022,12,75,2022-06-20,Bryce Harper,Bench
+2022,12,75,2022-06-20,Cody Bellinger,Bench
+2022,12,75,2022-06-20,Drew Rasmussen,Bench
+2022,12,75,2022-06-20,Joe Ryan,Bench
+2022,12,75,2022-06-20,Jeffrey Springs,Bench
+2022,12,75,2022-06-20,Taijuan Walker,Bench
+2022,12,75,2022-06-20,Ozzie Albies,IL
+2022,12,75,2022-06-20,Fernando Tatis Jr.,IL
+2022,12,75,2022-06-20,Jeremy Pena,IL
+2022,12,75,2022-06-20,Corbin Burnes,SP
+2022,12,75,2022-06-20,Zac Gallen,SP
+2022,12,75,2022-06-20,Triston McKenzie,SP
+2022,12,75,2022-06-20,Martin Perez,SP
+2022,12,75,2022-06-20,Nick Pivetta,SP
+2022,12,75,2022-06-20,Craig Kimbrel,RP
+2022,12,75,2022-06-20,Kenley Jansen,RP
+2022,12,76,2022-06-21,MJ Melendez,C
+2022,12,76,2022-06-21,Jurickson Profar,1B
+2022,12,76,2022-06-21,Jazz Chisholm Jr.,2B
+2022,12,76,2022-06-21,Manny Machado,3B
+2022,12,76,2022-06-21,Corey Seager,SS
+2022,12,76,2022-06-21,Giancarlo Stanton,OF
+2022,12,76,2022-06-21,Jorge Soler,OF
+2022,12,76,2022-06-21,Josh Naylor,OF
+2022,12,76,2022-06-21,Josh Donaldson,UTIL
+2022,12,76,2022-06-21,AJ Pollock,UTIL
+2022,12,76,2022-06-21,Bryce Harper,Bench
+2022,12,76,2022-06-21,Cody Bellinger,Bench
+2022,12,76,2022-06-21,Trayce Thompson,Bench
+2022,12,76,2022-06-21,Triston McKenzie,Bench
+2022,12,76,2022-06-21,Joe Ryan,Bench
+2022,12,76,2022-06-21,Jeffrey Springs,Bench
+2022,12,76,2022-06-21,Taijuan Walker,Bench
+2022,12,76,2022-06-21,Ozzie Albies,IL
+2022,12,76,2022-06-21,Fernando Tatis Jr.,IL
+2022,12,76,2022-06-21,Jeremy Pena,IL
+2022,12,76,2022-06-21,Corbin Burnes,SP
+2022,12,76,2022-06-21,Zac Gallen,SP
+2022,12,76,2022-06-21,Martin Perez,SP
+2022,12,76,2022-06-21,Nick Pivetta,SP
+2022,12,76,2022-06-21,Craig Kimbrel,RP
+2022,12,76,2022-06-21,Kenley Jansen,RP
+2022,12,77,2022-06-22,MJ Melendez,C
+2022,12,77,2022-06-22,Jurickson Profar,1B
+2022,12,77,2022-06-22,Jazz Chisholm Jr.,2B
+2022,12,77,2022-06-22,Josh Donaldson,3B
+2022,12,77,2022-06-22,Corey Seager,SS
+2022,12,77,2022-06-22,Bryce Harper,OF
+2022,12,77,2022-06-22,Giancarlo Stanton,OF
+2022,12,77,2022-06-22,Jorge Soler,OF
+2022,12,77,2022-06-22,Cody Bellinger,UTIL
+2022,12,77,2022-06-22,AJ Pollock,UTIL
+2022,12,77,2022-06-22,Manny Machado,Bench
+2022,12,77,2022-06-22,Trayce Thompson,Bench
+2022,12,77,2022-06-22,Triston McKenzie,Bench
+2022,12,77,2022-06-22,Jeffrey Springs,Bench
+2022,12,77,2022-06-22,Taijuan Walker,Bench
+2022,12,77,2022-06-22,Ozzie Albies,IL
+2022,12,77,2022-06-22,Fernando Tatis Jr.,IL
+2022,12,77,2022-06-22,Jeremy Pena,IL
+2022,12,77,2022-06-22,Corbin Burnes,SP
+2022,12,77,2022-06-22,Zac Gallen,SP
+2022,12,77,2022-06-22,Joe Ryan,SP
+2022,12,77,2022-06-22,Martin Perez,SP
+2022,12,77,2022-06-22,Nick Pivetta,SP
+2022,12,77,2022-06-22,Craig Kimbrel,RP
+2022,12,77,2022-06-22,Kenley Jansen,RP
+2022,12,77,2022-06-22,Michael Fulmer,RP
+2022,12,78,2022-06-23,MJ Melendez,C
+2022,12,78,2022-06-23,Jurickson Profar,1B
+2022,12,78,2022-06-23,Jazz Chisholm Jr.,2B
+2022,12,78,2022-06-23,Josh Donaldson,3B
+2022,12,78,2022-06-23,Corey Seager,SS
+2022,12,78,2022-06-23,Bryce Harper,OF
+2022,12,78,2022-06-23,Giancarlo Stanton,OF
+2022,12,78,2022-06-23,Jorge Soler,OF
+2022,12,78,2022-06-23,Cody Bellinger,UTIL
+2022,12,78,2022-06-23,AJ Pollock,UTIL
+2022,12,78,2022-06-23,Manny Machado,Bench
+2022,12,78,2022-06-23,Trayce Thompson,Bench
+2022,12,78,2022-06-23,Triston McKenzie,Bench
+2022,12,78,2022-06-23,Jeffrey Springs,Bench
+2022,12,78,2022-06-23,Taijuan Walker,Bench
+2022,12,78,2022-06-23,Ozzie Albies,IL
+2022,12,78,2022-06-23,Fernando Tatis Jr.,IL
+2022,12,78,2022-06-23,Jeremy Pena,IL
+2022,12,78,2022-06-23,Corbin Burnes,SP
+2022,12,78,2022-06-23,Zac Gallen,SP
+2022,12,78,2022-06-23,Joe Ryan,SP
+2022,12,78,2022-06-23,Martin Perez,SP
+2022,12,78,2022-06-23,Nick Pivetta,SP
+2022,12,78,2022-06-23,Craig Kimbrel,RP
+2022,12,78,2022-06-23,Kenley Jansen,RP
+2022,12,78,2022-06-23,Michael Fulmer,RP
+2022,12,79,2022-06-24,MJ Melendez,C
+2022,12,79,2022-06-24,Jurickson Profar,1B
+2022,12,79,2022-06-24,Jazz Chisholm Jr.,2B
+2022,12,79,2022-06-24,Josh Donaldson,3B
+2022,12,79,2022-06-24,Corey Seager,SS
+2022,12,79,2022-06-24,Bryce Harper,OF
+2022,12,79,2022-06-24,Giancarlo Stanton,OF
+2022,12,79,2022-06-24,Jorge Soler,OF
+2022,12,79,2022-06-24,Cody Bellinger,UTIL
+2022,12,79,2022-06-24,AJ Pollock,UTIL
+2022,12,79,2022-06-24,Manny Machado,Bench
+2022,12,79,2022-06-24,Trayce Thompson,Bench
+2022,12,79,2022-06-24,Triston McKenzie,Bench
+2022,12,79,2022-06-24,Joe Ryan,Bench
+2022,12,79,2022-06-24,Martin Perez,Bench
+2022,12,79,2022-06-24,Ozzie Albies,IL
+2022,12,79,2022-06-24,Fernando Tatis Jr.,IL
+2022,12,79,2022-06-24,Jeremy Pena,IL
+2022,12,79,2022-06-24,Corbin Burnes,SP
+2022,12,79,2022-06-24,Zac Gallen,SP
+2022,12,79,2022-06-24,Nick Pivetta,SP
+2022,12,79,2022-06-24,Jeffrey Springs,SP
+2022,12,79,2022-06-24,Taijuan Walker,SP
+2022,12,79,2022-06-24,Craig Kimbrel,RP
+2022,12,79,2022-06-24,Kenley Jansen,RP
+2022,12,79,2022-06-24,Michael Fulmer,RP
+2022,12,80,2022-06-25,MJ Melendez,C
+2022,12,80,2022-06-25,Jurickson Profar,1B
+2022,12,80,2022-06-25,Jazz Chisholm Jr.,2B
+2022,12,80,2022-06-25,Manny Machado,3B
+2022,12,80,2022-06-25,Corey Seager,SS
+2022,12,80,2022-06-25,Bryce Harper,OF
+2022,12,80,2022-06-25,Giancarlo Stanton,OF
+2022,12,80,2022-06-25,Jorge Soler,OF
+2022,12,80,2022-06-25,Cody Bellinger,UTIL
+2022,12,80,2022-06-25,AJ Pollock,UTIL
+2022,12,80,2022-06-25,Josh Donaldson,Bench
+2022,12,80,2022-06-25,Trayce Thompson,Bench
+2022,12,80,2022-06-25,Triston McKenzie,Bench
+2022,12,80,2022-06-25,Joe Ryan,Bench
+2022,12,80,2022-06-25,Martin Perez,Bench
+2022,12,80,2022-06-25,Ozzie Albies,IL
+2022,12,80,2022-06-25,Fernando Tatis Jr.,IL
+2022,12,80,2022-06-25,Jeremy Pena,IL
+2022,12,80,2022-06-25,Corbin Burnes,SP
+2022,12,80,2022-06-25,Zac Gallen,SP
+2022,12,80,2022-06-25,Nick Pivetta,SP
+2022,12,80,2022-06-25,Jeffrey Springs,SP
+2022,12,80,2022-06-25,Taijuan Walker,SP
+2022,12,80,2022-06-25,Craig Kimbrel,RP
+2022,12,80,2022-06-25,Kenley Jansen,RP
+2022,12,80,2022-06-25,Michael Fulmer,RP
+2022,12,81,2022-06-26,MJ Melendez,C
+2022,12,81,2022-06-26,Jurickson Profar,1B
+2022,12,81,2022-06-26,Jazz Chisholm Jr.,2B
+2022,12,81,2022-06-26,Josh Donaldson,3B
+2022,12,81,2022-06-26,Corey Seager,SS
+2022,12,81,2022-06-26,Giancarlo Stanton,OF
+2022,12,81,2022-06-26,AJ Pollock,OF
+2022,12,81,2022-06-26,Trayce Thompson,OF
+2022,12,81,2022-06-26,Cody Bellinger,UTIL
+2022,12,81,2022-06-26,Jeremy Pena,UTIL
+2022,12,81,2022-06-26,Bryce Harper,Bench
+2022,12,81,2022-06-26,Manny Machado,Bench
+2022,12,81,2022-06-26,Jorge Soler,Bench
+2022,12,81,2022-06-26,Triston McKenzie,Bench
+2022,12,81,2022-06-26,Martin Perez,Bench
+2022,12,81,2022-06-26,Ozzie Albies,IL
+2022,12,81,2022-06-26,Fernando Tatis Jr.,IL
+2022,12,81,2022-06-26,Corbin Burnes,SP
+2022,12,81,2022-06-26,Zac Gallen,SP
+2022,12,81,2022-06-26,Nick Pivetta,SP
+2022,12,81,2022-06-26,Jeffrey Springs,SP
+2022,12,81,2022-06-26,Taijuan Walker,SP
+2022,12,81,2022-06-26,Craig Kimbrel,RP
+2022,12,81,2022-06-26,Kenley Jansen,RP
+2022,12,81,2022-06-26,Michael Fulmer,RP
+2022,12,82,2022-06-27,MJ Melendez,C
+2022,12,82,2022-06-27,Jurickson Profar,1B
+2022,12,82,2022-06-27,Jazz Chisholm Jr.,2B
+2022,12,82,2022-06-27,Josh Donaldson,3B
+2022,12,82,2022-06-27,Corey Seager,SS
+2022,12,82,2022-06-27,Giancarlo Stanton,OF
+2022,12,82,2022-06-27,AJ Pollock,OF
+2022,12,82,2022-06-27,Trayce Thompson,OF
+2022,12,82,2022-06-27,Cody Bellinger,UTIL
+2022,12,82,2022-06-27,Jorge Soler,UTIL
+2022,12,82,2022-06-27,Manny Machado,Bench
+2022,12,82,2022-06-27,Jeremy Pena,Bench
+2022,12,82,2022-06-27,Triston McKenzie,Bench
+2022,12,82,2022-06-27,Jeffrey Springs,Bench
+2022,12,82,2022-06-27,Ozzie Albies,IL
+2022,12,82,2022-06-27,Bryce Harper,IL
+2022,12,82,2022-06-27,Fernando Tatis Jr.,IL
+2022,12,82,2022-06-27,Corbin Burnes,SP
+2022,12,82,2022-06-27,Zac Gallen,SP
+2022,12,82,2022-06-27,Martin Perez,SP
+2022,12,82,2022-06-27,Nick Pivetta,SP
+2022,12,82,2022-06-27,Taijuan Walker,SP
+2022,12,82,2022-06-27,Craig Kimbrel,RP
+2022,12,82,2022-06-27,Kenley Jansen,RP
+2022,12,82,2022-06-27,Michael Fulmer,RP
+2022,12,83,2022-06-28,MJ Melendez,C
+2022,12,83,2022-06-28,Jurickson Profar,1B
+2022,12,83,2022-06-28,Jazz Chisholm Jr.,2B
+2022,12,83,2022-06-28,Manny Machado,3B
+2022,12,83,2022-06-28,Corey Seager,SS
+2022,12,83,2022-06-28,Cody Bellinger,OF
+2022,12,83,2022-06-28,Giancarlo Stanton,OF
+2022,12,83,2022-06-28,Jorge Soler,OF
+2022,12,83,2022-06-28,Josh Donaldson,UTIL
+2022,12,83,2022-06-28,Jeremy Pena,UTIL
+2022,12,83,2022-06-28,AJ Pollock,Bench
+2022,12,83,2022-06-28,Trayce Thompson,Bench
+2022,12,83,2022-06-28,Kenley Jansen,Bench
+2022,12,83,2022-06-28,Triston McKenzie,Bench
+2022,12,83,2022-06-28,Jeffrey Springs,Bench
+2022,12,83,2022-06-28,Ozzie Albies,IL
+2022,12,83,2022-06-28,Bryce Harper,IL
+2022,12,83,2022-06-28,Fernando Tatis Jr.,IL
+2022,12,83,2022-06-28,Corbin Burnes,SP
+2022,12,83,2022-06-28,Zac Gallen,SP
+2022,12,83,2022-06-28,Martin Perez,SP
+2022,12,83,2022-06-28,Nick Pivetta,SP
+2022,12,83,2022-06-28,Taijuan Walker,SP
+2022,12,83,2022-06-28,Craig Kimbrel,RP
+2022,12,83,2022-06-28,Michael Fulmer,RP
+2022,12,83,2022-06-28,Hector Neris,RP
+2022,12,84,2022-06-29,MJ Melendez,C
+2022,12,84,2022-06-29,Jurickson Profar,1B
+2022,12,84,2022-06-29,Jazz Chisholm Jr.,2B
+2022,12,84,2022-06-29,Manny Machado,3B
+2022,12,84,2022-06-29,Corey Seager,SS
+2022,12,84,2022-06-29,Cody Bellinger,OF
+2022,12,84,2022-06-29,Giancarlo Stanton,OF
+2022,12,84,2022-06-29,Jorge Soler,OF
+2022,12,84,2022-06-29,Josh Donaldson,UTIL
+2022,12,84,2022-06-29,Jeremy Pena,UTIL
+2022,12,84,2022-06-29,AJ Pollock,Bench
+2022,12,84,2022-06-29,Trayce Thompson,Bench
+2022,12,84,2022-06-29,Kenley Jansen,Bench
+2022,12,84,2022-06-29,Triston McKenzie,Bench
+2022,12,84,2022-06-29,Jeffrey Springs,Bench
+2022,12,84,2022-06-29,Ozzie Albies,IL
+2022,12,84,2022-06-29,Bryce Harper,IL
+2022,12,84,2022-06-29,Fernando Tatis Jr.,IL
+2022,12,84,2022-06-29,Corbin Burnes,SP
+2022,12,84,2022-06-29,Zac Gallen,SP
+2022,12,84,2022-06-29,Martin Perez,SP
+2022,12,84,2022-06-29,Nick Pivetta,SP
+2022,12,84,2022-06-29,Taijuan Walker,SP
+2022,12,84,2022-06-29,Craig Kimbrel,RP
+2022,12,84,2022-06-29,Michael Fulmer,RP
+2022,12,84,2022-06-29,Hector Neris,RP
+2022,12,85,2022-06-30,MJ Melendez,C
+2022,12,85,2022-06-30,Jurickson Profar,1B
+2022,12,85,2022-06-30,Jazz Chisholm Jr.,2B
+2022,12,85,2022-06-30,Manny Machado,3B
+2022,12,85,2022-06-30,Corey Seager,SS
+2022,12,85,2022-06-30,Cody Bellinger,OF
+2022,12,85,2022-06-30,Giancarlo Stanton,OF
+2022,12,85,2022-06-30,Trayce Thompson,OF
+2022,12,85,2022-06-30,Josh Donaldson,UTIL
+2022,12,85,2022-06-30,Jeremy Pena,UTIL
+2022,12,85,2022-06-30,Jorge Soler,Bench
+2022,12,85,2022-06-30,AJ Pollock,Bench
+2022,12,85,2022-06-30,Kenley Jansen,Bench
+2022,12,85,2022-06-30,Triston McKenzie,Bench
+2022,12,85,2022-06-30,Jeffrey Springs,Bench
+2022,12,85,2022-06-30,Ozzie Albies,IL
+2022,12,85,2022-06-30,Bryce Harper,IL
+2022,12,85,2022-06-30,Fernando Tatis Jr.,IL
+2022,12,85,2022-06-30,Corbin Burnes,SP
+2022,12,85,2022-06-30,Zac Gallen,SP
+2022,12,85,2022-06-30,Martin Perez,SP
+2022,12,85,2022-06-30,Nick Pivetta,SP
+2022,12,85,2022-06-30,Taijuan Walker,SP
+2022,12,85,2022-06-30,Craig Kimbrel,RP
+2022,12,85,2022-06-30,Michael Fulmer,RP
+2022,12,85,2022-06-30,Hector Neris,RP
+2022,12,86,2022-07-01,MJ Melendez,C
+2022,12,86,2022-07-01,Jurickson Profar,1B
+2022,12,86,2022-07-01,Owen Miller,2B
+2022,12,86,2022-07-01,Manny Machado,3B
+2022,12,86,2022-07-01,Corey Seager,SS
+2022,12,86,2022-07-01,Cody Bellinger,OF
+2022,12,86,2022-07-01,Giancarlo Stanton,OF
+2022,12,86,2022-07-01,Trayce Thompson,OF
+2022,12,86,2022-07-01,Josh Donaldson,UTIL
+2022,12,86,2022-07-01,Jeremy Pena,UTIL
+2022,12,86,2022-07-01,Jazz Chisholm Jr.,Bench
+2022,12,86,2022-07-01,Jorge Soler,Bench
+2022,12,86,2022-07-01,Kenley Jansen,Bench
+2022,12,86,2022-07-01,Triston McKenzie,Bench
+2022,12,86,2022-07-01,Jeffrey Springs,Bench
+2022,12,86,2022-07-01,Ozzie Albies,IL
+2022,12,86,2022-07-01,Bryce Harper,IL
+2022,12,86,2022-07-01,Fernando Tatis Jr.,IL
+2022,12,86,2022-07-01,Corbin Burnes,SP
+2022,12,86,2022-07-01,Zac Gallen,SP
+2022,12,86,2022-07-01,Martin Perez,SP
+2022,12,86,2022-07-01,Nick Pivetta,SP
+2022,12,86,2022-07-01,Taijuan Walker,SP
+2022,12,86,2022-07-01,Postponed,SP
+2022,12,86,2022-07-01,Craig Kimbrel,RP
+2022,12,86,2022-07-01,Michael Fulmer,RP
+2022,12,86,2022-07-01,Hector Neris,RP
+2022,12,87,2022-07-02,MJ Melendez,C
+2022,12,87,2022-07-02,Jurickson Profar,1B
+2022,12,87,2022-07-02,Owen Miller,2B
+2022,12,87,2022-07-02,Manny Machado,3B
+2022,12,87,2022-07-02,Corey Seager,SS
+2022,12,87,2022-07-02,Cody Bellinger,OF
+2022,12,87,2022-07-02,Giancarlo Stanton,OF
+2022,12,87,2022-07-02,Trayce Thompson,OF
+2022,12,87,2022-07-02,Josh Donaldson,UTIL
+2022,12,87,2022-07-02,Jeremy Pena,UTIL
+2022,12,87,2022-07-02,Jazz Chisholm Jr.,Bench
+2022,12,87,2022-07-02,Jorge Soler,Bench
+2022,12,87,2022-07-02,Kenley Jansen,Bench
+2022,12,87,2022-07-02,Triston McKenzie,Bench
+2022,12,87,2022-07-02,Jeffrey Springs,Bench
+2022,12,87,2022-07-02,Ozzie Albies,IL
+2022,12,87,2022-07-02,Bryce Harper,IL
+2022,12,87,2022-07-02,Fernando Tatis Jr.,IL
+2022,12,87,2022-07-02,Corbin Burnes,SP
+2022,12,87,2022-07-02,Zac Gallen,SP
+2022,12,87,2022-07-02,Martin Perez,SP
+2022,12,87,2022-07-02,Nick Pivetta,SP
+2022,12,87,2022-07-02,Taijuan Walker,SP
+2022,12,87,2022-07-02,Craig Kimbrel,RP
+2022,12,87,2022-07-02,Michael Fulmer,RP
+2022,12,87,2022-07-02,Hector Neris,RP
+2022,12,88,2022-07-03,MJ Melendez,C
+2022,12,88,2022-07-03,Jurickson Profar,1B
+2022,12,88,2022-07-03,Owen Miller,2B
+2022,12,88,2022-07-03,Manny Machado,3B
+2022,12,88,2022-07-03,Corey Seager,SS
+2022,12,88,2022-07-03,Cody Bellinger,OF
+2022,12,88,2022-07-03,Giancarlo Stanton,OF
+2022,12,88,2022-07-03,Trayce Thompson,OF
+2022,12,88,2022-07-03,Josh Donaldson,UTIL
+2022,12,88,2022-07-03,Jeremy Pena,UTIL
+2022,12,88,2022-07-03,Jazz Chisholm Jr.,Bench
+2022,12,88,2022-07-03,Jorge Soler,Bench
+2022,12,88,2022-07-03,Kenley Jansen,Bench
+2022,12,88,2022-07-03,Triston McKenzie,Bench
+2022,12,88,2022-07-03,Jeffrey Springs,Bench
+2022,12,88,2022-07-03,Ozzie Albies,IL
+2022,12,88,2022-07-03,Bryce Harper,IL
+2022,12,88,2022-07-03,Fernando Tatis Jr.,IL
+2022,12,88,2022-07-03,Corbin Burnes,SP
+2022,12,88,2022-07-03,Zac Gallen,SP
+2022,12,88,2022-07-03,Martin Perez,SP
+2022,12,88,2022-07-03,Nick Pivetta,SP
+2022,12,88,2022-07-03,Taijuan Walker,SP
+2022,12,88,2022-07-03,Craig Kimbrel,RP
+2022,12,88,2022-07-03,Michael Fulmer,RP
+2022,12,88,2022-07-03,Hector Neris,RP
+2022,12,89,2022-07-04,MJ Melendez,C
+2022,12,89,2022-07-04,Jurickson Profar,1B
+2022,12,89,2022-07-04,Owen Miller,2B
+2022,12,89,2022-07-04,Manny Machado,3B
+2022,12,89,2022-07-04,Corey Seager,SS
+2022,12,89,2022-07-04,Cody Bellinger,OF
+2022,12,89,2022-07-04,Giancarlo Stanton,OF
+2022,12,89,2022-07-04,Trayce Thompson,OF
+2022,12,89,2022-07-04,Josh Donaldson,UTIL
+2022,12,89,2022-07-04,Jeremy Pena,UTIL
+2022,12,89,2022-07-04,Jazz Chisholm Jr.,Bench
+2022,12,89,2022-07-04,Jorge Soler,Bench
+2022,12,89,2022-07-04,Kenley Jansen,Bench
+2022,12,89,2022-07-04,Triston McKenzie,Bench
+2022,12,89,2022-07-04,Jeffrey Springs,Bench
+2022,12,89,2022-07-04,Ozzie Albies,IL
+2022,12,89,2022-07-04,Bryce Harper,IL
+2022,12,89,2022-07-04,Fernando Tatis Jr.,IL
+2022,12,89,2022-07-04,Corbin Burnes,SP
+2022,12,89,2022-07-04,Zac Gallen,SP
+2022,12,89,2022-07-04,Martin Perez,SP
+2022,12,89,2022-07-04,Nick Pivetta,SP
+2022,12,89,2022-07-04,Taijuan Walker,SP
+2022,12,89,2022-07-04,Craig Kimbrel,RP
+2022,12,89,2022-07-04,Michael Fulmer,RP
+2022,12,89,2022-07-04,Hector Neris,RP
+2022,12,90,2022-07-05,MJ Melendez,C
+2022,12,90,2022-07-05,Jurickson Profar,1B
+2022,12,90,2022-07-05,Owen Miller,2B
+2022,12,90,2022-07-05,Manny Machado,3B
+2022,12,90,2022-07-05,Corey Seager,SS
+2022,12,90,2022-07-05,Cody Bellinger,OF
+2022,12,90,2022-07-05,Giancarlo Stanton,OF
+2022,12,90,2022-07-05,Trayce Thompson,OF
+2022,12,90,2022-07-05,Josh Donaldson,UTIL
+2022,12,90,2022-07-05,Jeremy Pena,UTIL
+2022,12,90,2022-07-05,Jazz Chisholm Jr.,Bench
+2022,12,90,2022-07-05,Jorge Soler,Bench
+2022,12,90,2022-07-05,Luis Garcia,Bench
+2022,12,90,2022-07-05,Kenley Jansen,Bench
+2022,12,90,2022-07-05,Triston McKenzie,Bench
+2022,12,90,2022-07-05,Jeffrey Springs,Bench
+2022,12,90,2022-07-05,Taijuan Walker,Bench
+2022,12,90,2022-07-05,Ozzie Albies,IL
+2022,12,90,2022-07-05,Bryce Harper,IL
+2022,12,90,2022-07-05,Fernando Tatis Jr.,IL
+2022,12,90,2022-07-05,Corbin Burnes,SP
+2022,12,90,2022-07-05,Zac Gallen,SP
+2022,12,90,2022-07-05,Martin Perez,SP
+2022,12,90,2022-07-05,Nick Pivetta,SP
+2022,12,90,2022-07-05,Craig Kimbrel,RP
+2022,12,90,2022-07-05,Hector Neris,RP
+2022,12,91,2022-07-06,Mitch Garver,C
+2022,12,91,2022-07-06,Anthony Rizzo,1B
+2022,12,91,2022-07-06,Owen Miller,2B
+2022,12,91,2022-07-06,Josh Donaldson,3B
+2022,12,91,2022-07-06,Corey Seager,SS
+2022,12,91,2022-07-06,Cody Bellinger,OF
+2022,12,91,2022-07-06,Giancarlo Stanton,OF
+2022,12,91,2022-07-06,Jurickson Profar,OF
+2022,12,91,2022-07-06,Jeremy Pena,UTIL
+2022,12,91,2022-07-06,Tommy Pham,UTIL
+2022,12,91,2022-07-06,Manny Machado,Bench
+2022,12,91,2022-07-06,Jorge Soler,Bench
+2022,12,91,2022-07-06,Triston McKenzie,Bench
+2022,12,91,2022-07-06,Nick Pivetta,Bench
+2022,12,91,2022-07-06,Jeffrey Springs,Bench
+2022,12,91,2022-07-06,Bryce Harper,IL
+2022,12,91,2022-07-06,Fernando Tatis Jr.,IL
+2022,12,91,2022-07-06,Jazz Chisholm Jr.,IL
+2022,12,91,2022-07-06,Corbin Burnes,SP
+2022,12,91,2022-07-06,Zac Gallen,SP
+2022,12,91,2022-07-06,Martin Perez,SP
+2022,12,91,2022-07-06,Taijuan Walker,SP
+2022,12,91,2022-07-06,Aaron Nola,SP
+2022,12,91,2022-07-06,Craig Kimbrel,RP
+2022,12,91,2022-07-06,Kenley Jansen,RP
+2022,12,91,2022-07-06,Hector Neris,RP
+2022,12,92,2022-07-07,Mitch Garver,C
+2022,12,92,2022-07-07,Anthony Rizzo,1B
+2022,12,92,2022-07-07,Jurickson Profar,2B
+2022,12,92,2022-07-07,Manny Machado,3B
+2022,12,92,2022-07-07,Jeremy Pena,SS
+2022,12,92,2022-07-07,Cody Bellinger,OF
+2022,12,92,2022-07-07,Giancarlo Stanton,OF
+2022,12,92,2022-07-07,Tommy Pham,OF
+2022,12,92,2022-07-07,Josh Donaldson,UTIL
+2022,12,92,2022-07-07,Lourdes Gurriel Jr.,UTIL
+2022,12,92,2022-07-07,Corey Seager,Bench
+2022,12,92,2022-07-07,Jorge Soler,Bench
+2022,12,92,2022-07-07,Kenley Jansen,Bench
+2022,12,92,2022-07-07,Triston McKenzie,Bench
+2022,12,92,2022-07-07,Jeffrey Springs,Bench
+2022,12,92,2022-07-07,Bryce Harper,IL
+2022,12,92,2022-07-07,Fernando Tatis Jr.,IL
+2022,12,92,2022-07-07,Jazz Chisholm Jr.,IL
+2022,12,92,2022-07-07,Corbin Burnes,SP
+2022,12,92,2022-07-07,Zac Gallen,SP
+2022,12,92,2022-07-07,Martin Perez,SP
+2022,12,92,2022-07-07,Taijuan Walker,SP
+2022,12,92,2022-07-07,Aaron Nola,SP
+2022,12,92,2022-07-07,Craig Kimbrel,RP
+2022,12,92,2022-07-07,Hector Neris,RP
+2022,12,92,2022-07-07,Jason Adam,RP
+2022,12,93,2022-07-08,Mitch Garver,C
+2022,12,93,2022-07-08,Anthony Rizzo,1B
+2022,12,93,2022-07-08,Jurickson Profar,2B
+2022,12,93,2022-07-08,Manny Machado,3B
+2022,12,93,2022-07-08,Jeremy Pena,SS
+2022,12,93,2022-07-08,Cody Bellinger,OF
+2022,12,93,2022-07-08,Tommy Pham,OF
+2022,12,93,2022-07-08,Lourdes Gurriel Jr.,OF
+2022,12,93,2022-07-08,Corey Seager,UTIL
+2022,12,93,2022-07-08,Josh Donaldson,UTIL
+2022,12,93,2022-07-08,Giancarlo Stanton,Bench
+2022,12,93,2022-07-08,Jorge Soler,Bench
+2022,12,93,2022-07-08,Kenley Jansen,Bench
+2022,12,93,2022-07-08,Triston McKenzie,Bench
+2022,12,93,2022-07-08,Jeffrey Springs,Bench
+2022,12,93,2022-07-08,Bryce Harper,IL
+2022,12,93,2022-07-08,Fernando Tatis Jr.,IL
+2022,12,93,2022-07-08,Jazz Chisholm Jr.,IL
+2022,12,93,2022-07-08,Corbin Burnes,SP
+2022,12,93,2022-07-08,Zac Gallen,SP
+2022,12,93,2022-07-08,Martin Perez,SP
+2022,12,93,2022-07-08,Taijuan Walker,SP
+2022,12,93,2022-07-08,Aaron Nola,SP
+2022,12,93,2022-07-08,Craig Kimbrel,RP
+2022,12,93,2022-07-08,Hector Neris,RP
+2022,12,93,2022-07-08,Jason Adam,RP
+2022,12,94,2022-07-09,Mitch Garver,C
+2022,12,94,2022-07-09,Anthony Rizzo,1B
+2022,12,94,2022-07-09,Gavin Lux,2B
+2022,12,94,2022-07-09,Manny Machado,3B
+2022,12,94,2022-07-09,Corey Seager,SS
+2022,12,94,2022-07-09,Cody Bellinger,OF
+2022,12,94,2022-07-09,Giancarlo Stanton,OF
+2022,12,94,2022-07-09,Tommy Pham,OF
+2022,12,94,2022-07-09,Josh Donaldson,UTIL
+2022,12,94,2022-07-09,Jeremy Pena,UTIL
+2022,12,94,2022-07-09,Jorge Soler,Bench
+2022,12,94,2022-07-09,Jurickson Profar,Bench
+2022,12,94,2022-07-09,Lourdes Gurriel Jr.,Bench
+2022,12,94,2022-07-09,Kenley Jansen,Bench
+2022,12,94,2022-07-09,Aaron Nola,Bench
+2022,12,94,2022-07-09,Bryce Harper,IL
+2022,12,94,2022-07-09,Fernando Tatis Jr.,IL
+2022,12,94,2022-07-09,Jazz Chisholm Jr.,IL
+2022,12,94,2022-07-09,Corbin Burnes,SP
+2022,12,94,2022-07-09,Zac Gallen,SP
+2022,12,94,2022-07-09,Triston McKenzie,SP
+2022,12,94,2022-07-09,Martin Perez,SP
+2022,12,94,2022-07-09,Taijuan Walker,SP
+2022,12,94,2022-07-09,Craig Kimbrel,RP
+2022,12,94,2022-07-09,Hector Neris,RP
+2022,12,94,2022-07-09,Jason Adam,RP
+2022,12,95,2022-07-10,Mitch Garver,C
+2022,12,95,2022-07-10,Anthony Rizzo,1B
+2022,12,95,2022-07-10,Gavin Lux,2B
+2022,12,95,2022-07-10,Manny Machado,3B
+2022,12,95,2022-07-10,Corey Seager,SS
+2022,12,95,2022-07-10,Giancarlo Stanton,OF
+2022,12,95,2022-07-10,Tommy Pham,OF
+2022,12,95,2022-07-10,Lourdes Gurriel Jr.,OF
+2022,12,95,2022-07-10,Josh Donaldson,UTIL
+2022,12,95,2022-07-10,Jeremy Pena,UTIL
+2022,12,95,2022-07-10,Cody Bellinger,Bench
+2022,12,95,2022-07-10,Jorge Soler,Bench
+2022,12,95,2022-07-10,Jurickson Profar,Bench
+2022,12,95,2022-07-10,Kenley Jansen,Bench
+2022,12,95,2022-07-10,Taijuan Walker,Bench
+2022,12,95,2022-07-10,Bryce Harper,IL
+2022,12,95,2022-07-10,Fernando Tatis Jr.,IL
+2022,12,95,2022-07-10,Jazz Chisholm Jr.,IL
+2022,12,95,2022-07-10,Corbin Burnes,SP
+2022,12,95,2022-07-10,Zac Gallen,SP
+2022,12,95,2022-07-10,Triston McKenzie,SP
+2022,12,95,2022-07-10,Martin Perez,SP
+2022,12,95,2022-07-10,Aaron Nola,SP
+2022,12,95,2022-07-10,Craig Kimbrel,RP
+2022,12,95,2022-07-10,Hector Neris,RP
+2022,12,95,2022-07-10,Jason Adam,RP
+2022,12,96,2022-07-11,Mitch Garver,C
+2022,12,96,2022-07-11,Anthony Rizzo,1B
+2022,12,96,2022-07-11,Gavin Lux,2B
+2022,12,96,2022-07-11,Manny Machado,3B
+2022,12,96,2022-07-11,Corey Seager,SS
+2022,12,96,2022-07-11,Giancarlo Stanton,OF
+2022,12,96,2022-07-11,Tommy Pham,OF
+2022,12,96,2022-07-11,Lourdes Gurriel Jr.,OF
+2022,12,96,2022-07-11,Josh Donaldson,UTIL
+2022,12,96,2022-07-11,Jeremy Pena,UTIL
+2022,12,96,2022-07-11,Cody Bellinger,Bench
+2022,12,96,2022-07-11,Jorge Soler,Bench
+2022,12,96,2022-07-11,Jurickson Profar,Bench
+2022,12,96,2022-07-11,Kenley Jansen,Bench
+2022,12,96,2022-07-11,Taijuan Walker,Bench
+2022,12,96,2022-07-11,Bryce Harper,IL
+2022,12,96,2022-07-11,Fernando Tatis Jr.,IL
+2022,12,96,2022-07-11,Jazz Chisholm Jr.,IL
+2022,12,96,2022-07-11,Corbin Burnes,SP
+2022,12,96,2022-07-11,Zac Gallen,SP
+2022,12,96,2022-07-11,Triston McKenzie,SP
+2022,12,96,2022-07-11,Martin Perez,SP
+2022,12,96,2022-07-11,Aaron Nola,SP
+2022,12,96,2022-07-11,Craig Kimbrel,RP
+2022,12,96,2022-07-11,Hector Neris,RP
+2022,12,96,2022-07-11,Jason Adam,RP
+2022,12,97,2022-07-12,Cal Raleigh,C
+2022,12,97,2022-07-12,Postponed,C
+2022,12,97,2022-07-12,Anthony Rizzo,1B
+2022,12,97,2022-07-12,Gavin Lux,2B
+2022,12,97,2022-07-12,Manny Machado,3B
+2022,12,97,2022-07-12,Corey Seager,SS
+2022,12,97,2022-07-12,Giancarlo Stanton,OF
+2022,12,97,2022-07-12,Tommy Pham,OF
+2022,12,97,2022-07-12,Lourdes Gurriel Jr.,OF
+2022,12,97,2022-07-12,Josh Donaldson,UTIL
+2022,12,97,2022-07-12,Jeremy Pena,UTIL
+2022,12,97,2022-07-12,Cody Bellinger,Bench
+2022,12,97,2022-07-12,Jorge Soler,Bench
+2022,12,97,2022-07-12,Jurickson Profar,Bench
+2022,12,97,2022-07-12,Kenley Jansen,Bench
+2022,12,97,2022-07-12,Taijuan Walker,Bench
+2022,12,97,2022-07-12,Bryce Harper,IL
+2022,12,97,2022-07-12,Fernando Tatis Jr.,IL
+2022,12,97,2022-07-12,Jazz Chisholm Jr.,IL
+2022,12,97,2022-07-12,Corbin Burnes,SP
+2022,12,97,2022-07-12,Zac Gallen,SP
+2022,12,97,2022-07-12,Triston McKenzie,SP
+2022,12,97,2022-07-12,Martin Perez,SP
+2022,12,97,2022-07-12,Aaron Nola,SP
+2022,12,97,2022-07-12,Craig Kimbrel,RP
+2022,12,97,2022-07-12,Hector Neris,RP
+2022,12,97,2022-07-12,Jason Adam,RP
+2022,12,98,2022-07-13,Cal Raleigh,C
+2022,12,98,2022-07-13,Anthony Rizzo,1B
+2022,12,98,2022-07-13,Gavin Lux,2B
+2022,12,98,2022-07-13,Manny Machado,3B
+2022,12,98,2022-07-13,Corey Seager,SS
+2022,12,98,2022-07-13,Giancarlo Stanton,OF
+2022,12,98,2022-07-13,Tommy Pham,OF
+2022,12,98,2022-07-13,Lourdes Gurriel Jr.,OF
+2022,12,98,2022-07-13,Josh Donaldson,UTIL
+2022,12,98,2022-07-13,Jeremy Pena,UTIL
+2022,12,98,2022-07-13,Cody Bellinger,Bench
+2022,12,98,2022-07-13,Jorge Soler,Bench
+2022,12,98,2022-07-13,Jurickson Profar,Bench
+2022,12,98,2022-07-13,Kenley Jansen,Bench
+2022,12,98,2022-07-13,Taijuan Walker,Bench
+2022,12,98,2022-07-13,Bryce Harper,IL
+2022,12,98,2022-07-13,Fernando Tatis Jr.,IL
+2022,12,98,2022-07-13,Jazz Chisholm Jr.,IL
+2022,12,98,2022-07-13,Corbin Burnes,SP
+2022,12,98,2022-07-13,Zac Gallen,SP
+2022,12,98,2022-07-13,Triston McKenzie,SP
+2022,12,98,2022-07-13,Martin Perez,SP
+2022,12,98,2022-07-13,Aaron Nola,SP
+2022,12,98,2022-07-13,Craig Kimbrel,RP
+2022,12,98,2022-07-13,Hector Neris,RP
+2022,12,98,2022-07-13,Jason Adam,RP
+2022,12,99,2022-07-14,Cal Raleigh,C
+2022,12,99,2022-07-14,Anthony Rizzo,1B
+2022,12,99,2022-07-14,Gavin Lux,2B
+2022,12,99,2022-07-14,Manny Machado,3B
+2022,12,99,2022-07-14,Corey Seager,SS
+2022,12,99,2022-07-14,Giancarlo Stanton,OF
+2022,12,99,2022-07-14,Tommy Pham,OF
+2022,12,99,2022-07-14,Lourdes Gurriel Jr.,OF
+2022,12,99,2022-07-14,Cody Bellinger,UTIL
+2022,12,99,2022-07-14,Jeremy Pena,UTIL
+2022,12,99,2022-07-14,Jorge Soler,Bench
+2022,12,99,2022-07-14,Josh Donaldson,Bench
+2022,12,99,2022-07-14,Jurickson Profar,Bench
+2022,12,99,2022-07-14,Kenley Jansen,Bench
+2022,12,99,2022-07-14,Taijuan Walker,Bench
+2022,12,99,2022-07-14,Bryce Harper,IL
+2022,12,99,2022-07-14,Fernando Tatis Jr.,IL
+2022,12,99,2022-07-14,Jazz Chisholm Jr.,IL
+2022,12,99,2022-07-14,Corbin Burnes,SP
+2022,12,99,2022-07-14,Zac Gallen,SP
+2022,12,99,2022-07-14,Triston McKenzie,SP
+2022,12,99,2022-07-14,Martin Perez,SP
+2022,12,99,2022-07-14,Aaron Nola,SP
+2022,12,99,2022-07-14,Craig Kimbrel,RP
+2022,12,99,2022-07-14,Hector Neris,RP
+2022,12,99,2022-07-14,Jason Adam,RP
+2022,12,100,2022-07-15,Cal Raleigh,C
+2022,12,100,2022-07-15,Anthony Rizzo,1B
+2022,12,100,2022-07-15,Gavin Lux,2B
+2022,12,100,2022-07-15,Manny Machado,3B
+2022,12,100,2022-07-15,Corey Seager,SS
+2022,12,100,2022-07-15,Giancarlo Stanton,OF
+2022,12,100,2022-07-15,Tommy Pham,OF
+2022,12,100,2022-07-15,Lourdes Gurriel Jr.,OF
+2022,12,100,2022-07-15,Postponed,OF
+2022,12,100,2022-07-15,Jeremy Pena,UTIL
+2022,12,100,2022-07-15,Jurickson Profar,UTIL
+2022,12,100,2022-07-15,Cody Bellinger,Bench
+2022,12,100,2022-07-15,Jorge Soler,Bench
+2022,12,100,2022-07-15,Josh Donaldson,Bench
+2022,12,100,2022-07-15,Kenley Jansen,Bench
+2022,12,100,2022-07-15,Triston McKenzie,Bench
+2022,12,100,2022-07-15,Bryce Harper,IL
+2022,12,100,2022-07-15,Fernando Tatis Jr.,IL
+2022,12,100,2022-07-15,Jazz Chisholm Jr.,IL
+2022,12,100,2022-07-15,Corbin Burnes,SP
+2022,12,100,2022-07-15,Zac Gallen,SP
+2022,12,100,2022-07-15,Martin Perez,SP
+2022,12,100,2022-07-15,Taijuan Walker,SP
+2022,12,100,2022-07-15,Aaron Nola,SP
+2022,12,100,2022-07-15,Craig Kimbrel,RP
+2022,12,100,2022-07-15,Hector Neris,RP
+2022,12,100,2022-07-15,Jason Adam,RP
+2022,12,101,2022-07-16,Cal Raleigh,C
+2022,12,101,2022-07-16,Anthony Rizzo,1B
+2022,12,101,2022-07-16,Gavin Lux,2B
+2022,12,101,2022-07-16,Manny Machado,3B
+2022,12,101,2022-07-16,Corey Seager,SS
+2022,12,101,2022-07-16,Giancarlo Stanton,OF
+2022,12,101,2022-07-16,Jorge Soler,OF
+2022,12,101,2022-07-16,Lourdes Gurriel Jr.,OF
+2022,12,101,2022-07-16,Jeremy Pena,UTIL
+2022,12,101,2022-07-16,Jurickson Profar,UTIL
+2022,12,101,2022-07-16,Cody Bellinger,Bench
+2022,12,101,2022-07-16,Josh Donaldson,Bench
+2022,12,101,2022-07-16,Tommy Pham,Bench
+2022,12,101,2022-07-16,Kenley Jansen,Bench
+2022,12,101,2022-07-16,Triston McKenzie,Bench
+2022,12,101,2022-07-16,Bryce Harper,IL
+2022,12,101,2022-07-16,Fernando Tatis Jr.,IL
+2022,12,101,2022-07-16,Jazz Chisholm Jr.,IL
+2022,12,101,2022-07-16,Corbin Burnes,SP
+2022,12,101,2022-07-16,Zac Gallen,SP
+2022,12,101,2022-07-16,Martin Perez,SP
+2022,12,101,2022-07-16,Taijuan Walker,SP
+2022,12,101,2022-07-16,Aaron Nola,SP
+2022,12,101,2022-07-16,Craig Kimbrel,RP
+2022,12,101,2022-07-16,Hector Neris,RP
+2022,12,101,2022-07-16,Jason Adam,RP
+2022,12,102,2022-07-17,Cal Raleigh,C
+2022,12,102,2022-07-17,Anthony Rizzo,1B
+2022,12,102,2022-07-17,Gavin Lux,2B
+2022,12,102,2022-07-17,Manny Machado,3B
+2022,12,102,2022-07-17,Corey Seager,SS
+2022,12,102,2022-07-17,Giancarlo Stanton,OF
+2022,12,102,2022-07-17,Tommy Pham,OF
+2022,12,102,2022-07-17,Lourdes Gurriel Jr.,OF
+2022,12,102,2022-07-17,Josh Donaldson,UTIL
+2022,12,102,2022-07-17,Jeremy Pena,UTIL
+2022,12,102,2022-07-17,Cody Bellinger,Bench
+2022,12,102,2022-07-17,Jorge Soler,Bench
+2022,12,102,2022-07-17,Jurickson Profar,Bench
+2022,12,102,2022-07-17,Craig Kimbrel,Bench
+2022,12,102,2022-07-17,Triston McKenzie,Bench
+2022,12,102,2022-07-17,Bryce Harper,IL
+2022,12,102,2022-07-17,Fernando Tatis Jr.,IL
+2022,12,102,2022-07-17,Jazz Chisholm Jr.,IL
+2022,12,102,2022-07-17,Corbin Burnes,SP
+2022,12,102,2022-07-17,Zac Gallen,SP
+2022,12,102,2022-07-17,Martin Perez,SP
+2022,12,102,2022-07-17,Taijuan Walker,SP
+2022,12,102,2022-07-17,Aaron Nola,SP
+2022,12,102,2022-07-17,Postponed,SP
+2022,12,102,2022-07-17,Kenley Jansen,RP
+2022,12,102,2022-07-17,Hector Neris,RP
+2022,12,102,2022-07-17,Jason Adam,RP
+2022,12,103,2022-07-18,Cal Raleigh,C
+2022,12,103,2022-07-18,Anthony Rizzo,1B
+2022,12,103,2022-07-18,Gavin Lux,2B
+2022,12,103,2022-07-18,Manny Machado,3B
+2022,12,103,2022-07-18,Corey Seager,SS
+2022,12,103,2022-07-18,Giancarlo Stanton,OF
+2022,12,103,2022-07-18,Tommy Pham,OF
+2022,12,103,2022-07-18,Lourdes Gurriel Jr.,OF
+2022,12,103,2022-07-18,Josh Donaldson,UTIL
+2022,12,103,2022-07-18,Jeremy Pena,UTIL
+2022,12,103,2022-07-18,Cody Bellinger,Bench
+2022,12,103,2022-07-18,Jorge Soler,Bench
+2022,12,103,2022-07-18,Jurickson Profar,Bench
+2022,12,103,2022-07-18,Craig Kimbrel,Bench
+2022,12,103,2022-07-18,Triston McKenzie,Bench
+2022,12,103,2022-07-18,Bryce Harper,IL
+2022,12,103,2022-07-18,Fernando Tatis Jr.,IL
+2022,12,103,2022-07-18,Jazz Chisholm Jr.,IL
+2022,12,103,2022-07-18,Corbin Burnes,SP
+2022,12,103,2022-07-18,Zac Gallen,SP
+2022,12,103,2022-07-18,Martin Perez,SP
+2022,12,103,2022-07-18,Taijuan Walker,SP
+2022,12,103,2022-07-18,Aaron Nola,SP
+2022,12,103,2022-07-18,Kenley Jansen,RP
+2022,12,103,2022-07-18,Hector Neris,RP
+2022,12,103,2022-07-18,Jason Adam,RP
+2022,12,104,2022-07-19,Cal Raleigh,C
+2022,12,104,2022-07-19,Anthony Rizzo,1B
+2022,12,104,2022-07-19,Gavin Lux,2B
+2022,12,104,2022-07-19,Manny Machado,3B
+2022,12,104,2022-07-19,Corey Seager,SS
+2022,12,104,2022-07-19,Giancarlo Stanton,OF
+2022,12,104,2022-07-19,Tommy Pham,OF
+2022,12,104,2022-07-19,Lourdes Gurriel Jr.,OF
+2022,12,104,2022-07-19,Josh Donaldson,UTIL
+2022,12,104,2022-07-19,Jeremy Pena,UTIL
+2022,12,104,2022-07-19,Cody Bellinger,Bench
+2022,12,104,2022-07-19,Jorge Soler,Bench
+2022,12,104,2022-07-19,Jurickson Profar,Bench
+2022,12,104,2022-07-19,Craig Kimbrel,Bench
+2022,12,104,2022-07-19,Triston McKenzie,Bench
+2022,12,104,2022-07-19,Bryce Harper,IL
+2022,12,104,2022-07-19,Fernando Tatis Jr.,IL
+2022,12,104,2022-07-19,Jazz Chisholm Jr.,IL
+2022,12,104,2022-07-19,Corbin Burnes,SP
+2022,12,104,2022-07-19,Zac Gallen,SP
+2022,12,104,2022-07-19,Martin Perez,SP
+2022,12,104,2022-07-19,Taijuan Walker,SP
+2022,12,104,2022-07-19,Aaron Nola,SP
+2022,12,104,2022-07-19,Kenley Jansen,RP
+2022,12,104,2022-07-19,Hector Neris,RP
+2022,12,104,2022-07-19,Jason Adam,RP
+2022,12,105,2022-07-20,Cal Raleigh,C
+2022,12,105,2022-07-20,Anthony Rizzo,1B
+2022,12,105,2022-07-20,Gavin Lux,2B
+2022,12,105,2022-07-20,Manny Machado,3B
+2022,12,105,2022-07-20,Corey Seager,SS
+2022,12,105,2022-07-20,Giancarlo Stanton,OF
+2022,12,105,2022-07-20,Tommy Pham,OF
+2022,12,105,2022-07-20,Lourdes Gurriel Jr.,OF
+2022,12,105,2022-07-20,Josh Donaldson,UTIL
+2022,12,105,2022-07-20,Jeremy Pena,UTIL
+2022,12,105,2022-07-20,Cody Bellinger,Bench
+2022,12,105,2022-07-20,Jorge Soler,Bench
+2022,12,105,2022-07-20,Jurickson Profar,Bench
+2022,12,105,2022-07-20,Craig Kimbrel,Bench
+2022,12,105,2022-07-20,Triston McKenzie,Bench
+2022,12,105,2022-07-20,Bryce Harper,IL
+2022,12,105,2022-07-20,Fernando Tatis Jr.,IL
+2022,12,105,2022-07-20,Jazz Chisholm Jr.,IL
+2022,12,105,2022-07-20,Corbin Burnes,SP
+2022,12,105,2022-07-20,Zac Gallen,SP
+2022,12,105,2022-07-20,Martin Perez,SP
+2022,12,105,2022-07-20,Taijuan Walker,SP
+2022,12,105,2022-07-20,Aaron Nola,SP
+2022,12,105,2022-07-20,Kenley Jansen,RP
+2022,12,105,2022-07-20,Jason Adam,RP
+2022,12,105,2022-07-20,Andres Munoz,RP
+2022,12,106,2022-07-21,Cal Raleigh,C
+2022,12,106,2022-07-21,Anthony Rizzo,1B
+2022,12,106,2022-07-21,Gavin Lux,2B
+2022,12,106,2022-07-21,Manny Machado,3B
+2022,12,106,2022-07-21,Corey Seager,SS
+2022,12,106,2022-07-21,Cody Bellinger,OF
+2022,12,106,2022-07-21,Giancarlo Stanton,OF
+2022,12,106,2022-07-21,Jorge Soler,OF
+2022,12,106,2022-07-21,Josh Donaldson,UTIL
+2022,12,106,2022-07-21,Jeremy Pena,UTIL
+2022,12,106,2022-07-21,Jurickson Profar,Bench
+2022,12,106,2022-07-21,Tommy Pham,Bench
+2022,12,106,2022-07-21,Lourdes Gurriel Jr.,Bench
+2022,12,106,2022-07-21,Kenley Jansen,Bench
+2022,12,106,2022-07-21,Triston McKenzie,Bench
+2022,12,106,2022-07-21,Bryce Harper,IL
+2022,12,106,2022-07-21,Fernando Tatis Jr.,IL
+2022,12,106,2022-07-21,Jazz Chisholm Jr.,IL
+2022,12,106,2022-07-21,Corbin Burnes,SP
+2022,12,106,2022-07-21,Zac Gallen,SP
+2022,12,106,2022-07-21,Martin Perez,SP
+2022,12,106,2022-07-21,Taijuan Walker,SP
+2022,12,106,2022-07-21,Aaron Nola,SP
+2022,12,106,2022-07-21,Craig Kimbrel,RP
+2022,12,106,2022-07-21,Jason Adam,RP
+2022,12,106,2022-07-21,Andres Munoz,RP
+2022,12,107,2022-07-22,Cal Raleigh,C
+2022,12,107,2022-07-22,Anthony Rizzo,1B
+2022,12,107,2022-07-22,Jurickson Profar,2B
+2022,12,107,2022-07-22,Manny Machado,3B
+2022,12,107,2022-07-22,Corey Seager,SS
+2022,12,107,2022-07-22,Giancarlo Stanton,OF
+2022,12,107,2022-07-22,Jorge Soler,OF
+2022,12,107,2022-07-22,Tommy Pham,OF
+2022,12,107,2022-07-22,Jeremy Pena,UTIL
+2022,12,107,2022-07-22,Lourdes Gurriel Jr.,UTIL
+2022,12,107,2022-07-22,Cody Bellinger,Bench
+2022,12,107,2022-07-22,Josh Donaldson,Bench
+2022,12,107,2022-07-22,Gavin Lux,Bench
+2022,12,107,2022-07-22,Craig Kimbrel,Bench
+2022,12,107,2022-07-22,Triston McKenzie,Bench
+2022,12,107,2022-07-22,Bryce Harper,IL
+2022,12,107,2022-07-22,Fernando Tatis Jr.,IL
+2022,12,107,2022-07-22,Jazz Chisholm Jr.,IL
+2022,12,107,2022-07-22,Corbin Burnes,SP
+2022,12,107,2022-07-22,Zac Gallen,SP
+2022,12,107,2022-07-22,Martin Perez,SP
+2022,12,107,2022-07-22,Taijuan Walker,SP
+2022,12,107,2022-07-22,Aaron Nola,SP
+2022,12,107,2022-07-22,Kenley Jansen,RP
+2022,12,107,2022-07-22,Jason Adam,RP
+2022,12,107,2022-07-22,Andres Munoz,RP
+2022,12,108,2022-07-23,Cal Raleigh,C
+2022,12,108,2022-07-23,Anthony Rizzo,1B
+2022,12,108,2022-07-23,Jurickson Profar,2B
+2022,12,108,2022-07-23,Manny Machado,3B
+2022,12,108,2022-07-23,Corey Seager,SS
+2022,12,108,2022-07-23,Cody Bellinger,OF
+2022,12,108,2022-07-23,Giancarlo Stanton,OF
+2022,12,108,2022-07-23,Tommy Pham,OF
+2022,12,108,2022-07-23,Jeremy Pena,UTIL
+2022,12,108,2022-07-23,Lourdes Gurriel Jr.,UTIL
+2022,12,108,2022-07-23,Jorge Soler,Bench
+2022,12,108,2022-07-23,Josh Donaldson,Bench
+2022,12,108,2022-07-23,Gavin Lux,Bench
+2022,12,108,2022-07-23,Taijuan Walker,Bench
+2022,12,108,2022-07-23,Andres Munoz,Bench
+2022,12,108,2022-07-23,Bryce Harper,IL
+2022,12,108,2022-07-23,Fernando Tatis Jr.,IL
+2022,12,108,2022-07-23,Jazz Chisholm Jr.,IL
+2022,12,108,2022-07-23,Corbin Burnes,SP
+2022,12,108,2022-07-23,Zac Gallen,SP
+2022,12,108,2022-07-23,Triston McKenzie,SP
+2022,12,108,2022-07-23,Martin Perez,SP
+2022,12,108,2022-07-23,Aaron Nola,SP
+2022,12,108,2022-07-23,Craig Kimbrel,RP
+2022,12,108,2022-07-23,Kenley Jansen,RP
+2022,12,108,2022-07-23,Jason Adam,RP
+2022,12,109,2022-07-24,Cal Raleigh,C
+2022,12,109,2022-07-24,Anthony Rizzo,1B
+2022,12,109,2022-07-24,Jurickson Profar,2B
+2022,12,109,2022-07-24,Manny Machado,3B
+2022,12,109,2022-07-24,Corey Seager,SS
+2022,12,109,2022-07-24,Cody Bellinger,OF
+2022,12,109,2022-07-24,Tommy Pham,OF
+2022,12,109,2022-07-24,Gavin Lux,OF
+2022,12,109,2022-07-24,Jeremy Pena,UTIL
+2022,12,109,2022-07-24,Lourdes Gurriel Jr.,UTIL
+2022,12,109,2022-07-24,Giancarlo Stanton,Bench
+2022,12,109,2022-07-24,Jorge Soler,Bench
+2022,12,109,2022-07-24,Josh Donaldson,Bench
+2022,12,109,2022-07-24,Taijuan Walker,Bench
+2022,12,109,2022-07-24,Andres Munoz,Bench
+2022,12,109,2022-07-24,Bryce Harper,IL
+2022,12,109,2022-07-24,Fernando Tatis Jr.,IL
+2022,12,109,2022-07-24,Jazz Chisholm Jr.,IL
+2022,12,109,2022-07-24,Corbin Burnes,SP
+2022,12,109,2022-07-24,Zac Gallen,SP
+2022,12,109,2022-07-24,Triston McKenzie,SP
+2022,12,109,2022-07-24,Martin Perez,SP
+2022,12,109,2022-07-24,Aaron Nola,SP
+2022,12,109,2022-07-24,Craig Kimbrel,RP
+2022,12,109,2022-07-24,Kenley Jansen,RP
+2022,12,109,2022-07-24,Jason Adam,RP
+2022,12,110,2022-07-25,Cal Raleigh,C
+2022,12,110,2022-07-25,Anthony Rizzo,1B
+2022,12,110,2022-07-25,Jurickson Profar,2B
+2022,12,110,2022-07-25,Manny Machado,3B
+2022,12,110,2022-07-25,Corey Seager,SS
+2022,12,110,2022-07-25,Cody Bellinger,OF
+2022,12,110,2022-07-25,Tommy Pham,OF
+2022,12,110,2022-07-25,Gavin Lux,OF
+2022,12,110,2022-07-25,Jeremy Pena,UTIL
+2022,12,110,2022-07-25,Lourdes Gurriel Jr.,UTIL
+2022,12,110,2022-07-25,Giancarlo Stanton,Bench
+2022,12,110,2022-07-25,Jorge Soler,Bench
+2022,12,110,2022-07-25,Josh Donaldson,Bench
+2022,12,110,2022-07-25,Kenley Jansen,Bench
+2022,12,110,2022-07-25,Taijuan Walker,Bench
+2022,12,110,2022-07-25,Bryce Harper,IL
+2022,12,110,2022-07-25,Fernando Tatis Jr.,IL
+2022,12,110,2022-07-25,Jazz Chisholm Jr.,IL
+2022,12,110,2022-07-25,Corbin Burnes,SP
+2022,12,110,2022-07-25,Zac Gallen,SP
+2022,12,110,2022-07-25,Triston McKenzie,SP
+2022,12,110,2022-07-25,Martin Perez,SP
+2022,12,110,2022-07-25,Aaron Nola,SP
+2022,12,110,2022-07-25,Craig Kimbrel,RP
+2022,12,110,2022-07-25,Jason Adam,RP
+2022,12,110,2022-07-25,Andres Munoz,RP
+2022,12,111,2022-07-26,Cal Raleigh,C
+2022,12,111,2022-07-26,Anthony Rizzo,1B
+2022,12,111,2022-07-26,Jurickson Profar,2B
+2022,12,111,2022-07-26,Manny Machado,3B
+2022,12,111,2022-07-26,Corey Seager,SS
+2022,12,111,2022-07-26,Tommy Pham,OF
+2022,12,111,2022-07-26,Lourdes Gurriel Jr.,OF
+2022,12,111,2022-07-26,Gavin Lux,OF
+2022,12,111,2022-07-26,Josh Donaldson,UTIL
+2022,12,111,2022-07-26,Jeremy Pena,UTIL
+2022,12,111,2022-07-26,Cody Bellinger,Bench
+2022,12,111,2022-07-26,Giancarlo Stanton,Bench
+2022,12,111,2022-07-26,Jorge Soler,Bench
+2022,12,111,2022-07-26,Kenley Jansen,Bench
+2022,12,111,2022-07-26,Triston McKenzie,Bench
+2022,12,111,2022-07-26,Bryce Harper,IL
+2022,12,111,2022-07-26,Fernando Tatis Jr.,IL
+2022,12,111,2022-07-26,Jazz Chisholm Jr.,IL
+2022,12,111,2022-07-26,Corbin Burnes,SP
+2022,12,111,2022-07-26,Zac Gallen,SP
+2022,12,111,2022-07-26,Martin Perez,SP
+2022,12,111,2022-07-26,Taijuan Walker,SP
+2022,12,111,2022-07-26,Aaron Nola,SP
+2022,12,111,2022-07-26,Craig Kimbrel,RP
+2022,12,111,2022-07-26,Jason Adam,RP
+2022,12,111,2022-07-26,Andres Munoz,RP
+2022,12,112,2022-07-27,Cal Raleigh,C
+2022,12,112,2022-07-27,Anthony Rizzo,1B
+2022,12,112,2022-07-27,Jurickson Profar,2B
+2022,12,112,2022-07-27,Manny Machado,3B
+2022,12,112,2022-07-27,Corey Seager,SS
+2022,12,112,2022-07-27,Tommy Pham,OF
+2022,12,112,2022-07-27,Lourdes Gurriel Jr.,OF
+2022,12,112,2022-07-27,Gavin Lux,OF
+2022,12,112,2022-07-27,Josh Donaldson,UTIL
+2022,12,112,2022-07-27,Jeremy Pena,UTIL
+2022,12,112,2022-07-27,Cody Bellinger,Bench
+2022,12,112,2022-07-27,Giancarlo Stanton,Bench
+2022,12,112,2022-07-27,Jorge Soler,Bench
+2022,12,112,2022-07-27,Kenley Jansen,Bench
+2022,12,112,2022-07-27,Triston McKenzie,Bench
+2022,12,112,2022-07-27,Bryce Harper,IL
+2022,12,112,2022-07-27,Fernando Tatis Jr.,IL
+2022,12,112,2022-07-27,Jazz Chisholm Jr.,IL
+2022,12,112,2022-07-27,Corbin Burnes,SP
+2022,12,112,2022-07-27,Zac Gallen,SP
+2022,12,112,2022-07-27,Martin Perez,SP
+2022,12,112,2022-07-27,Taijuan Walker,SP
+2022,12,112,2022-07-27,Aaron Nola,SP
+2022,12,112,2022-07-27,Craig Kimbrel,RP
+2022,12,112,2022-07-27,Jason Adam,RP
+2022,12,112,2022-07-27,Andres Munoz,RP
+2022,12,113,2022-07-28,Cal Raleigh,C
+2022,12,113,2022-07-28,Anthony Rizzo,1B
+2022,12,113,2022-07-28,Gavin Lux,2B
+2022,12,113,2022-07-28,Josh Donaldson,3B
+2022,12,113,2022-07-28,Corey Seager,SS
+2022,12,113,2022-07-28,Cody Bellinger,OF
+2022,12,113,2022-07-28,Giancarlo Stanton,OF
+2022,12,113,2022-07-28,Tommy Pham,OF
+2022,12,113,2022-07-28,Jeremy Pena,UTIL
+2022,12,113,2022-07-28,Lourdes Gurriel Jr.,UTIL
+2022,12,113,2022-07-28,Manny Machado,Bench
+2022,12,113,2022-07-28,Jorge Soler,Bench
+2022,12,113,2022-07-28,Jurickson Profar,Bench
+2022,12,113,2022-07-28,Kenley Jansen,Bench
+2022,12,113,2022-07-28,Martin Perez,Bench
+2022,12,113,2022-07-28,Bryce Harper,IL
+2022,12,113,2022-07-28,Fernando Tatis Jr.,IL
+2022,12,113,2022-07-28,Jazz Chisholm Jr.,IL
+2022,12,113,2022-07-28,Corbin Burnes,SP
+2022,12,113,2022-07-28,Zac Gallen,SP
+2022,12,113,2022-07-28,Triston McKenzie,SP
+2022,12,113,2022-07-28,Taijuan Walker,SP
+2022,12,113,2022-07-28,Aaron Nola,SP
+2022,12,113,2022-07-28,Craig Kimbrel,RP
+2022,12,113,2022-07-28,Jason Adam,RP
+2022,12,113,2022-07-28,Andres Munoz,RP
+2022,12,114,2022-07-29,Cal Raleigh,C
+2022,12,114,2022-07-29,Anthony Rizzo,1B
+2022,12,114,2022-07-29,Jurickson Profar,2B
+2022,12,114,2022-07-29,Manny Machado,3B
+2022,12,114,2022-07-29,Corey Seager,SS
+2022,12,114,2022-07-29,Cody Bellinger,OF
+2022,12,114,2022-07-29,Tommy Pham,OF
+2022,12,114,2022-07-29,Gavin Lux,OF
+2022,12,114,2022-07-29,Jeremy Pena,UTIL
+2022,12,114,2022-07-29,Lourdes Gurriel Jr.,UTIL
+2022,12,114,2022-07-29,Giancarlo Stanton,Bench
+2022,12,114,2022-07-29,Jorge Soler,Bench
+2022,12,114,2022-07-29,Josh Donaldson,Bench
+2022,12,114,2022-07-29,Kenley Jansen,Bench
+2022,12,114,2022-07-29,Martin Perez,Bench
+2022,12,114,2022-07-29,Bryce Harper,IL
+2022,12,114,2022-07-29,Fernando Tatis Jr.,IL
+2022,12,114,2022-07-29,Jazz Chisholm Jr.,IL
+2022,12,114,2022-07-29,Corbin Burnes,SP
+2022,12,114,2022-07-29,Zac Gallen,SP
+2022,12,114,2022-07-29,Triston McKenzie,SP
+2022,12,114,2022-07-29,Taijuan Walker,SP
+2022,12,114,2022-07-29,Aaron Nola,SP
+2022,12,114,2022-07-29,Craig Kimbrel,RP
+2022,12,114,2022-07-29,Jason Adam,RP
+2022,12,114,2022-07-29,Andres Munoz,RP
+2022,12,115,2022-07-30,Cal Raleigh,C
+2022,12,115,2022-07-30,Anthony Rizzo,1B
+2022,12,115,2022-07-30,Jurickson Profar,2B
+2022,12,115,2022-07-30,Manny Machado,3B
+2022,12,115,2022-07-30,Corey Seager,SS
+2022,12,115,2022-07-30,Cody Bellinger,OF
+2022,12,115,2022-07-30,Tommy Pham,OF
+2022,12,115,2022-07-30,Gavin Lux,OF
+2022,12,115,2022-07-30,Jeremy Pena,UTIL
+2022,12,115,2022-07-30,Lourdes Gurriel Jr.,UTIL
+2022,12,115,2022-07-30,Giancarlo Stanton,Bench
+2022,12,115,2022-07-30,Jorge Soler,Bench
+2022,12,115,2022-07-30,Josh Donaldson,Bench
+2022,12,115,2022-07-30,Kenley Jansen,Bench
+2022,12,115,2022-07-30,Taijuan Walker,Bench
+2022,12,115,2022-07-30,Bryce Harper,IL
+2022,12,115,2022-07-30,Fernando Tatis Jr.,IL
+2022,12,115,2022-07-30,Jazz Chisholm Jr.,IL
+2022,12,115,2022-07-30,Corbin Burnes,SP
+2022,12,115,2022-07-30,Zac Gallen,SP
+2022,12,115,2022-07-30,Triston McKenzie,SP
+2022,12,115,2022-07-30,Martin Perez,SP
+2022,12,115,2022-07-30,Aaron Nola,SP
+2022,12,115,2022-07-30,Craig Kimbrel,RP
+2022,12,115,2022-07-30,Jason Adam,RP
+2022,12,115,2022-07-30,Andres Munoz,RP
+2022,12,116,2022-07-31,Cal Raleigh,C
+2022,12,116,2022-07-31,Anthony Rizzo,1B
+2022,12,116,2022-07-31,Jurickson Profar,2B
+2022,12,116,2022-07-31,Manny Machado,3B
+2022,12,116,2022-07-31,Corey Seager,SS
+2022,12,116,2022-07-31,Cody Bellinger,OF
+2022,12,116,2022-07-31,Tommy Pham,OF
+2022,12,116,2022-07-31,Gavin Lux,OF
+2022,12,116,2022-07-31,Jeremy Pena,UTIL
+2022,12,116,2022-07-31,Lourdes Gurriel Jr.,UTIL
+2022,12,116,2022-07-31,Giancarlo Stanton,Bench
+2022,12,116,2022-07-31,Jorge Soler,Bench
+2022,12,116,2022-07-31,Josh Donaldson,Bench
+2022,12,116,2022-07-31,Martin Perez,Bench
+2022,12,116,2022-07-31,Jason Adam,Bench
+2022,12,116,2022-07-31,Bryce Harper,IL
+2022,12,116,2022-07-31,Fernando Tatis Jr.,IL
+2022,12,116,2022-07-31,Jazz Chisholm Jr.,IL
+2022,12,116,2022-07-31,Corbin Burnes,SP
+2022,12,116,2022-07-31,Zac Gallen,SP
+2022,12,116,2022-07-31,Triston McKenzie,SP
+2022,12,116,2022-07-31,Taijuan Walker,SP
+2022,12,116,2022-07-31,Aaron Nola,SP
+2022,12,116,2022-07-31,Craig Kimbrel,RP
+2022,12,116,2022-07-31,Kenley Jansen,RP
+2022,12,116,2022-07-31,Andres Munoz,RP
+2022,12,117,2022-08-01,Cal Raleigh,C
+2022,12,117,2022-08-01,Anthony Rizzo,1B
+2022,12,117,2022-08-01,Jurickson Profar,2B
+2022,12,117,2022-08-01,Manny Machado,3B
+2022,12,117,2022-08-01,Corey Seager,SS
+2022,12,117,2022-08-01,Cody Bellinger,OF
+2022,12,117,2022-08-01,Tommy Pham,OF
+2022,12,117,2022-08-01,Gavin Lux,OF
+2022,12,117,2022-08-01,Josh Donaldson,UTIL
+2022,12,117,2022-08-01,Jeremy Pena,UTIL
+2022,12,117,2022-08-01,Giancarlo Stanton,Bench
+2022,12,117,2022-08-01,Jorge Soler,Bench
+2022,12,117,2022-08-01,Lourdes Gurriel Jr.,Bench
+2022,12,117,2022-08-01,Martin Perez,Bench
+2022,12,117,2022-08-01,Jason Adam,Bench
+2022,12,117,2022-08-01,Bryce Harper,IL
+2022,12,117,2022-08-01,Fernando Tatis Jr.,IL
+2022,12,117,2022-08-01,Jazz Chisholm Jr.,IL
+2022,12,117,2022-08-01,Corbin Burnes,SP
+2022,12,117,2022-08-01,Zac Gallen,SP
+2022,12,117,2022-08-01,Triston McKenzie,SP
+2022,12,117,2022-08-01,Taijuan Walker,SP
+2022,12,117,2022-08-01,Aaron Nola,SP
+2022,12,117,2022-08-01,Craig Kimbrel,RP
+2022,12,117,2022-08-01,Kenley Jansen,RP
+2022,12,117,2022-08-01,Andres Munoz,RP
+2022,12,118,2022-08-02,Cal Raleigh,C
+2022,12,118,2022-08-02,Anthony Rizzo,1B
+2022,12,118,2022-08-02,Jurickson Profar,2B
+2022,12,118,2022-08-02,Manny Machado,3B
+2022,12,118,2022-08-02,Corey Seager,SS
+2022,12,118,2022-08-02,Cody Bellinger,OF
+2022,12,118,2022-08-02,Tommy Pham,OF
+2022,12,118,2022-08-02,Gavin Lux,OF
+2022,12,118,2022-08-02,Jeremy Pena,UTIL
+2022,12,118,2022-08-02,Lourdes Gurriel Jr.,UTIL
+2022,12,118,2022-08-02,Giancarlo Stanton,Bench
+2022,12,118,2022-08-02,Jorge Soler,Bench
+2022,12,118,2022-08-02,Josh Donaldson,Bench
+2022,12,118,2022-08-02,Martin Perez,Bench
+2022,12,118,2022-08-02,Andres Munoz,Bench
+2022,12,118,2022-08-02,Bryce Harper,IL
+2022,12,118,2022-08-02,Fernando Tatis Jr.,IL
+2022,12,118,2022-08-02,Jazz Chisholm Jr.,IL
+2022,12,118,2022-08-02,Corbin Burnes,SP
+2022,12,118,2022-08-02,Zac Gallen,SP
+2022,12,118,2022-08-02,Triston McKenzie,SP
+2022,12,118,2022-08-02,Taijuan Walker,SP
+2022,12,118,2022-08-02,Aaron Nola,SP
+2022,12,118,2022-08-02,Craig Kimbrel,RP
+2022,12,118,2022-08-02,Kenley Jansen,RP
+2022,12,118,2022-08-02,Jason Adam,RP
+2022,12,119,2022-08-03,Cal Raleigh,C
+2022,12,119,2022-08-03,Anthony Rizzo,1B
+2022,12,119,2022-08-03,Jurickson Profar,2B
+2022,12,119,2022-08-03,Manny Machado,3B
+2022,12,119,2022-08-03,Corey Seager,SS
+2022,12,119,2022-08-03,Cody Bellinger,OF
+2022,12,119,2022-08-03,Postponed,OF
+2022,12,119,2022-08-03,Tommy Pham,OF
+2022,12,119,2022-08-03,Gavin Lux,OF
+2022,12,119,2022-08-03,Jeremy Pena,UTIL
+2022,12,119,2022-08-03,Lourdes Gurriel Jr.,UTIL
+2022,12,119,2022-08-03,Giancarlo Stanton,Bench
+2022,12,119,2022-08-03,Jorge Soler,Bench
+2022,12,119,2022-08-03,Josh Donaldson,Bench
+2022,12,119,2022-08-03,Aaron Nola,Bench
+2022,12,119,2022-08-03,Andres Munoz,Bench
+2022,12,119,2022-08-03,Bryce Harper,IL
+2022,12,119,2022-08-03,Fernando Tatis Jr.,IL
+2022,12,119,2022-08-03,Jazz Chisholm Jr.,IL
+2022,12,119,2022-08-03,Corbin Burnes,SP
+2022,12,119,2022-08-03,Zac Gallen,SP
+2022,12,119,2022-08-03,Triston McKenzie,SP
+2022,12,119,2022-08-03,Martin Perez,SP
+2022,12,119,2022-08-03,Taijuan Walker,SP
+2022,12,119,2022-08-03,Craig Kimbrel,RP
+2022,12,119,2022-08-03,Kenley Jansen,RP
+2022,12,119,2022-08-03,Jason Adam,RP
+2022,12,120,2022-08-04,Cal Raleigh,C
+2022,12,120,2022-08-04,Anthony Rizzo,1B
+2022,12,120,2022-08-04,Jurickson Profar,2B
+2022,12,120,2022-08-04,Manny Machado,3B
+2022,12,120,2022-08-04,Corey Seager,SS
+2022,12,120,2022-08-04,Cody Bellinger,OF
+2022,12,120,2022-08-04,Tommy Pham,OF
+2022,12,120,2022-08-04,Gavin Lux,OF
+2022,12,120,2022-08-04,Jeremy Pena,UTIL
+2022,12,120,2022-08-04,Lourdes Gurriel Jr.,UTIL
+2022,12,120,2022-08-04,Giancarlo Stanton,Bench
+2022,12,120,2022-08-04,Jorge Soler,Bench
+2022,12,120,2022-08-04,Josh Donaldson,Bench
+2022,12,120,2022-08-04,Aaron Nola,Bench
+2022,12,120,2022-08-04,Andres Munoz,Bench
+2022,12,120,2022-08-04,Bryce Harper,IL
+2022,12,120,2022-08-04,Fernando Tatis Jr.,IL
+2022,12,120,2022-08-04,Jazz Chisholm Jr.,IL
+2022,12,120,2022-08-04,Corbin Burnes,SP
+2022,12,120,2022-08-04,Zac Gallen,SP
+2022,12,120,2022-08-04,Triston McKenzie,SP
+2022,12,120,2022-08-04,Martin Perez,SP
+2022,12,120,2022-08-04,Taijuan Walker,SP
+2022,12,120,2022-08-04,Craig Kimbrel,RP
+2022,12,120,2022-08-04,Kenley Jansen,RP
+2022,12,120,2022-08-04,Jason Adam,RP
+2022,12,121,2022-08-05,Cal Raleigh,C
+2022,12,121,2022-08-05,Anthony Rizzo,1B
+2022,12,121,2022-08-05,Jurickson Profar,2B
+2022,12,121,2022-08-05,Manny Machado,3B
+2022,12,121,2022-08-05,Corey Seager,SS
+2022,12,121,2022-08-05,Cody Bellinger,OF
+2022,12,121,2022-08-05,Tommy Pham,OF
+2022,12,121,2022-08-05,Lourdes Gurriel Jr.,OF
+2022,12,121,2022-08-05,Josh Donaldson,UTIL
+2022,12,121,2022-08-05,Jeremy Pena,UTIL
+2022,12,121,2022-08-05,Giancarlo Stanton,Bench
+2022,12,121,2022-08-05,Jorge Soler,Bench
+2022,12,121,2022-08-05,Gavin Lux,Bench
+2022,12,121,2022-08-05,Taijuan Walker,Bench
+2022,12,121,2022-08-05,Andres Munoz,Bench
+2022,12,121,2022-08-05,Bryce Harper,IL
+2022,12,121,2022-08-05,Fernando Tatis Jr.,IL
+2022,12,121,2022-08-05,Jazz Chisholm Jr.,IL
+2022,12,121,2022-08-05,Corbin Burnes,SP
+2022,12,121,2022-08-05,Zac Gallen,SP
+2022,12,121,2022-08-05,Triston McKenzie,SP
+2022,12,121,2022-08-05,Martin Perez,SP
+2022,12,121,2022-08-05,Aaron Nola,SP
+2022,12,121,2022-08-05,Craig Kimbrel,RP
+2022,12,121,2022-08-05,Kenley Jansen,RP
+2022,12,121,2022-08-05,Jason Adam,RP
+2022,12,122,2022-08-06,Cal Raleigh,C
+2022,12,122,2022-08-06,Anthony Rizzo,1B
+2022,12,122,2022-08-06,Jurickson Profar,2B
+2022,12,122,2022-08-06,Manny Machado,3B
+2022,12,122,2022-08-06,Corey Seager,SS
+2022,12,122,2022-08-06,Cody Bellinger,OF
+2022,12,122,2022-08-06,Tommy Pham,OF
+2022,12,122,2022-08-06,Gavin Lux,OF
+2022,12,122,2022-08-06,Josh Donaldson,UTIL
+2022,12,122,2022-08-06,Lourdes Gurriel Jr.,UTIL
+2022,12,122,2022-08-06,Giancarlo Stanton,Bench
+2022,12,122,2022-08-06,Jorge Soler,Bench
+2022,12,122,2022-08-06,Jeremy Pena,Bench
+2022,12,122,2022-08-06,Seth Brown,Bench
+2022,12,122,2022-08-06,Zac Gallen,Bench
+2022,12,122,2022-08-06,Bryce Harper,IL
+2022,12,122,2022-08-06,Fernando Tatis Jr.,IL
+2022,12,122,2022-08-06,Jazz Chisholm Jr.,IL
+2022,12,122,2022-08-06,Corbin Burnes,SP
+2022,12,122,2022-08-06,Triston McKenzie,SP
+2022,12,122,2022-08-06,Martin Perez,SP
+2022,12,122,2022-08-06,Taijuan Walker,SP
+2022,12,122,2022-08-06,Aaron Nola,SP
+2022,12,122,2022-08-06,Craig Kimbrel,RP
+2022,12,122,2022-08-06,Kenley Jansen,RP
+2022,12,122,2022-08-06,Jason Adam,RP
+2022,12,123,2022-08-07,Cal Raleigh,C
+2022,12,123,2022-08-07,Lourdes Gurriel Jr.,1B
+2022,12,123,2022-08-07,Jurickson Profar,2B
+2022,12,123,2022-08-07,Manny Machado,3B
+2022,12,123,2022-08-07,Corey Seager,SS
+2022,12,123,2022-08-07,Cody Bellinger,OF
+2022,12,123,2022-08-07,Tommy Pham,OF
+2022,12,123,2022-08-07,Gavin Lux,OF
+2022,12,123,2022-08-07,Josh Donaldson,UTIL
+2022,12,123,2022-08-07,Jeremy Pena,UTIL
+2022,12,123,2022-08-07,Giancarlo Stanton,Bench
+2022,12,123,2022-08-07,Jorge Soler,Bench
+2022,12,123,2022-08-07,Anthony Rizzo,Bench
+2022,12,123,2022-08-07,Seth Brown,Bench
+2022,12,123,2022-08-07,Zac Gallen,Bench
+2022,12,123,2022-08-07,Bryce Harper,IL
+2022,12,123,2022-08-07,Fernando Tatis Jr.,IL
+2022,12,123,2022-08-07,Jazz Chisholm Jr.,IL
+2022,12,123,2022-08-07,Corbin Burnes,SP
+2022,12,123,2022-08-07,Triston McKenzie,SP
+2022,12,123,2022-08-07,Martin Perez,SP
+2022,12,123,2022-08-07,Taijuan Walker,SP
+2022,12,123,2022-08-07,Aaron Nola,SP
+2022,12,123,2022-08-07,Craig Kimbrel,RP
+2022,12,123,2022-08-07,Kenley Jansen,RP
+2022,12,123,2022-08-07,Jason Adam,RP
+2022,12,124,2022-08-08,Cal Raleigh,C
+2022,12,124,2022-08-08,Anthony Rizzo,1B
+2022,12,124,2022-08-08,Jurickson Profar,2B
+2022,12,124,2022-08-08,Manny Machado,3B
+2022,12,124,2022-08-08,Corey Seager,SS
+2022,12,124,2022-08-08,Cody Bellinger,OF
+2022,12,124,2022-08-08,Tommy Pham,OF
+2022,12,124,2022-08-08,Lourdes Gurriel Jr.,OF
+2022,12,124,2022-08-08,Josh Donaldson,UTIL
+2022,12,124,2022-08-08,Seth Brown,UTIL
+2022,12,124,2022-08-08,Giancarlo Stanton,Bench
+2022,12,124,2022-08-08,Jorge Soler,Bench
+2022,12,124,2022-08-08,Jeremy Pena,Bench
+2022,12,124,2022-08-08,Gavin Lux,Bench
+2022,12,124,2022-08-08,Martin Perez,Bench
+2022,12,124,2022-08-08,Bryce Harper,IL
+2022,12,124,2022-08-08,Fernando Tatis Jr.,IL
+2022,12,124,2022-08-08,Jazz Chisholm Jr.,IL
+2022,12,124,2022-08-08,Corbin Burnes,SP
+2022,12,124,2022-08-08,Zac Gallen,SP
+2022,12,124,2022-08-08,Triston McKenzie,SP
+2022,12,124,2022-08-08,Taijuan Walker,SP
+2022,12,124,2022-08-08,Aaron Nola,SP
+2022,12,124,2022-08-08,Craig Kimbrel,RP
+2022,12,124,2022-08-08,Kenley Jansen,RP
+2022,12,124,2022-08-08,Jason Adam,RP
+2022,12,125,2022-08-09,Cal Raleigh,C
+2022,12,125,2022-08-09,Seth Brown,1B
+2022,12,125,2022-08-09,Jurickson Profar,2B
+2022,12,125,2022-08-09,Manny Machado,3B
+2022,12,125,2022-08-09,Corey Seager,SS
+2022,12,125,2022-08-09,Cody Bellinger,OF
+2022,12,125,2022-08-09,Tommy Pham,OF
+2022,12,125,2022-08-09,Lourdes Gurriel Jr.,OF
+2022,12,125,2022-08-09,Josh Donaldson,UTIL
+2022,12,125,2022-08-09,Gavin Lux,UTIL
+2022,12,125,2022-08-09,Giancarlo Stanton,Bench
+2022,12,125,2022-08-09,Jorge Soler,Bench
+2022,12,125,2022-08-09,Jeremy Pena,Bench
+2022,12,125,2022-08-09,Anthony Rizzo,Bench
+2022,12,125,2022-08-09,Taijuan Walker,Bench
+2022,12,125,2022-08-09,Bryce Harper,IL
+2022,12,125,2022-08-09,Fernando Tatis Jr.,IL
+2022,12,125,2022-08-09,Jazz Chisholm Jr.,IL
+2022,12,125,2022-08-09,Corbin Burnes,SP
+2022,12,125,2022-08-09,Zac Gallen,SP
+2022,12,125,2022-08-09,Triston McKenzie,SP
+2022,12,125,2022-08-09,Martin Perez,SP
+2022,12,125,2022-08-09,Aaron Nola,SP
+2022,12,125,2022-08-09,Craig Kimbrel,RP
+2022,12,125,2022-08-09,Kenley Jansen,RP
+2022,12,125,2022-08-09,Jason Adam,RP
+2022,12,126,2022-08-10,Cal Raleigh,C
+2022,12,126,2022-08-10,Seth Brown,1B
+2022,12,126,2022-08-10,Jurickson Profar,2B
+2022,12,126,2022-08-10,Manny Machado,3B
+2022,12,126,2022-08-10,Corey Seager,SS
+2022,12,126,2022-08-10,Cody Bellinger,OF
+2022,12,126,2022-08-10,Tommy Pham,OF
+2022,12,126,2022-08-10,Lourdes Gurriel Jr.,OF
+2022,12,126,2022-08-10,Josh Donaldson,UTIL
+2022,12,126,2022-08-10,Anthony Rizzo,UTIL
+2022,12,126,2022-08-10,Giancarlo Stanton,Bench
+2022,12,126,2022-08-10,Jorge Soler,Bench
+2022,12,126,2022-08-10,Jeremy Pena,Bench
+2022,12,126,2022-08-10,Gavin Lux,Bench
+2022,12,126,2022-08-10,Nick Gordon,Bench
+2022,12,126,2022-08-10,Bryce Harper,IL
+2022,12,126,2022-08-10,Fernando Tatis Jr.,IL
+2022,12,126,2022-08-10,Jazz Chisholm Jr.,IL
+2022,12,126,2022-08-10,Corbin Burnes,SP
+2022,12,126,2022-08-10,Zac Gallen,SP
+2022,12,126,2022-08-10,Triston McKenzie,SP
+2022,12,126,2022-08-10,Martin Perez,SP
+2022,12,126,2022-08-10,Aaron Nola,SP
+2022,12,126,2022-08-10,Craig Kimbrel,RP
+2022,12,126,2022-08-10,Kenley Jansen,RP
+2022,12,126,2022-08-10,Jason Adam,RP
+2022,12,127,2022-08-11,Cal Raleigh,C
+2022,12,127,2022-08-11,Seth Brown,1B
+2022,12,127,2022-08-11,Jurickson Profar,2B
+2022,12,127,2022-08-11,Manny Machado,3B
+2022,12,127,2022-08-11,Corey Seager,SS
+2022,12,127,2022-08-11,Cody Bellinger,OF
+2022,12,127,2022-08-11,Tommy Pham,OF
+2022,12,127,2022-08-11,Lars Nootbaar,OF
+2022,12,127,2022-08-11,Jeremy Pena,UTIL
+2022,12,127,2022-08-11,Anthony Rizzo,UTIL
+2022,12,127,2022-08-11,Giancarlo Stanton,Bench
+2022,12,127,2022-08-11,Jorge Soler,Bench
+2022,12,127,2022-08-11,Josh Donaldson,Bench
+2022,12,127,2022-08-11,Lourdes Gurriel Jr.,Bench
+2022,12,127,2022-08-11,Gavin Lux,Bench
+2022,12,127,2022-08-11,Triston McKenzie,Bench
+2022,12,127,2022-08-11,Bryce Harper,IL
+2022,12,127,2022-08-11,Fernando Tatis Jr.,IL
+2022,12,127,2022-08-11,Jazz Chisholm Jr.,IL
+2022,12,127,2022-08-11,Corbin Burnes,SP
+2022,12,127,2022-08-11,Zac Gallen,SP
+2022,12,127,2022-08-11,Martin Perez,SP
+2022,12,127,2022-08-11,Aaron Nola,SP
+2022,12,127,2022-08-11,Craig Kimbrel,RP
+2022,12,127,2022-08-11,Kenley Jansen,RP
+2022,12,127,2022-08-11,Jason Adam,RP
+2022,12,128,2022-08-12,Cal Raleigh,C
+2022,12,128,2022-08-12,Seth Brown,1B
+2022,12,128,2022-08-12,Jurickson Profar,2B
+2022,12,128,2022-08-12,Manny Machado,3B
+2022,12,128,2022-08-12,Corey Seager,SS
+2022,12,128,2022-08-12,Cody Bellinger,OF
+2022,12,128,2022-08-12,Tommy Pham,OF
+2022,12,128,2022-08-12,Lars Nootbaar,OF
+2022,12,128,2022-08-12,Jeremy Pena,UTIL
+2022,12,128,2022-08-12,Anthony Rizzo,UTIL
+2022,12,128,2022-08-12,Giancarlo Stanton,Bench
+2022,12,128,2022-08-12,Jorge Soler,Bench
+2022,12,128,2022-08-12,Josh Donaldson,Bench
+2022,12,128,2022-08-12,Lourdes Gurriel Jr.,Bench
+2022,12,128,2022-08-12,Gavin Lux,Bench
+2022,12,128,2022-08-12,Triston McKenzie,Bench
+2022,12,128,2022-08-12,Bryce Harper,IL
+2022,12,128,2022-08-12,Fernando Tatis Jr.,IL
+2022,12,128,2022-08-12,Jazz Chisholm Jr.,IL
+2022,12,128,2022-08-12,Corbin Burnes,SP
+2022,12,128,2022-08-12,Zac Gallen,SP
+2022,12,128,2022-08-12,Martin Perez,SP
+2022,12,128,2022-08-12,Aaron Nola,SP
+2022,12,128,2022-08-12,Craig Kimbrel,RP
+2022,12,128,2022-08-12,Kenley Jansen,RP
+2022,12,128,2022-08-12,Jason Adam,RP
+2022,12,129,2022-08-13,Cal Raleigh,C
+2022,12,129,2022-08-13,Seth Brown,1B
+2022,12,129,2022-08-13,Jurickson Profar,2B
+2022,12,129,2022-08-13,Manny Machado,3B
+2022,12,129,2022-08-13,Corey Seager,SS
+2022,12,129,2022-08-13,Cody Bellinger,OF
+2022,12,129,2022-08-13,Tommy Pham,OF
+2022,12,129,2022-08-13,Lourdes Gurriel Jr.,OF
+2022,12,129,2022-08-13,Josh Donaldson,UTIL
+2022,12,129,2022-08-13,Anthony Rizzo,UTIL
+2022,12,129,2022-08-13,Giancarlo Stanton,Bench
+2022,12,129,2022-08-13,Jorge Soler,Bench
+2022,12,129,2022-08-13,Jeremy Pena,Bench
+2022,12,129,2022-08-13,Gavin Lux,Bench
+2022,12,129,2022-08-13,Lars Nootbaar,Bench
+2022,12,129,2022-08-13,Bryce Harper,IL
+2022,12,129,2022-08-13,Fernando Tatis Jr.,IL
+2022,12,129,2022-08-13,Jazz Chisholm Jr.,IL
+2022,12,129,2022-08-13,Corbin Burnes,SP
+2022,12,129,2022-08-13,Zac Gallen,SP
+2022,12,129,2022-08-13,Triston McKenzie,SP
+2022,12,129,2022-08-13,Martin Perez,SP
+2022,12,129,2022-08-13,Aaron Nola,SP
+2022,12,129,2022-08-13,Craig Kimbrel,RP
+2022,12,129,2022-08-13,Kenley Jansen,RP
+2022,12,129,2022-08-13,Jason Adam,RP
+2022,12,130,2022-08-14,Cal Raleigh,C
+2022,12,130,2022-08-14,Lourdes Gurriel Jr.,1B
+2022,12,130,2022-08-14,Jurickson Profar,2B
+2022,12,130,2022-08-14,Manny Machado,3B
+2022,12,130,2022-08-14,Corey Seager,SS
+2022,12,130,2022-08-14,Cody Bellinger,OF
+2022,12,130,2022-08-14,Tommy Pham,OF
+2022,12,130,2022-08-14,Gavin Lux,OF
+2022,12,130,2022-08-14,Jeremy Pena,UTIL
+2022,12,130,2022-08-14,Anthony Rizzo,UTIL
+2022,12,130,2022-08-14,Giancarlo Stanton,Bench
+2022,12,130,2022-08-14,Jorge Soler,Bench
+2022,12,130,2022-08-14,Josh Donaldson,Bench
+2022,12,130,2022-08-14,Seth Brown,Bench
+2022,12,130,2022-08-14,Lars Nootbaar,Bench
+2022,12,130,2022-08-14,Bryce Harper,IL
+2022,12,130,2022-08-14,Fernando Tatis Jr.,IL
+2022,12,130,2022-08-14,Jazz Chisholm Jr.,IL
+2022,12,130,2022-08-14,Corbin Burnes,SP
+2022,12,130,2022-08-14,Zac Gallen,SP
+2022,12,130,2022-08-14,Triston McKenzie,SP
+2022,12,130,2022-08-14,Martin Perez,SP
+2022,12,130,2022-08-14,Aaron Nola,SP
+2022,12,130,2022-08-14,Craig Kimbrel,RP
+2022,12,130,2022-08-14,Kenley Jansen,RP
+2022,12,130,2022-08-14,Jason Adam,RP
+2022,12,131,2022-08-15,Cal Raleigh,C
+2022,12,131,2022-08-15,Anthony Rizzo,1B
+2022,12,131,2022-08-15,Jurickson Profar,2B
+2022,12,131,2022-08-15,Manny Machado,3B
+2022,12,131,2022-08-15,Corey Seager,SS
+2022,12,131,2022-08-15,Cody Bellinger,OF
+2022,12,131,2022-08-15,Gavin Lux,OF
+2022,12,131,2022-08-15,Seth Brown,OF
+2022,12,131,2022-08-15,Jeremy Pena,UTIL
+2022,12,131,2022-08-15,Lourdes Gurriel Jr.,UTIL
+2022,12,131,2022-08-15,Fernando Tatis Jr.,Bench
+2022,12,131,2022-08-15,Giancarlo Stanton,Bench
+2022,12,131,2022-08-15,Josh Donaldson,Bench
+2022,12,131,2022-08-15,Tommy Pham,Bench
+2022,12,131,2022-08-15,Lars Nootbaar,Bench
+2022,12,131,2022-08-15,Bryce Harper,IL
+2022,12,131,2022-08-15,Jazz Chisholm Jr.,IL
+2022,12,131,2022-08-15,Jorge Soler,IL
+2022,12,131,2022-08-15,Corbin Burnes,SP
+2022,12,131,2022-08-15,Zac Gallen,SP
+2022,12,131,2022-08-15,Triston McKenzie,SP
+2022,12,131,2022-08-15,Martin Perez,SP
+2022,12,131,2022-08-15,Aaron Nola,SP
+2022,12,131,2022-08-15,Craig Kimbrel,RP
+2022,12,131,2022-08-15,Kenley Jansen,RP
+2022,12,131,2022-08-15,Jason Adam,RP
+2022,12,132,2022-08-16,Cal Raleigh,C
+2022,12,132,2022-08-16,Anthony Rizzo,1B
+2022,12,132,2022-08-16,Jurickson Profar,2B
+2022,12,132,2022-08-16,Manny Machado,3B
+2022,12,132,2022-08-16,Corey Seager,SS
+2022,12,132,2022-08-16,Tommy Pham,OF
+2022,12,132,2022-08-16,Lourdes Gurriel Jr.,OF
+2022,12,132,2022-08-16,Gavin Lux,OF
+2022,12,132,2022-08-16,Josh Donaldson,UTIL
+2022,12,132,2022-08-16,Jeremy Pena,UTIL
+2022,12,132,2022-08-16,Fernando Tatis Jr.,Bench
+2022,12,132,2022-08-16,Cody Bellinger,Bench
+2022,12,132,2022-08-16,Giancarlo Stanton,Bench
+2022,12,132,2022-08-16,Jason Adam,Bench
+2022,12,132,2022-08-16,Mike Clevinger,Bench
+2022,12,132,2022-08-16,Bryce Harper,IL
+2022,12,132,2022-08-16,Jazz Chisholm Jr.,IL
+2022,12,132,2022-08-16,Jorge Soler,IL
+2022,12,132,2022-08-16,Corbin Burnes,SP
+2022,12,132,2022-08-16,Zac Gallen,SP
+2022,12,132,2022-08-16,Triston McKenzie,SP
+2022,12,132,2022-08-16,Martin Perez,SP
+2022,12,132,2022-08-16,Aaron Nola,SP
+2022,12,132,2022-08-16,Craig Kimbrel,RP
+2022,12,132,2022-08-16,Kenley Jansen,RP
+2022,12,132,2022-08-16,Scott Effross,RP
+2022,12,133,2022-08-17,Cal Raleigh,C
+2022,12,133,2022-08-17,Anthony Rizzo,1B
+2022,12,133,2022-08-17,Jurickson Profar,2B
+2022,12,133,2022-08-17,Manny Machado,3B
+2022,12,133,2022-08-17,Corey Seager,SS
+2022,12,133,2022-08-17,Tommy Pham,OF
+2022,12,133,2022-08-17,Lourdes Gurriel Jr.,OF
+2022,12,133,2022-08-17,Gavin Lux,OF
+2022,12,133,2022-08-17,Josh Donaldson,UTIL
+2022,12,133,2022-08-17,Jeremy Pena,UTIL
+2022,12,133,2022-08-17,Fernando Tatis Jr.,Bench
+2022,12,133,2022-08-17,Cody Bellinger,Bench
+2022,12,133,2022-08-17,Giancarlo Stanton,Bench
+2022,12,133,2022-08-17,Martin Perez,Bench
+2022,12,133,2022-08-17,Jason Adam,Bench
+2022,12,133,2022-08-17,Bryce Harper,IL
+2022,12,133,2022-08-17,Jazz Chisholm Jr.,IL
+2022,12,133,2022-08-17,Jorge Soler,IL
+2022,12,133,2022-08-17,Corbin Burnes,SP
+2022,12,133,2022-08-17,Zac Gallen,SP
+2022,12,133,2022-08-17,Triston McKenzie,SP
+2022,12,133,2022-08-17,Aaron Nola,SP
+2022,12,133,2022-08-17,Mike Clevinger,SP
+2022,12,133,2022-08-17,Craig Kimbrel,RP
+2022,12,133,2022-08-17,Kenley Jansen,RP
+2022,12,133,2022-08-17,Scott Effross,RP
+2022,12,134,2022-08-18,Cal Raleigh,C
+2022,12,134,2022-08-18,Anthony Rizzo,1B
+2022,12,134,2022-08-18,Jurickson Profar,2B
+2022,12,134,2022-08-18,Manny Machado,3B
+2022,12,134,2022-08-18,Corey Seager,SS
+2022,12,134,2022-08-18,Tommy Pham,OF
+2022,12,134,2022-08-18,Lourdes Gurriel Jr.,OF
+2022,12,134,2022-08-18,Gavin Lux,OF
+2022,12,134,2022-08-18,Josh Donaldson,UTIL
+2022,12,134,2022-08-18,Jeremy Pena,UTIL
+2022,12,134,2022-08-18,Fernando Tatis Jr.,Bench
+2022,12,134,2022-08-18,Cody Bellinger,Bench
+2022,12,134,2022-08-18,Giancarlo Stanton,Bench
+2022,12,134,2022-08-18,Martin Perez,Bench
+2022,12,134,2022-08-18,Scott Effross,Bench
+2022,12,134,2022-08-18,Bryce Harper,IL
+2022,12,134,2022-08-18,Jazz Chisholm Jr.,IL
+2022,12,134,2022-08-18,Jorge Soler,IL
+2022,12,134,2022-08-18,Corbin Burnes,SP
+2022,12,134,2022-08-18,Zac Gallen,SP
+2022,12,134,2022-08-18,Triston McKenzie,SP
+2022,12,134,2022-08-18,Aaron Nola,SP
+2022,12,134,2022-08-18,Mike Clevinger,SP
+2022,12,134,2022-08-18,Craig Kimbrel,RP
+2022,12,134,2022-08-18,Kenley Jansen,RP
+2022,12,134,2022-08-18,Jason Adam,RP
+2022,12,135,2022-08-19,William Contreras,C
+2022,12,135,2022-08-19,Anthony Rizzo,1B
+2022,12,135,2022-08-19,Jurickson Profar,2B
+2022,12,135,2022-08-19,Manny Machado,3B
+2022,12,135,2022-08-19,Corey Seager,SS
+2022,12,135,2022-08-19,Tommy Pham,OF
+2022,12,135,2022-08-19,Lourdes Gurriel Jr.,OF
+2022,12,135,2022-08-19,Gavin Lux,OF
+2022,12,135,2022-08-19,Josh Donaldson,UTIL
+2022,12,135,2022-08-19,Jeremy Pena,UTIL
+2022,12,135,2022-08-19,Fernando Tatis Jr.,Bench
+2022,12,135,2022-08-19,Cody Bellinger,Bench
+2022,12,135,2022-08-19,Giancarlo Stanton,Bench
+2022,12,135,2022-08-19,Lars Nootbaar,Bench
+2022,12,135,2022-08-19,Seth Brown,Bench
+2022,12,135,2022-08-19,Bryce Harper,IL
+2022,12,135,2022-08-19,Jazz Chisholm Jr.,IL
+2022,12,135,2022-08-19,Jorge Soler,IL
+2022,12,135,2022-08-19,Corbin Burnes,SP
+2022,12,135,2022-08-19,Zac Gallen,SP
+2022,12,135,2022-08-19,Triston McKenzie,SP
+2022,12,135,2022-08-19,Martin Perez,SP
+2022,12,135,2022-08-19,Aaron Nola,SP
+2022,12,135,2022-08-19,Craig Kimbrel,RP
+2022,12,135,2022-08-19,Kenley Jansen,RP
+2022,12,135,2022-08-19,Jason Adam,RP
+2022,12,136,2022-08-20,Anthony Rizzo,1B
+2022,12,136,2022-08-20,Jurickson Profar,2B
+2022,12,136,2022-08-20,Manny Machado,3B
+2022,12,136,2022-08-20,Corey Seager,SS
+2022,12,136,2022-08-20,Tommy Pham,OF
+2022,12,136,2022-08-20,Gavin Lux,OF
+2022,12,136,2022-08-20,Seth Brown,OF
+2022,12,136,2022-08-20,Cody Bellinger,UTIL
+2022,12,136,2022-08-20,Jeremy Pena,UTIL
+2022,12,136,2022-08-20,Fernando Tatis Jr.,Bench
+2022,12,136,2022-08-20,Giancarlo Stanton,Bench
+2022,12,136,2022-08-20,Josh Donaldson,Bench
+2022,12,136,2022-08-20,Lourdes Gurriel Jr.,Bench
+2022,12,136,2022-08-20,Kenley Jansen,Bench
+2022,12,136,2022-08-20,Martin Perez,Bench
+2022,12,136,2022-08-20,Bryce Harper,IL
+2022,12,136,2022-08-20,Jazz Chisholm Jr.,IL
+2022,12,136,2022-08-20,Jorge Soler,IL
+2022,12,136,2022-08-20,Corbin Burnes,SP
+2022,12,136,2022-08-20,Zac Gallen,SP
+2022,12,136,2022-08-20,Triston McKenzie,SP
+2022,12,136,2022-08-20,Aaron Nola,SP
+2022,12,136,2022-08-20,Michael Wacha,SP
+2022,12,136,2022-08-20,Craig Kimbrel,RP
+2022,12,136,2022-08-20,Jason Adam,RP
+2022,12,136,2022-08-20,Adam Ottavino,RP
+2022,12,137,2022-08-21,Cal Raleigh,C
+2022,12,137,2022-08-21,Anthony Rizzo,1B
+2022,12,137,2022-08-21,Jurickson Profar,2B
+2022,12,137,2022-08-21,Manny Machado,3B
+2022,12,137,2022-08-21,Corey Seager,SS
+2022,12,137,2022-08-21,Tommy Pham,OF
+2022,12,137,2022-08-21,Lourdes Gurriel Jr.,OF
+2022,12,137,2022-08-21,Gavin Lux,OF
+2022,12,137,2022-08-21,Cody Bellinger,UTIL
+2022,12,137,2022-08-21,Jeremy Pena,UTIL
+2022,12,137,2022-08-21,Fernando Tatis Jr.,Bench
+2022,12,137,2022-08-21,Giancarlo Stanton,Bench
+2022,12,137,2022-08-21,Josh Donaldson,Bench
+2022,12,137,2022-08-21,Martin Perez,Bench
+2022,12,137,2022-08-21,Jason Adam,Bench
+2022,12,137,2022-08-21,Bryce Harper,IL
+2022,12,137,2022-08-21,Jazz Chisholm Jr.,IL
+2022,12,137,2022-08-21,Jorge Soler,IL
+2022,12,137,2022-08-21,Corbin Burnes,SP
+2022,12,137,2022-08-21,Zac Gallen,SP
+2022,12,137,2022-08-21,Triston McKenzie,SP
+2022,12,137,2022-08-21,Aaron Nola,SP
+2022,12,137,2022-08-21,Michael Wacha,SP
+2022,12,137,2022-08-21,Craig Kimbrel,RP
+2022,12,137,2022-08-21,Kenley Jansen,RP
+2022,12,137,2022-08-21,David Phelps,RP
+2022,12,138,2022-08-22,Cal Raleigh,C
+2022,12,138,2022-08-22,Anthony Rizzo,1B
+2022,12,138,2022-08-22,Jurickson Profar,2B
+2022,12,138,2022-08-22,Manny Machado,3B
+2022,12,138,2022-08-22,Corey Seager,SS
+2022,12,138,2022-08-22,Tommy Pham,OF
+2022,12,138,2022-08-22,Lourdes Gurriel Jr.,OF
+2022,12,138,2022-08-22,Gavin Lux,OF
+2022,12,138,2022-08-22,Cody Bellinger,UTIL
+2022,12,138,2022-08-22,Josh Donaldson,UTIL
+2022,12,138,2022-08-22,Fernando Tatis Jr.,Bench
+2022,12,138,2022-08-22,Giancarlo Stanton,Bench
+2022,12,138,2022-08-22,Jeremy Pena,Bench
+2022,12,138,2022-08-22,Martin Perez,Bench
+2022,12,138,2022-08-22,Jesus Luzardo,Bench
+2022,12,138,2022-08-22,Bryce Harper,IL
+2022,12,138,2022-08-22,Jazz Chisholm Jr.,IL
+2022,12,138,2022-08-22,Jorge Soler,IL
+2022,12,138,2022-08-22,Corbin Burnes,SP
+2022,12,138,2022-08-22,Zac Gallen,SP
+2022,12,138,2022-08-22,Triston McKenzie,SP
+2022,12,138,2022-08-22,Aaron Nola,SP
+2022,12,138,2022-08-22,Michael Wacha,SP
+2022,12,138,2022-08-22,Craig Kimbrel,RP
+2022,12,138,2022-08-22,Kenley Jansen,RP
+2022,12,138,2022-08-22,Jason Adam,RP
+2022,12,139,2022-08-23,Cal Raleigh,C
+2022,12,139,2022-08-23,Anthony Rizzo,1B
+2022,12,139,2022-08-23,Jurickson Profar,2B
+2022,12,139,2022-08-23,Manny Machado,3B
+2022,12,139,2022-08-23,Corey Seager,SS
+2022,12,139,2022-08-23,Tommy Pham,OF
+2022,12,139,2022-08-23,Lourdes Gurriel Jr.,OF
+2022,12,139,2022-08-23,Gavin Lux,OF
+2022,12,139,2022-08-23,Cody Bellinger,UTIL
+2022,12,139,2022-08-23,Jeremy Pena,UTIL
+2022,12,139,2022-08-23,Fernando Tatis Jr.,Bench
+2022,12,139,2022-08-23,Giancarlo Stanton,Bench
+2022,12,139,2022-08-23,Josh Donaldson,Bench
+2022,12,139,2022-08-23,Martin Perez,Bench
+2022,12,139,2022-08-23,Jesus Luzardo,Bench
+2022,12,139,2022-08-23,Bryce Harper,IL
+2022,12,139,2022-08-23,Jazz Chisholm Jr.,IL
+2022,12,139,2022-08-23,Jorge Soler,IL
+2022,12,139,2022-08-23,Corbin Burnes,SP
+2022,12,139,2022-08-23,Zac Gallen,SP
+2022,12,139,2022-08-23,Triston McKenzie,SP
+2022,12,139,2022-08-23,Aaron Nola,SP
+2022,12,139,2022-08-23,Michael Wacha,SP
+2022,12,139,2022-08-23,Craig Kimbrel,RP
+2022,12,139,2022-08-23,Kenley Jansen,RP
+2022,12,139,2022-08-23,Jason Adam,RP
+2022,12,140,2022-08-24,Cal Raleigh,C
+2022,12,140,2022-08-24,Anthony Rizzo,1B
+2022,12,140,2022-08-24,Jurickson Profar,2B
+2022,12,140,2022-08-24,Manny Machado,3B
+2022,12,140,2022-08-24,Corey Seager,SS
+2022,12,140,2022-08-24,Tommy Pham,OF
+2022,12,140,2022-08-24,Lourdes Gurriel Jr.,OF
+2022,12,140,2022-08-24,Gavin Lux,OF
+2022,12,140,2022-08-24,Cody Bellinger,UTIL
+2022,12,140,2022-08-24,Jeremy Pena,UTIL
+2022,12,140,2022-08-24,Fernando Tatis Jr.,Bench
+2022,12,140,2022-08-24,Giancarlo Stanton,Bench
+2022,12,140,2022-08-24,Josh Donaldson,Bench
+2022,12,140,2022-08-24,Triston McKenzie,Bench
+2022,12,140,2022-08-24,Martin Perez,Bench
+2022,12,140,2022-08-24,Bryce Harper,IL
+2022,12,140,2022-08-24,Jazz Chisholm Jr.,IL
+2022,12,140,2022-08-24,Jorge Soler,IL
+2022,12,140,2022-08-24,Corbin Burnes,SP
+2022,12,140,2022-08-24,Zac Gallen,SP
+2022,12,140,2022-08-24,Aaron Nola,SP
+2022,12,140,2022-08-24,Michael Wacha,SP
+2022,12,140,2022-08-24,Jesus Luzardo,SP
+2022,12,140,2022-08-24,Craig Kimbrel,RP
+2022,12,140,2022-08-24,Kenley Jansen,RP
+2022,12,140,2022-08-24,Jason Adam,RP
+2022,12,141,2022-08-25,Cal Raleigh,C
+2022,12,141,2022-08-25,Anthony Rizzo,1B
+2022,12,141,2022-08-25,Jurickson Profar,2B
+2022,12,141,2022-08-25,Manny Machado,3B
+2022,12,141,2022-08-25,Corey Seager,SS
+2022,12,141,2022-08-25,Giancarlo Stanton,OF
+2022,12,141,2022-08-25,Tommy Pham,OF
+2022,12,141,2022-08-25,Lourdes Gurriel Jr.,OF
+2022,12,141,2022-08-25,Josh Donaldson,UTIL
+2022,12,141,2022-08-25,Jeremy Pena,UTIL
+2022,12,141,2022-08-25,Fernando Tatis Jr.,Bench
+2022,12,141,2022-08-25,Cody Bellinger,Bench
+2022,12,141,2022-08-25,Gavin Lux,Bench
+2022,12,141,2022-08-25,Martin Perez,Bench
+2022,12,141,2022-08-25,Michael Wacha,Bench
+2022,12,141,2022-08-25,Bryce Harper,IL
+2022,12,141,2022-08-25,Jazz Chisholm Jr.,IL
+2022,12,141,2022-08-25,Jorge Soler,IL
+2022,12,141,2022-08-25,Corbin Burnes,SP
+2022,12,141,2022-08-25,Zac Gallen,SP
+2022,12,141,2022-08-25,Triston McKenzie,SP
+2022,12,141,2022-08-25,Aaron Nola,SP
+2022,12,141,2022-08-25,Jameson Taillon,SP
+2022,12,141,2022-08-25,Craig Kimbrel,RP
+2022,12,141,2022-08-25,Kenley Jansen,RP
+2022,12,141,2022-08-25,Jason Adam,RP
+2022,12,142,2022-08-26,Cal Raleigh,C
+2022,12,142,2022-08-26,Anthony Rizzo,1B
+2022,12,142,2022-08-26,Jurickson Profar,2B
+2022,12,142,2022-08-26,Manny Machado,3B
+2022,12,142,2022-08-26,Corey Seager,SS
+2022,12,142,2022-08-26,Bryce Harper,OF
+2022,12,142,2022-08-26,Giancarlo Stanton,OF
+2022,12,142,2022-08-26,Tommy Pham,OF
+2022,12,142,2022-08-26,Jeremy Pena,UTIL
+2022,12,142,2022-08-26,Lourdes Gurriel Jr.,UTIL
+2022,12,142,2022-08-26,Fernando Tatis Jr.,Bench
+2022,12,142,2022-08-26,Cody Bellinger,Bench
+2022,12,142,2022-08-26,Josh Donaldson,Bench
+2022,12,142,2022-08-26,Gavin Lux,Bench
+2022,12,142,2022-08-26,Martin Perez,Bench
+2022,12,142,2022-08-26,Jazz Chisholm Jr.,IL
+2022,12,142,2022-08-26,Jorge Soler,IL
+2022,12,142,2022-08-26,Corbin Burnes,SP
+2022,12,142,2022-08-26,Zac Gallen,SP
+2022,12,142,2022-08-26,Triston McKenzie,SP
+2022,12,142,2022-08-26,Aaron Nola,SP
+2022,12,142,2022-08-26,Michael Wacha,SP
+2022,12,142,2022-08-26,Craig Kimbrel,RP
+2022,12,142,2022-08-26,Kenley Jansen,RP
+2022,12,142,2022-08-26,Jason Adam,RP
+2022,12,143,2022-08-27,Cal Raleigh,C
+2022,12,143,2022-08-27,Anthony Rizzo,1B
+2022,12,143,2022-08-27,Jurickson Profar,2B
+2022,12,143,2022-08-27,Manny Machado,3B
+2022,12,143,2022-08-27,Corey Seager,SS
+2022,12,143,2022-08-27,Bryce Harper,OF
+2022,12,143,2022-08-27,Giancarlo Stanton,OF
+2022,12,143,2022-08-27,Tommy Pham,OF
+2022,12,143,2022-08-27,Cody Bellinger,UTIL
+2022,12,143,2022-08-27,Josh Donaldson,UTIL
+2022,12,143,2022-08-27,Fernando Tatis Jr.,Bench
+2022,12,143,2022-08-27,Jeremy Pena,Bench
+2022,12,143,2022-08-27,Lourdes Gurriel Jr.,Bench
+2022,12,143,2022-08-27,Gavin Lux,Bench
+2022,12,143,2022-08-27,Martin Perez,Bench
+2022,12,143,2022-08-27,Jazz Chisholm Jr.,IL
+2022,12,143,2022-08-27,Jorge Soler,IL
+2022,12,143,2022-08-27,Corbin Burnes,SP
+2022,12,143,2022-08-27,Zac Gallen,SP
+2022,12,143,2022-08-27,Triston McKenzie,SP
+2022,12,143,2022-08-27,Aaron Nola,SP
+2022,12,143,2022-08-27,Michael Wacha,SP
+2022,12,143,2022-08-27,Craig Kimbrel,RP
+2022,12,143,2022-08-27,Kenley Jansen,RP
+2022,12,143,2022-08-27,Jason Adam,RP
+2022,12,144,2022-08-28,Cal Raleigh,C
+2022,12,144,2022-08-28,Anthony Rizzo,1B
+2022,12,144,2022-08-28,Jurickson Profar,2B
+2022,12,144,2022-08-28,Manny Machado,3B
+2022,12,144,2022-08-28,Corey Seager,SS
+2022,12,144,2022-08-28,Bryce Harper,OF
+2022,12,144,2022-08-28,Tommy Pham,OF
+2022,12,144,2022-08-28,Lourdes Gurriel Jr.,OF
+2022,12,144,2022-08-28,Giancarlo Stanton,UTIL
+2022,12,144,2022-08-28,Gavin Lux,UTIL
+2022,12,144,2022-08-28,Fernando Tatis Jr.,Bench
+2022,12,144,2022-08-28,Cody Bellinger,Bench
+2022,12,144,2022-08-28,Josh Donaldson,Bench
+2022,12,144,2022-08-28,Jeremy Pena,Bench
+2022,12,144,2022-08-28,Martin Perez,Bench
+2022,12,144,2022-08-28,Jazz Chisholm Jr.,IL
+2022,12,144,2022-08-28,Jorge Soler,IL
+2022,12,144,2022-08-28,Corbin Burnes,SP
+2022,12,144,2022-08-28,Zac Gallen,SP
+2022,12,144,2022-08-28,Triston McKenzie,SP
+2022,12,144,2022-08-28,Aaron Nola,SP
+2022,12,144,2022-08-28,Michael Wacha,SP
+2022,12,144,2022-08-28,Craig Kimbrel,RP
+2022,12,144,2022-08-28,Kenley Jansen,RP
+2022,12,144,2022-08-28,Jason Adam,RP
+2022,12,145,2022-08-29,Cal Raleigh,C
+2022,12,145,2022-08-29,Anthony Rizzo,1B
+2022,12,145,2022-08-29,Jurickson Profar,2B
+2022,12,145,2022-08-29,Manny Machado,3B
+2022,12,145,2022-08-29,Corey Seager,SS
+2022,12,145,2022-08-29,Bryce Harper,OF
+2022,12,145,2022-08-29,Tommy Pham,OF
+2022,12,145,2022-08-29,Lourdes Gurriel Jr.,OF
+2022,12,145,2022-08-29,Giancarlo Stanton,UTIL
+2022,12,145,2022-08-29,Gavin Lux,UTIL
+2022,12,145,2022-08-29,Fernando Tatis Jr.,Bench
+2022,12,145,2022-08-29,Cody Bellinger,Bench
+2022,12,145,2022-08-29,Josh Donaldson,Bench
+2022,12,145,2022-08-29,Jeremy Pena,Bench
+2022,12,145,2022-08-29,Martin Perez,Bench
+2022,12,145,2022-08-29,Jazz Chisholm Jr.,IL
+2022,12,145,2022-08-29,Jorge Soler,IL
+2022,12,145,2022-08-29,Corbin Burnes,SP
+2022,12,145,2022-08-29,Zac Gallen,SP
+2022,12,145,2022-08-29,Triston McKenzie,SP
+2022,12,145,2022-08-29,Aaron Nola,SP
+2022,12,145,2022-08-29,Michael Wacha,SP
+2022,12,145,2022-08-29,Craig Kimbrel,RP
+2022,12,145,2022-08-29,Kenley Jansen,RP
+2022,12,145,2022-08-29,Jason Adam,RP
+2022,12,146,2022-08-30,Cal Raleigh,C
+2022,12,146,2022-08-30,Anthony Rizzo,1B
+2022,12,146,2022-08-30,Jurickson Profar,2B
+2022,12,146,2022-08-30,Manny Machado,3B
+2022,12,146,2022-08-30,Corey Seager,SS
+2022,12,146,2022-08-30,Bryce Harper,OF
+2022,12,146,2022-08-30,Tommy Pham,OF
+2022,12,146,2022-08-30,Lourdes Gurriel Jr.,OF
+2022,12,146,2022-08-30,Giancarlo Stanton,UTIL
+2022,12,146,2022-08-30,Gavin Lux,UTIL
+2022,12,146,2022-08-30,Fernando Tatis Jr.,Bench
+2022,12,146,2022-08-30,Cody Bellinger,Bench
+2022,12,146,2022-08-30,Josh Donaldson,Bench
+2022,12,146,2022-08-30,Jeremy Pena,Bench
+2022,12,146,2022-08-30,Martin Perez,Bench
+2022,12,146,2022-08-30,Jazz Chisholm Jr.,IL
+2022,12,146,2022-08-30,Jorge Soler,IL
+2022,12,146,2022-08-30,Corbin Burnes,SP
+2022,12,146,2022-08-30,Zac Gallen,SP
+2022,12,146,2022-08-30,Triston McKenzie,SP
+2022,12,146,2022-08-30,Aaron Nola,SP
+2022,12,146,2022-08-30,Michael Wacha,SP
+2022,12,146,2022-08-30,Craig Kimbrel,RP
+2022,12,146,2022-08-30,Kenley Jansen,RP
+2022,12,146,2022-08-30,Jason Adam,RP
+2022,12,147,2022-08-31,Cal Raleigh,C
+2022,12,147,2022-08-31,Anthony Rizzo,1B
+2022,12,147,2022-08-31,Jurickson Profar,2B
+2022,12,147,2022-08-31,Manny Machado,3B
+2022,12,147,2022-08-31,Corey Seager,SS
+2022,12,147,2022-08-31,Bryce Harper,OF
+2022,12,147,2022-08-31,Tommy Pham,OF
+2022,12,147,2022-08-31,Lourdes Gurriel Jr.,OF
+2022,12,147,2022-08-31,Giancarlo Stanton,UTIL
+2022,12,147,2022-08-31,Gavin Lux,UTIL
+2022,12,147,2022-08-31,Fernando Tatis Jr.,Bench
+2022,12,147,2022-08-31,Cody Bellinger,Bench
+2022,12,147,2022-08-31,Josh Donaldson,Bench
+2022,12,147,2022-08-31,Jeremy Pena,Bench
+2022,12,147,2022-08-31,Martin Perez,Bench
+2022,12,147,2022-08-31,Jazz Chisholm Jr.,IL
+2022,12,147,2022-08-31,Jorge Soler,IL
+2022,12,147,2022-08-31,Corbin Burnes,SP
+2022,12,147,2022-08-31,Zac Gallen,SP
+2022,12,147,2022-08-31,Triston McKenzie,SP
+2022,12,147,2022-08-31,Aaron Nola,SP
+2022,12,147,2022-08-31,Michael Wacha,SP
+2022,12,147,2022-08-31,Craig Kimbrel,RP
+2022,12,147,2022-08-31,Kenley Jansen,RP
+2022,12,147,2022-08-31,Jason Adam,RP
+2022,12,148,2022-09-01,Cal Raleigh,C
+2022,12,148,2022-09-01,Anthony Rizzo,1B
+2022,12,148,2022-09-01,Jurickson Profar,2B
+2022,12,148,2022-09-01,Manny Machado,3B
+2022,12,148,2022-09-01,Corey Seager,SS
+2022,12,148,2022-09-01,Bryce Harper,OF
+2022,12,148,2022-09-01,Tommy Pham,OF
+2022,12,148,2022-09-01,Lourdes Gurriel Jr.,OF
+2022,12,148,2022-09-01,Giancarlo Stanton,UTIL
+2022,12,148,2022-09-01,Gavin Lux,UTIL
+2022,12,148,2022-09-01,Fernando Tatis Jr.,Bench
+2022,12,148,2022-09-01,Cody Bellinger,Bench
+2022,12,148,2022-09-01,Josh Donaldson,Bench
+2022,12,148,2022-09-01,Jeremy Pena,Bench
+2022,12,148,2022-09-01,Martin Perez,Bench
+2022,12,148,2022-09-01,Jazz Chisholm Jr.,IL
+2022,12,148,2022-09-01,Jorge Soler,IL
+2022,12,148,2022-09-01,Corbin Burnes,SP
+2022,12,148,2022-09-01,Zac Gallen,SP
+2022,12,148,2022-09-01,Triston McKenzie,SP
+2022,12,148,2022-09-01,Aaron Nola,SP
+2022,12,148,2022-09-01,Michael Wacha,SP
+2022,12,148,2022-09-01,Craig Kimbrel,RP
+2022,12,148,2022-09-01,Kenley Jansen,RP
+2022,12,148,2022-09-01,Jason Adam,RP
+2022,12,149,2022-09-02,Cal Raleigh,C
+2022,12,149,2022-09-02,Anthony Rizzo,1B
+2022,12,149,2022-09-02,Jurickson Profar,2B
+2022,12,149,2022-09-02,Manny Machado,3B
+2022,12,149,2022-09-02,Corey Seager,SS
+2022,12,149,2022-09-02,Bryce Harper,OF
+2022,12,149,2022-09-02,Tommy Pham,OF
+2022,12,149,2022-09-02,Lourdes Gurriel Jr.,OF
+2022,12,149,2022-09-02,Giancarlo Stanton,UTIL
+2022,12,149,2022-09-02,Gavin Lux,UTIL
+2022,12,149,2022-09-02,Fernando Tatis Jr.,Bench
+2022,12,149,2022-09-02,Cody Bellinger,Bench
+2022,12,149,2022-09-02,Josh Donaldson,Bench
+2022,12,149,2022-09-02,Jeremy Pena,Bench
+2022,12,149,2022-09-02,Martin Perez,Bench
+2022,12,149,2022-09-02,Jazz Chisholm Jr.,IL
+2022,12,149,2022-09-02,Jorge Soler,IL
+2022,12,149,2022-09-02,Corbin Burnes,SP
+2022,12,149,2022-09-02,Zac Gallen,SP
+2022,12,149,2022-09-02,Triston McKenzie,SP
+2022,12,149,2022-09-02,Aaron Nola,SP
+2022,12,149,2022-09-02,Michael Wacha,SP
+2022,12,149,2022-09-02,Craig Kimbrel,RP
+2022,12,149,2022-09-02,Kenley Jansen,RP
+2022,12,149,2022-09-02,Jason Adam,RP
+2022,12,150,2022-09-03,Cal Raleigh,C
+2022,12,150,2022-09-03,Anthony Rizzo,1B
+2022,12,150,2022-09-03,Jurickson Profar,2B
+2022,12,150,2022-09-03,Manny Machado,3B
+2022,12,150,2022-09-03,Corey Seager,SS
+2022,12,150,2022-09-03,Bryce Harper,OF
+2022,12,150,2022-09-03,Tommy Pham,OF
+2022,12,150,2022-09-03,Lourdes Gurriel Jr.,OF
+2022,12,150,2022-09-03,Giancarlo Stanton,UTIL
+2022,12,150,2022-09-03,Gavin Lux,UTIL
+2022,12,150,2022-09-03,Fernando Tatis Jr.,Bench
+2022,12,150,2022-09-03,Cody Bellinger,Bench
+2022,12,150,2022-09-03,Josh Donaldson,Bench
+2022,12,150,2022-09-03,Jeremy Pena,Bench
+2022,12,150,2022-09-03,Martin Perez,Bench
+2022,12,150,2022-09-03,Jazz Chisholm Jr.,IL
+2022,12,150,2022-09-03,Jorge Soler,IL
+2022,12,150,2022-09-03,Corbin Burnes,SP
+2022,12,150,2022-09-03,Zac Gallen,SP
+2022,12,150,2022-09-03,Triston McKenzie,SP
+2022,12,150,2022-09-03,Aaron Nola,SP
+2022,12,150,2022-09-03,Michael Wacha,SP
+2022,12,150,2022-09-03,Craig Kimbrel,RP
+2022,12,150,2022-09-03,Kenley Jansen,RP
+2022,12,150,2022-09-03,Jason Adam,RP
+2022,12,151,2022-09-04,Cal Raleigh,C
+2022,12,151,2022-09-04,Lourdes Gurriel Jr.,1B
+2022,12,151,2022-09-04,Jurickson Profar,2B
+2022,12,151,2022-09-04,Manny Machado,3B
+2022,12,151,2022-09-04,Corey Seager,SS
+2022,12,151,2022-09-04,Bryce Harper,OF
+2022,12,151,2022-09-04,Giancarlo Stanton,OF
+2022,12,151,2022-09-04,Tommy Pham,OF
+2022,12,151,2022-09-04,Josh Donaldson,UTIL
+2022,12,151,2022-09-04,Jeremy Pena,UTIL
+2022,12,151,2022-09-04,Fernando Tatis Jr.,Bench
+2022,12,151,2022-09-04,Cody Bellinger,Bench
+2022,12,151,2022-09-04,Anthony Rizzo,Bench
+2022,12,151,2022-09-04,Gavin Lux,Bench
+2022,12,151,2022-09-04,Martin Perez,Bench
+2022,12,151,2022-09-04,Jazz Chisholm Jr.,IL
+2022,12,151,2022-09-04,Jorge Soler,IL
+2022,12,151,2022-09-04,Corbin Burnes,SP
+2022,12,151,2022-09-04,Zac Gallen,SP
+2022,12,151,2022-09-04,Triston McKenzie,SP
+2022,12,151,2022-09-04,Aaron Nola,SP
+2022,12,151,2022-09-04,Michael Wacha,SP
+2022,12,151,2022-09-04,Craig Kimbrel,RP
+2022,12,151,2022-09-04,Kenley Jansen,RP
+2022,12,151,2022-09-04,Jason Adam,RP
+2022,12,152,2022-09-05,Cal Raleigh,C
+2022,12,152,2022-09-05,Lourdes Gurriel Jr.,1B
+2022,12,152,2022-09-05,Jurickson Profar,2B
+2022,12,152,2022-09-05,Manny Machado,3B
+2022,12,152,2022-09-05,Corey Seager,SS
+2022,12,152,2022-09-05,Bryce Harper,OF
+2022,12,152,2022-09-05,Giancarlo Stanton,OF
+2022,12,152,2022-09-05,Tommy Pham,OF
+2022,12,152,2022-09-05,Josh Donaldson,UTIL
+2022,12,152,2022-09-05,Jeremy Pena,UTIL
+2022,12,152,2022-09-05,Fernando Tatis Jr.,Bench
+2022,12,152,2022-09-05,Cody Bellinger,Bench
+2022,12,152,2022-09-05,Anthony Rizzo,Bench
+2022,12,152,2022-09-05,Gavin Lux,Bench
+2022,12,152,2022-09-05,Martin Perez,Bench
+2022,12,152,2022-09-05,Jazz Chisholm Jr.,IL
+2022,12,152,2022-09-05,Jorge Soler,IL
+2022,12,152,2022-09-05,Corbin Burnes,SP
+2022,12,152,2022-09-05,Zac Gallen,SP
+2022,12,152,2022-09-05,Triston McKenzie,SP
+2022,12,152,2022-09-05,Aaron Nola,SP
+2022,12,152,2022-09-05,Michael Wacha,SP
+2022,12,152,2022-09-05,Craig Kimbrel,RP
+2022,12,152,2022-09-05,Kenley Jansen,RP
+2022,12,152,2022-09-05,Jason Adam,RP
+2022,12,153,2022-09-06,Cal Raleigh,C
+2022,12,153,2022-09-06,Lourdes Gurriel Jr.,1B
+2022,12,153,2022-09-06,Postponed,1B
+2022,12,153,2022-09-06,Jurickson Profar,2B
+2022,12,153,2022-09-06,Manny Machado,3B
+2022,12,153,2022-09-06,Corey Seager,SS
+2022,12,153,2022-09-06,Bryce Harper,OF
+2022,12,153,2022-09-06,Giancarlo Stanton,OF
+2022,12,153,2022-09-06,Tommy Pham,OF
+2022,12,153,2022-09-06,Josh Donaldson,UTIL
+2022,12,153,2022-09-06,Jeremy Pena,UTIL
+2022,12,153,2022-09-06,Fernando Tatis Jr.,Bench
+2022,12,153,2022-09-06,Cody Bellinger,Bench
+2022,12,153,2022-09-06,Anthony Rizzo,Bench
+2022,12,153,2022-09-06,Gavin Lux,Bench
+2022,12,153,2022-09-06,Martin Perez,Bench
+2022,12,153,2022-09-06,Jazz Chisholm Jr.,IL
+2022,12,153,2022-09-06,Jorge Soler,IL
+2022,12,153,2022-09-06,Corbin Burnes,SP
+2022,12,153,2022-09-06,Zac Gallen,SP
+2022,12,153,2022-09-06,Triston McKenzie,SP
+2022,12,153,2022-09-06,Aaron Nola,SP
+2022,12,153,2022-09-06,Michael Wacha,SP
+2022,12,153,2022-09-06,Craig Kimbrel,RP
+2022,12,153,2022-09-06,Kenley Jansen,RP
+2022,12,153,2022-09-06,Jason Adam,RP
+2022,12,154,2022-09-07,Cal Raleigh,C
+2022,12,154,2022-09-07,Lourdes Gurriel Jr.,1B
+2022,12,154,2022-09-07,Jurickson Profar,2B
+2022,12,154,2022-09-07,Manny Machado,3B
+2022,12,154,2022-09-07,Corey Seager,SS
+2022,12,154,2022-09-07,Bryce Harper,OF
+2022,12,154,2022-09-07,Giancarlo Stanton,OF
+2022,12,154,2022-09-07,Tommy Pham,OF
+2022,12,154,2022-09-07,Josh Donaldson,UTIL
+2022,12,154,2022-09-07,Jeremy Pena,UTIL
+2022,12,154,2022-09-07,Fernando Tatis Jr.,Bench
+2022,12,154,2022-09-07,Cody Bellinger,Bench
+2022,12,154,2022-09-07,Anthony Rizzo,Bench
+2022,12,154,2022-09-07,Gavin Lux,Bench
+2022,12,154,2022-09-07,Martin Perez,Bench
+2022,12,154,2022-09-07,Jazz Chisholm Jr.,IL
+2022,12,154,2022-09-07,Jorge Soler,IL
+2022,12,154,2022-09-07,Corbin Burnes,SP
+2022,12,154,2022-09-07,Zac Gallen,SP
+2022,12,154,2022-09-07,Triston McKenzie,SP
+2022,12,154,2022-09-07,Aaron Nola,SP
+2022,12,154,2022-09-07,Michael Wacha,SP
+2022,12,154,2022-09-07,Craig Kimbrel,RP
+2022,12,154,2022-09-07,Kenley Jansen,RP
+2022,12,154,2022-09-07,Jason Adam,RP
+2022,12,155,2022-09-08,Cal Raleigh,C
+2022,12,155,2022-09-08,Lourdes Gurriel Jr.,1B
+2022,12,155,2022-09-08,Jurickson Profar,2B
+2022,12,155,2022-09-08,Manny Machado,3B
+2022,12,155,2022-09-08,Corey Seager,SS
+2022,12,155,2022-09-08,Bryce Harper,OF
+2022,12,155,2022-09-08,Giancarlo Stanton,OF
+2022,12,155,2022-09-08,Tommy Pham,OF
+2022,12,155,2022-09-08,Josh Donaldson,UTIL
+2022,12,155,2022-09-08,Jeremy Pena,UTIL
+2022,12,155,2022-09-08,Fernando Tatis Jr.,Bench
+2022,12,155,2022-09-08,Cody Bellinger,Bench
+2022,12,155,2022-09-08,Anthony Rizzo,Bench
+2022,12,155,2022-09-08,Gavin Lux,Bench
+2022,12,155,2022-09-08,Martin Perez,Bench
+2022,12,155,2022-09-08,Jazz Chisholm Jr.,IL
+2022,12,155,2022-09-08,Jorge Soler,IL
+2022,12,155,2022-09-08,Corbin Burnes,SP
+2022,12,155,2022-09-08,Zac Gallen,SP
+2022,12,155,2022-09-08,Triston McKenzie,SP
+2022,12,155,2022-09-08,Aaron Nola,SP
+2022,12,155,2022-09-08,Michael Wacha,SP
+2022,12,155,2022-09-08,Craig Kimbrel,RP
+2022,12,155,2022-09-08,Kenley Jansen,RP
+2022,12,155,2022-09-08,Jason Adam,RP
+2022,12,156,2022-09-09,Cal Raleigh,C
+2022,12,156,2022-09-09,Lourdes Gurriel Jr.,1B
+2022,12,156,2022-09-09,Jurickson Profar,2B
+2022,12,156,2022-09-09,Manny Machado,3B
+2022,12,156,2022-09-09,Corey Seager,SS
+2022,12,156,2022-09-09,Bryce Harper,OF
+2022,12,156,2022-09-09,Giancarlo Stanton,OF
+2022,12,156,2022-09-09,Tommy Pham,OF
+2022,12,156,2022-09-09,Josh Donaldson,UTIL
+2022,12,156,2022-09-09,Jeremy Pena,UTIL
+2022,12,156,2022-09-09,Fernando Tatis Jr.,Bench
+2022,12,156,2022-09-09,Cody Bellinger,Bench
+2022,12,156,2022-09-09,Anthony Rizzo,Bench
+2022,12,156,2022-09-09,Gavin Lux,Bench
+2022,12,156,2022-09-09,Martin Perez,Bench
+2022,12,156,2022-09-09,Jazz Chisholm Jr.,IL
+2022,12,156,2022-09-09,Jorge Soler,IL
+2022,12,156,2022-09-09,Corbin Burnes,SP
+2022,12,156,2022-09-09,Zac Gallen,SP
+2022,12,156,2022-09-09,Triston McKenzie,SP
+2022,12,156,2022-09-09,Aaron Nola,SP
+2022,12,156,2022-09-09,Michael Wacha,SP
+2022,12,156,2022-09-09,Craig Kimbrel,RP
+2022,12,156,2022-09-09,Kenley Jansen,RP
+2022,12,156,2022-09-09,Jason Adam,RP
+2022,12,157,2022-09-10,Cal Raleigh,C
+2022,12,157,2022-09-10,Lourdes Gurriel Jr.,1B
+2022,12,157,2022-09-10,Jurickson Profar,2B
+2022,12,157,2022-09-10,Manny Machado,3B
+2022,12,157,2022-09-10,Corey Seager,SS
+2022,12,157,2022-09-10,Bryce Harper,OF
+2022,12,157,2022-09-10,Giancarlo Stanton,OF
+2022,12,157,2022-09-10,Tommy Pham,OF
+2022,12,157,2022-09-10,Josh Donaldson,UTIL
+2022,12,157,2022-09-10,Jeremy Pena,UTIL
+2022,12,157,2022-09-10,Fernando Tatis Jr.,Bench
+2022,12,157,2022-09-10,Cody Bellinger,Bench
+2022,12,157,2022-09-10,Anthony Rizzo,Bench
+2022,12,157,2022-09-10,Gavin Lux,Bench
+2022,12,157,2022-09-10,Martin Perez,Bench
+2022,12,157,2022-09-10,Jazz Chisholm Jr.,IL
+2022,12,157,2022-09-10,Jorge Soler,IL
+2022,12,157,2022-09-10,Corbin Burnes,SP
+2022,12,157,2022-09-10,Zac Gallen,SP
+2022,12,157,2022-09-10,Triston McKenzie,SP
+2022,12,157,2022-09-10,Aaron Nola,SP
+2022,12,157,2022-09-10,Michael Wacha,SP
+2022,12,157,2022-09-10,Craig Kimbrel,RP
+2022,12,157,2022-09-10,Kenley Jansen,RP
+2022,12,157,2022-09-10,Jason Adam,RP
+2022,12,158,2022-09-11,Cal Raleigh,C
+2022,12,158,2022-09-11,Lourdes Gurriel Jr.,1B
+2022,12,158,2022-09-11,Jurickson Profar,2B
+2022,12,158,2022-09-11,Manny Machado,3B
+2022,12,158,2022-09-11,Corey Seager,SS
+2022,12,158,2022-09-11,Bryce Harper,OF
+2022,12,158,2022-09-11,Giancarlo Stanton,OF
+2022,12,158,2022-09-11,Tommy Pham,OF
+2022,12,158,2022-09-11,Josh Donaldson,UTIL
+2022,12,158,2022-09-11,Jeremy Pena,UTIL
+2022,12,158,2022-09-11,Fernando Tatis Jr.,Bench
+2022,12,158,2022-09-11,Cody Bellinger,Bench
+2022,12,158,2022-09-11,Anthony Rizzo,Bench
+2022,12,158,2022-09-11,Gavin Lux,Bench
+2022,12,158,2022-09-11,Martin Perez,Bench
+2022,12,158,2022-09-11,Jazz Chisholm Jr.,IL
+2022,12,158,2022-09-11,Jorge Soler,IL
+2022,12,158,2022-09-11,Corbin Burnes,SP
+2022,12,158,2022-09-11,Zac Gallen,SP
+2022,12,158,2022-09-11,Triston McKenzie,SP
+2022,12,158,2022-09-11,Aaron Nola,SP
+2022,12,158,2022-09-11,Michael Wacha,SP
+2022,12,158,2022-09-11,Craig Kimbrel,RP
+2022,12,158,2022-09-11,Kenley Jansen,RP
+2022,12,158,2022-09-11,Jason Adam,RP
