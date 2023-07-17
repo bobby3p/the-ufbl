@@ -1,0 +1,251 @@
+year,matchup_period,matchup_date,team,score,matchup_id
+2019,1,Matchup 1 (Mar 20 - Apr 7),Jobu's Rum Importers,867.75,1
+2019,1,Matchup 1 (Mar 20 - Apr 7),Soto Movie 2: The 2nd Inning,969.5,1
+2019,1,Matchup 1 (Mar 20 - Apr 7),Chris Paddack's Load Managers,797.25,2
+2019,1,Matchup 1 (Mar 20 - Apr 7),Konerko's Lover,906.75,2
+2019,1,Matchup 1 (Mar 20 - Apr 7),Justin Bour's Donut Shop,885.0,3
+2019,1,Matchup 1 (Mar 20 - Apr 7),The Designated Drinkers,723.5,3
+2019,1,Matchup 1 (Mar 20 - Apr 7),Ugueth Urbina's Bail Bonds,761.0,4
+2019,1,Matchup 1 (Mar 20 - Apr 7),Somehow Still Not Bob Hayes,941.25,4
+2019,1,Matchup 1 (Mar 20 - Apr 7),Modern Baseball,921.5,5
+2019,1,Matchup 1 (Mar 20 - Apr 7),The Mookie Monsters,664.0,5
+2019,1,Matchup 1 (Mar 20 - Apr 7),"Yes, I Like Pina Moncadas",859.25,6
+2019,1,Matchup 1 (Mar 20 - Apr 7),SNPP Softball Team,851.25,6
+2019,2,Matchup 2 (Apr 8 - 14),Soto Movie 2: The 2nd Inning,558.5,1
+2019,2,Matchup 2 (Apr 8 - 14),SNPP Softball Team,522.0,1
+2019,2,Matchup 2 (Apr 8 - 14),Justin Bour's Donut Shop,473.75,2
+2019,2,Matchup 2 (Apr 8 - 14),Chris Paddack's Load Managers,513.25,2
+2019,2,Matchup 2 (Apr 8 - 14),Jobu's Rum Importers,544.5,3
+2019,2,Matchup 2 (Apr 8 - 14),Ugueth Urbina's Bail Bonds,469.25,3
+2019,2,Matchup 2 (Apr 8 - 14),Modern Baseball,604.5,4
+2019,2,Matchup 2 (Apr 8 - 14),Somehow Still Not Bob Hayes,555.0,4
+2019,2,Matchup 2 (Apr 8 - 14),"Yes, I Like Pina Moncadas",507.5,5
+2019,2,Matchup 2 (Apr 8 - 14),Konerko's Lover,378.75,5
+2019,2,Matchup 2 (Apr 8 - 14),The Designated Drinkers,488.5,6
+2019,2,Matchup 2 (Apr 8 - 14),The Mookie Monsters,516.75,6
+2019,3,Matchup 3 (Apr 15 - 21),Soto Movie 2: The 2nd Inning,462.75,1
+2019,3,Matchup 3 (Apr 15 - 21),Modern Baseball,527.5,1
+2019,3,Matchup 3 (Apr 15 - 21),The Designated Drinkers,438.5,2
+2019,3,Matchup 3 (Apr 15 - 21),"Yes, I Like Pina Moncadas",545.5,2
+2019,3,Matchup 3 (Apr 15 - 21),Konerko's Lover,546.5,3
+2019,3,Matchup 3 (Apr 15 - 21),The Mookie Monsters,592.25,3
+2019,3,Matchup 3 (Apr 15 - 21),Somehow Still Not Bob Hayes,609.5,4
+2019,3,Matchup 3 (Apr 15 - 21),SNPP Softball Team,594.25,4
+2019,3,Matchup 3 (Apr 15 - 21),Jobu's Rum Importers,609.75,5
+2019,3,Matchup 3 (Apr 15 - 21),Justin Bour's Donut Shop,528.75,5
+2019,3,Matchup 3 (Apr 15 - 21),Chris Paddack's Load Managers,596.5,6
+2019,3,Matchup 3 (Apr 15 - 21),Ugueth Urbina's Bail Bonds,457.5,6
+2019,4,Matchup 4 (Apr 22 - 28),Ugueth Urbina's Bail Bonds,535.5,1
+2019,4,Matchup 4 (Apr 22 - 28),Soto Movie 2: The 2nd Inning,504.25,1
+2019,4,Matchup 4 (Apr 22 - 28),SNPP Softball Team,449.75,2
+2019,4,Matchup 4 (Apr 22 - 28),Modern Baseball,501.0,2
+2019,4,Matchup 4 (Apr 22 - 28),The Mookie Monsters,575.75,3
+2019,4,Matchup 4 (Apr 22 - 28),"Yes, I Like Pina Moncadas",639.25,3
+2019,4,Matchup 4 (Apr 22 - 28),Chris Paddack's Load Managers,610.75,4
+2019,4,Matchup 4 (Apr 22 - 28),The Designated Drinkers,519.25,4
+2019,4,Matchup 4 (Apr 22 - 28),Somehow Still Not Bob Hayes,579.75,5
+2019,4,Matchup 4 (Apr 22 - 28),Jobu's Rum Importers,520.5,5
+2019,4,Matchup 4 (Apr 22 - 28),Konerko's Lover,499.75,6
+2019,4,Matchup 4 (Apr 22 - 28),Justin Bour's Donut Shop,542.25,6
+2019,5,Matchup 5 (Apr 29 - May 5),Somehow Still Not Bob Hayes,536.5,1
+2019,5,Matchup 5 (Apr 29 - May 5),Soto Movie 2: The 2nd Inning,510.0,1
+2019,5,Matchup 5 (Apr 29 - May 5),The Mookie Monsters,582.75,2
+2019,5,Matchup 5 (Apr 29 - May 5),Chris Paddack's Load Managers,487.75,2
+2019,5,Matchup 5 (Apr 29 - May 5),SNPP Softball Team,445.75,3
+2019,5,Matchup 5 (Apr 29 - May 5),Ugueth Urbina's Bail Bonds,579.75,3
+2019,5,Matchup 5 (Apr 29 - May 5),Modern Baseball,489.5,4
+2019,5,Matchup 5 (Apr 29 - May 5),Jobu's Rum Importers,610.0,4
+2019,5,Matchup 5 (Apr 29 - May 5),"Yes, I Like Pina Moncadas",580.25,5
+2019,5,Matchup 5 (Apr 29 - May 5),Justin Bour's Donut Shop,501.25,5
+2019,5,Matchup 5 (Apr 29 - May 5),Konerko's Lover,418.0,6
+2019,5,Matchup 5 (Apr 29 - May 5),The Designated Drinkers,569.25,6
+2019,6,Matchup 6 (May 6 - 12),Konerko's Lover,522.75,1
+2019,6,Matchup 6 (May 6 - 12),Soto Movie 2: The 2nd Inning,555.25,1
+2019,6,Matchup 6 (May 6 - 12),Somehow Still Not Bob Hayes,669.5,2
+2019,6,Matchup 6 (May 6 - 12),The Designated Drinkers,533.5,2
+2019,6,Matchup 6 (May 6 - 12),SNPP Softball Team,517.25,3
+2019,6,Matchup 6 (May 6 - 12),Justin Bour's Donut Shop,553.75,3
+2019,6,Matchup 6 (May 6 - 12),Ugueth Urbina's Bail Bonds,556.5,4
+2019,6,Matchup 6 (May 6 - 12),"Yes, I Like Pina Moncadas",505.0,4
+2019,6,Matchup 6 (May 6 - 12),The Mookie Monsters,612.5,5
+2019,6,Matchup 6 (May 6 - 12),Jobu's Rum Importers,586.0,5
+2019,6,Matchup 6 (May 6 - 12),Chris Paddack's Load Managers,550.5,6
+2019,6,Matchup 6 (May 6 - 12),Modern Baseball,582.0,6
+2019,7,Matchup 7 (May 13 - 19),Soto Movie 2: The 2nd Inning,577.75,1
+2019,7,Matchup 7 (May 13 - 19),The Mookie Monsters,505.75,1
+2019,7,Matchup 7 (May 13 - 19),Jobu's Rum Importers,494.5,2
+2019,7,Matchup 7 (May 13 - 19),Chris Paddack's Load Managers,491.25,2
+2019,7,Matchup 7 (May 13 - 19),Justin Bour's Donut Shop,612.5,3
+2019,7,Matchup 7 (May 13 - 19),Ugueth Urbina's Bail Bonds,498.25,3
+2019,7,Matchup 7 (May 13 - 19),Modern Baseball,562.25,4
+2019,7,Matchup 7 (May 13 - 19),Konerko's Lover,595.5,4
+2019,7,Matchup 7 (May 13 - 19),The Designated Drinkers,489.25,5
+2019,7,Matchup 7 (May 13 - 19),SNPP Softball Team,513.25,5
+2019,7,Matchup 7 (May 13 - 19),"Yes, I Like Pina Moncadas",602.25,6
+2019,7,Matchup 7 (May 13 - 19),Somehow Still Not Bob Hayes,594.75,6
+2019,8,Matchup 8 (May 20 - 26),Jobu's Rum Importers,565.5,1
+2019,8,Matchup 8 (May 20 - 26),Soto Movie 2: The 2nd Inning,715.5,1
+2019,8,Matchup 8 (May 20 - 26),Chris Paddack's Load Managers,533.0,2
+2019,8,Matchup 8 (May 20 - 26),Konerko's Lover,569.5,2
+2019,8,Matchup 8 (May 20 - 26),Ugueth Urbina's Bail Bonds,614.0,3
+2019,8,Matchup 8 (May 20 - 26),Somehow Still Not Bob Hayes,619.25,3
+2019,8,Matchup 8 (May 20 - 26),Justin Bour's Donut Shop,655.25,4
+2019,8,Matchup 8 (May 20 - 26),The Designated Drinkers,509.0,4
+2019,8,Matchup 8 (May 20 - 26),The Mookie Monsters,655.75,5
+2019,8,Matchup 8 (May 20 - 26),SNPP Softball Team,529.0,5
+2019,8,Matchup 8 (May 20 - 26),Modern Baseball,523.0,6
+2019,8,Matchup 8 (May 20 - 26),"Yes, I Like Pina Moncadas",550.5,6
+2019,9,Matchup 9 (May 27 - Jun 2),Soto Movie 2: The 2nd Inning,583.75,1
+2019,9,Matchup 9 (May 27 - Jun 2),"Yes, I Like Pina Moncadas",533.5,1
+2019,9,Matchup 9 (May 27 - Jun 2),Chris Paddack's Load Managers,491.0,2
+2019,9,Matchup 9 (May 27 - Jun 2),Ugueth Urbina's Bail Bonds,604.0,2
+2019,9,Matchup 9 (May 27 - Jun 2),Jobu's Rum Importers,590.75,3
+2019,9,Matchup 9 (May 27 - Jun 2),Justin Bour's Donut Shop,570.5,3
+2019,9,Matchup 9 (May 27 - Jun 2),Modern Baseball,492.75,4
+2019,9,Matchup 9 (May 27 - Jun 2),The Designated Drinkers,476.5,4
+2019,9,Matchup 9 (May 27 - Jun 2),Konerko's Lover,559.5,5
+2019,9,Matchup 9 (May 27 - Jun 2),SNPP Softball Team,520.0,5
+2019,9,Matchup 9 (May 27 - Jun 2),The Mookie Monsters,620.25,6
+2019,9,Matchup 9 (May 27 - Jun 2),Somehow Still Not Bob Hayes,516.25,6
+2019,10,Matchup 10 (Jun 3 - 9),Modern Baseball,551.0,1
+2019,10,Matchup 10 (Jun 3 - 9),Soto Movie 2: The 2nd Inning,622.25,1
+2019,10,Matchup 10 (Jun 3 - 9),The Mookie Monsters,528.5,2
+2019,10,Matchup 10 (Jun 3 - 9),Konerko's Lover,596.5,2
+2019,10,Matchup 10 (Jun 3 - 9),"Yes, I Like Pina Moncadas",583.0,3
+2019,10,Matchup 10 (Jun 3 - 9),The Designated Drinkers,401.0,3
+2019,10,Matchup 10 (Jun 3 - 9),SNPP Softball Team,493.25,4
+2019,10,Matchup 10 (Jun 3 - 9),Somehow Still Not Bob Hayes,632.75,4
+2019,10,Matchup 10 (Jun 3 - 9),Chris Paddack's Load Managers,419.0,5
+2019,10,Matchup 10 (Jun 3 - 9),Jobu's Rum Importers,569.25,5
+2019,10,Matchup 10 (Jun 3 - 9),Ugueth Urbina's Bail Bonds,551.0,6
+2019,10,Matchup 10 (Jun 3 - 9),Justin Bour's Donut Shop,485.75,6
+2019,11,Matchup 11 (Jun 10 - 16),Chris Paddack's Load Managers,558.0,1
+2019,11,Matchup 11 (Jun 10 - 16),Soto Movie 2: The 2nd Inning,601.0,1
+2019,11,Matchup 11 (Jun 10 - 16),The Mookie Monsters,645.0,2
+2019,11,Matchup 11 (Jun 10 - 16),Modern Baseball,611.25,2
+2019,11,Matchup 11 (Jun 10 - 16),SNPP Softball Team,446.75,3
+2019,11,Matchup 11 (Jun 10 - 16),"Yes, I Like Pina Moncadas",652.0,3
+2019,11,Matchup 11 (Jun 10 - 16),Konerko's Lover,556.0,4
+2019,11,Matchup 11 (Jun 10 - 16),Jobu's Rum Importers,747.0,4
+2019,11,Matchup 11 (Jun 10 - 16),Somehow Still Not Bob Hayes,613.25,5
+2019,11,Matchup 11 (Jun 10 - 16),Justin Bour's Donut Shop,617.75,5
+2019,11,Matchup 11 (Jun 10 - 16),Ugueth Urbina's Bail Bonds,620.75,6
+2019,11,Matchup 11 (Jun 10 - 16),The Designated Drinkers,512.25,6
+2019,12,Matchup 12 (Jun 17 - 23),The Designated Drinkers,492.0,1
+2019,12,Matchup 12 (Jun 17 - 23),Soto Movie 2: The 2nd Inning,537.25,1
+2019,12,Matchup 12 (Jun 17 - 23),Chris Paddack's Load Managers,506.25,2
+2019,12,Matchup 12 (Jun 17 - 23),The Mookie Monsters,578.5,2
+2019,12,Matchup 12 (Jun 17 - 23),Justin Bour's Donut Shop,653.25,3
+2019,12,Matchup 12 (Jun 17 - 23),"Yes, I Like Pina Moncadas",526.0,3
+2019,12,Matchup 12 (Jun 17 - 23),Ugueth Urbina's Bail Bonds,564.75,4
+2019,12,Matchup 12 (Jun 17 - 23),SNPP Softball Team,653.0,4
+2019,12,Matchup 12 (Jun 17 - 23),Jobu's Rum Importers,658.5,5
+2019,12,Matchup 12 (Jun 17 - 23),Modern Baseball,571.75,5
+2019,12,Matchup 12 (Jun 17 - 23),Somehow Still Not Bob Hayes,465.25,6
+2019,12,Matchup 12 (Jun 17 - 23),Konerko's Lover,610.25,6
+2019,13,Matchup 13 (Jun 24 - 30),Justin Bour's Donut Shop,665.25,1
+2019,13,Matchup 13 (Jun 24 - 30),Soto Movie 2: The 2nd Inning,487.5,1
+2019,13,Matchup 13 (Jun 24 - 30),"Yes, I Like Pina Moncadas",601.75,2
+2019,13,Matchup 13 (Jun 24 - 30),Modern Baseball,517.0,2
+2019,13,Matchup 13 (Jun 24 - 30),SNPP Softball Team,509.5,3
+2019,13,Matchup 13 (Jun 24 - 30),The Mookie Monsters,446.0,3
+2019,13,Matchup 13 (Jun 24 - 30),Somehow Still Not Bob Hayes,555.25,4
+2019,13,Matchup 13 (Jun 24 - 30),Chris Paddack's Load Managers,435.75,4
+2019,13,Matchup 13 (Jun 24 - 30),Ugueth Urbina's Bail Bonds,558.0,5
+2019,13,Matchup 13 (Jun 24 - 30),Konerko's Lover,507.0,5
+2019,13,Matchup 13 (Jun 24 - 30),The Designated Drinkers,392.25,6
+2019,13,Matchup 13 (Jun 24 - 30),Jobu's Rum Importers,682.25,6
+2019,14,Matchup 14 (Jul 1 - 14),Soto Movie 2: The 2nd Inning,773.5,1
+2019,14,Matchup 14 (Jul 1 - 14),Somehow Still Not Bob Hayes,892.5,1
+2019,14,Matchup 14 (Jul 1 - 14),The Designated Drinkers,717.0,2
+2019,14,Matchup 14 (Jul 1 - 14),Konerko's Lover,726.25,2
+2019,14,Matchup 14 (Jul 1 - 14),"Yes, I Like Pina Moncadas",762.5,3
+2019,14,Matchup 14 (Jul 1 - 14),Chris Paddack's Load Managers,736.5,3
+2019,14,Matchup 14 (Jul 1 - 14),Jobu's Rum Importers,908.25,4
+2019,14,Matchup 14 (Jul 1 - 14),SNPP Softball Team,746.5,4
+2019,14,Matchup 14 (Jul 1 - 14),Modern Baseball,838.0,5
+2019,14,Matchup 14 (Jul 1 - 14),Ugueth Urbina's Bail Bonds,951.5,5
+2019,14,Matchup 14 (Jul 1 - 14),Justin Bour's Donut Shop,980.25,6
+2019,14,Matchup 14 (Jul 1 - 14),The Mookie Monsters,832.25,6
+2019,15,Matchup 15 (Jul 15 - 21),Soto Movie 2: The 2nd Inning,605.0,1
+2019,15,Matchup 15 (Jul 15 - 21),Jobu's Rum Importers,542.75,1
+2019,15,Matchup 15 (Jul 15 - 21),Konerko's Lover,473.5,2
+2019,15,Matchup 15 (Jul 15 - 21),Chris Paddack's Load Managers,525.0,2
+2019,15,Matchup 15 (Jul 15 - 21),Somehow Still Not Bob Hayes,637.5,3
+2019,15,Matchup 15 (Jul 15 - 21),Ugueth Urbina's Bail Bonds,530.75,3
+2019,15,Matchup 15 (Jul 15 - 21),The Designated Drinkers,446.25,4
+2019,15,Matchup 15 (Jul 15 - 21),Justin Bour's Donut Shop,566.5,4
+2019,15,Matchup 15 (Jul 15 - 21),"Yes, I Like Pina Moncadas",692.5,5
+2019,15,Matchup 15 (Jul 15 - 21),The Mookie Monsters,664.5,5
+2019,15,Matchup 15 (Jul 15 - 21),Modern Baseball,637.5,6
+2019,15,Matchup 15 (Jul 15 - 21),SNPP Softball Team,491.5,6
+2019,16,Matchup 16 (Jul 22 - 28),The Designated Drinkers,490.25,1
+2019,16,Matchup 16 (Jul 22 - 28),Soto Movie 2: The 2nd Inning,649.5,1
+2019,16,Matchup 16 (Jul 22 - 28),Somehow Still Not Bob Hayes,507.75,2
+2019,16,Matchup 16 (Jul 22 - 28),Konerko's Lover,618.75,2
+2019,16,Matchup 16 (Jul 22 - 28),"Yes, I Like Pina Moncadas",561.5,3
+2019,16,Matchup 16 (Jul 22 - 28),Jobu's Rum Importers,594.25,3
+2019,16,Matchup 16 (Jul 22 - 28),Justin Bour's Donut Shop,552.75,4
+2019,16,Matchup 16 (Jul 22 - 28),Modern Baseball,470.25,4
+2019,16,Matchup 16 (Jul 22 - 28),Ugueth Urbina's Bail Bonds,586.25,5
+2019,16,Matchup 16 (Jul 22 - 28),The Mookie Monsters,616.0,5
+2019,16,Matchup 16 (Jul 22 - 28),SNPP Softball Team,464.25,6
+2019,16,Matchup 16 (Jul 22 - 28),Chris Paddack's Load Managers,546.5,6
+2019,17,Matchup 17 (Jul 29 - Aug 4),Soto Movie 2: The 2nd Inning,654.75,1
+2019,17,Matchup 17 (Jul 29 - Aug 4),Modern Baseball,503.5,1
+2019,17,Matchup 17 (Jul 29 - Aug 4),The Designated Drinkers,365.25,2
+2019,17,Matchup 17 (Jul 29 - Aug 4),"Yes, I Like Pina Moncadas",431.0,2
+2019,17,Matchup 17 (Jul 29 - Aug 4),Somehow Still Not Bob Hayes,513.75,3
+2019,17,Matchup 17 (Jul 29 - Aug 4),SNPP Softball Team,469.5,3
+2019,17,Matchup 17 (Jul 29 - Aug 4),Konerko's Lover,565.0,4
+2019,17,Matchup 17 (Jul 29 - Aug 4),The Mookie Monsters,526.0,4
+2019,17,Matchup 17 (Jul 29 - Aug 4),Chris Paddack's Load Managers,498.75,5
+2019,17,Matchup 17 (Jul 29 - Aug 4),Justin Bour's Donut Shop,561.5,5
+2019,17,Matchup 17 (Jul 29 - Aug 4),Ugueth Urbina's Bail Bonds,555.0,6
+2019,17,Matchup 17 (Jul 29 - Aug 4),Jobu's Rum Importers,534.25,6
+2019,18,Matchup 18 (Aug 5 - 11),Soto Movie 2: The 2nd Inning,622.75,1
+2019,18,Matchup 18 (Aug 5 - 11),Konerko's Lover,572.0,1
+2019,18,Matchup 18 (Aug 5 - 11),The Mookie Monsters,507.5,2
+2019,18,Matchup 18 (Aug 5 - 11),Chris Paddack's Load Managers,499.75,2
+2019,18,Matchup 18 (Aug 5 - 11),SNPP Softball Team,390.25,3
+2019,18,Matchup 18 (Aug 5 - 11),Ugueth Urbina's Bail Bonds,527.25,3
+2019,18,Matchup 18 (Aug 5 - 11),"Yes, I Like Pina Moncadas",767.75,4
+2019,18,Matchup 18 (Aug 5 - 11),Justin Bour's Donut Shop,660.75,4
+2019,18,Matchup 18 (Aug 5 - 11),Modern Baseball,705.25,5
+2019,18,Matchup 18 (Aug 5 - 11),Jobu's Rum Importers,656.0,5
+2019,18,Matchup 18 (Aug 5 - 11),The Designated Drinkers,465.0,6
+2019,18,Matchup 18 (Aug 5 - 11),Somehow Still Not Bob Hayes,640.75,6
+2019,19,Playoff Round 1 (Aug 12 - 18),Justin Bour's Donut Shop,666.75,1
+2019,19,Playoff Round 1 (Aug 12 - 18),The Mookie Monsters,689.25,1
+2019,19,Playoff Round 1 (Aug 12 - 18),Jobu's Rum Importers,626.5,2
+2019,19,Playoff Round 1 (Aug 12 - 18),Somehow Still Not Bob Hayes,715.25,2
+2019,19,Playoff Round 1 (Aug 12 - 18),Konerko's Lover,525.25,3
+2019,19,Playoff Round 1 (Aug 12 - 18),Ugueth Urbina's Bail Bonds,486.0,3
+2019,19,Playoff Round 1 (Aug 12 - 18),Chris Paddack's Load Managers,485.25,4
+2019,19,Playoff Round 1 (Aug 12 - 18),Modern Baseball,469.25,4
+2019,19,Playoff Round 1 (Aug 12 - 18),The Designated Drinkers,481.75,5
+2019,19,Playoff Round 1 (Aug 12 - 18),SNPP Softball Team,503.5,5
+2019,20,Playoff Round 2 (Aug 19 - 25),Somehow Still Not Bob Hayes,481.0,1
+2019,20,Playoff Round 2 (Aug 19 - 25),Soto Movie 2: The 2nd Inning,699.0,1
+2019,20,Playoff Round 2 (Aug 19 - 25),The Mookie Monsters,570.25,2
+2019,20,Playoff Round 2 (Aug 19 - 25),"Yes, I Like Pina Moncadas",643.75,2
+2019,20,Playoff Round 2 (Aug 19 - 25),Jobu's Rum Importers,473.5,3
+2019,20,Playoff Round 2 (Aug 19 - 25),Justin Bour's Donut Shop,337.25,3
+2019,20,Playoff Round 2 (Aug 19 - 25),Chris Paddack's Load Managers,330.0,4
+2019,20,Playoff Round 2 (Aug 19 - 25),Konerko's Lover,539.0,4
+2019,20,Playoff Round 2 (Aug 19 - 25),SNPP Softball Team,361.75,5
+2019,20,Playoff Round 2 (Aug 19 - 25),Ugueth Urbina's Bail Bonds,494.0,5
+2019,20,Playoff Round 2 (Aug 19 - 25),The Designated Drinkers,448.25,6
+2019,20,Playoff Round 2 (Aug 19 - 25),Modern Baseball,409.75,6
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Soto Movie 2: The 2nd Inning,623.75,1
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),"Yes, I Like Pina Moncadas",667.75,1
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),The Mookie Monsters,440.25,2
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Somehow Still Not Bob Hayes,415.25,2
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Jobu's Rum Importers,646.75,3
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Justin Bour's Donut Shop,417.75,3
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Konerko's Lover,387.25,4
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Ugueth Urbina's Bail Bonds,509.25,4
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),The Designated Drinkers,437.25,5
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Chris Paddack's Load Managers,407.0,5
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),SNPP Softball Team,342.75,6
+2019,21,Playoff Round 3 (Aug 26 - Sep 1),Modern Baseball,440.25,6

@@ -1,0 +1,251 @@
+year,matchup_period,matchup_date,team,score,matchup_id
+2021,1,Matchup 1 (Apr 1 - 11),Modern Baseball,911.75,1
+2021,1,Matchup 1 (Apr 1 - 11),Francisco and the Winter Soto,841.75,1
+2021,1,Matchup 1 (Apr 1 - 11),Konerko's Lover,879.0,2
+2021,1,Matchup 1 (Apr 1 - 11),Ready to Get Hurt Again,795.5,2
+2021,1,Matchup 1 (Apr 1 - 11),The Mookie Mourners,763.25,3
+2021,1,Matchup 1 (Apr 1 - 11),SNPP Softball Team,677.5,3
+2021,1,Matchup 1 (Apr 1 - 11),Sunscreen and Rosin,769.0,4
+2021,1,Matchup 1 (Apr 1 - 11),Harry Kroll's Fantasy Team,713.0,4
+2021,1,Matchup 1 (Apr 1 - 11),Jobu's Rum-Runners,847.5,5
+2021,1,Matchup 1 (Apr 1 - 11),Justin Bour's Donut Shop,864.5,5
+2021,1,Matchup 1 (Apr 1 - 11),The Designated Drinkers,591.0,6
+2021,1,Matchup 1 (Apr 1 - 11),"Yes, I Like Pina Moncadas",711.25,6
+2021,2,Matchup 2 (Apr 12 - 18),Francisco and the Winter Soto,529.75,1
+2021,2,Matchup 2 (Apr 12 - 18),Sunscreen and Rosin,563.75,1
+2021,2,Matchup 2 (Apr 12 - 18),The Mookie Mourners,462.75,2
+2021,2,Matchup 2 (Apr 12 - 18),Konerko's Lover,555.25,2
+2021,2,Matchup 2 (Apr 12 - 18),Ready to Get Hurt Again,497.0,3
+2021,2,Matchup 2 (Apr 12 - 18),"Yes, I Like Pina Moncadas",447.25,3
+2021,2,Matchup 2 (Apr 12 - 18),SNPP Softball Team,439.5,4
+2021,2,Matchup 2 (Apr 12 - 18),Harry Kroll's Fantasy Team,508.5,4
+2021,2,Matchup 2 (Apr 12 - 18),Jobu's Rum-Runners,443.0,5
+2021,2,Matchup 2 (Apr 12 - 18),Modern Baseball,563.25,5
+2021,2,Matchup 2 (Apr 12 - 18),Justin Bour's Donut Shop,479.25,6
+2021,2,Matchup 2 (Apr 12 - 18),The Designated Drinkers,538.0,6
+2021,3,Matchup 3 (Apr 19 - 25),Francisco and the Winter Soto,571.25,1
+2021,3,Matchup 3 (Apr 19 - 25),Jobu's Rum-Runners,417.0,1
+2021,3,Matchup 3 (Apr 19 - 25),The Mookie Mourners,508.25,2
+2021,3,Matchup 3 (Apr 19 - 25),Ready to Get Hurt Again,544.25,2
+2021,3,Matchup 3 (Apr 19 - 25),Konerko's Lover,517.75,3
+2021,3,Matchup 3 (Apr 19 - 25),Modern Baseball,522.25,3
+2021,3,Matchup 3 (Apr 19 - 25),SNPP Softball Team,519.0,4
+2021,3,Matchup 3 (Apr 19 - 25),Sunscreen and Rosin,589.75,4
+2021,3,Matchup 3 (Apr 19 - 25),The Designated Drinkers,402.25,5
+2021,3,Matchup 3 (Apr 19 - 25),Harry Kroll's Fantasy Team,477.0,5
+2021,3,Matchup 3 (Apr 19 - 25),Justin Bour's Donut Shop,519.25,6
+2021,3,Matchup 3 (Apr 19 - 25),"Yes, I Like Pina Moncadas",420.75,6
+2021,4,Matchup 4 (Apr 26 - May 2),The Mookie Mourners,622.25,1
+2021,4,Matchup 4 (Apr 26 - May 2),Francisco and the Winter Soto,508.25,1
+2021,4,Matchup 4 (Apr 26 - May 2),Ready to Get Hurt Again,609.75,2
+2021,4,Matchup 4 (Apr 26 - May 2),Modern Baseball,560.25,2
+2021,4,Matchup 4 (Apr 26 - May 2),"Yes, I Like Pina Moncadas",540.25,3
+2021,4,Matchup 4 (Apr 26 - May 2),SNPP Softball Team,496.25,3
+2021,4,Matchup 4 (Apr 26 - May 2),Jobu's Rum-Runners,463.75,4
+2021,4,Matchup 4 (Apr 26 - May 2),Konerko's Lover,503.0,4
+2021,4,Matchup 4 (Apr 26 - May 2),Harry Kroll's Fantasy Team,477.75,5
+2021,4,Matchup 4 (Apr 26 - May 2),Justin Bour's Donut Shop,538.75,5
+2021,4,Matchup 4 (Apr 26 - May 2),The Designated Drinkers,580.5,6
+2021,4,Matchup 4 (Apr 26 - May 2),Sunscreen and Rosin,528.75,6
+2021,5,Matchup 5 (May 3 - 9),Francisco and the Winter Soto,537.0,1
+2021,5,Matchup 5 (May 3 - 9),SNPP Softball Team,599.5,1
+2021,5,Matchup 5 (May 3 - 9),The Mookie Mourners,485.25,2
+2021,5,Matchup 5 (May 3 - 9),"Yes, I Like Pina Moncadas",573.5,2
+2021,5,Matchup 5 (May 3 - 9),Konerko's Lover,497.0,3
+2021,5,Matchup 5 (May 3 - 9),Justin Bour's Donut Shop,568.75,3
+2021,5,Matchup 5 (May 3 - 9),Jobu's Rum-Runners,485.0,4
+2021,5,Matchup 5 (May 3 - 9),Sunscreen and Rosin,534.75,4
+2021,5,Matchup 5 (May 3 - 9),Modern Baseball,495.25,5
+2021,5,Matchup 5 (May 3 - 9),Harry Kroll's Fantasy Team,517.5,5
+2021,5,Matchup 5 (May 3 - 9),Ready to Get Hurt Again,571.25,6
+2021,5,Matchup 5 (May 3 - 9),The Designated Drinkers,542.25,6
+2021,6,Matchup 6 (May 10 - 16),Francisco and the Winter Soto,562.25,1
+2021,6,Matchup 6 (May 10 - 16),Justin Bour's Donut Shop,533.75,1
+2021,6,Matchup 6 (May 10 - 16),Sunscreen and Rosin,538.25,2
+2021,6,Matchup 6 (May 10 - 16),The Mookie Mourners,522.5,2
+2021,6,Matchup 6 (May 10 - 16),Ready to Get Hurt Again,505.5,3
+2021,6,Matchup 6 (May 10 - 16),SNPP Softball Team,561.0,3
+2021,6,Matchup 6 (May 10 - 16),Harry Kroll's Fantasy Team,493.5,4
+2021,6,Matchup 6 (May 10 - 16),Konerko's Lover,598.0,4
+2021,6,Matchup 6 (May 10 - 16),Modern Baseball,614.0,5
+2021,6,Matchup 6 (May 10 - 16),The Designated Drinkers,525.5,5
+2021,6,Matchup 6 (May 10 - 16),"Yes, I Like Pina Moncadas",497.75,6
+2021,6,Matchup 6 (May 10 - 16),Jobu's Rum-Runners,606.5,6
+2021,7,Matchup 7 (May 17 - 23),Ready to Get Hurt Again,657.5,1
+2021,7,Matchup 7 (May 17 - 23),Francisco and the Winter Soto,632.5,1
+2021,7,Matchup 7 (May 17 - 23),The Mookie Mourners,574.25,2
+2021,7,Matchup 7 (May 17 - 23),Jobu's Rum-Runners,552.0,2
+2021,7,Matchup 7 (May 17 - 23),Konerko's Lover,577.5,3
+2021,7,Matchup 7 (May 17 - 23),The Designated Drinkers,550.0,3
+2021,7,Matchup 7 (May 17 - 23),SNPP Softball Team,532.25,4
+2021,7,Matchup 7 (May 17 - 23),Justin Bour's Donut Shop,554.0,4
+2021,7,Matchup 7 (May 17 - 23),Sunscreen and Rosin,458.75,5
+2021,7,Matchup 7 (May 17 - 23),Modern Baseball,616.0,5
+2021,7,Matchup 7 (May 17 - 23),Harry Kroll's Fantasy Team,503.25,6
+2021,7,Matchup 7 (May 17 - 23),"Yes, I Like Pina Moncadas",535.75,6
+2021,8,Matchup 8 (May 24 - 30),Jobu's Rum-Runners,508.5,1
+2021,8,Matchup 8 (May 24 - 30),Francisco and the Winter Soto,388.0,1
+2021,8,Matchup 8 (May 24 - 30),The Mookie Mourners,486.0,2
+2021,8,Matchup 8 (May 24 - 30),Konerko's Lover,526.0,2
+2021,8,Matchup 8 (May 24 - 30),Ready to Get Hurt Again,446.5,3
+2021,8,Matchup 8 (May 24 - 30),Harry Kroll's Fantasy Team,538.0,3
+2021,8,Matchup 8 (May 24 - 30),The Designated Drinkers,482.5,4
+2021,8,Matchup 8 (May 24 - 30),Justin Bour's Donut Shop,628.75,4
+2021,8,Matchup 8 (May 24 - 30),Sunscreen and Rosin,533.25,5
+2021,8,Matchup 8 (May 24 - 30),SNPP Softball Team,527.75,5
+2021,8,Matchup 8 (May 24 - 30),Modern Baseball,426.25,6
+2021,8,Matchup 8 (May 24 - 30),"Yes, I Like Pina Moncadas",524.5,6
+2021,9,Matchup 9 (May 31 - Jun 6),Francisco and the Winter Soto,512.5,1
+2021,9,Matchup 9 (May 31 - Jun 6),Harry Kroll's Fantasy Team,426.25,1
+2021,9,Matchup 9 (May 31 - Jun 6),The Designated Drinkers,506.5,2
+2021,9,Matchup 9 (May 31 - Jun 6),"Yes, I Like Pina Moncadas",540.25,2
+2021,9,Matchup 9 (May 31 - Jun 6),Sunscreen and Rosin,606.75,3
+2021,9,Matchup 9 (May 31 - Jun 6),Ready to Get Hurt Again,577.75,3
+2021,9,Matchup 9 (May 31 - Jun 6),Jobu's Rum-Runners,473.0,4
+2021,9,Matchup 9 (May 31 - Jun 6),Modern Baseball,591.5,4
+2021,9,Matchup 9 (May 31 - Jun 6),Justin Bour's Donut Shop,525.0,5
+2021,9,Matchup 9 (May 31 - Jun 6),The Mookie Mourners,460.5,5
+2021,9,Matchup 9 (May 31 - Jun 6),Konerko's Lover,521.5,6
+2021,9,Matchup 9 (May 31 - Jun 6),SNPP Softball Team,490.5,6
+2021,10,Matchup 10 (Jun 7 - 13),"Yes, I Like Pina Moncadas",404.75,1
+2021,10,Matchup 10 (Jun 7 - 13),Francisco and the Winter Soto,506.0,1
+2021,10,Matchup 10 (Jun 7 - 13),Ready to Get Hurt Again,552.25,2
+2021,10,Matchup 10 (Jun 7 - 13),Konerko's Lover,566.0,2
+2021,10,Matchup 10 (Jun 7 - 13),The Mookie Mourners,472.5,3
+2021,10,Matchup 10 (Jun 7 - 13),Modern Baseball,498.0,3
+2021,10,Matchup 10 (Jun 7 - 13),Harry Kroll's Fantasy Team,558.25,4
+2021,10,Matchup 10 (Jun 7 - 13),SNPP Softball Team,514.5,4
+2021,10,Matchup 10 (Jun 7 - 13),Justin Bour's Donut Shop,511.0,5
+2021,10,Matchup 10 (Jun 7 - 13),Sunscreen and Rosin,573.0,5
+2021,10,Matchup 10 (Jun 7 - 13),The Designated Drinkers,500.0,6
+2021,10,Matchup 10 (Jun 7 - 13),Jobu's Rum-Runners,557.75,6
+2021,11,Matchup 11 (Jun 14 - 20),Konerko's Lover,586.75,1
+2021,11,Matchup 11 (Jun 14 - 20),Francisco and the Winter Soto,613.5,1
+2021,11,Matchup 11 (Jun 14 - 20),The Mookie Mourners,657.5,2
+2021,11,Matchup 11 (Jun 14 - 20),Ready to Get Hurt Again,561.75,2
+2021,11,Matchup 11 (Jun 14 - 20),Justin Bour's Donut Shop,578.0,3
+2021,11,Matchup 11 (Jun 14 - 20),"Yes, I Like Pina Moncadas",362.75,3
+2021,11,Matchup 11 (Jun 14 - 20),SNPP Softball Team,644.0,4
+2021,11,Matchup 11 (Jun 14 - 20),The Designated Drinkers,498.0,4
+2021,11,Matchup 11 (Jun 14 - 20),Sunscreen and Rosin,494.5,5
+2021,11,Matchup 11 (Jun 14 - 20),Jobu's Rum-Runners,479.0,5
+2021,11,Matchup 11 (Jun 14 - 20),Harry Kroll's Fantasy Team,539.25,6
+2021,11,Matchup 11 (Jun 14 - 20),Modern Baseball,558.5,6
+2021,12,Matchup 12 (Jun 21 - 27),Modern Baseball,595.5,1
+2021,12,Matchup 12 (Jun 21 - 27),Francisco and the Winter Soto,536.75,1
+2021,12,Matchup 12 (Jun 21 - 27),"Yes, I Like Pina Moncadas",438.25,2
+2021,12,Matchup 12 (Jun 21 - 27),Konerko's Lover,575.5,2
+2021,12,Matchup 12 (Jun 21 - 27),SNPP Softball Team,485.5,3
+2021,12,Matchup 12 (Jun 21 - 27),Ready to Get Hurt Again,616.5,3
+2021,12,Matchup 12 (Jun 21 - 27),The Designated Drinkers,404.25,4
+2021,12,Matchup 12 (Jun 21 - 27),The Mookie Mourners,539.25,4
+2021,12,Matchup 12 (Jun 21 - 27),Harry Kroll's Fantasy Team,532.25,5
+2021,12,Matchup 12 (Jun 21 - 27),Sunscreen and Rosin,530.75,5
+2021,12,Matchup 12 (Jun 21 - 27),Jobu's Rum-Runners,458.25,6
+2021,12,Matchup 12 (Jun 21 - 27),Justin Bour's Donut Shop,544.5,6
+2021,13,Matchup 13 (Jun 28 - Jul 4),The Designated Drinkers,390.75,1
+2021,13,Matchup 13 (Jun 28 - Jul 4),Francisco and the Winter Soto,565.0,1
+2021,13,Matchup 13 (Jun 28 - Jul 4),Ready to Get Hurt Again,572.5,2
+2021,13,Matchup 13 (Jun 28 - Jul 4),Justin Bour's Donut Shop,680.0,2
+2021,13,Matchup 13 (Jun 28 - Jul 4),The Mookie Mourners,481.75,3
+2021,13,Matchup 13 (Jun 28 - Jul 4),Sunscreen and Rosin,430.75,3
+2021,13,Matchup 13 (Jun 28 - Jul 4),Konerko's Lover,642.75,4
+2021,13,Matchup 13 (Jun 28 - Jul 4),Modern Baseball,585.75,4
+2021,13,Matchup 13 (Jun 28 - Jul 4),Harry Kroll's Fantasy Team,453.5,5
+2021,13,Matchup 13 (Jun 28 - Jul 4),Jobu's Rum-Runners,417.5,5
+2021,13,Matchup 13 (Jun 28 - Jul 4),SNPP Softball Team,553.5,6
+2021,13,Matchup 13 (Jun 28 - Jul 4),"Yes, I Like Pina Moncadas",473.0,6
+2021,14,Matchup 14 (Jul 5 - 18),"Yes, I Like Pina Moncadas",696.0,1
+2021,14,Matchup 14 (Jul 5 - 18),Francisco and the Winter Soto,969.75,1
+2021,14,Matchup 14 (Jul 5 - 18),Konerko's Lover,835.0,2
+2021,14,Matchup 14 (Jul 5 - 18),Sunscreen and Rosin,644.25,2
+2021,14,Matchup 14 (Jul 5 - 18),Justin Bour's Donut Shop,813.5,3
+2021,14,Matchup 14 (Jul 5 - 18),The Mookie Mourners,682.0,3
+2021,14,Matchup 14 (Jul 5 - 18),SNPP Softball Team,804.5,4
+2021,14,Matchup 14 (Jul 5 - 18),Modern Baseball,748.5,4
+2021,14,Matchup 14 (Jul 5 - 18),Ready to Get Hurt Again,745.75,5
+2021,14,Matchup 14 (Jul 5 - 18),Jobu's Rum-Runners,795.25,5
+2021,14,Matchup 14 (Jul 5 - 18),The Designated Drinkers,609.75,6
+2021,14,Matchup 14 (Jul 5 - 18),Harry Kroll's Fantasy Team,813.75,6
+2021,15,Matchup 15 (Jul 19 - 25),SNPP Softball Team,478.0,1
+2021,15,Matchup 15 (Jul 19 - 25),Francisco and the Winter Soto,568.75,1
+2021,15,Matchup 15 (Jul 19 - 25),The Mookie Mourners,495.75,2
+2021,15,Matchup 15 (Jul 19 - 25),Jobu's Rum-Runners,366.5,2
+2021,15,Matchup 15 (Jul 19 - 25),Harry Kroll's Fantasy Team,502.25,3
+2021,15,Matchup 15 (Jul 19 - 25),Konerko's Lover,533.0,3
+2021,15,Matchup 15 (Jul 19 - 25),Ready to Get Hurt Again,593.5,4
+2021,15,Matchup 15 (Jul 19 - 25),"Yes, I Like Pina Moncadas",437.25,4
+2021,15,Matchup 15 (Jul 19 - 25),The Designated Drinkers,436.5,5
+2021,15,Matchup 15 (Jul 19 - 25),Modern Baseball,481.75,5
+2021,15,Matchup 15 (Jul 19 - 25),Justin Bour's Donut Shop,499.75,6
+2021,15,Matchup 15 (Jul 19 - 25),Sunscreen and Rosin,522.5,6
+2021,16,Matchup 16 (Jul 26 - Aug 1),Francisco and the Winter Soto,575.5,1
+2021,16,Matchup 16 (Jul 26 - Aug 1),Ready to Get Hurt Again,590.5,1
+2021,16,Matchup 16 (Jul 26 - Aug 1),The Mookie Mourners,480.0,2
+2021,16,Matchup 16 (Jul 26 - Aug 1),Konerko's Lover,466.75,2
+2021,16,Matchup 16 (Jul 26 - Aug 1),Sunscreen and Rosin,604.25,3
+2021,16,Matchup 16 (Jul 26 - Aug 1),"Yes, I Like Pina Moncadas",459.75,3
+2021,16,Matchup 16 (Jul 26 - Aug 1),Jobu's Rum-Runners,390.0,4
+2021,16,Matchup 16 (Jul 26 - Aug 1),Modern Baseball,520.75,4
+2021,16,Matchup 16 (Jul 26 - Aug 1),Harry Kroll's Fantasy Team,564.75,5
+2021,16,Matchup 16 (Jul 26 - Aug 1),SNPP Softball Team,465.25,5
+2021,16,Matchup 16 (Jul 26 - Aug 1),The Designated Drinkers,464.5,6
+2021,16,Matchup 16 (Jul 26 - Aug 1),Justin Bour's Donut Shop,590.5,6
+2021,17,Matchup 17 (Aug 2 - 8),Jobu's Rum-Runners,401.75,1
+2021,17,Matchup 17 (Aug 2 - 8),Francisco and the Winter Soto,563.5,1
+2021,17,Matchup 17 (Aug 2 - 8),Harry Kroll's Fantasy Team,528.0,2
+2021,17,Matchup 17 (Aug 2 - 8),The Mookie Mourners,573.75,2
+2021,17,Matchup 17 (Aug 2 - 8),Sunscreen and Rosin,414.5,3
+2021,17,Matchup 17 (Aug 2 - 8),SNPP Softball Team,510.0,3
+2021,17,Matchup 17 (Aug 2 - 8),Konerko's Lover,590.25,4
+2021,17,Matchup 17 (Aug 2 - 8),Ready to Get Hurt Again,633.5,4
+2021,17,Matchup 17 (Aug 2 - 8),Justin Bour's Donut Shop,604.25,5
+2021,17,Matchup 17 (Aug 2 - 8),Modern Baseball,541.0,5
+2021,17,Matchup 17 (Aug 2 - 8),The Designated Drinkers,476.25,6
+2021,17,Matchup 17 (Aug 2 - 8),"Yes, I Like Pina Moncadas",500.0,6
+2021,18,Matchup 18 (Aug 9 - 15),Modern Baseball,515.5,1
+2021,18,Matchup 18 (Aug 9 - 15),Francisco and the Winter Soto,485.25,1
+2021,18,Matchup 18 (Aug 9 - 15),SNPP Softball Team,540.75,2
+2021,18,Matchup 18 (Aug 9 - 15),Jobu's Rum-Runners,492.5,2
+2021,18,Matchup 18 (Aug 9 - 15),The Mookie Mourners,549.75,3
+2021,18,Matchup 18 (Aug 9 - 15),Ready to Get Hurt Again,523.5,3
+2021,18,Matchup 18 (Aug 9 - 15),Harry Kroll's Fantasy Team,426.75,4
+2021,18,Matchup 18 (Aug 9 - 15),Sunscreen and Rosin,415.75,4
+2021,18,Matchup 18 (Aug 9 - 15),Justin Bour's Donut Shop,526.5,5
+2021,18,Matchup 18 (Aug 9 - 15),"Yes, I Like Pina Moncadas",469.75,5
+2021,18,Matchup 18 (Aug 9 - 15),The Designated Drinkers,600.75,6
+2021,18,Matchup 18 (Aug 9 - 15),Konerko's Lover,493.0,6
+2021,19,Playoff Round 1 (Aug 16 - 22),The Mookie Mourners,445.0,1
+2021,19,Playoff Round 1 (Aug 16 - 22),Sunscreen and Rosin,496.25,1
+2021,19,Playoff Round 1 (Aug 16 - 22),Harry Kroll's Fantasy Team,620.0,2
+2021,19,Playoff Round 1 (Aug 16 - 22),Modern Baseball,565.0,2
+2021,19,Playoff Round 1 (Aug 16 - 22),Francisco and the Winter Soto,489.5,3
+2021,19,Playoff Round 1 (Aug 16 - 22),Ready to Get Hurt Again,533.0,3
+2021,19,Playoff Round 1 (Aug 16 - 22),"Yes, I Like Pina Moncadas",463.75,4
+2021,19,Playoff Round 1 (Aug 16 - 22),SNPP Softball Team,519.25,4
+2021,19,Playoff Round 1 (Aug 16 - 22),The Designated Drinkers,441.25,5
+2021,19,Playoff Round 1 (Aug 16 - 22),Jobu's Rum-Runners,476.25,5
+2021,20,Playoff Round 2 (Aug 23 - 29),Sunscreen and Rosin,521.0,1
+2021,20,Playoff Round 2 (Aug 23 - 29),Justin Bour's Donut Shop,591.25,1
+2021,20,Playoff Round 2 (Aug 23 - 29),Harry Kroll's Fantasy Team,435.5,2
+2021,20,Playoff Round 2 (Aug 23 - 29),Konerko's Lover,554.0,2
+2021,20,Playoff Round 2 (Aug 23 - 29),The Mookie Mourners,425.0,3
+2021,20,Playoff Round 2 (Aug 23 - 29),Modern Baseball,368.25,3
+2021,20,Playoff Round 2 (Aug 23 - 29),Jobu's Rum-Runners,459.25,4
+2021,20,Playoff Round 2 (Aug 23 - 29),Francisco and the Winter Soto,558.75,4
+2021,20,Playoff Round 2 (Aug 23 - 29),SNPP Softball Team,470.0,5
+2021,20,Playoff Round 2 (Aug 23 - 29),Ready to Get Hurt Again,393.0,5
+2021,20,Playoff Round 2 (Aug 23 - 29),The Designated Drinkers,397.75,6
+2021,20,Playoff Round 2 (Aug 23 - 29),"Yes, I Like Pina Moncadas",358.5,6
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Konerko's Lover,558.25,1
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Justin Bour's Donut Shop,647.5,1
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Harry Kroll's Fantasy Team,444.5,2
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Sunscreen and Rosin,366.0,2
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),The Mookie Mourners,334.5,3
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Modern Baseball,460.5,3
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),SNPP Softball Team,389.5,4
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Francisco and the Winter Soto,509.75,4
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),The Designated Drinkers,411.0,5
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Ready to Get Hurt Again,394.0,5
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),Jobu's Rum-Runners,469.0,6
+2021,21,Playoff Round 3 (Aug 30 - Sep 5),"Yes, I Like Pina Moncadas",387.25,6

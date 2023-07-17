@@ -1,0 +1,230 @@
+year,matchup_period,matchup_date,team,score,matchup_id
+2018,1,Matchup 1 (Mar 29 - Apr 8),Oldtown Craft Brews,496.5,1
+2018,1,Matchup 1 (Mar 29 - Apr 8),Konerko's Lover,319.0,1
+2018,1,Matchup 1 (Mar 29 - Apr 8),The Mookie Monsters,426.0,2
+2018,1,Matchup 1 (Mar 29 - Apr 8),Welington's ExtraBeefy Boys,404.0,2
+2018,1,Matchup 1 (Mar 29 - Apr 8),Sadly Not Bob Hayes,324.5,3
+2018,1,Matchup 1 (Mar 29 - Apr 8),Ugueth Urbina's Bail Bonds,340.5,3
+2018,1,Matchup 1 (Mar 29 - Apr 8),SNPP Softball Team,392.5,4
+2018,1,Matchup 1 (Mar 29 - Apr 8),Modern Baseball,385.0,4
+2018,1,Matchup 1 (Mar 29 - Apr 8),The Designated Drinkers,363.5,5
+2018,1,Matchup 1 (Mar 29 - Apr 8),"Yes, I Like Pina Moncadas",476.0,5
+2018,1,Matchup 1 (Mar 29 - Apr 8),Justin Bour's Donut Shop,388.0,6
+2018,2,Matchup 2 (Apr 9 - 15),Modern Baseball,152.5,1
+2018,2,Matchup 2 (Apr 9 - 15),Welington's ExtraBeefy Boys,155.0,1
+2018,2,Matchup 2 (Apr 9 - 15),The Mookie Monsters,337.5,2
+2018,2,Matchup 2 (Apr 9 - 15),Konerko's Lover,194.5,2
+2018,2,Matchup 2 (Apr 9 - 15),Ugueth Urbina's Bail Bonds,218.0,3
+2018,2,Matchup 2 (Apr 9 - 15),Sadly Not Bob Hayes,196.5,3
+2018,2,Matchup 2 (Apr 9 - 15),SNPP Softball Team,246.0,4
+2018,2,Matchup 2 (Apr 9 - 15),Oldtown Craft Brews,183.0,4
+2018,2,Matchup 2 (Apr 9 - 15),"Yes, I Like Pina Moncadas",306.5,5
+2018,2,Matchup 2 (Apr 9 - 15),The Designated Drinkers,229.0,5
+2018,2,Matchup 2 (Apr 9 - 15),Justin Bour's Donut Shop,319.5,6
+2018,3,Matchup 3 (Apr 16 - 22),Justin Bour's Donut Shop,248.5,1
+2018,3,Matchup 3 (Apr 16 - 22),Welington's ExtraBeefy Boys,335.5,1
+2018,3,Matchup 3 (Apr 16 - 22),Konerko's Lover,289.5,2
+2018,3,Matchup 3 (Apr 16 - 22),The Mookie Monsters,296.0,2
+2018,3,Matchup 3 (Apr 16 - 22),SNPP Softball Team,202.5,3
+2018,3,Matchup 3 (Apr 16 - 22),Sadly Not Bob Hayes,209.5,3
+2018,3,Matchup 3 (Apr 16 - 22),Ugueth Urbina's Bail Bonds,335.5,4
+2018,3,Matchup 3 (Apr 16 - 22),Modern Baseball,226.5,4
+2018,3,Matchup 3 (Apr 16 - 22),Oldtown Craft Brews,226.0,5
+2018,3,Matchup 3 (Apr 16 - 22),The Designated Drinkers,264.0,5
+2018,3,Matchup 3 (Apr 16 - 22),"Yes, I Like Pina Moncadas",338.0,6
+2018,4,Matchup 4 (Apr 23 - 29),Oldtown Craft Brews,287.0,1
+2018,4,Matchup 4 (Apr 23 - 29),The Mookie Monsters,291.5,1
+2018,4,Matchup 4 (Apr 23 - 29),Konerko's Lover,211.5,2
+2018,4,Matchup 4 (Apr 23 - 29),Welington's ExtraBeefy Boys,268.0,2
+2018,4,Matchup 4 (Apr 23 - 29),SNPP Softball Team,290.5,3
+2018,4,Matchup 4 (Apr 23 - 29),Ugueth Urbina's Bail Bonds,298.5,3
+2018,4,Matchup 4 (Apr 23 - 29),Sadly Not Bob Hayes,192.0,4
+2018,4,Matchup 4 (Apr 23 - 29),Modern Baseball,254.0,4
+2018,4,Matchup 4 (Apr 23 - 29),Justin Bour's Donut Shop,220.5,5
+2018,4,Matchup 4 (Apr 23 - 29),"Yes, I Like Pina Moncadas",240.5,5
+2018,4,Matchup 4 (Apr 23 - 29),The Designated Drinkers,222.0,6
+2018,5,Matchup 5 (Apr 30 - May 6),Modern Baseball,268.0,1
+2018,5,Matchup 5 (Apr 30 - May 6),The Mookie Monsters,346.5,1
+2018,5,Matchup 5 (Apr 30 - May 6),Welington's ExtraBeefy Boys,330.0,2
+2018,5,Matchup 5 (Apr 30 - May 6),Konerko's Lover,219.5,2
+2018,5,Matchup 5 (Apr 30 - May 6),Sadly Not Bob Hayes,238.5,3
+2018,5,Matchup 5 (Apr 30 - May 6),SNPP Softball Team,249.0,3
+2018,5,Matchup 5 (Apr 30 - May 6),Ugueth Urbina's Bail Bonds,308.5,4
+2018,5,Matchup 5 (Apr 30 - May 6),Oldtown Craft Brews,288.0,4
+2018,5,Matchup 5 (Apr 30 - May 6),The Designated Drinkers,276.5,5
+2018,5,Matchup 5 (Apr 30 - May 6),Justin Bour's Donut Shop,261.5,5
+2018,5,Matchup 5 (Apr 30 - May 6),"Yes, I Like Pina Moncadas",309.0,6
+2018,6,Matchup 6 (May 7 - 13),"Yes, I Like Pina Moncadas",352.0,1
+2018,6,Matchup 6 (May 7 - 13),Konerko's Lover,219.0,1
+2018,6,Matchup 6 (May 7 - 13),Welington's ExtraBeefy Boys,291.0,2
+2018,6,Matchup 6 (May 7 - 13),The Mookie Monsters,320.5,2
+2018,6,Matchup 6 (May 7 - 13),Ugueth Urbina's Bail Bonds,348.5,3
+2018,6,Matchup 6 (May 7 - 13),SNPP Softball Team,209.0,3
+2018,6,Matchup 6 (May 7 - 13),Sadly Not Bob Hayes,323.5,4
+2018,6,Matchup 6 (May 7 - 13),Oldtown Craft Brews,205.5,4
+2018,6,Matchup 6 (May 7 - 13),Modern Baseball,241.0,5
+2018,6,Matchup 6 (May 7 - 13),Justin Bour's Donut Shop,266.5,5
+2018,6,Matchup 6 (May 7 - 13),The Designated Drinkers,234.5,6
+2018,7,Matchup 7 (May 14 - 20),The Designated Drinkers,206.0,1
+2018,7,Matchup 7 (May 14 - 20),The Mookie Monsters,278.0,1
+2018,7,Matchup 7 (May 14 - 20),Sadly Not Bob Hayes,217.0,2
+2018,7,Matchup 7 (May 14 - 20),Welington's ExtraBeefy Boys,241.5,2
+2018,7,Matchup 7 (May 14 - 20),Ugueth Urbina's Bail Bonds,307.5,3
+2018,7,Matchup 7 (May 14 - 20),Konerko's Lover,214.0,3
+2018,7,Matchup 7 (May 14 - 20),SNPP Softball Team,198.0,4
+2018,7,Matchup 7 (May 14 - 20),Modern Baseball,263.0,4
+2018,7,Matchup 7 (May 14 - 20),"Yes, I Like Pina Moncadas",245.5,5
+2018,7,Matchup 7 (May 14 - 20),Oldtown Craft Brews,235.0,5
+2018,7,Matchup 7 (May 14 - 20),Justin Bour's Donut Shop,244.5,6
+2018,8,Matchup 8 (May 21 - 27),The Mookie Monsters,275.5,1
+2018,8,Matchup 8 (May 21 - 27),Welington's ExtraBeefy Boys,200.0,1
+2018,8,Matchup 8 (May 21 - 27),Modern Baseball,302.0,2
+2018,8,Matchup 8 (May 21 - 27),Konerko's Lover,266.0,2
+2018,8,Matchup 8 (May 21 - 27),Oldtown Craft Brews,268.5,3
+2018,8,Matchup 8 (May 21 - 27),Sadly Not Bob Hayes,254.0,3
+2018,8,Matchup 8 (May 21 - 27),The Designated Drinkers,238.0,4
+2018,8,Matchup 8 (May 21 - 27),Ugueth Urbina's Bail Bonds,180.5,4
+2018,8,Matchup 8 (May 21 - 27),"Yes, I Like Pina Moncadas",252.5,5
+2018,8,Matchup 8 (May 21 - 27),SNPP Softball Team,223.0,5
+2018,8,Matchup 8 (May 21 - 27),Justin Bour's Donut Shop,244.0,6
+2018,9,Matchup 9 (May 28 - Jun 3),Welington's ExtraBeefy Boys,201.0,1
+2018,9,Matchup 9 (May 28 - Jun 3),Modern Baseball,338.0,1
+2018,9,Matchup 9 (May 28 - Jun 3),Konerko's Lover,248.0,2
+2018,9,Matchup 9 (May 28 - Jun 3),Oldtown Craft Brews,203.0,2
+2018,9,Matchup 9 (May 28 - Jun 3),The Mookie Monsters,225.0,3
+2018,9,Matchup 9 (May 28 - Jun 3),The Designated Drinkers,253.0,3
+2018,9,Matchup 9 (May 28 - Jun 3),Ugueth Urbina's Bail Bonds,274.5,4
+2018,9,Matchup 9 (May 28 - Jun 3),"Yes, I Like Pina Moncadas",226.5,4
+2018,9,Matchup 9 (May 28 - Jun 3),SNPP Softball Team,328.5,5
+2018,9,Matchup 9 (May 28 - Jun 3),Justin Bour's Donut Shop,166.5,5
+2018,9,Matchup 9 (May 28 - Jun 3),Sadly Not Bob Hayes,272.5,6
+2018,10,Matchup 10 (Jun 4 - 10),Konerko's Lover,265.5,1
+2018,10,Matchup 10 (Jun 4 - 10),The Mookie Monsters,232.5,1
+2018,10,Matchup 10 (Jun 4 - 10),Modern Baseball,269.0,2
+2018,10,Matchup 10 (Jun 4 - 10),Welington's ExtraBeefy Boys,302.0,2
+2018,10,Matchup 10 (Jun 4 - 10),Oldtown Craft Brews,298.5,3
+2018,10,Matchup 10 (Jun 4 - 10),SNPP Softball Team,285.5,3
+2018,10,Matchup 10 (Jun 4 - 10),The Designated Drinkers,242.5,4
+2018,10,Matchup 10 (Jun 4 - 10),Sadly Not Bob Hayes,210.5,4
+2018,10,Matchup 10 (Jun 4 - 10),"Yes, I Like Pina Moncadas",253.5,5
+2018,10,Matchup 10 (Jun 4 - 10),Ugueth Urbina's Bail Bonds,134.0,5
+2018,10,Matchup 10 (Jun 4 - 10),Justin Bour's Donut Shop,183.0,6
+2018,11,Matchup 11 (Jun 11 - 17),SNPP Softball Team,341.5,1
+2018,11,Matchup 11 (Jun 11 - 17),Welington's ExtraBeefy Boys,229.5,1
+2018,11,Matchup 11 (Jun 11 - 17),The Designated Drinkers,155.5,2
+2018,11,Matchup 11 (Jun 11 - 17),Konerko's Lover,189.0,2
+2018,11,Matchup 11 (Jun 11 - 17),"Yes, I Like Pina Moncadas",207.5,3
+2018,11,Matchup 11 (Jun 11 - 17),The Mookie Monsters,266.0,3
+2018,11,Matchup 11 (Jun 11 - 17),Justin Bour's Donut Shop,218.5,4
+2018,11,Matchup 11 (Jun 11 - 17),Sadly Not Bob Hayes,294.0,4
+2018,11,Matchup 11 (Jun 11 - 17),Modern Baseball,256.5,5
+2018,11,Matchup 11 (Jun 11 - 17),Ugueth Urbina's Bail Bonds,296.0,5
+2018,11,Matchup 11 (Jun 11 - 17),Oldtown Craft Brews,136.5,6
+2018,12,Matchup 12 (Jun 18 - 24),Sadly Not Bob Hayes,246.5,1
+2018,12,Matchup 12 (Jun 18 - 24),The Designated Drinkers,240.5,1
+2018,12,Matchup 12 (Jun 18 - 24),Konerko's Lover,119.0,2
+2018,12,Matchup 12 (Jun 18 - 24),"Yes, I Like Pina Moncadas",316.5,2
+2018,12,Matchup 12 (Jun 18 - 24),The Mookie Monsters,282.5,3
+2018,12,Matchup 12 (Jun 18 - 24),Justin Bour's Donut Shop,234.0,3
+2018,12,Matchup 12 (Jun 18 - 24),Welington's ExtraBeefy Boys,164.0,4
+2018,12,Matchup 12 (Jun 18 - 24),Modern Baseball,233.5,4
+2018,12,Matchup 12 (Jun 18 - 24),Ugueth Urbina's Bail Bonds,305.0,5
+2018,12,Matchup 12 (Jun 18 - 24),Oldtown Craft Brews,289.5,5
+2018,12,Matchup 12 (Jun 18 - 24),SNPP Softball Team,263.5,6
+2018,13,Matchup 13 (Jun 25 - Jul 1),Ugueth Urbina's Bail Bonds,272.5,1
+2018,13,Matchup 13 (Jun 25 - Jul 1),The Mookie Monsters,243.0,1
+2018,13,Matchup 13 (Jun 25 - Jul 1),The Designated Drinkers,195.0,2
+2018,13,Matchup 13 (Jun 25 - Jul 1),Welington's ExtraBeefy Boys,306.5,2
+2018,13,Matchup 13 (Jun 25 - Jul 1),"Yes, I Like Pina Moncadas",330.0,3
+2018,13,Matchup 13 (Jun 25 - Jul 1),Konerko's Lover,143.0,3
+2018,13,Matchup 13 (Jun 25 - Jul 1),Justin Bour's Donut Shop,301.0,4
+2018,13,Matchup 13 (Jun 25 - Jul 1),SNPP Softball Team,310.0,4
+2018,13,Matchup 13 (Jun 25 - Jul 1),Modern Baseball,209.0,5
+2018,13,Matchup 13 (Jun 25 - Jul 1),Sadly Not Bob Hayes,221.5,5
+2018,13,Matchup 13 (Jun 25 - Jul 1),Oldtown Craft Brews,118.5,6
+2018,14,Matchup 14 (Jul 2 - 8),Oldtown Craft Brews,291.5,1
+2018,14,Matchup 14 (Jul 2 - 8),Konerko's Lover,140.0,1
+2018,14,Matchup 14 (Jul 2 - 8),The Mookie Monsters,244.0,2
+2018,14,Matchup 14 (Jul 2 - 8),Ugueth Urbina's Bail Bonds,240.5,2
+2018,14,Matchup 14 (Jul 2 - 8),Welington's ExtraBeefy Boys,201.5,3
+2018,14,Matchup 14 (Jul 2 - 8),Sadly Not Bob Hayes,282.5,3
+2018,14,Matchup 14 (Jul 2 - 8),SNPP Softball Team,297.0,4
+2018,14,Matchup 14 (Jul 2 - 8),"Yes, I Like Pina Moncadas",288.0,4
+2018,14,Matchup 14 (Jul 2 - 8),Modern Baseball,315.0,5
+2018,14,Matchup 14 (Jul 2 - 8),The Designated Drinkers,149.0,5
+2018,14,Matchup 14 (Jul 2 - 8),Justin Bour's Donut Shop,345.5,6
+2018,15,Matchup 15 (Jul 9 - 22),Modern Baseball,290.0,1
+2018,15,Matchup 15 (Jul 9 - 22),Welington's ExtraBeefy Boys,309.5,1
+2018,15,Matchup 15 (Jul 9 - 22),The Mookie Monsters,420.5,2
+2018,15,Matchup 15 (Jul 9 - 22),SNPP Softball Team,375.0,2
+2018,15,Matchup 15 (Jul 9 - 22),Konerko's Lover,329.5,3
+2018,15,Matchup 15 (Jul 9 - 22),Sadly Not Bob Hayes,507.0,3
+2018,15,Matchup 15 (Jul 9 - 22),Ugueth Urbina's Bail Bonds,306.5,4
+2018,15,Matchup 15 (Jul 9 - 22),Justin Bour's Donut Shop,426.5,4
+2018,15,Matchup 15 (Jul 9 - 22),Oldtown Craft Brews,400.5,5
+2018,15,Matchup 15 (Jul 9 - 22),The Designated Drinkers,288.0,5
+2018,15,Matchup 15 (Jul 9 - 22),"Yes, I Like Pina Moncadas",493.5,6
+2018,16,Matchup 16 (Jul 23 - 29),The Designated Drinkers,190.5,1
+2018,16,Matchup 16 (Jul 23 - 29),Welington's ExtraBeefy Boys,170.0,1
+2018,16,Matchup 16 (Jul 23 - 29),Konerko's Lover,199.5,2
+2018,16,Matchup 16 (Jul 23 - 29),Sadly Not Bob Hayes,221.0,2
+2018,16,Matchup 16 (Jul 23 - 29),The Mookie Monsters,266.0,3
+2018,16,Matchup 16 (Jul 23 - 29),Ugueth Urbina's Bail Bonds,231.0,3
+2018,16,Matchup 16 (Jul 23 - 29),SNPP Softball Team,249.5,4
+2018,16,Matchup 16 (Jul 23 - 29),Modern Baseball,233.0,4
+2018,16,Matchup 16 (Jul 23 - 29),Oldtown Craft Brews,289.5,5
+2018,16,Matchup 16 (Jul 23 - 29),"Yes, I Like Pina Moncadas",344.0,5
+2018,16,Matchup 16 (Jul 23 - 29),Justin Bour's Donut Shop,265.0,6
+2018,17,Matchup 17 (Jul 30 - Aug 5),Justin Bour's Donut Shop,339.0,1
+2018,17,Matchup 17 (Jul 30 - Aug 5),Sadly Not Bob Hayes,271.5,1
+2018,17,Matchup 17 (Jul 30 - Aug 5),Welington's ExtraBeefy Boys,268.0,2
+2018,17,Matchup 17 (Jul 30 - Aug 5),Ugueth Urbina's Bail Bonds,194.0,2
+2018,17,Matchup 17 (Jul 30 - Aug 5),Konerko's Lover,159.0,3
+2018,17,Matchup 17 (Jul 30 - Aug 5),SNPP Softball Team,290.0,3
+2018,17,Matchup 17 (Jul 30 - Aug 5),The Mookie Monsters,320.0,4
+2018,17,Matchup 17 (Jul 30 - Aug 5),The Designated Drinkers,185.5,4
+2018,17,Matchup 17 (Jul 30 - Aug 5),Modern Baseball,300.5,5
+2018,17,Matchup 17 (Jul 30 - Aug 5),"Yes, I Like Pina Moncadas",264.0,5
+2018,17,Matchup 17 (Jul 30 - Aug 5),Oldtown Craft Brews,213.0,6
+2018,18,Matchup 18 (Aug 6 - 12),"Yes, I Like Pina Moncadas",273.0,1
+2018,18,Matchup 18 (Aug 6 - 12),Sadly Not Bob Hayes,265.5,1
+2018,18,Matchup 18 (Aug 6 - 12),Konerko's Lover,199.0,2
+2018,18,Matchup 18 (Aug 6 - 12),Ugueth Urbina's Bail Bonds,218.0,2
+2018,18,Matchup 18 (Aug 6 - 12),The Mookie Monsters,273.0,3
+2018,18,Matchup 18 (Aug 6 - 12),SNPP Softball Team,229.5,3
+2018,18,Matchup 18 (Aug 6 - 12),Welington's ExtraBeefy Boys,193.5,4
+2018,18,Matchup 18 (Aug 6 - 12),The Designated Drinkers,160.5,4
+2018,18,Matchup 18 (Aug 6 - 12),Oldtown Craft Brews,192.0,5
+2018,18,Matchup 18 (Aug 6 - 12),Justin Bour's Donut Shop,293.5,5
+2018,18,Matchup 18 (Aug 6 - 12),Modern Baseball,246.5,6
+2018,19,Playoff Round 1 (Aug 13 - 19),Justin Bour's Donut Shop,299.0,1
+2018,19,Playoff Round 1 (Aug 13 - 19),Modern Baseball,272.0,1
+2018,19,Playoff Round 1 (Aug 13 - 19),Ugueth Urbina's Bail Bonds,199.5,2
+2018,19,Playoff Round 1 (Aug 13 - 19),SNPP Softball Team,350.0,2
+2018,19,Playoff Round 1 (Aug 13 - 19),Welington's ExtraBeefy Boys,175.5,3
+2018,19,Playoff Round 1 (Aug 13 - 19),Oldtown Craft Brews,252.0,3
+2018,19,Playoff Round 1 (Aug 13 - 19),Sadly Not Bob Hayes,203.5,4
+2018,19,Playoff Round 1 (Aug 13 - 19),The Designated Drinkers,175.5,4
+2018,19,Playoff Round 1 (Aug 13 - 19),Konerko's Lover,130.0,5
+2018,20,Playoff Round 2 (Aug 20 - 26),Justin Bour's Donut Shop,256.5,1
+2018,20,Playoff Round 2 (Aug 20 - 26),"Yes, I Like Pina Moncadas",297.0,1
+2018,20,Playoff Round 2 (Aug 20 - 26),SNPP Softball Team,310.5,2
+2018,20,Playoff Round 2 (Aug 20 - 26),The Mookie Monsters,206.5,2
+2018,20,Playoff Round 2 (Aug 20 - 26),Ugueth Urbina's Bail Bonds,214.5,3
+2018,20,Playoff Round 2 (Aug 20 - 26),Modern Baseball,224.5,3
+2018,20,Playoff Round 2 (Aug 20 - 26),Oldtown Craft Brews,161.0,4
+2018,20,Playoff Round 2 (Aug 20 - 26),The Designated Drinkers,171.5,4
+2018,20,Playoff Round 2 (Aug 20 - 26),Sadly Not Bob Hayes,251.5,5
+2018,20,Playoff Round 2 (Aug 20 - 26),Konerko's Lover,175.0,5
+2018,20,Playoff Round 2 (Aug 20 - 26),Welington's ExtraBeefy Boys,185.5,6
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),SNPP Softball Team,282.5,1
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),"Yes, I Like Pina Moncadas",189.0,1
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Justin Bour's Donut Shop,228.0,2
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),The Mookie Monsters,247.5,2
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Ugueth Urbina's Bail Bonds,168.5,3
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Modern Baseball,247.0,3
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Sadly Not Bob Hayes,260.0,4
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Welington's ExtraBeefy Boys,148.5,4
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Oldtown Craft Brews,212.5,5
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),The Designated Drinkers,98.5,5
+2018,21,Playoff Round 3 (Aug 27 - Sep 2),Konerko's Lover,88.5,6

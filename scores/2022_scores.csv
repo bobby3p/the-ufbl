@@ -1,0 +1,251 @@
+year,matchup_period,matchup_date,team,score,matchup_id
+2022,1,Matchup 1 (Apr 7 - 17),Modern Baseball,761.5,1
+2022,1,Matchup 1 (Apr 7 - 17),The Taking of Soto 022,755.0,1
+2022,1,Matchup 1 (Apr 7 - 17),SNPP Softball Team,827.5,2
+2022,1,Matchup 1 (Apr 7 - 17),Ready to Get Hurt Again,683.0,2
+2022,1,Matchup 1 (Apr 7 - 17),The Mookie Mashers,713.25,3
+2022,1,Matchup 1 (Apr 7 - 17),Konerko's Lover,683.0,3
+2022,1,Matchup 1 (Apr 7 - 17),Sunscreen and Rosin,747.0,4
+2022,1,Matchup 1 (Apr 7 - 17),Harry Kroll's Fantasy Team,690.0,4
+2022,1,Matchup 1 (Apr 7 - 17),Jobu's Rum-Runners,842.75,5
+2022,1,Matchup 1 (Apr 7 - 17),The Designated Drinkers,766.25,5
+2022,1,Matchup 1 (Apr 7 - 17),Justin Bour's Donut Shop,786.0,6
+2022,1,Matchup 1 (Apr 7 - 17),"Yes, I Like Pina Moncadas",718.25,6
+2022,2,Matchup 2 (Apr 18 - 24),The Taking of Soto 022,392.75,1
+2022,2,Matchup 2 (Apr 18 - 24),Jobu's Rum-Runners,486.0,1
+2022,2,Matchup 2 (Apr 18 - 24),Justin Bour's Donut Shop,502.75,2
+2022,2,Matchup 2 (Apr 18 - 24),Konerko's Lover,506.25,2
+2022,2,Matchup 2 (Apr 18 - 24),Ready to Get Hurt Again,475.75,3
+2022,2,Matchup 2 (Apr 18 - 24),The Mookie Mashers,534.0,3
+2022,2,Matchup 2 (Apr 18 - 24),SNPP Softball Team,503.25,4
+2022,2,Matchup 2 (Apr 18 - 24),Harry Kroll's Fantasy Team,465.75,4
+2022,2,Matchup 2 (Apr 18 - 24),Sunscreen and Rosin,571.25,5
+2022,2,Matchup 2 (Apr 18 - 24),Modern Baseball,517.5,5
+2022,2,Matchup 2 (Apr 18 - 24),"Yes, I Like Pina Moncadas",477.0,6
+2022,2,Matchup 2 (Apr 18 - 24),The Designated Drinkers,573.75,6
+2022,3,Matchup 3 (Apr 25 - May 1),The Mookie Mashers,475.5,1
+2022,3,Matchup 3 (Apr 25 - May 1),The Taking of Soto 022,567.25,1
+2022,3,Matchup 3 (Apr 25 - May 1),Konerko's Lover,588.5,2
+2022,3,Matchup 3 (Apr 25 - May 1),Ready to Get Hurt Again,481.0,2
+2022,3,Matchup 3 (Apr 25 - May 1),SNPP Softball Team,539.5,3
+2022,3,Matchup 3 (Apr 25 - May 1),Sunscreen and Rosin,405.25,3
+2022,3,Matchup 3 (Apr 25 - May 1),The Designated Drinkers,422.75,4
+2022,3,Matchup 3 (Apr 25 - May 1),Justin Bour's Donut Shop,582.75,4
+2022,3,Matchup 3 (Apr 25 - May 1),Modern Baseball,653.5,5
+2022,3,Matchup 3 (Apr 25 - May 1),Jobu's Rum-Runners,573.25,5
+2022,3,Matchup 3 (Apr 25 - May 1),"Yes, I Like Pina Moncadas",518.5,6
+2022,3,Matchup 3 (Apr 25 - May 1),Harry Kroll's Fantasy Team,510.0,6
+2022,4,Matchup 4 (May 2 - 8),The Taking of Soto 022,551.0,1
+2022,4,Matchup 4 (May 2 - 8),Konerko's Lover,440.25,1
+2022,4,Matchup 4 (May 2 - 8),Ready to Get Hurt Again,523.25,2
+2022,4,Matchup 4 (May 2 - 8),Jobu's Rum-Runners,496.75,2
+2022,4,Matchup 4 (May 2 - 8),The Mookie Mashers,401.75,3
+2022,4,Matchup 4 (May 2 - 8),Modern Baseball,554.75,3
+2022,4,Matchup 4 (May 2 - 8),"Yes, I Like Pina Moncadas",523.5,4
+2022,4,Matchup 4 (May 2 - 8),Sunscreen and Rosin,495.0,4
+2022,4,Matchup 4 (May 2 - 8),Harry Kroll's Fantasy Team,509.75,5
+2022,4,Matchup 4 (May 2 - 8),Justin Bour's Donut Shop,525.0,5
+2022,4,Matchup 4 (May 2 - 8),The Designated Drinkers,426.25,6
+2022,4,Matchup 4 (May 2 - 8),SNPP Softball Team,516.25,6
+2022,5,Matchup 5 (May 9 - 15),The Taking of Soto 022,515.0,1
+2022,5,Matchup 5 (May 9 - 15),"Yes, I Like Pina Moncadas",537.0,1
+2022,5,Matchup 5 (May 9 - 15),The Mookie Mashers,524.5,2
+2022,5,Matchup 5 (May 9 - 15),Harry Kroll's Fantasy Team,478.5,2
+2022,5,Matchup 5 (May 9 - 15),Konerko's Lover,479.5,3
+2022,5,Matchup 5 (May 9 - 15),SNPP Softball Team,638.75,3
+2022,5,Matchup 5 (May 9 - 15),Jobu's Rum-Runners,474.25,4
+2022,5,Matchup 5 (May 9 - 15),Justin Bour's Donut Shop,586.25,4
+2022,5,Matchup 5 (May 9 - 15),Modern Baseball,493.25,5
+2022,5,Matchup 5 (May 9 - 15),The Designated Drinkers,473.0,5
+2022,5,Matchup 5 (May 9 - 15),Ready to Get Hurt Again,460.25,6
+2022,5,Matchup 5 (May 9 - 15),Sunscreen and Rosin,536.25,6
+2022,6,Matchup 6 (May 16 - 22),Harry Kroll's Fantasy Team,446.75,1
+2022,6,Matchup 6 (May 16 - 22),The Taking of Soto 022,547.0,1
+2022,6,Matchup 6 (May 16 - 22),Sunscreen and Rosin,487.75,2
+2022,6,Matchup 6 (May 16 - 22),Konerko's Lover,523.75,2
+2022,6,Matchup 6 (May 16 - 22),Ready to Get Hurt Again,604.5,3
+2022,6,Matchup 6 (May 16 - 22),The Designated Drinkers,482.5,3
+2022,6,Matchup 6 (May 16 - 22),"Yes, I Like Pina Moncadas",451.75,4
+2022,6,Matchup 6 (May 16 - 22),The Mookie Mashers,597.75,4
+2022,6,Matchup 6 (May 16 - 22),Jobu's Rum-Runners,607.25,5
+2022,6,Matchup 6 (May 16 - 22),SNPP Softball Team,600.5,5
+2022,6,Matchup 6 (May 16 - 22),Modern Baseball,558.75,6
+2022,6,Matchup 6 (May 16 - 22),Justin Bour's Donut Shop,546.5,6
+2022,7,Matchup 7 (May 23 - 29),The Designated Drinkers,503.75,1
+2022,7,Matchup 7 (May 23 - 29),The Taking of Soto 022,522.0,1
+2022,7,Matchup 7 (May 23 - 29),Ready to Get Hurt Again,628.25,2
+2022,7,Matchup 7 (May 23 - 29),SNPP Softball Team,568.25,2
+2022,7,Matchup 7 (May 23 - 29),The Mookie Mashers,536.75,3
+2022,7,Matchup 7 (May 23 - 29),Justin Bour's Donut Shop,438.75,3
+2022,7,Matchup 7 (May 23 - 29),Konerko's Lover,514.5,4
+2022,7,Matchup 7 (May 23 - 29),Modern Baseball,569.75,4
+2022,7,Matchup 7 (May 23 - 29),"Yes, I Like Pina Moncadas",492.75,5
+2022,7,Matchup 7 (May 23 - 29),Jobu's Rum-Runners,607.5,5
+2022,7,Matchup 7 (May 23 - 29),Sunscreen and Rosin,537.75,6
+2022,7,Matchup 7 (May 23 - 29),Harry Kroll's Fantasy Team,513.0,6
+2022,8,Matchup 8 (May 30 - Jun 5),Modern Baseball,604.75,1
+2022,8,Matchup 8 (May 30 - Jun 5),The Taking of Soto 022,702.0,1
+2022,8,Matchup 8 (May 30 - Jun 5),Justin Bour's Donut Shop,519.5,2
+2022,8,Matchup 8 (May 30 - Jun 5),Konerko's Lover,436.75,2
+2022,8,Matchup 8 (May 30 - Jun 5),Jobu's Rum-Runners,598.75,3
+2022,8,Matchup 8 (May 30 - Jun 5),The Mookie Mashers,516.75,3
+2022,8,Matchup 8 (May 30 - Jun 5),Ready to Get Hurt Again,572.0,4
+2022,8,Matchup 8 (May 30 - Jun 5),"Yes, I Like Pina Moncadas",524.5,4
+2022,8,Matchup 8 (May 30 - Jun 5),The Designated Drinkers,517.25,5
+2022,8,Matchup 8 (May 30 - Jun 5),Sunscreen and Rosin,567.75,5
+2022,8,Matchup 8 (May 30 - Jun 5),Harry Kroll's Fantasy Team,640.25,6
+2022,8,Matchup 8 (May 30 - Jun 5),SNPP Softball Team,587.0,6
+2022,9,Matchup 9 (Jun 6 - 12),Jobu's Rum-Runners,580.5,1
+2022,9,Matchup 9 (Jun 6 - 12),The Taking of Soto 022,433.25,1
+2022,9,Matchup 9 (Jun 6 - 12),Modern Baseball,587.0,2
+2022,9,Matchup 9 (Jun 6 - 12),"Yes, I Like Pina Moncadas",516.75,2
+2022,9,Matchup 9 (Jun 6 - 12),The Mookie Mashers,452.0,3
+2022,9,Matchup 9 (Jun 6 - 12),Ready to Get Hurt Again,581.5,3
+2022,9,Matchup 9 (Jun 6 - 12),SNPP Softball Team,528.25,4
+2022,9,Matchup 9 (Jun 6 - 12),Sunscreen and Rosin,513.0,4
+2022,9,Matchup 9 (Jun 6 - 12),Konerko's Lover,455.25,5
+2022,9,Matchup 9 (Jun 6 - 12),Harry Kroll's Fantasy Team,565.0,5
+2022,9,Matchup 9 (Jun 6 - 12),The Designated Drinkers,558.0,6
+2022,9,Matchup 9 (Jun 6 - 12),Justin Bour's Donut Shop,542.25,6
+2022,10,Matchup 10 (Jun 13 - 19),The Mookie Mashers,514.75,1
+2022,10,Matchup 10 (Jun 13 - 19),The Taking of Soto 022,577.0,1
+2022,10,Matchup 10 (Jun 13 - 19),The Designated Drinkers,492.0,2
+2022,10,Matchup 10 (Jun 13 - 19),Konerko's Lover,536.75,2
+2022,10,Matchup 10 (Jun 13 - 19),Jobu's Rum-Runners,589.0,3
+2022,10,Matchup 10 (Jun 13 - 19),Modern Baseball,575.0,3
+2022,10,Matchup 10 (Jun 13 - 19),"Yes, I Like Pina Moncadas",550.75,4
+2022,10,Matchup 10 (Jun 13 - 19),SNPP Softball Team,536.75,4
+2022,10,Matchup 10 (Jun 13 - 19),Justin Bour's Donut Shop,567.75,5
+2022,10,Matchup 10 (Jun 13 - 19),Sunscreen and Rosin,584.75,5
+2022,10,Matchup 10 (Jun 13 - 19),Ready to Get Hurt Again,544.0,6
+2022,10,Matchup 10 (Jun 13 - 19),Harry Kroll's Fantasy Team,497.25,6
+2022,11,Matchup 11 (Jun 20 - 26),SNPP Softball Team,610.0,1
+2022,11,Matchup 11 (Jun 20 - 26),The Taking of Soto 022,624.75,1
+2022,11,Matchup 11 (Jun 20 - 26),Konerko's Lover,472.25,2
+2022,11,Matchup 11 (Jun 20 - 26),Ready to Get Hurt Again,609.0,2
+2022,11,Matchup 11 (Jun 20 - 26),The Mookie Mashers,476.5,3
+2022,11,Matchup 11 (Jun 20 - 26),The Designated Drinkers,521.0,3
+2022,11,Matchup 11 (Jun 20 - 26),Justin Bour's Donut Shop,536.75,4
+2022,11,Matchup 11 (Jun 20 - 26),"Yes, I Like Pina Moncadas",542.0,4
+2022,11,Matchup 11 (Jun 20 - 26),Sunscreen and Rosin,445.5,5
+2022,11,Matchup 11 (Jun 20 - 26),Modern Baseball,547.25,5
+2022,11,Matchup 11 (Jun 20 - 26),Harry Kroll's Fantasy Team,555.5,6
+2022,11,Matchup 11 (Jun 20 - 26),Jobu's Rum-Runners,552.0,6
+2022,12,Matchup 12 (Jun 27 - Jul 3),Sunscreen and Rosin,526.25,1
+2022,12,Matchup 12 (Jun 27 - Jul 3),The Taking of Soto 022,590.0,1
+2022,12,Matchup 12 (Jun 27 - Jul 3),The Mookie Mashers,516.25,2
+2022,12,Matchup 12 (Jun 27 - Jul 3),Konerko's Lover,430.75,2
+2022,12,Matchup 12 (Jun 27 - Jul 3),Justin Bour's Donut Shop,402.75,3
+2022,12,Matchup 12 (Jun 27 - Jul 3),Ready to Get Hurt Again,547.25,3
+2022,12,Matchup 12 (Jun 27 - Jul 3),The Designated Drinkers,516.0,4
+2022,12,Matchup 12 (Jun 27 - Jul 3),"Yes, I Like Pina Moncadas",492.5,4
+2022,12,Matchup 12 (Jun 27 - Jul 3),Harry Kroll's Fantasy Team,589.0,5
+2022,12,Matchup 12 (Jun 27 - Jul 3),Modern Baseball,499.5,5
+2022,12,Matchup 12 (Jun 27 - Jul 3),Jobu's Rum-Runners,565.25,6
+2022,12,Matchup 12 (Jun 27 - Jul 3),SNPP Softball Team,577.0,6
+2022,13,Matchup 13 (Jul 4 - 10),Justin Bour's Donut Shop,565.5,1
+2022,13,Matchup 13 (Jul 4 - 10),The Taking of Soto 022,476.5,1
+2022,13,Matchup 13 (Jul 4 - 10),Ready to Get Hurt Again,620.25,2
+2022,13,Matchup 13 (Jul 4 - 10),Modern Baseball,545.75,2
+2022,13,Matchup 13 (Jul 4 - 10),The Designated Drinkers,512.5,3
+2022,13,Matchup 13 (Jul 4 - 10),Harry Kroll's Fantasy Team,486.75,3
+2022,13,Matchup 13 (Jul 4 - 10),Konerko's Lover,434.75,4
+2022,13,Matchup 13 (Jul 4 - 10),"Yes, I Like Pina Moncadas",486.5,4
+2022,13,Matchup 13 (Jul 4 - 10),Sunscreen and Rosin,580.75,5
+2022,13,Matchup 13 (Jul 4 - 10),Jobu's Rum-Runners,620.25,5
+2022,13,Matchup 13 (Jul 4 - 10),SNPP Softball Team,573.75,6
+2022,13,Matchup 13 (Jul 4 - 10),The Mookie Mashers,580.75,6
+2022,14,Matchup 14 (Jul 11 - 24),The Taking of Soto 022,919.25,1
+2022,14,Matchup 14 (Jul 11 - 24),Harry Kroll's Fantasy Team,724.25,1
+2022,14,Matchup 14 (Jul 11 - 24),Konerko's Lover,713.5,2
+2022,14,Matchup 14 (Jul 11 - 24),Sunscreen and Rosin,696.75,2
+2022,14,Matchup 14 (Jul 11 - 24),"Yes, I Like Pina Moncadas",879.5,3
+2022,14,Matchup 14 (Jul 11 - 24),The Mookie Mashers,872.0,3
+2022,14,Matchup 14 (Jul 11 - 24),SNPP Softball Team,878.75,4
+2022,14,Matchup 14 (Jul 11 - 24),The Designated Drinkers,814.0,4
+2022,14,Matchup 14 (Jul 11 - 24),Justin Bour's Donut Shop,882.25,5
+2022,14,Matchup 14 (Jul 11 - 24),Modern Baseball,985.5,5
+2022,14,Matchup 14 (Jul 11 - 24),Ready to Get Hurt Again,787.25,6
+2022,14,Matchup 14 (Jul 11 - 24),Jobu's Rum-Runners,914.75,6
+2022,15,Matchup 15 (Jul 25 - 31),"Yes, I Like Pina Moncadas",600.5,1
+2022,15,Matchup 15 (Jul 25 - 31),The Taking of Soto 022,499.5,1
+2022,15,Matchup 15 (Jul 25 - 31),Konerko's Lover,445.5,2
+2022,15,Matchup 15 (Jul 25 - 31),Jobu's Rum-Runners,496.0,2
+2022,15,Matchup 15 (Jul 25 - 31),Harry Kroll's Fantasy Team,416.5,3
+2022,15,Matchup 15 (Jul 25 - 31),The Mookie Mashers,523.75,3
+2022,15,Matchup 15 (Jul 25 - 31),SNPP Softball Team,582.75,4
+2022,15,Matchup 15 (Jul 25 - 31),Modern Baseball,556.0,4
+2022,15,Matchup 15 (Jul 25 - 31),Ready to Get Hurt Again,528.25,5
+2022,15,Matchup 15 (Jul 25 - 31),The Designated Drinkers,486.0,5
+2022,15,Matchup 15 (Jul 25 - 31),Justin Bour's Donut Shop,526.0,6
+2022,15,Matchup 15 (Jul 25 - 31),Sunscreen and Rosin,544.5,6
+2022,16,Matchup 16 (Aug 1 - 7),The Taking of Soto 022,526.75,1
+2022,16,Matchup 16 (Aug 1 - 7),Modern Baseball,560.0,1
+2022,16,Matchup 16 (Aug 1 - 7),Ready to Get Hurt Again,587.75,2
+2022,16,Matchup 16 (Aug 1 - 7),Konerko's Lover,433.25,2
+2022,16,Matchup 16 (Aug 1 - 7),Sunscreen and Rosin,565.75,3
+2022,16,Matchup 16 (Aug 1 - 7),The Mookie Mashers,609.5,3
+2022,16,Matchup 16 (Aug 1 - 7),Jobu's Rum-Runners,577.0,4
+2022,16,Matchup 16 (Aug 1 - 7),The Designated Drinkers,602.0,4
+2022,16,Matchup 16 (Aug 1 - 7),Harry Kroll's Fantasy Team,391.75,5
+2022,16,Matchup 16 (Aug 1 - 7),SNPP Softball Team,626.75,5
+2022,16,Matchup 16 (Aug 1 - 7),"Yes, I Like Pina Moncadas",501.25,6
+2022,16,Matchup 16 (Aug 1 - 7),Justin Bour's Donut Shop,553.75,6
+2022,17,Matchup 17 (Aug 8 - 14),The Taking of Soto 022,602.25,1
+2022,17,Matchup 17 (Aug 8 - 14),Ready to Get Hurt Again,540.5,1
+2022,17,Matchup 17 (Aug 8 - 14),Konerko's Lover,444.0,2
+2022,17,Matchup 17 (Aug 8 - 14),The Mookie Mashers,481.25,2
+2022,17,Matchup 17 (Aug 8 - 14),Justin Bour's Donut Shop,562.75,3
+2022,17,Matchup 17 (Aug 8 - 14),SNPP Softball Team,519.5,3
+2022,17,Matchup 17 (Aug 8 - 14),Sunscreen and Rosin,428.5,4
+2022,17,Matchup 17 (Aug 8 - 14),Harry Kroll's Fantasy Team,453.0,4
+2022,17,Matchup 17 (Aug 8 - 14),The Designated Drinkers,564.75,5
+2022,17,Matchup 17 (Aug 8 - 14),"Yes, I Like Pina Moncadas",551.0,5
+2022,17,Matchup 17 (Aug 8 - 14),Jobu's Rum-Runners,619.75,6
+2022,17,Matchup 17 (Aug 8 - 14),Modern Baseball,572.75,6
+2022,18,Matchup 18 (Aug 15 - 21),Jobu's Rum-Runners,598.5,1
+2022,18,Matchup 18 (Aug 15 - 21),The Taking of Soto 022,576.25,1
+2022,18,Matchup 18 (Aug 15 - 21),SNPP Softball Team,632.0,2
+2022,18,Matchup 18 (Aug 15 - 21),Sunscreen and Rosin,548.25,2
+2022,18,Matchup 18 (Aug 15 - 21),The Mookie Mashers,569.25,3
+2022,18,Matchup 18 (Aug 15 - 21),Ready to Get Hurt Again,566.0,3
+2022,18,Matchup 18 (Aug 15 - 21),Harry Kroll's Fantasy Team,452.75,4
+2022,18,Matchup 18 (Aug 15 - 21),"Yes, I Like Pina Moncadas",545.0,4
+2022,18,Matchup 18 (Aug 15 - 21),Justin Bour's Donut Shop,530.25,5
+2022,18,Matchup 18 (Aug 15 - 21),The Designated Drinkers,494.25,5
+2022,18,Matchup 18 (Aug 15 - 21),Modern Baseball,615.0,6
+2022,18,Matchup 18 (Aug 15 - 21),Konerko's Lover,497.75,6
+2022,19,Playoff Round 1 (Aug 22 - 28),Modern Baseball,580.0,1
+2022,19,Playoff Round 1 (Aug 22 - 28),Justin Bour's Donut Shop,473.5,1
+2022,19,Playoff Round 1 (Aug 22 - 28),The Mookie Mashers,540.25,2
+2022,19,Playoff Round 1 (Aug 22 - 28),Ready to Get Hurt Again,536.5,2
+2022,19,Playoff Round 1 (Aug 22 - 28),"Yes, I Like Pina Moncadas",522.75,3
+2022,19,Playoff Round 1 (Aug 22 - 28),The Taking of Soto 022,605.5,3
+2022,19,Playoff Round 1 (Aug 22 - 28),The Designated Drinkers,446.5,4
+2022,19,Playoff Round 1 (Aug 22 - 28),Sunscreen and Rosin,491.5,4
+2022,19,Playoff Round 1 (Aug 22 - 28),Konerko's Lover,409.75,5
+2022,19,Playoff Round 1 (Aug 22 - 28),Harry Kroll's Fantasy Team,374.75,5
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Modern Baseball,621.75,1
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Jobu's Rum-Runners,542.25,1
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),The Mookie Mashers,583.25,2
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),SNPP Softball Team,581.0,2
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Justin Bour's Donut Shop,498.0,3
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Ready to Get Hurt Again,518.25,3
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Sunscreen and Rosin,319.75,4
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),The Taking of Soto 022,469.75,4
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Konerko's Lover,405.75,5
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),"Yes, I Like Pina Moncadas",421.75,5
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),Harry Kroll's Fantasy Team,343.0,6
+2022,20,Playoff Round 2 (Aug 29 - Sep 4),The Designated Drinkers,357.5,6
+2022,21,Playoff Round 3 (Sep 5 - 11),The Mookie Mashers,484.0,1
+2022,21,Playoff Round 3 (Sep 5 - 11),Modern Baseball,623.75,1
+2022,21,Playoff Round 3 (Sep 5 - 11),SNPP Softball Team,563.5,2
+2022,21,Playoff Round 3 (Sep 5 - 11),Jobu's Rum-Runners,617.5,2
+2022,21,Playoff Round 3 (Sep 5 - 11),Justin Bour's Donut Shop,522.5,3
+2022,21,Playoff Round 3 (Sep 5 - 11),Ready to Get Hurt Again,603.5,3
+2022,21,Playoff Round 3 (Sep 5 - 11),"Yes, I Like Pina Moncadas",452.25,4
+2022,21,Playoff Round 3 (Sep 5 - 11),The Taking of Soto 022,518.0,4
+2022,21,Playoff Round 3 (Sep 5 - 11),The Designated Drinkers,330.0,5
+2022,21,Playoff Round 3 (Sep 5 - 11),Sunscreen and Rosin,306.0,5
+2022,21,Playoff Round 3 (Sep 5 - 11),Konerko's Lover,432.25,6
+2022,21,Playoff Round 3 (Sep 5 - 11),Harry Kroll's Fantasy Team,413.0,6

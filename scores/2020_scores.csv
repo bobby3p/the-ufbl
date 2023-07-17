@@ -1,0 +1,97 @@
+year,matchup_period,matchup_date,team,score,matchup_id
+2020,1,Matchup 1 (Mar 26 - Aug 2),Soto 3: The Rise of OBP,629.5,1
+2020,1,Matchup 1 (Mar 26 - Aug 2),The Designated Drinkers,704.75,1
+2020,1,Matchup 1 (Mar 26 - Aug 2),Global Pandemic Golf Club,754.25,2
+2020,1,Matchup 1 (Mar 26 - Aug 2),The Mookie Mourners,712.25,2
+2020,1,Matchup 1 (Mar 26 - Aug 2),Konerko's Lover,676.0,3
+2020,1,Matchup 1 (Mar 26 - Aug 2),3adly Not Bob Hayes,496.5,3
+2020,1,Matchup 1 (Mar 26 - Aug 2),Ugueth Urbina's Bail Bonds,731.0,4
+2020,1,Matchup 1 (Mar 26 - Aug 2),SNPP Softball Team,639.25,4
+2020,1,Matchup 1 (Mar 26 - Aug 2),Jobu's Rum-Runners,762.0,5
+2020,1,Matchup 1 (Mar 26 - Aug 2),Modern Baseball,791.0,5
+2020,1,Matchup 1 (Mar 26 - Aug 2),Justin Bour's Donut Shop,762.5,6
+2020,1,Matchup 1 (Mar 26 - Aug 2),"Yes, I Like Pina Moncadas",739.25,6
+2020,2,Matchup 2 (Aug 3 - 9),Soto 3: The Rise of OBP,320.25,1
+2020,2,Matchup 2 (Aug 3 - 9),Modern Baseball,541.5,1
+2020,2,Matchup 2 (Aug 3 - 9),Konerko's Lover,506.25,2
+2020,2,Matchup 2 (Aug 3 - 9),The Mookie Mourners,464.25,2
+2020,2,Matchup 2 (Aug 3 - 9),Global Pandemic Golf Club,458.5,3
+2020,2,Matchup 2 (Aug 3 - 9),Ugueth Urbina's Bail Bonds,540.75,3
+2020,2,Matchup 2 (Aug 3 - 9),3adly Not Bob Hayes,432.25,4
+2020,2,Matchup 2 (Aug 3 - 9),SNPP Softball Team,406.0,4
+2020,2,Matchup 2 (Aug 3 - 9),Jobu's Rum-Runners,541.75,5
+2020,2,Matchup 2 (Aug 3 - 9),Justin Bour's Donut Shop,573.0,5
+2020,2,Matchup 2 (Aug 3 - 9),The Designated Drinkers,546.25,6
+2020,2,Matchup 2 (Aug 3 - 9),"Yes, I Like Pina Moncadas",471.25,6
+2020,3,Matchup 3 (Aug 10 - 16),Soto 3: The Rise of OBP,612.0,1
+2020,3,Matchup 3 (Aug 10 - 16),Jobu's Rum-Runners,606.0,1
+2020,3,Matchup 3 (Aug 10 - 16),Konerko's Lover,465.5,2
+2020,3,Matchup 3 (Aug 10 - 16),Global Pandemic Golf Club,506.25,2
+2020,3,Matchup 3 (Aug 10 - 16),The Mookie Mourners,591.25,3
+2020,3,Matchup 3 (Aug 10 - 16),SNPP Softball Team,446.75,3
+2020,3,Matchup 3 (Aug 10 - 16),3adly Not Bob Hayes,420.0,4
+2020,3,Matchup 3 (Aug 10 - 16),Ugueth Urbina's Bail Bonds,597.5,4
+2020,3,Matchup 3 (Aug 10 - 16),Modern Baseball,375.0,5
+2020,3,Matchup 3 (Aug 10 - 16),"Yes, I Like Pina Moncadas",495.5,5
+2020,3,Matchup 3 (Aug 10 - 16),The Designated Drinkers,490.75,6
+2020,3,Matchup 3 (Aug 10 - 16),Justin Bour's Donut Shop,583.5,6
+2020,4,Matchup 4 (Aug 17 - 23),Soto 3: The Rise of OBP,512.5,1
+2020,4,Matchup 4 (Aug 17 - 23),"Yes, I Like Pina Moncadas",637.25,1
+2020,4,Matchup 4 (Aug 17 - 23),The Mookie Mourners,582.5,2
+2020,4,Matchup 4 (Aug 17 - 23),Global Pandemic Golf Club,588.75,2
+2020,4,Matchup 4 (Aug 17 - 23),Konerko's Lover,485.25,3
+2020,4,Matchup 4 (Aug 17 - 23),SNPP Softball Team,493.75,3
+2020,4,Matchup 4 (Aug 17 - 23),Ugueth Urbina's Bail Bonds,612.25,4
+2020,4,Matchup 4 (Aug 17 - 23),3adly Not Bob Hayes,391.75,4
+2020,4,Matchup 4 (Aug 17 - 23),Modern Baseball,439.0,5
+2020,4,Matchup 4 (Aug 17 - 23),Jobu's Rum-Runners,571.75,5
+2020,4,Matchup 4 (Aug 17 - 23),Justin Bour's Donut Shop,541.5,6
+2020,4,Matchup 4 (Aug 17 - 23),The Designated Drinkers,470.5,6
+2020,5,Matchup 5 (Aug 24 - 30),Modern Baseball,415.75,1
+2020,5,Matchup 5 (Aug 24 - 30),Soto 3: The Rise of OBP,536.0,1
+2020,5,Matchup 5 (Aug 24 - 30),The Mookie Mourners,651.75,2
+2020,5,Matchup 5 (Aug 24 - 30),Konerko's Lover,544.5,2
+2020,5,Matchup 5 (Aug 24 - 30),Global Pandemic Golf Club,566.75,3
+2020,5,Matchup 5 (Aug 24 - 30),3adly Not Bob Hayes,367.75,3
+2020,5,Matchup 5 (Aug 24 - 30),SNPP Softball Team,519.5,4
+2020,5,Matchup 5 (Aug 24 - 30),Ugueth Urbina's Bail Bonds,537.5,4
+2020,5,Matchup 5 (Aug 24 - 30),Jobu's Rum-Runners,453.25,5
+2020,5,Matchup 5 (Aug 24 - 30),The Designated Drinkers,550.0,5
+2020,5,Matchup 5 (Aug 24 - 30),"Yes, I Like Pina Moncadas",539.5,6
+2020,5,Matchup 5 (Aug 24 - 30),Justin Bour's Donut Shop,552.25,6
+2020,6,Matchup 6 (Aug 31 - Sep 6),Jobu's Rum-Runners,520.25,1
+2020,6,Matchup 6 (Aug 31 - Sep 6),Soto 3: The Rise of OBP,639.0,1
+2020,6,Matchup 6 (Aug 31 - Sep 6),Global Pandemic Golf Club,494.0,2
+2020,6,Matchup 6 (Aug 31 - Sep 6),Konerko's Lover,556.0,2
+2020,6,Matchup 6 (Aug 31 - Sep 6),The Mookie Mourners,543.25,3
+2020,6,Matchup 6 (Aug 31 - Sep 6),Ugueth Urbina's Bail Bonds,625.0,3
+2020,6,Matchup 6 (Aug 31 - Sep 6),SNPP Softball Team,485.5,4
+2020,6,Matchup 6 (Aug 31 - Sep 6),3adly Not Bob Hayes,509.75,4
+2020,6,Matchup 6 (Aug 31 - Sep 6),Modern Baseball,400.25,5
+2020,6,Matchup 6 (Aug 31 - Sep 6),Justin Bour's Donut Shop,563.0,5
+2020,6,Matchup 6 (Aug 31 - Sep 6),"Yes, I Like Pina Moncadas",493.25,6
+2020,6,Matchup 6 (Aug 31 - Sep 6),The Designated Drinkers,438.75,6
+2020,7,Playoff Round 1 (Sep 7 - 13),Jobu's Rum-Runners,596.25,1
+2020,7,Playoff Round 1 (Sep 7 - 13),Ugueth Urbina's Bail Bonds,528.75,1
+2020,7,Playoff Round 1 (Sep 7 - 13),The Mookie Mourners,501.0,2
+2020,7,Playoff Round 1 (Sep 7 - 13),Justin Bour's Donut Shop,554.75,2
+2020,7,Playoff Round 1 (Sep 7 - 13),Soto 3: The Rise of OBP,589.5,3
+2020,7,Playoff Round 1 (Sep 7 - 13),Konerko's Lover,496.75,3
+2020,7,Playoff Round 1 (Sep 7 - 13),Global Pandemic Golf Club,487.25,4
+2020,7,Playoff Round 1 (Sep 7 - 13),"Yes, I Like Pina Moncadas",557.5,4
+2020,7,Playoff Round 1 (Sep 7 - 13),SNPP Softball Team,514.5,5
+2020,7,Playoff Round 1 (Sep 7 - 13),The Designated Drinkers,471.5,5
+2020,7,Playoff Round 1 (Sep 7 - 13),Modern Baseball,417.75,6
+2020,7,Playoff Round 1 (Sep 7 - 13),3adly Not Bob Hayes,451.25,6
+2020,8,Playoff Round 2 (Sep 14 - 20),Jobu's Rum-Runners,588.75,1
+2020,8,Playoff Round 2 (Sep 14 - 20),Justin Bour's Donut Shop,614.5,1
+2020,8,Playoff Round 2 (Sep 14 - 20),The Mookie Mourners,571.5,2
+2020,8,Playoff Round 2 (Sep 14 - 20),Ugueth Urbina's Bail Bonds,508.0,2
+2020,8,Playoff Round 2 (Sep 14 - 20),"Yes, I Like Pina Moncadas",442.75,3
+2020,8,Playoff Round 2 (Sep 14 - 20),Soto 3: The Rise of OBP,564.75,3
+2020,8,Playoff Round 2 (Sep 14 - 20),SNPP Softball Team,490.75,4
+2020,8,Playoff Round 2 (Sep 14 - 20),Global Pandemic Golf Club,493.0,4
+2020,8,Playoff Round 2 (Sep 14 - 20),3adly Not Bob Hayes,359.5,5
+2020,8,Playoff Round 2 (Sep 14 - 20),Konerko's Lover,506.25,5
+2020,8,Playoff Round 2 (Sep 14 - 20),Modern Baseball,482.0,6
+2020,8,Playoff Round 2 (Sep 14 - 20),The Designated Drinkers,357.0,6
