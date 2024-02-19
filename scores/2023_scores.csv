@@ -1,0 +1,227 @@
+year,matchup_period,matchup_date,team,score,matchup_id
+2023,1,Matchup 1 (Mar 30 - Apr 9),Tur-Ner and the Juan: Sotomania,924.25,1
+2023,1,Matchup 1 (Mar 30 - Apr 9),Modern Baseball,787.75,1
+2023,1,Matchup 1 (Mar 30 - Apr 9),The Mookie Mashers,706.0,2
+2023,1,Matchup 1 (Mar 30 - Apr 9),Konerko's Lover,817.5,2
+2023,1,Matchup 1 (Mar 30 - Apr 9),Ready to Get Hurt Again,790.75,3
+2023,1,Matchup 1 (Mar 30 - Apr 9),Justin Bour's Donut Shop,790.5,3
+2023,1,Matchup 1 (Mar 30 - Apr 9),SNPP Softball Team,845.5,4
+2023,1,Matchup 1 (Mar 30 - Apr 9),The Trade Daddy,959.75,4
+2023,1,Matchup 1 (Mar 30 - Apr 9),Jobu's Rum-Runners,924.25,5
+2023,1,Matchup 1 (Mar 30 - Apr 9),Harry Kroll's Fantasy Team,739.75,5
+2023,1,Matchup 1 (Mar 30 - Apr 9),The Designated Drinkers,834.5,6
+2023,1,Matchup 1 (Mar 30 - Apr 9),"Yes, I Like Pina Moncadas",752.75,6
+2023,2,Matchup 2 (Apr 10 - 16),Tur-Ner and the Juan: Sotomania,610.5,1
+2023,2,Matchup 2 (Apr 10 - 16),Jobu's Rum-Runners,558.25,1
+2023,2,Matchup 2 (Apr 10 - 16),The Designated Drinkers,579.0,2
+2023,2,Matchup 2 (Apr 10 - 16),Konerko's Lover,524.75,2
+2023,2,Matchup 2 (Apr 10 - 16),The Mookie Mashers,474.5,3
+2023,2,Matchup 2 (Apr 10 - 16),Ready to Get Hurt Again,554.25,3
+2023,2,Matchup 2 (Apr 10 - 16),Harry Kroll's Fantasy Team,540.25,4
+2023,2,Matchup 2 (Apr 10 - 16),The Trade Daddy,489.0,4
+2023,2,Matchup 2 (Apr 10 - 16),SNPP Softball Team,538.0,5
+2023,2,Matchup 2 (Apr 10 - 16),Modern Baseball,492.25,5
+2023,2,Matchup 2 (Apr 10 - 16),"Yes, I Like Pina Moncadas",534.0,6
+2023,2,Matchup 2 (Apr 10 - 16),Justin Bour's Donut Shop,605.5,6
+2023,3,Matchup 3 (Apr 17 - 23),The Trade Daddy,449.75,1
+2023,3,Matchup 3 (Apr 17 - 23),Tur-Ner and the Juan: Sotomania,550.75,1
+2023,3,Matchup 3 (Apr 17 - 23),"Yes, I Like Pina Moncadas",582.0,2
+2023,3,Matchup 3 (Apr 17 - 23),The Mookie Mashers,439.0,2
+2023,3,Matchup 3 (Apr 17 - 23),Konerko's Lover,517.75,3
+2023,3,Matchup 3 (Apr 17 - 23),Ready to Get Hurt Again,560.5,3
+2023,3,Matchup 3 (Apr 17 - 23),Harry Kroll's Fantasy Team,642.5,4
+2023,3,Matchup 3 (Apr 17 - 23),SNPP Softball Team,541.25,4
+2023,3,Matchup 3 (Apr 17 - 23),Jobu's Rum-Runners,532.0,5
+2023,3,Matchup 3 (Apr 17 - 23),Modern Baseball,500.5,5
+2023,3,Matchup 3 (Apr 17 - 23),The Designated Drinkers,482.5,6
+2023,3,Matchup 3 (Apr 17 - 23),Justin Bour's Donut Shop,542.5,6
+2023,4,Matchup 4 (Apr 24 - 30),The Mookie Mashers,543.75,1
+2023,4,Matchup 4 (Apr 24 - 30),Tur-Ner and the Juan: Sotomania,503.0,1
+2023,4,Matchup 4 (Apr 24 - 30),Konerko's Lover,582.5,2
+2023,4,Matchup 4 (Apr 24 - 30),SNPP Softball Team,558.0,2
+2023,4,Matchup 4 (Apr 24 - 30),Ready to Get Hurt Again,515.5,3
+2023,4,Matchup 4 (Apr 24 - 30),"Yes, I Like Pina Moncadas",489.0,3
+2023,4,Matchup 4 (Apr 24 - 30),Modern Baseball,443.5,4
+2023,4,Matchup 4 (Apr 24 - 30),Harry Kroll's Fantasy Team,524.0,4
+2023,4,Matchup 4 (Apr 24 - 30),Jobu's Rum-Runners,478.5,5
+2023,4,Matchup 4 (Apr 24 - 30),The Designated Drinkers,530.5,5
+2023,4,Matchup 4 (Apr 24 - 30),Justin Bour's Donut Shop,560.5,6
+2023,4,Matchup 4 (Apr 24 - 30),The Trade Daddy,483.25,6
+2023,5,Matchup 5 (May 1 - 7),SNPP Softball Team,617.25,1
+2023,5,Matchup 5 (May 1 - 7),Tur-Ner and the Juan: Sotomania,610.75,1
+2023,5,Matchup 5 (May 1 - 7),Konerko's Lover,506.0,2
+2023,5,Matchup 5 (May 1 - 7),Justin Bour's Donut Shop,537.75,2
+2023,5,Matchup 5 (May 1 - 7),The Trade Daddy,502.0,3
+2023,5,Matchup 5 (May 1 - 7),The Mookie Mashers,533.0,3
+2023,5,Matchup 5 (May 1 - 7),Modern Baseball,476.25,4
+2023,5,Matchup 5 (May 1 - 7),"Yes, I Like Pina Moncadas",552.0,4
+2023,5,Matchup 5 (May 1 - 7),Harry Kroll's Fantasy Team,561.25,5
+2023,5,Matchup 5 (May 1 - 7),The Designated Drinkers,535.0,5
+2023,5,Matchup 5 (May 1 - 7),Ready to Get Hurt Again,555.75,6
+2023,5,Matchup 5 (May 1 - 7),Jobu's Rum-Runners,477.0,6
+2023,6,Matchup 6 (May 8 - 14),Tur-Ner and the Juan: Sotomania,521.75,1
+2023,6,Matchup 6 (May 8 - 14),Jobu's Rum-Runners,481.5,1
+2023,6,Matchup 6 (May 8 - 14),The Mookie Mashers,565.5,2
+2023,6,Matchup 6 (May 8 - 14),SNPP Softball Team,506.25,2
+2023,6,Matchup 6 (May 8 - 14),Konerko's Lover,468.5,3
+2023,6,Matchup 6 (May 8 - 14),Harry Kroll's Fantasy Team,572.0,3
+2023,6,Matchup 6 (May 8 - 14),The Trade Daddy,555.25,4
+2023,6,Matchup 6 (May 8 - 14),Ready to Get Hurt Again,491.5,4
+2023,6,Matchup 6 (May 8 - 14),"Yes, I Like Pina Moncadas",479.25,5
+2023,6,Matchup 6 (May 8 - 14),The Designated Drinkers,555.25,5
+2023,6,Matchup 6 (May 8 - 14),Justin Bour's Donut Shop,587.5,6
+2023,6,Matchup 6 (May 8 - 14),Modern Baseball,519.25,6
+2023,7,Matchup 7 (May 15 - 21),Tur-Ner and the Juan: Sotomania,490.25,1
+2023,7,Matchup 7 (May 15 - 21),Justin Bour's Donut Shop,484.75,1
+2023,7,Matchup 7 (May 15 - 21),Konerko's Lover,570.25,2
+2023,7,Matchup 7 (May 15 - 21),The Mookie Mashers,527.75,2
+2023,7,Matchup 7 (May 15 - 21),Ready to Get Hurt Again,530.75,3
+2023,7,Matchup 7 (May 15 - 21),SNPP Softball Team,629.0,3
+2023,7,Matchup 7 (May 15 - 21),Harry Kroll's Fantasy Team,637.5,4
+2023,7,Matchup 7 (May 15 - 21),The Trade Daddy,523.5,4
+2023,7,Matchup 7 (May 15 - 21),Modern Baseball,521.75,5
+2023,7,Matchup 7 (May 15 - 21),The Designated Drinkers,427.5,5
+2023,7,Matchup 7 (May 15 - 21),Jobu's Rum-Runners,544.0,6
+2023,7,Matchup 7 (May 15 - 21),"Yes, I Like Pina Moncadas",491.25,6
+2023,8,Matchup 8 (May 22 - 28),Konerko's Lover,523.75,1
+2023,8,Matchup 8 (May 22 - 28),Tur-Ner and the Juan: Sotomania,576.75,1
+2023,8,Matchup 8 (May 22 - 28),Ready to Get Hurt Again,527.75,2
+2023,8,Matchup 8 (May 22 - 28),The Mookie Mashers,708.75,2
+2023,8,Matchup 8 (May 22 - 28),Jobu's Rum-Runners,586.25,3
+2023,8,Matchup 8 (May 22 - 28),Modern Baseball,612.5,3
+2023,8,Matchup 8 (May 22 - 28),Harry Kroll's Fantasy Team,528.25,4
+2023,8,Matchup 8 (May 22 - 28),Justin Bour's Donut Shop,536.25,4
+2023,8,Matchup 8 (May 22 - 28),SNPP Softball Team,499.25,5
+2023,8,Matchup 8 (May 22 - 28),"Yes, I Like Pina Moncadas",426.75,5
+2023,8,Matchup 8 (May 22 - 28),The Trade Daddy,544.25,6
+2023,8,Matchup 8 (May 22 - 28),The Designated Drinkers,451.25,6
+2023,9,Matchup 9 (May 29 - Jun 4),"Yes, I Like Pina Moncadas",531.75,1
+2023,9,Matchup 9 (May 29 - Jun 4),Tur-Ner and the Juan: Sotomania,499.5,1
+2023,9,Matchup 9 (May 29 - Jun 4),Jobu's Rum-Runners,434.5,2
+2023,9,Matchup 9 (May 29 - Jun 4),The Mookie Mashers,530.5,2
+2023,9,Matchup 9 (May 29 - Jun 4),The Trade Daddy,363.5,3
+2023,9,Matchup 9 (May 29 - Jun 4),Konerko's Lover,491.0,3
+2023,9,Matchup 9 (May 29 - Jun 4),Modern Baseball,559.5,4
+2023,9,Matchup 9 (May 29 - Jun 4),Ready to Get Hurt Again,559.5,4
+2023,9,Matchup 9 (May 29 - Jun 4),Harry Kroll's Fantasy Team,566.75,5
+2023,9,Matchup 9 (May 29 - Jun 4),SNPP Softball Team,476.75,5
+2023,9,Matchup 9 (May 29 - Jun 4),Justin Bour's Donut Shop,540.25,6
+2023,9,Matchup 9 (May 29 - Jun 4),The Designated Drinkers,413.0,6
+2023,10,Matchup 10 (Jun 5 - 11),Tur-Ner and the Juan: Sotomania,578.75,1
+2023,10,Matchup 10 (Jun 5 - 11),Harry Kroll's Fantasy Team,555.5,1
+2023,10,Matchup 10 (Jun 5 - 11),Konerko's Lover,535.75,2
+2023,10,Matchup 10 (Jun 5 - 11),Ready to Get Hurt Again,519.25,2
+2023,10,Matchup 10 (Jun 5 - 11),Jobu's Rum-Runners,537.5,3
+2023,10,Matchup 10 (Jun 5 - 11),SNPP Softball Team,465.25,3
+2023,10,Matchup 10 (Jun 5 - 11),The Mookie Mashers,635.0,4
+2023,10,Matchup 10 (Jun 5 - 11),The Designated Drinkers,462.25,4
+2023,10,Matchup 10 (Jun 5 - 11),Justin Bour's Donut Shop,583.75,5
+2023,10,Matchup 10 (Jun 5 - 11),"Yes, I Like Pina Moncadas",506.25,5
+2023,10,Matchup 10 (Jun 5 - 11),The Trade Daddy,545.75,6
+2023,10,Matchup 10 (Jun 5 - 11),Modern Baseball,531.5,6
+2023,11,Matchup 11 (Jun 12 - 18),Tur-Ner and the Juan: Sotomania,581.0,1
+2023,11,Matchup 11 (Jun 12 - 18),Modern Baseball,504.25,1
+2023,11,Matchup 11 (Jun 12 - 18),Ready to Get Hurt Again,545.25,2
+2023,11,Matchup 11 (Jun 12 - 18),The Designated Drinkers,514.5,2
+2023,11,Matchup 11 (Jun 12 - 18),The Mookie Mashers,510.25,3
+2023,11,Matchup 11 (Jun 12 - 18),Justin Bour's Donut Shop,560.5,3
+2023,11,Matchup 11 (Jun 12 - 18),Konerko's Lover,548.75,4
+2023,11,Matchup 11 (Jun 12 - 18),Jobu's Rum-Runners,488.25,4
+2023,11,Matchup 11 (Jun 12 - 18),Harry Kroll's Fantasy Team,544.75,5
+2023,11,Matchup 11 (Jun 12 - 18),"Yes, I Like Pina Moncadas",533.75,5
+2023,11,Matchup 11 (Jun 12 - 18),SNPP Softball Team,591.75,6
+2023,11,Matchup 11 (Jun 12 - 18),The Trade Daddy,544.75,6
+2023,12,Matchup 12 (Jun 19 - 25),The Designated Drinkers,460.5,1
+2023,12,Matchup 12 (Jun 19 - 25),Tur-Ner and the Juan: Sotomania,687.75,1
+2023,12,Matchup 12 (Jun 19 - 25),"Yes, I Like Pina Moncadas",549.75,2
+2023,12,Matchup 12 (Jun 19 - 25),Konerko's Lover,487.25,2
+2023,12,Matchup 12 (Jun 19 - 25),Modern Baseball,566.0,3
+2023,12,Matchup 12 (Jun 19 - 25),The Mookie Mashers,497.5,3
+2023,12,Matchup 12 (Jun 19 - 25),Harry Kroll's Fantasy Team,502.75,4
+2023,12,Matchup 12 (Jun 19 - 25),Ready to Get Hurt Again,501.5,4
+2023,12,Matchup 12 (Jun 19 - 25),Jobu's Rum-Runners,574.5,5
+2023,12,Matchup 12 (Jun 19 - 25),The Trade Daddy,560.5,5
+2023,12,Matchup 12 (Jun 19 - 25),Justin Bour's Donut Shop,499.75,6
+2023,12,Matchup 12 (Jun 19 - 25),SNPP Softball Team,560.0,6
+2023,13,Matchup 13 (Jun 26 - Jul 2),Ready to Get Hurt Again,547.5,1
+2023,13,Matchup 13 (Jun 26 - Jul 2),Tur-Ner and the Juan: Sotomania,568.75,1
+2023,13,Matchup 13 (Jun 26 - Jul 2),Konerko's Lover,519.0,2
+2023,13,Matchup 13 (Jun 26 - Jul 2),The Mookie Mashers,545.5,2
+2023,13,Matchup 13 (Jun 26 - Jul 2),"Yes, I Like Pina Moncadas",514.5,3
+2023,13,Matchup 13 (Jun 26 - Jul 2),Justin Bour's Donut Shop,512.5,3
+2023,13,Matchup 13 (Jun 26 - Jul 2),Modern Baseball,567.5,4
+2023,13,Matchup 13 (Jun 26 - Jul 2),Jobu's Rum-Runners,577.75,4
+2023,13,Matchup 13 (Jun 26 - Jul 2),Harry Kroll's Fantasy Team,612.75,5
+2023,13,Matchup 13 (Jun 26 - Jul 2),The Trade Daddy,466.0,5
+2023,13,Matchup 13 (Jun 26 - Jul 2),SNPP Softball Team,569.75,6
+2023,13,Matchup 13 (Jun 26 - Jul 2),The Designated Drinkers,451.25,6
+2023,14,Matchup 14 (Jul 3 - 16),The Mookie Mashers,854.25,1
+2023,14,Matchup 14 (Jul 3 - 16),Tur-Ner and the Juan: Sotomania,784.5,1
+2023,14,Matchup 14 (Jul 3 - 16),SNPP Softball Team,827.5,2
+2023,14,Matchup 14 (Jul 3 - 16),Konerko's Lover,862.75,2
+2023,14,Matchup 14 (Jul 3 - 16),"Yes, I Like Pina Moncadas",803.5,3
+2023,14,Matchup 14 (Jul 3 - 16),Ready to Get Hurt Again,896.5,3
+2023,14,Matchup 14 (Jul 3 - 16),Harry Kroll's Fantasy Team,890.25,4
+2023,14,Matchup 14 (Jul 3 - 16),Modern Baseball,724.25,4
+2023,14,Matchup 14 (Jul 3 - 16),Justin Bour's Donut Shop,824.75,5
+2023,14,Matchup 14 (Jul 3 - 16),The Trade Daddy,775.0,5
+2023,14,Matchup 14 (Jul 3 - 16),The Designated Drinkers,806.0,6
+2023,14,Matchup 14 (Jul 3 - 16),Jobu's Rum-Runners,793.0,6
+2023,15,Matchup 15 (Jul 17 - 23),Modern Baseball,543.0,1
+2023,15,Matchup 15 (Jul 17 - 23),Tur-Ner and the Juan: Sotomania,476.5,1
+2023,15,Matchup 15 (Jul 17 - 23),Ready to Get Hurt Again,539.5,2
+2023,15,Matchup 15 (Jul 17 - 23),Konerko's Lover,544.0,2
+2023,15,Matchup 15 (Jul 17 - 23),Harry Kroll's Fantasy Team,601.0,3
+2023,15,Matchup 15 (Jul 17 - 23),The Mookie Mashers,527.5,3
+2023,15,Matchup 15 (Jul 17 - 23),The Trade Daddy,514.75,4
+2023,15,Matchup 15 (Jul 17 - 23),SNPP Softball Team,590.5,4
+2023,15,Matchup 15 (Jul 17 - 23),Jobu's Rum-Runners,506.25,5
+2023,15,Matchup 15 (Jul 17 - 23),Justin Bour's Donut Shop,531.75,5
+2023,15,Matchup 15 (Jul 17 - 23),"Yes, I Like Pina Moncadas",554.5,6
+2023,15,Matchup 15 (Jul 17 - 23),The Designated Drinkers,401.5,6
+2023,16,Matchup 16 (Jul 24 - 30),Jobu's Rum-Runners,585.75,1
+2023,16,Matchup 16 (Jul 24 - 30),Tur-Ner and the Juan: Sotomania,481.5,1
+2023,16,Matchup 16 (Jul 24 - 30),Ready to Get Hurt Again,626.75,2
+2023,16,Matchup 16 (Jul 24 - 30),The Mookie Mashers,468.5,2
+2023,16,Matchup 16 (Jul 24 - 30),Modern Baseball,511.5,3
+2023,16,Matchup 16 (Jul 24 - 30),Konerko's Lover,480.75,3
+2023,16,Matchup 16 (Jul 24 - 30),"Yes, I Like Pina Moncadas",474.25,4
+2023,16,Matchup 16 (Jul 24 - 30),The Trade Daddy,399.75,4
+2023,16,Matchup 16 (Jul 24 - 30),SNPP Softball Team,495.0,5
+2023,16,Matchup 16 (Jul 24 - 30),Harry Kroll's Fantasy Team,520.5,5
+2023,16,Matchup 16 (Jul 24 - 30),The Designated Drinkers,462.0,6
+2023,16,Matchup 16 (Jul 24 - 30),Justin Bour's Donut Shop,436.0,6
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),The Mookie Mashers,553.0,1
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),Tur-Ner and the Juan: Sotomania,588.25,1
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),SNPP Softball Team,573.75,2
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),Ready to Get Hurt Again,644.75,2
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),Jobu's Rum-Runners,482.75,3
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),Konerko's Lover,555.0,3
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),The Designated Drinkers,541.0,4
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),"Yes, I Like Pina Moncadas",385.5,4
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),The Trade Daddy,346.75,5
+2023,17,Playoff Round 1 (Jul 31 - Aug 6),Modern Baseball,509.5,5
+2023,18,Playoff Round 2 (Aug 7 - 13),Tur-Ner and the Juan: Sotomania,605.75,1
+2023,18,Playoff Round 2 (Aug 7 - 13),Justin Bour's Donut Shop,536.75,1
+2023,18,Playoff Round 2 (Aug 7 - 13),Ready to Get Hurt Again,595.25,2
+2023,18,Playoff Round 2 (Aug 7 - 13),Harry Kroll's Fantasy Team,574.0,2
+2023,18,Playoff Round 2 (Aug 7 - 13),The Mookie Mashers,406.25,3
+2023,18,Playoff Round 2 (Aug 7 - 13),SNPP Softball Team,523.75,3
+2023,18,Playoff Round 2 (Aug 7 - 13),The Designated Drinkers,400.75,4
+2023,18,Playoff Round 2 (Aug 7 - 13),Konerko's Lover,356.0,4
+2023,18,Playoff Round 2 (Aug 7 - 13),Modern Baseball,496.75,5
+2023,18,Playoff Round 2 (Aug 7 - 13),Jobu's Rum-Runners,448.0,5
+2023,18,Playoff Round 2 (Aug 7 - 13),The Trade Daddy,456.25,6
+2023,18,Playoff Round 2 (Aug 7 - 13),"Yes, I Like Pina Moncadas",414.5,6
+2023,19,Playoff Round 3 (Aug 14 - 20),Ready to Get Hurt Again,623.75,1
+2023,19,Playoff Round 3 (Aug 14 - 20),Tur-Ner and the Juan: Sotomania,506.0,1
+2023,19,Playoff Round 3 (Aug 14 - 20),Justin Bour's Donut Shop,532.0,2
+2023,19,Playoff Round 3 (Aug 14 - 20),Harry Kroll's Fantasy Team,490.0,2
+2023,19,Playoff Round 3 (Aug 14 - 20),The Mookie Mashers,448.0,3
+2023,19,Playoff Round 3 (Aug 14 - 20),SNPP Softball Team,374.25,3
+2023,19,Playoff Round 3 (Aug 14 - 20),Modern Baseball,422.75,4
+2023,19,Playoff Round 3 (Aug 14 - 20),The Designated Drinkers,356.5,4
+2023,19,Playoff Round 3 (Aug 14 - 20),The Trade Daddy,420.5,5
+2023,19,Playoff Round 3 (Aug 14 - 20),Konerko's Lover,369.25,5
+2023,19,Playoff Round 3 (Aug 14 - 20),"Yes, I Like Pina Moncadas",400.75,6
+2023,19,Playoff Round 3 (Aug 14 - 20),Jobu's Rum-Runners,422.5,6
