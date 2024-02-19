@@ -1,0 +1,3771 @@
+year,team_id,scoring_period_id,date,player_name,player_pos
+2023,10,1,2023-03-30,Adley Rutschman,C
+2023,10,1,2023-03-30,Vladimir Guerrero Jr.,1B
+2023,10,1,2023-03-30,Brandon Drury,2B
+2023,10,1,2023-03-30,Jose Miranda,3B
+2023,10,1,2023-03-30,Bobby Witt Jr.,SS
+2023,10,1,2023-03-30,Christian Yelich,OF
+2023,10,1,2023-03-30,Steven Kwan,OF
+2023,10,1,2023-03-30,Cody Bellinger,OF
+2023,10,1,2023-03-30,Anthony Rizzo,UTIL
+2023,10,1,2023-03-30,Oneil Cruz,UTIL
+2023,10,1,2023-03-30,Ryan Mountcastle,Bench
+2023,10,1,2023-03-30,Eugenio Suarez,Bench
+2023,10,1,2023-03-30,Oscar Gonzalez,Bench
+2023,10,1,2023-03-30,Harrison Bader,Bench
+2023,10,1,2023-03-30,Sean Manaea,Bench
+2023,10,1,2023-03-30,Jose Altuve,IL
+2023,10,1,2023-03-30,Alek Manoah,SP
+2023,10,1,2023-03-30,Max Fried,SP
+2023,10,1,2023-03-30,Cristian Javier,SP
+2023,10,1,2023-03-30,Pablo Lopez,SP
+2023,10,1,2023-03-30,Kyle Wright,SP
+2023,10,1,2023-03-30,Jordan Romano,RP
+2023,10,1,2023-03-30,Ryan Helsley,RP
+2023,10,1,2023-03-30,Jorge Lopez,RP
+2023,10,2,2023-03-31,Adley Rutschman,C
+2023,10,2,2023-03-31,Vladimir Guerrero Jr.,1B
+2023,10,2,2023-03-31,Brandon Drury,2B
+2023,10,2,2023-03-31,Jose Miranda,3B
+2023,10,2,2023-03-31,Bobby Witt Jr.,SS
+2023,10,2,2023-03-31,Christian Yelich,OF
+2023,10,2,2023-03-31,Steven Kwan,OF
+2023,10,2,2023-03-31,Oscar Gonzalez,OF
+2023,10,2,2023-03-31,Oneil Cruz,UTIL
+2023,10,2,2023-03-31,Eugenio Suarez,UTIL
+2023,10,2,2023-03-31,Anthony Rizzo,Bench
+2023,10,2,2023-03-31,Ryan Mountcastle,Bench
+2023,10,2,2023-03-31,Cody Bellinger,Bench
+2023,10,2,2023-03-31,Harrison Bader,Bench
+2023,10,2,2023-03-31,Wil Myers,Bench
+2023,10,2,2023-03-31,Sean Manaea,Bench
+2023,10,2,2023-03-31,Jose Altuve,IL
+2023,10,2,2023-03-31,Max Fried,IL
+2023,10,2,2023-03-31,Kyle Wright,IL
+2023,10,2,2023-03-31,Alek Manoah,SP
+2023,10,2,2023-03-31,Cristian Javier,SP
+2023,10,2,2023-03-31,Pablo Lopez,SP
+2023,10,2,2023-03-31,Noah Syndergaard,SP
+2023,10,2,2023-03-31,Jordan Romano,RP
+2023,10,2,2023-03-31,Ryan Helsley,RP
+2023,10,2,2023-03-31,Jorge Lopez,RP
+2023,10,3,2023-04-01,Adley Rutschman,C
+2023,10,3,2023-04-01,Vladimir Guerrero Jr.,1B
+2023,10,3,2023-04-01,Brandon Drury,2B
+2023,10,3,2023-04-01,Jose Miranda,3B
+2023,10,3,2023-04-01,Bobby Witt Jr.,SS
+2023,10,3,2023-04-01,Christian Yelich,OF
+2023,10,3,2023-04-01,Steven Kwan,OF
+2023,10,3,2023-04-01,Oscar Gonzalez,OF
+2023,10,3,2023-04-01,Anthony Rizzo,UTIL
+2023,10,3,2023-04-01,Oneil Cruz,UTIL
+2023,10,3,2023-04-01,Ryan Mountcastle,Bench
+2023,10,3,2023-04-01,Eugenio Suarez,Bench
+2023,10,3,2023-04-01,Cody Bellinger,Bench
+2023,10,3,2023-04-01,Harrison Bader,Bench
+2023,10,3,2023-04-01,Wil Myers,Bench
+2023,10,3,2023-04-01,Sean Manaea,Bench
+2023,10,3,2023-04-01,Jose Altuve,IL
+2023,10,3,2023-04-01,Max Fried,IL
+2023,10,3,2023-04-01,Kyle Wright,IL
+2023,10,3,2023-04-01,Alek Manoah,SP
+2023,10,3,2023-04-01,Cristian Javier,SP
+2023,10,3,2023-04-01,Pablo Lopez,SP
+2023,10,3,2023-04-01,Noah Syndergaard,SP
+2023,10,3,2023-04-01,Jordan Romano,RP
+2023,10,3,2023-04-01,Ryan Helsley,RP
+2023,10,3,2023-04-01,Jorge Lopez,RP
+2023,10,4,2023-04-02,Adley Rutschman,C
+2023,10,4,2023-04-02,Vladimir Guerrero Jr.,1B
+2023,10,4,2023-04-02,Brandon Drury,2B
+2023,10,4,2023-04-02,Bobby Witt Jr.,3B
+2023,10,4,2023-04-02,Oneil Cruz,SS
+2023,10,4,2023-04-02,Christian Yelich,OF
+2023,10,4,2023-04-02,Steven Kwan,OF
+2023,10,4,2023-04-02,Oscar Gonzalez,OF
+2023,10,4,2023-04-02,Anthony Rizzo,UTIL
+2023,10,4,2023-04-02,Ryan Mountcastle,UTIL
+2023,10,4,2023-04-02,Jose Miranda,Bench
+2023,10,4,2023-04-02,Eugenio Suarez,Bench
+2023,10,4,2023-04-02,Cody Bellinger,Bench
+2023,10,4,2023-04-02,Harrison Bader,Bench
+2023,10,4,2023-04-02,Wil Myers,Bench
+2023,10,4,2023-04-02,Sean Manaea,Bench
+2023,10,4,2023-04-02,Jose Altuve,IL
+2023,10,4,2023-04-02,Max Fried,IL
+2023,10,4,2023-04-02,Kyle Wright,IL
+2023,10,4,2023-04-02,Alek Manoah,SP
+2023,10,4,2023-04-02,Cristian Javier,SP
+2023,10,4,2023-04-02,Pablo Lopez,SP
+2023,10,4,2023-04-02,Noah Syndergaard,SP
+2023,10,4,2023-04-02,Jordan Romano,RP
+2023,10,4,2023-04-02,Ryan Helsley,RP
+2023,10,4,2023-04-02,Jorge Lopez,RP
+2023,10,5,2023-04-03,Adley Rutschman,C
+2023,10,5,2023-04-03,Vladimir Guerrero Jr.,1B
+2023,10,5,2023-04-03,Brandon Drury,2B
+2023,10,5,2023-04-03,Bobby Witt Jr.,3B
+2023,10,5,2023-04-03,Oneil Cruz,SS
+2023,10,5,2023-04-03,Christian Yelich,OF
+2023,10,5,2023-04-03,Steven Kwan,OF
+2023,10,5,2023-04-03,Oscar Gonzalez,OF
+2023,10,5,2023-04-03,Anthony Rizzo,UTIL
+2023,10,5,2023-04-03,Ryan Mountcastle,UTIL
+2023,10,5,2023-04-03,Jose Miranda,Bench
+2023,10,5,2023-04-03,Eugenio Suarez,Bench
+2023,10,5,2023-04-03,Cody Bellinger,Bench
+2023,10,5,2023-04-03,Harrison Bader,Bench
+2023,10,5,2023-04-03,Wil Myers,Bench
+2023,10,5,2023-04-03,Sean Manaea,Bench
+2023,10,5,2023-04-03,Jose Altuve,IL
+2023,10,5,2023-04-03,Max Fried,IL
+2023,10,5,2023-04-03,Kyle Wright,IL
+2023,10,5,2023-04-03,Alek Manoah,SP
+2023,10,5,2023-04-03,Cristian Javier,SP
+2023,10,5,2023-04-03,Pablo Lopez,SP
+2023,10,5,2023-04-03,Noah Syndergaard,SP
+2023,10,5,2023-04-03,Jordan Romano,RP
+2023,10,5,2023-04-03,Ryan Helsley,RP
+2023,10,5,2023-04-03,Jorge Lopez,RP
+2023,10,6,2023-04-04,Adley Rutschman,C
+2023,10,6,2023-04-04,Vladimir Guerrero Jr.,1B
+2023,10,6,2023-04-04,Brandon Drury,2B
+2023,10,6,2023-04-04,Bobby Witt Jr.,3B
+2023,10,6,2023-04-04,Oneil Cruz,SS
+2023,10,6,2023-04-04,Christian Yelich,OF
+2023,10,6,2023-04-04,Steven Kwan,OF
+2023,10,6,2023-04-04,Cody Bellinger,OF
+2023,10,6,2023-04-04,Ryan Mountcastle,UTIL
+2023,10,6,2023-04-04,Eugenio Suarez,UTIL
+2023,10,6,2023-04-04,Anthony Rizzo,Bench
+2023,10,6,2023-04-04,Jose Miranda,Bench
+2023,10,6,2023-04-04,Oscar Gonzalez,Bench
+2023,10,6,2023-04-04,Harrison Bader,Bench
+2023,10,6,2023-04-04,Wil Myers,Bench
+2023,10,6,2023-04-04,Sean Manaea,Bench
+2023,10,6,2023-04-04,Jose Altuve,IL
+2023,10,6,2023-04-04,Max Fried,IL
+2023,10,6,2023-04-04,Kyle Wright,IL
+2023,10,6,2023-04-04,Alek Manoah,SP
+2023,10,6,2023-04-04,Cristian Javier,SP
+2023,10,6,2023-04-04,Pablo Lopez,SP
+2023,10,6,2023-04-04,Noah Syndergaard,SP
+2023,10,6,2023-04-04,Jordan Romano,RP
+2023,10,6,2023-04-04,Ryan Helsley,RP
+2023,10,6,2023-04-04,Jorge Lopez,RP
+2023,10,7,2023-04-05,Adley Rutschman,C
+2023,10,7,2023-04-05,Vladimir Guerrero Jr.,1B
+2023,10,7,2023-04-05,Brandon Drury,2B
+2023,10,7,2023-04-05,Bobby Witt Jr.,3B
+2023,10,7,2023-04-05,Oneil Cruz,SS
+2023,10,7,2023-04-05,Christian Yelich,OF
+2023,10,7,2023-04-05,Steven Kwan,OF
+2023,10,7,2023-04-05,Cody Bellinger,OF
+2023,10,7,2023-04-05,Anthony Rizzo,UTIL
+2023,10,7,2023-04-05,Ryan Mountcastle,UTIL
+2023,10,7,2023-04-05,Jose Miranda,Bench
+2023,10,7,2023-04-05,Eugenio Suarez,Bench
+2023,10,7,2023-04-05,Oscar Gonzalez,Bench
+2023,10,7,2023-04-05,Harrison Bader,Bench
+2023,10,7,2023-04-05,Wil Myers,Bench
+2023,10,7,2023-04-05,Jose Altuve,IL
+2023,10,7,2023-04-05,Max Fried,IL
+2023,10,7,2023-04-05,Kyle Wright,IL
+2023,10,7,2023-04-05,Alek Manoah,SP
+2023,10,7,2023-04-05,Cristian Javier,SP
+2023,10,7,2023-04-05,Pablo Lopez,SP
+2023,10,7,2023-04-05,Noah Syndergaard,SP
+2023,10,7,2023-04-05,Graham Ashcraft,SP
+2023,10,7,2023-04-05,Postponed,SP
+2023,10,7,2023-04-05,Jordan Romano,RP
+2023,10,7,2023-04-05,Ryan Helsley,RP
+2023,10,7,2023-04-05,Jorge Lopez,RP
+2023,10,8,2023-04-06,Adley Rutschman,C
+2023,10,8,2023-04-06,Vladimir Guerrero Jr.,1B
+2023,10,8,2023-04-06,Postponed,1B
+2023,10,8,2023-04-06,Brandon Drury,2B
+2023,10,8,2023-04-06,Postponed,2B
+2023,10,8,2023-04-06,Jose Miranda,3B
+2023,10,8,2023-04-06,Bobby Witt Jr.,SS
+2023,10,8,2023-04-06,Christian Yelich,OF
+2023,10,8,2023-04-06,Cody Bellinger,OF
+2023,10,8,2023-04-06,Wil Myers,OF
+2023,10,8,2023-04-06,Postponed,OF
+2023,10,8,2023-04-06,Anthony Rizzo,UTIL
+2023,10,8,2023-04-06,Ryan Mountcastle,UTIL
+2023,10,8,2023-04-06,Steven Kwan,Bench
+2023,10,8,2023-04-06,Oneil Cruz,Bench
+2023,10,8,2023-04-06,Eugenio Suarez,Bench
+2023,10,8,2023-04-06,Oscar Gonzalez,Bench
+2023,10,8,2023-04-06,Harrison Bader,Bench
+2023,10,8,2023-04-06,Jose Altuve,IL
+2023,10,8,2023-04-06,Max Fried,IL
+2023,10,8,2023-04-06,Kyle Wright,IL
+2023,10,8,2023-04-06,Alek Manoah,SP
+2023,10,8,2023-04-06,Cristian Javier,SP
+2023,10,8,2023-04-06,Postponed,SP
+2023,10,8,2023-04-06,Pablo Lopez,SP
+2023,10,8,2023-04-06,Postponed,SP
+2023,10,8,2023-04-06,Noah Syndergaard,SP
+2023,10,8,2023-04-06,Graham Ashcraft,SP
+2023,10,8,2023-04-06,Postponed,SP
+2023,10,8,2023-04-06,Jordan Romano,RP
+2023,10,8,2023-04-06,Ryan Helsley,RP
+2023,10,8,2023-04-06,Jorge Lopez,RP
+2023,10,8,2023-04-06,Postponed,RP
+2023,10,9,2023-04-07,Adley Rutschman,C
+2023,10,9,2023-04-07,Vladimir Guerrero Jr.,1B
+2023,10,9,2023-04-07,Brandon Drury,2B
+2023,10,9,2023-04-07,Eugenio Suarez,3B
+2023,10,9,2023-04-07,Oneil Cruz,SS
+2023,10,9,2023-04-07,Christian Yelich,OF
+2023,10,9,2023-04-07,Cody Bellinger,OF
+2023,10,9,2023-04-07,Wil Myers,OF
+2023,10,9,2023-04-07,Anthony Rizzo,UTIL
+2023,10,9,2023-04-07,Ryan Mountcastle,UTIL
+2023,10,9,2023-04-07,Bobby Witt Jr.,Bench
+2023,10,9,2023-04-07,Steven Kwan,Bench
+2023,10,9,2023-04-07,Jose Miranda,Bench
+2023,10,9,2023-04-07,Harrison Bader,Bench
+2023,10,9,2023-04-07,Cristian Javier,Bench
+2023,10,9,2023-04-07,Jose Altuve,IL
+2023,10,9,2023-04-07,Max Fried,IL
+2023,10,9,2023-04-07,Kyle Wright,IL
+2023,10,9,2023-04-07,Alek Manoah,SP
+2023,10,9,2023-04-07,Pablo Lopez,SP
+2023,10,9,2023-04-07,Noah Syndergaard,SP
+2023,10,9,2023-04-07,Graham Ashcraft,SP
+2023,10,9,2023-04-07,Nick Martinez,SP
+2023,10,9,2023-04-07,Jordan Romano,RP
+2023,10,9,2023-04-07,Ryan Helsley,RP
+2023,10,9,2023-04-07,Jorge Lopez,RP
+2023,10,10,2023-04-08,Adley Rutschman,C
+2023,10,10,2023-04-08,Vladimir Guerrero Jr.,1B
+2023,10,10,2023-04-08,Brandon Drury,2B
+2023,10,10,2023-04-08,Bobby Witt Jr.,3B
+2023,10,10,2023-04-08,Oneil Cruz,SS
+2023,10,10,2023-04-08,Christian Yelich,OF
+2023,10,10,2023-04-08,Cody Bellinger,OF
+2023,10,10,2023-04-08,Wil Myers,OF
+2023,10,10,2023-04-08,Anthony Rizzo,UTIL
+2023,10,10,2023-04-08,Ryan Mountcastle,UTIL
+2023,10,10,2023-04-08,Steven Kwan,Bench
+2023,10,10,2023-04-08,Jose Miranda,Bench
+2023,10,10,2023-04-08,Eugenio Suarez,Bench
+2023,10,10,2023-04-08,Harrison Bader,Bench
+2023,10,10,2023-04-08,Cristian Javier,Bench
+2023,10,10,2023-04-08,Jose Altuve,IL
+2023,10,10,2023-04-08,Max Fried,IL
+2023,10,10,2023-04-08,Kyle Wright,IL
+2023,10,10,2023-04-08,Alek Manoah,SP
+2023,10,10,2023-04-08,Pablo Lopez,SP
+2023,10,10,2023-04-08,Noah Syndergaard,SP
+2023,10,10,2023-04-08,Graham Ashcraft,SP
+2023,10,10,2023-04-08,Nick Martinez,SP
+2023,10,10,2023-04-08,Jordan Romano,RP
+2023,10,10,2023-04-08,Ryan Helsley,RP
+2023,10,10,2023-04-08,Jorge Lopez,RP
+2023,10,11,2023-04-09,Adley Rutschman,C
+2023,10,11,2023-04-09,Vladimir Guerrero Jr.,1B
+2023,10,11,2023-04-09,Brandon Drury,2B
+2023,10,11,2023-04-09,Bobby Witt Jr.,3B
+2023,10,11,2023-04-09,Oneil Cruz,SS
+2023,10,11,2023-04-09,Christian Yelich,OF
+2023,10,11,2023-04-09,Cody Bellinger,OF
+2023,10,11,2023-04-09,Wil Myers,OF
+2023,10,11,2023-04-09,Anthony Rizzo,UTIL
+2023,10,11,2023-04-09,Ryan Mountcastle,UTIL
+2023,10,11,2023-04-09,Steven Kwan,Bench
+2023,10,11,2023-04-09,Jose Miranda,Bench
+2023,10,11,2023-04-09,Eugenio Suarez,Bench
+2023,10,11,2023-04-09,Harrison Bader,Bench
+2023,10,11,2023-04-09,Cristian Javier,Bench
+2023,10,11,2023-04-09,Jose Altuve,IL
+2023,10,11,2023-04-09,Max Fried,IL
+2023,10,11,2023-04-09,Kyle Wright,IL
+2023,10,11,2023-04-09,Alek Manoah,SP
+2023,10,11,2023-04-09,Pablo Lopez,SP
+2023,10,11,2023-04-09,Noah Syndergaard,SP
+2023,10,11,2023-04-09,Graham Ashcraft,SP
+2023,10,11,2023-04-09,Hunter Brown,SP
+2023,10,11,2023-04-09,Jordan Romano,RP
+2023,10,11,2023-04-09,Ryan Helsley,RP
+2023,10,11,2023-04-09,Jorge Lopez,RP
+2023,10,12,2023-04-10,Adley Rutschman,C
+2023,10,12,2023-04-10,Anthony Rizzo,1B
+2023,10,12,2023-04-10,Brandon Drury,2B
+2023,10,12,2023-04-10,Eugenio Suarez,3B
+2023,10,12,2023-04-10,Bobby Witt Jr.,SS
+2023,10,12,2023-04-10,Christian Yelich,OF
+2023,10,12,2023-04-10,Cody Bellinger,OF
+2023,10,12,2023-04-10,Wil Myers,OF
+2023,10,12,2023-04-10,Steven Kwan,UTIL
+2023,10,12,2023-04-10,Ryan Mountcastle,UTIL
+2023,10,12,2023-04-10,Vladimir Guerrero Jr.,Bench
+2023,10,12,2023-04-10,Oneil Cruz,Bench
+2023,10,12,2023-04-10,Jose Miranda,Bench
+2023,10,12,2023-04-10,Cristian Javier,Bench
+2023,10,12,2023-04-10,Kyle Wright,Bench
+2023,10,12,2023-04-10,Graham Ashcraft,Bench
+2023,10,12,2023-04-10,Jose Altuve,IL
+2023,10,12,2023-04-10,Harrison Bader,IL
+2023,10,12,2023-04-10,Max Fried,IL
+2023,10,12,2023-04-10,Alek Manoah,SP
+2023,10,12,2023-04-10,Pablo Lopez,SP
+2023,10,12,2023-04-10,Noah Syndergaard,SP
+2023,10,12,2023-04-10,Hunter Brown,SP
+2023,10,12,2023-04-10,Jordan Romano,RP
+2023,10,12,2023-04-10,Ryan Helsley,RP
+2023,10,12,2023-04-10,Jorge Lopez,RP
+2023,10,13,2023-04-11,Adley Rutschman,C
+2023,10,13,2023-04-11,Anthony Rizzo,1B
+2023,10,13,2023-04-11,Brandon Drury,2B
+2023,10,13,2023-04-11,Eugenio Suarez,3B
+2023,10,13,2023-04-11,Bobby Witt Jr.,SS
+2023,10,13,2023-04-11,Christian Yelich,OF
+2023,10,13,2023-04-11,Cody Bellinger,OF
+2023,10,13,2023-04-11,Wil Myers,OF
+2023,10,13,2023-04-11,Vladimir Guerrero Jr.,UTIL
+2023,10,13,2023-04-11,Steven Kwan,UTIL
+2023,10,13,2023-04-11,Jose Miranda,Bench
+2023,10,13,2023-04-11,Ryan Mountcastle,Bench
+2023,10,13,2023-04-11,Harrison Bader,Bench
+2023,10,13,2023-04-11,Noah Syndergaard,Bench
+2023,10,13,2023-04-11,Graham Ashcraft,Bench
+2023,10,13,2023-04-11,Oneil Cruz,IL
+2023,10,13,2023-04-11,Jose Altuve,IL
+2023,10,13,2023-04-11,Max Fried,IL
+2023,10,13,2023-04-11,Alek Manoah,SP
+2023,10,13,2023-04-11,Cristian Javier,SP
+2023,10,13,2023-04-11,Pablo Lopez,SP
+2023,10,13,2023-04-11,Kyle Wright,SP
+2023,10,13,2023-04-11,Hunter Brown,SP
+2023,10,13,2023-04-11,Jordan Romano,RP
+2023,10,13,2023-04-11,Ryan Helsley,RP
+2023,10,13,2023-04-11,Jorge Lopez,RP
+2023,10,14,2023-04-12,Adley Rutschman,C
+2023,10,14,2023-04-12,Anthony Rizzo,1B
+2023,10,14,2023-04-12,Brandon Drury,2B
+2023,10,14,2023-04-12,Eugenio Suarez,3B
+2023,10,14,2023-04-12,Bobby Witt Jr.,SS
+2023,10,14,2023-04-12,Christian Yelich,OF
+2023,10,14,2023-04-12,Steven Kwan,OF
+2023,10,14,2023-04-12,Cody Bellinger,OF
+2023,10,14,2023-04-12,Vladimir Guerrero Jr.,UTIL
+2023,10,14,2023-04-12,Ryan Mountcastle,UTIL
+2023,10,14,2023-04-12,Jose Miranda,Bench
+2023,10,14,2023-04-12,Harrison Bader,Bench
+2023,10,14,2023-04-12,Wil Myers,Bench
+2023,10,14,2023-04-12,Noah Syndergaard,Bench
+2023,10,14,2023-04-12,Graham Ashcraft,Bench
+2023,10,14,2023-04-12,Oneil Cruz,IL
+2023,10,14,2023-04-12,Jose Altuve,IL
+2023,10,14,2023-04-12,Max Fried,IL
+2023,10,14,2023-04-12,Alek Manoah,SP
+2023,10,14,2023-04-12,Cristian Javier,SP
+2023,10,14,2023-04-12,Pablo Lopez,SP
+2023,10,14,2023-04-12,Kyle Wright,SP
+2023,10,14,2023-04-12,Hunter Brown,SP
+2023,10,14,2023-04-12,Jordan Romano,RP
+2023,10,14,2023-04-12,Ryan Helsley,RP
+2023,10,14,2023-04-12,Jorge Lopez,RP
+2023,10,15,2023-04-13,Adley Rutschman,C
+2023,10,15,2023-04-13,Anthony Rizzo,1B
+2023,10,15,2023-04-13,Brandon Drury,2B
+2023,10,15,2023-04-13,Jose Miranda,3B
+2023,10,15,2023-04-13,Bobby Witt Jr.,SS
+2023,10,15,2023-04-13,Christian Yelich,OF
+2023,10,15,2023-04-13,Cody Bellinger,OF
+2023,10,15,2023-04-13,Wil Myers,OF
+2023,10,15,2023-04-13,Vladimir Guerrero Jr.,UTIL
+2023,10,15,2023-04-13,Ryan Mountcastle,UTIL
+2023,10,15,2023-04-13,Steven Kwan,Bench
+2023,10,15,2023-04-13,Eugenio Suarez,Bench
+2023,10,15,2023-04-13,Harrison Bader,Bench
+2023,10,15,2023-04-13,Noah Syndergaard,Bench
+2023,10,15,2023-04-13,Graham Ashcraft,Bench
+2023,10,15,2023-04-13,Oneil Cruz,IL
+2023,10,15,2023-04-13,Jose Altuve,IL
+2023,10,15,2023-04-13,Max Fried,IL
+2023,10,15,2023-04-13,Alek Manoah,SP
+2023,10,15,2023-04-13,Cristian Javier,SP
+2023,10,15,2023-04-13,Pablo Lopez,SP
+2023,10,15,2023-04-13,Kyle Wright,SP
+2023,10,15,2023-04-13,Hunter Brown,SP
+2023,10,15,2023-04-13,Jordan Romano,RP
+2023,10,15,2023-04-13,Ryan Helsley,RP
+2023,10,15,2023-04-13,Jorge Lopez,RP
+2023,10,16,2023-04-14,Adley Rutschman,C
+2023,10,16,2023-04-14,Anthony Rizzo,1B
+2023,10,16,2023-04-14,Brandon Drury,2B
+2023,10,16,2023-04-14,Jose Miranda,3B
+2023,10,16,2023-04-14,Bobby Witt Jr.,SS
+2023,10,16,2023-04-14,Christian Yelich,OF
+2023,10,16,2023-04-14,Steven Kwan,OF
+2023,10,16,2023-04-14,Cody Bellinger,OF
+2023,10,16,2023-04-14,Vladimir Guerrero Jr.,UTIL
+2023,10,16,2023-04-14,Ryan Mountcastle,UTIL
+2023,10,16,2023-04-14,Eugenio Suarez,Bench
+2023,10,16,2023-04-14,Harrison Bader,Bench
+2023,10,16,2023-04-14,Wil Myers,Bench
+2023,10,16,2023-04-14,Noah Syndergaard,Bench
+2023,10,16,2023-04-14,Graham Ashcraft,Bench
+2023,10,16,2023-04-14,Oneil Cruz,IL
+2023,10,16,2023-04-14,Jose Altuve,IL
+2023,10,16,2023-04-14,Max Fried,IL
+2023,10,16,2023-04-14,Alek Manoah,SP
+2023,10,16,2023-04-14,Cristian Javier,SP
+2023,10,16,2023-04-14,Pablo Lopez,SP
+2023,10,16,2023-04-14,Kyle Wright,SP
+2023,10,16,2023-04-14,Hunter Brown,SP
+2023,10,16,2023-04-14,Jordan Romano,RP
+2023,10,16,2023-04-14,Ryan Helsley,RP
+2023,10,16,2023-04-14,Jorge Lopez,RP
+2023,10,17,2023-04-15,Adley Rutschman,C
+2023,10,17,2023-04-15,Anthony Rizzo,1B
+2023,10,17,2023-04-15,Brandon Drury,2B
+2023,10,17,2023-04-15,Jose Miranda,3B
+2023,10,17,2023-04-15,Bobby Witt Jr.,SS
+2023,10,17,2023-04-15,Christian Yelich,OF
+2023,10,17,2023-04-15,Steven Kwan,OF
+2023,10,17,2023-04-15,Cody Bellinger,OF
+2023,10,17,2023-04-15,Vladimir Guerrero Jr.,UTIL
+2023,10,17,2023-04-15,Ryan Mountcastle,UTIL
+2023,10,17,2023-04-15,Eugenio Suarez,Bench
+2023,10,17,2023-04-15,Harrison Bader,Bench
+2023,10,17,2023-04-15,Wil Myers,Bench
+2023,10,17,2023-04-15,Noah Syndergaard,Bench
+2023,10,17,2023-04-15,Graham Ashcraft,Bench
+2023,10,17,2023-04-15,Oneil Cruz,IL
+2023,10,17,2023-04-15,Jose Altuve,IL
+2023,10,17,2023-04-15,Max Fried,IL
+2023,10,17,2023-04-15,Alek Manoah,SP
+2023,10,17,2023-04-15,Cristian Javier,SP
+2023,10,17,2023-04-15,Pablo Lopez,SP
+2023,10,17,2023-04-15,Kyle Wright,SP
+2023,10,17,2023-04-15,Hunter Brown,SP
+2023,10,17,2023-04-15,Jordan Romano,RP
+2023,10,17,2023-04-15,Ryan Helsley,RP
+2023,10,17,2023-04-15,Jorge Lopez,RP
+2023,10,18,2023-04-16,Adley Rutschman,C
+2023,10,18,2023-04-16,Anthony Rizzo,1B
+2023,10,18,2023-04-16,Brandon Drury,2B
+2023,10,18,2023-04-16,Jose Miranda,3B
+2023,10,18,2023-04-16,Bobby Witt Jr.,SS
+2023,10,18,2023-04-16,Christian Yelich,OF
+2023,10,18,2023-04-16,Cody Bellinger,OF
+2023,10,18,2023-04-16,Wil Myers,OF
+2023,10,18,2023-04-16,Vladimir Guerrero Jr.,UTIL
+2023,10,18,2023-04-16,Ryan Mountcastle,UTIL
+2023,10,18,2023-04-16,Steven Kwan,Bench
+2023,10,18,2023-04-16,Eugenio Suarez,Bench
+2023,10,18,2023-04-16,Harrison Bader,Bench
+2023,10,18,2023-04-16,Kyle Wright,Bench
+2023,10,18,2023-04-16,Noah Syndergaard,Bench
+2023,10,18,2023-04-16,Graham Ashcraft,Bench
+2023,10,18,2023-04-16,Oneil Cruz,IL
+2023,10,18,2023-04-16,Jose Altuve,IL
+2023,10,18,2023-04-16,Max Fried,IL
+2023,10,18,2023-04-16,Alek Manoah,SP
+2023,10,18,2023-04-16,Cristian Javier,SP
+2023,10,18,2023-04-16,Pablo Lopez,SP
+2023,10,18,2023-04-16,Hunter Brown,SP
+2023,10,18,2023-04-16,Jordan Romano,RP
+2023,10,18,2023-04-16,Ryan Helsley,RP
+2023,10,18,2023-04-16,Jorge Lopez,RP
+2023,10,19,2023-04-17,Adley Rutschman,C
+2023,10,19,2023-04-17,Anthony Rizzo,1B
+2023,10,19,2023-04-17,Brandon Drury,2B
+2023,10,19,2023-04-17,Eugenio Suarez,3B
+2023,10,19,2023-04-17,Bobby Witt Jr.,SS
+2023,10,19,2023-04-17,Christian Yelich,OF
+2023,10,19,2023-04-17,Cody Bellinger,OF
+2023,10,19,2023-04-17,Wil Myers,OF
+2023,10,19,2023-04-17,Postponed,OF
+2023,10,19,2023-04-17,Vladimir Guerrero Jr.,UTIL
+2023,10,19,2023-04-17,Steven Kwan,UTIL
+2023,10,19,2023-04-17,Jose Miranda,Bench
+2023,10,19,2023-04-17,Ryan Mountcastle,Bench
+2023,10,19,2023-04-17,Max Fried,Bench
+2023,10,19,2023-04-17,Pablo Lopez,Bench
+2023,10,19,2023-04-17,Kyle Wright,Bench
+2023,10,19,2023-04-17,Noah Syndergaard,Bench
+2023,10,19,2023-04-17,Graham Ashcraft,Bench
+2023,10,19,2023-04-17,Oneil Cruz,IL
+2023,10,19,2023-04-17,Jose Altuve,IL
+2023,10,19,2023-04-17,Harrison Bader,IL
+2023,10,19,2023-04-17,Alek Manoah,SP
+2023,10,19,2023-04-17,Cristian Javier,SP
+2023,10,19,2023-04-17,Hunter Brown,SP
+2023,10,19,2023-04-17,Postponed,SP
+2023,10,19,2023-04-17,Jordan Romano,RP
+2023,10,19,2023-04-17,Ryan Helsley,RP
+2023,10,19,2023-04-17,Jorge Lopez,RP
+2023,10,20,2023-04-18,Adley Rutschman,C
+2023,10,20,2023-04-18,Anthony Rizzo,1B
+2023,10,20,2023-04-18,Brandon Drury,2B
+2023,10,20,2023-04-18,Eugenio Suarez,3B
+2023,10,20,2023-04-18,Bobby Witt Jr.,SS
+2023,10,20,2023-04-18,Christian Yelich,OF
+2023,10,20,2023-04-18,Cody Bellinger,OF
+2023,10,20,2023-04-18,Wil Myers,OF
+2023,10,20,2023-04-18,Vladimir Guerrero Jr.,UTIL
+2023,10,20,2023-04-18,Steven Kwan,UTIL
+2023,10,20,2023-04-18,Jose Miranda,Bench
+2023,10,20,2023-04-18,Ryan Mountcastle,Bench
+2023,10,20,2023-04-18,Max Fried,Bench
+2023,10,20,2023-04-18,Pablo Lopez,Bench
+2023,10,20,2023-04-18,Kyle Wright,Bench
+2023,10,20,2023-04-18,Noah Syndergaard,Bench
+2023,10,20,2023-04-18,Graham Ashcraft,Bench
+2023,10,20,2023-04-18,Oneil Cruz,IL
+2023,10,20,2023-04-18,Jose Altuve,IL
+2023,10,20,2023-04-18,Harrison Bader,IL
+2023,10,20,2023-04-18,Alek Manoah,SP
+2023,10,20,2023-04-18,Cristian Javier,SP
+2023,10,20,2023-04-18,Hunter Brown,SP
+2023,10,20,2023-04-18,Jordan Romano,RP
+2023,10,20,2023-04-18,Ryan Helsley,RP
+2023,10,20,2023-04-18,Jorge Lopez,RP
+2023,10,21,2023-04-19,Adley Rutschman,C
+2023,10,21,2023-04-19,Anthony Rizzo,1B
+2023,10,21,2023-04-19,Brandon Drury,2B
+2023,10,21,2023-04-19,Eugenio Suarez,3B
+2023,10,21,2023-04-19,Bobby Witt Jr.,SS
+2023,10,21,2023-04-19,Christian Yelich,OF
+2023,10,21,2023-04-19,Steven Kwan,OF
+2023,10,21,2023-04-19,Cody Bellinger,OF
+2023,10,21,2023-04-19,Vladimir Guerrero Jr.,UTIL
+2023,10,21,2023-04-19,Ryan Mountcastle,UTIL
+2023,10,21,2023-04-19,Jose Miranda,Bench
+2023,10,21,2023-04-19,Wil Myers,Bench
+2023,10,21,2023-04-19,Max Fried,Bench
+2023,10,21,2023-04-19,Pablo Lopez,Bench
+2023,10,21,2023-04-19,Kyle Wright,Bench
+2023,10,21,2023-04-19,Noah Syndergaard,Bench
+2023,10,21,2023-04-19,Graham Ashcraft,Bench
+2023,10,21,2023-04-19,Oneil Cruz,IL
+2023,10,21,2023-04-19,Jose Altuve,IL
+2023,10,21,2023-04-19,Harrison Bader,IL
+2023,10,21,2023-04-19,Alek Manoah,SP
+2023,10,21,2023-04-19,Cristian Javier,SP
+2023,10,21,2023-04-19,Hunter Brown,SP
+2023,10,21,2023-04-19,Jordan Romano,RP
+2023,10,21,2023-04-19,Ryan Helsley,RP
+2023,10,21,2023-04-19,Jorge Lopez,RP
+2023,10,22,2023-04-20,Adley Rutschman,C
+2023,10,22,2023-04-20,Anthony Rizzo,1B
+2023,10,22,2023-04-20,Brandon Drury,2B
+2023,10,22,2023-04-20,Jose Miranda,3B
+2023,10,22,2023-04-20,Bobby Witt Jr.,SS
+2023,10,22,2023-04-20,Christian Yelich,OF
+2023,10,22,2023-04-20,Cody Bellinger,OF
+2023,10,22,2023-04-20,Wil Myers,OF
+2023,10,22,2023-04-20,Vladimir Guerrero Jr.,UTIL
+2023,10,22,2023-04-20,Steven Kwan,UTIL
+2023,10,22,2023-04-20,Ryan Mountcastle,Bench
+2023,10,22,2023-04-20,Eugenio Suarez,Bench
+2023,10,22,2023-04-20,Max Fried,Bench
+2023,10,22,2023-04-20,Pablo Lopez,Bench
+2023,10,22,2023-04-20,Kyle Wright,Bench
+2023,10,22,2023-04-20,Noah Syndergaard,Bench
+2023,10,22,2023-04-20,Graham Ashcraft,Bench
+2023,10,22,2023-04-20,Oneil Cruz,IL
+2023,10,22,2023-04-20,Jose Altuve,IL
+2023,10,22,2023-04-20,Harrison Bader,IL
+2023,10,22,2023-04-20,Alek Manoah,SP
+2023,10,22,2023-04-20,Cristian Javier,SP
+2023,10,22,2023-04-20,Hunter Brown,SP
+2023,10,22,2023-04-20,Jordan Romano,RP
+2023,10,22,2023-04-20,Ryan Helsley,RP
+2023,10,22,2023-04-20,Jorge Lopez,RP
+2023,10,23,2023-04-21,Adley Rutschman,C
+2023,10,23,2023-04-21,Anthony Rizzo,1B
+2023,10,23,2023-04-21,Brandon Drury,2B
+2023,10,23,2023-04-21,Jose Miranda,3B
+2023,10,23,2023-04-21,Bobby Witt Jr.,SS
+2023,10,23,2023-04-21,Christian Yelich,OF
+2023,10,23,2023-04-21,Cody Bellinger,OF
+2023,10,23,2023-04-21,Wil Myers,OF
+2023,10,23,2023-04-21,Postponed,OF
+2023,10,23,2023-04-21,Vladimir Guerrero Jr.,UTIL
+2023,10,23,2023-04-21,Ryan Mountcastle,UTIL
+2023,10,23,2023-04-21,Steven Kwan,Bench
+2023,10,23,2023-04-21,Eugenio Suarez,Bench
+2023,10,23,2023-04-21,Max Fried,Bench
+2023,10,23,2023-04-21,Pablo Lopez,Bench
+2023,10,23,2023-04-21,Kyle Wright,Bench
+2023,10,23,2023-04-21,Noah Syndergaard,Bench
+2023,10,23,2023-04-21,Graham Ashcraft,Bench
+2023,10,23,2023-04-21,Oneil Cruz,IL
+2023,10,23,2023-04-21,Jose Altuve,IL
+2023,10,23,2023-04-21,Harrison Bader,IL
+2023,10,23,2023-04-21,Alek Manoah,SP
+2023,10,23,2023-04-21,Cristian Javier,SP
+2023,10,23,2023-04-21,Hunter Brown,SP
+2023,10,23,2023-04-21,Postponed,SP
+2023,10,23,2023-04-21,Jordan Romano,RP
+2023,10,23,2023-04-21,Ryan Helsley,RP
+2023,10,23,2023-04-21,Jorge Lopez,RP
+2023,10,24,2023-04-22,Adley Rutschman,C
+2023,10,24,2023-04-22,Anthony Rizzo,1B
+2023,10,24,2023-04-22,Brandon Drury,2B
+2023,10,24,2023-04-22,Eugenio Suarez,3B
+2023,10,24,2023-04-22,Bobby Witt Jr.,SS
+2023,10,24,2023-04-22,Christian Yelich,OF
+2023,10,24,2023-04-22,Cody Bellinger,OF
+2023,10,24,2023-04-22,Wil Myers,OF
+2023,10,24,2023-04-22,Vladimir Guerrero Jr.,UTIL
+2023,10,24,2023-04-22,Steven Kwan,UTIL
+2023,10,24,2023-04-22,Jose Miranda,Bench
+2023,10,24,2023-04-22,Ryan Mountcastle,Bench
+2023,10,24,2023-04-22,Max Fried,Bench
+2023,10,24,2023-04-22,Noah Syndergaard,Bench
+2023,10,24,2023-04-22,Graham Ashcraft,Bench
+2023,10,24,2023-04-22,Hunter Brown,Bench
+2023,10,24,2023-04-22,Oneil Cruz,IL
+2023,10,24,2023-04-22,Jose Altuve,IL
+2023,10,24,2023-04-22,Harrison Bader,IL
+2023,10,24,2023-04-22,Alek Manoah,SP
+2023,10,24,2023-04-22,Cristian Javier,SP
+2023,10,24,2023-04-22,Pablo Lopez,SP
+2023,10,24,2023-04-22,Kyle Wright,SP
+2023,10,24,2023-04-22,Jordan Romano,RP
+2023,10,24,2023-04-22,Ryan Helsley,RP
+2023,10,24,2023-04-22,Jorge Lopez,RP
+2023,10,25,2023-04-23,Adley Rutschman,C
+2023,10,25,2023-04-23,Anthony Rizzo,1B
+2023,10,25,2023-04-23,Brandon Drury,2B
+2023,10,25,2023-04-23,Eugenio Suarez,3B
+2023,10,25,2023-04-23,Bobby Witt Jr.,SS
+2023,10,25,2023-04-23,Christian Yelich,OF
+2023,10,25,2023-04-23,Cody Bellinger,OF
+2023,10,25,2023-04-23,Wil Myers,OF
+2023,10,25,2023-04-23,Vladimir Guerrero Jr.,UTIL
+2023,10,25,2023-04-23,Steven Kwan,UTIL
+2023,10,25,2023-04-23,Ryan Mountcastle,Bench
+2023,10,25,2023-04-23,Jonah Heim,Bench
+2023,10,25,2023-04-23,Pablo Lopez,Bench
+2023,10,25,2023-04-23,Noah Syndergaard,Bench
+2023,10,25,2023-04-23,Graham Ashcraft,Bench
+2023,10,25,2023-04-23,Hunter Brown,Bench
+2023,10,25,2023-04-23,Oneil Cruz,IL
+2023,10,25,2023-04-23,Jose Altuve,IL
+2023,10,25,2023-04-23,Harrison Bader,IL
+2023,10,25,2023-04-23,Alek Manoah,SP
+2023,10,25,2023-04-23,Max Fried,SP
+2023,10,25,2023-04-23,Cristian Javier,SP
+2023,10,25,2023-04-23,Kyle Wright,SP
+2023,10,25,2023-04-23,Jordan Romano,RP
+2023,10,25,2023-04-23,Ryan Helsley,RP
+2023,10,25,2023-04-23,Jorge Lopez,RP
+2023,10,26,2023-04-24,Adley Rutschman,C
+2023,10,26,2023-04-24,Anthony Rizzo,1B
+2023,10,26,2023-04-24,Brandon Drury,2B
+2023,10,26,2023-04-24,Eugenio Suarez,3B
+2023,10,26,2023-04-24,Bobby Witt Jr.,SS
+2023,10,26,2023-04-24,Christian Yelich,OF
+2023,10,26,2023-04-24,Steven Kwan,OF
+2023,10,26,2023-04-24,Wil Myers,OF
+2023,10,26,2023-04-24,Vladimir Guerrero Jr.,UTIL
+2023,10,26,2023-04-24,Jonah Heim,UTIL
+2023,10,26,2023-04-24,Ryan Mountcastle,Bench
+2023,10,26,2023-04-24,Cody Bellinger,Bench
+2023,10,26,2023-04-24,Pablo Lopez,Bench
+2023,10,26,2023-04-24,Noah Syndergaard,Bench
+2023,10,26,2023-04-24,Graham Ashcraft,Bench
+2023,10,26,2023-04-24,Hunter Brown,Bench
+2023,10,26,2023-04-24,Oneil Cruz,IL
+2023,10,26,2023-04-24,Jose Altuve,IL
+2023,10,26,2023-04-24,Harrison Bader,IL
+2023,10,26,2023-04-24,Alek Manoah,SP
+2023,10,26,2023-04-24,Max Fried,SP
+2023,10,26,2023-04-24,Cristian Javier,SP
+2023,10,26,2023-04-24,Kyle Wright,SP
+2023,10,26,2023-04-24,Jordan Romano,RP
+2023,10,26,2023-04-24,Ryan Helsley,RP
+2023,10,26,2023-04-24,Jorge Lopez,RP
+2023,10,27,2023-04-25,Adley Rutschman,C
+2023,10,27,2023-04-25,Anthony Rizzo,1B
+2023,10,27,2023-04-25,Brandon Drury,2B
+2023,10,27,2023-04-25,Eugenio Suarez,3B
+2023,10,27,2023-04-25,Bobby Witt Jr.,SS
+2023,10,27,2023-04-25,Christian Yelich,OF
+2023,10,27,2023-04-25,Steven Kwan,OF
+2023,10,27,2023-04-25,Jack Suwinski,OF
+2023,10,27,2023-04-25,Vladimir Guerrero Jr.,UTIL
+2023,10,27,2023-04-25,Jonah Heim,UTIL
+2023,10,27,2023-04-25,Ryan Mountcastle,Bench
+2023,10,27,2023-04-25,Cody Bellinger,Bench
+2023,10,27,2023-04-25,Pablo Lopez,Bench
+2023,10,27,2023-04-25,Noah Syndergaard,Bench
+2023,10,27,2023-04-25,Graham Ashcraft,Bench
+2023,10,27,2023-04-25,Hunter Brown,Bench
+2023,10,27,2023-04-25,Oneil Cruz,IL
+2023,10,27,2023-04-25,Jose Altuve,IL
+2023,10,27,2023-04-25,Harrison Bader,IL
+2023,10,27,2023-04-25,Alek Manoah,SP
+2023,10,27,2023-04-25,Max Fried,SP
+2023,10,27,2023-04-25,Cristian Javier,SP
+2023,10,27,2023-04-25,Kyle Wright,SP
+2023,10,27,2023-04-25,Jordan Romano,RP
+2023,10,27,2023-04-25,Ryan Helsley,RP
+2023,10,27,2023-04-25,Jorge Lopez,RP
+2023,10,28,2023-04-26,Adley Rutschman,C
+2023,10,28,2023-04-26,Anthony Rizzo,1B
+2023,10,28,2023-04-26,Brandon Drury,2B
+2023,10,28,2023-04-26,Eugenio Suarez,3B
+2023,10,28,2023-04-26,Bobby Witt Jr.,SS
+2023,10,28,2023-04-26,Christian Yelich,OF
+2023,10,28,2023-04-26,Steven Kwan,OF
+2023,10,28,2023-04-26,Jack Suwinski,OF
+2023,10,28,2023-04-26,Vladimir Guerrero Jr.,UTIL
+2023,10,28,2023-04-26,Jonah Heim,UTIL
+2023,10,28,2023-04-26,Ryan Mountcastle,Bench
+2023,10,28,2023-04-26,Cody Bellinger,Bench
+2023,10,28,2023-04-26,Cristian Javier,Bench
+2023,10,28,2023-04-26,Pablo Lopez,Bench
+2023,10,28,2023-04-26,Noah Syndergaard,Bench
+2023,10,28,2023-04-26,Oneil Cruz,IL
+2023,10,28,2023-04-26,Jose Altuve,IL
+2023,10,28,2023-04-26,Harrison Bader,IL
+2023,10,28,2023-04-26,Alek Manoah,SP
+2023,10,28,2023-04-26,Max Fried,SP
+2023,10,28,2023-04-26,Kyle Wright,SP
+2023,10,28,2023-04-26,Graham Ashcraft,SP
+2023,10,28,2023-04-26,Hunter Brown,SP
+2023,10,28,2023-04-26,Jordan Romano,RP
+2023,10,28,2023-04-26,Ryan Helsley,RP
+2023,10,28,2023-04-26,Jorge Lopez,RP
+2023,10,29,2023-04-27,Adley Rutschman,C
+2023,10,29,2023-04-27,Anthony Rizzo,1B
+2023,10,29,2023-04-27,Brandon Drury,2B
+2023,10,29,2023-04-27,Eugenio Suarez,3B
+2023,10,29,2023-04-27,Bobby Witt Jr.,SS
+2023,10,29,2023-04-27,Christian Yelich,OF
+2023,10,29,2023-04-27,Steven Kwan,OF
+2023,10,29,2023-04-27,Jack Suwinski,OF
+2023,10,29,2023-04-27,Ryan Mountcastle,UTIL
+2023,10,29,2023-04-27,Jonah Heim,UTIL
+2023,10,29,2023-04-27,Vladimir Guerrero Jr.,Bench
+2023,10,29,2023-04-27,Cody Bellinger,Bench
+2023,10,29,2023-04-27,Cristian Javier,Bench
+2023,10,29,2023-04-27,Pablo Lopez,Bench
+2023,10,29,2023-04-27,Noah Syndergaard,Bench
+2023,10,29,2023-04-27,Oneil Cruz,IL
+2023,10,29,2023-04-27,Jose Altuve,IL
+2023,10,29,2023-04-27,Harrison Bader,IL
+2023,10,29,2023-04-27,Alek Manoah,SP
+2023,10,29,2023-04-27,Max Fried,SP
+2023,10,29,2023-04-27,Kyle Wright,SP
+2023,10,29,2023-04-27,Graham Ashcraft,SP
+2023,10,29,2023-04-27,Hunter Brown,SP
+2023,10,29,2023-04-27,Jordan Romano,RP
+2023,10,29,2023-04-27,Ryan Helsley,RP
+2023,10,29,2023-04-27,Jorge Lopez,RP
+2023,10,30,2023-04-28,Adley Rutschman,C
+2023,10,30,2023-04-28,Anthony Rizzo,1B
+2023,10,30,2023-04-28,Brandon Drury,2B
+2023,10,30,2023-04-28,Eugenio Suarez,3B
+2023,10,30,2023-04-28,Bobby Witt Jr.,SS
+2023,10,30,2023-04-28,Postponed,SS
+2023,10,30,2023-04-28,Christian Yelich,OF
+2023,10,30,2023-04-28,Steven Kwan,OF
+2023,10,30,2023-04-28,Jack Suwinski,OF
+2023,10,30,2023-04-28,Postponed,OF
+2023,10,30,2023-04-28,Vladimir Guerrero Jr.,UTIL
+2023,10,30,2023-04-28,Jonah Heim,UTIL
+2023,10,30,2023-04-28,Ryan Mountcastle,Bench
+2023,10,30,2023-04-28,Cody Bellinger,Bench
+2023,10,30,2023-04-28,Cristian Javier,Bench
+2023,10,30,2023-04-28,Kyle Wright,Bench
+2023,10,30,2023-04-28,Noah Syndergaard,Bench
+2023,10,30,2023-04-28,Oneil Cruz,IL
+2023,10,30,2023-04-28,Jose Altuve,IL
+2023,10,30,2023-04-28,Harrison Bader,IL
+2023,10,30,2023-04-28,Alek Manoah,SP
+2023,10,30,2023-04-28,Max Fried,SP
+2023,10,30,2023-04-28,Pablo Lopez,SP
+2023,10,30,2023-04-28,Graham Ashcraft,SP
+2023,10,30,2023-04-28,Hunter Brown,SP
+2023,10,30,2023-04-28,Jordan Romano,RP
+2023,10,30,2023-04-28,Ryan Helsley,RP
+2023,10,30,2023-04-28,Jorge Lopez,RP
+2023,10,31,2023-04-29,Adley Rutschman,C
+2023,10,31,2023-04-29,Anthony Rizzo,1B
+2023,10,31,2023-04-29,Brandon Drury,2B
+2023,10,31,2023-04-29,Eugenio Suarez,3B
+2023,10,31,2023-04-29,Bobby Witt Jr.,SS
+2023,10,31,2023-04-29,Christian Yelich,OF
+2023,10,31,2023-04-29,Steven Kwan,OF
+2023,10,31,2023-04-29,Jack Suwinski,OF
+2023,10,31,2023-04-29,Postponed,OF
+2023,10,31,2023-04-29,Vladimir Guerrero Jr.,UTIL
+2023,10,31,2023-04-29,Ryan Mountcastle,UTIL
+2023,10,31,2023-04-29,Cody Bellinger,Bench
+2023,10,31,2023-04-29,Jonah Heim,Bench
+2023,10,31,2023-04-29,Pablo Lopez,Bench
+2023,10,31,2023-04-29,Kyle Wright,Bench
+2023,10,31,2023-04-29,Noah Syndergaard,Bench
+2023,10,31,2023-04-29,Oneil Cruz,IL
+2023,10,31,2023-04-29,Jose Altuve,IL
+2023,10,31,2023-04-29,Harrison Bader,IL
+2023,10,31,2023-04-29,Alek Manoah,SP
+2023,10,31,2023-04-29,Max Fried,SP
+2023,10,31,2023-04-29,Postponed,SP
+2023,10,31,2023-04-29,Cristian Javier,SP
+2023,10,31,2023-04-29,Graham Ashcraft,SP
+2023,10,31,2023-04-29,Hunter Brown,SP
+2023,10,31,2023-04-29,Jordan Romano,RP
+2023,10,31,2023-04-29,Ryan Helsley,RP
+2023,10,31,2023-04-29,Jorge Lopez,RP
+2023,10,31,2023-04-29,Postponed,RP
+2023,10,32,2023-04-30,Adley Rutschman,C
+2023,10,32,2023-04-30,Anthony Rizzo,1B
+2023,10,32,2023-04-30,Brandon Drury,2B
+2023,10,32,2023-04-30,Eugenio Suarez,3B
+2023,10,32,2023-04-30,Bobby Witt Jr.,SS
+2023,10,32,2023-04-30,Steven Kwan,OF
+2023,10,32,2023-04-30,Cody Bellinger,OF
+2023,10,32,2023-04-30,Jack Suwinski,OF
+2023,10,32,2023-04-30,Postponed,OF
+2023,10,32,2023-04-30,Vladimir Guerrero Jr.,UTIL
+2023,10,32,2023-04-30,Ryan Mountcastle,UTIL
+2023,10,32,2023-04-30,Christian Yelich,Bench
+2023,10,32,2023-04-30,Jonah Heim,Bench
+2023,10,32,2023-04-30,Pablo Lopez,Bench
+2023,10,32,2023-04-30,Kyle Wright,Bench
+2023,10,32,2023-04-30,Noah Syndergaard,Bench
+2023,10,32,2023-04-30,Oneil Cruz,IL
+2023,10,32,2023-04-30,Jose Altuve,IL
+2023,10,32,2023-04-30,Harrison Bader,IL
+2023,10,32,2023-04-30,Alek Manoah,SP
+2023,10,32,2023-04-30,Max Fried,SP
+2023,10,32,2023-04-30,Cristian Javier,SP
+2023,10,32,2023-04-30,Graham Ashcraft,SP
+2023,10,32,2023-04-30,Hunter Brown,SP
+2023,10,32,2023-04-30,Jordan Romano,RP
+2023,10,32,2023-04-30,Ryan Helsley,RP
+2023,10,32,2023-04-30,Jorge Lopez,RP
+2023,10,33,2023-05-01,Adley Rutschman,C
+2023,10,33,2023-05-01,Anthony Rizzo,1B
+2023,10,33,2023-05-01,Brandon Drury,2B
+2023,10,33,2023-05-01,Eugenio Suarez,3B
+2023,10,33,2023-05-01,Bobby Witt Jr.,SS
+2023,10,33,2023-05-01,Steven Kwan,OF
+2023,10,33,2023-05-01,Cody Bellinger,OF
+2023,10,33,2023-05-01,Jack Suwinski,OF
+2023,10,33,2023-05-01,Vladimir Guerrero Jr.,UTIL
+2023,10,33,2023-05-01,Ryan Mountcastle,UTIL
+2023,10,33,2023-05-01,Christian Yelich,Bench
+2023,10,33,2023-05-01,Jonah Heim,Bench
+2023,10,33,2023-05-01,Pablo Lopez,Bench
+2023,10,33,2023-05-01,Kyle Wright,Bench
+2023,10,33,2023-05-01,Noah Syndergaard,Bench
+2023,10,33,2023-05-01,Oneil Cruz,IL
+2023,10,33,2023-05-01,Jose Altuve,IL
+2023,10,33,2023-05-01,Harrison Bader,IL
+2023,10,33,2023-05-01,Alek Manoah,SP
+2023,10,33,2023-05-01,Max Fried,SP
+2023,10,33,2023-05-01,Cristian Javier,SP
+2023,10,33,2023-05-01,Graham Ashcraft,SP
+2023,10,33,2023-05-01,Hunter Brown,SP
+2023,10,33,2023-05-01,Jordan Romano,RP
+2023,10,33,2023-05-01,Ryan Helsley,RP
+2023,10,33,2023-05-01,Jorge Lopez,RP
+2023,10,34,2023-05-02,Adley Rutschman,C
+2023,10,34,2023-05-02,Anthony Rizzo,1B
+2023,10,34,2023-05-02,Rodolfo Castro,2B
+2023,10,34,2023-05-02,Eugenio Suarez,3B
+2023,10,34,2023-05-02,Bobby Witt Jr.,SS
+2023,10,34,2023-05-02,Christian Yelich,OF
+2023,10,34,2023-05-02,Cody Bellinger,OF
+2023,10,34,2023-05-02,Jack Suwinski,OF
+2023,10,34,2023-05-02,Postponed,OF
+2023,10,34,2023-05-02,Vladimir Guerrero Jr.,UTIL
+2023,10,34,2023-05-02,Ryan Mountcastle,UTIL
+2023,10,34,2023-05-02,Steven Kwan,Bench
+2023,10,34,2023-05-02,Harrison Bader,Bench
+2023,10,34,2023-05-02,Jonah Heim,Bench
+2023,10,34,2023-05-02,Pablo Lopez,Bench
+2023,10,34,2023-05-02,Kyle Wright,Bench
+2023,10,34,2023-05-02,Oneil Cruz,IL
+2023,10,34,2023-05-02,Jose Altuve,IL
+2023,10,34,2023-05-02,Alek Manoah,SP
+2023,10,34,2023-05-02,Max Fried,SP
+2023,10,34,2023-05-02,Cristian Javier,SP
+2023,10,34,2023-05-02,Graham Ashcraft,SP
+2023,10,34,2023-05-02,Hunter Brown,SP
+2023,10,34,2023-05-02,Jordan Romano,RP
+2023,10,34,2023-05-02,Ryan Helsley,RP
+2023,10,34,2023-05-02,Jorge Lopez,RP
+2023,10,34,2023-05-02,Postponed,RP
+2023,10,35,2023-05-03,Adley Rutschman,C
+2023,10,35,2023-05-03,Anthony Rizzo,1B
+2023,10,35,2023-05-03,Rodolfo Castro,2B
+2023,10,35,2023-05-03,Eugenio Suarez,3B
+2023,10,35,2023-05-03,Bobby Witt Jr.,SS
+2023,10,35,2023-05-03,Christian Yelich,OF
+2023,10,35,2023-05-03,Steven Kwan,OF
+2023,10,35,2023-05-03,Cody Bellinger,OF
+2023,10,35,2023-05-03,Vladimir Guerrero Jr.,UTIL
+2023,10,35,2023-05-03,Ryan Mountcastle,UTIL
+2023,10,35,2023-05-03,Harrison Bader,Bench
+2023,10,35,2023-05-03,Jonah Heim,Bench
+2023,10,35,2023-05-03,Jack Suwinski,Bench
+2023,10,35,2023-05-03,Max Fried,Bench
+2023,10,35,2023-05-03,Pablo Lopez,Bench
+2023,10,35,2023-05-03,Oneil Cruz,IL
+2023,10,35,2023-05-03,Jose Altuve,IL
+2023,10,35,2023-05-03,Alek Manoah,SP
+2023,10,35,2023-05-03,Cristian Javier,SP
+2023,10,35,2023-05-03,Kyle Wright,SP
+2023,10,35,2023-05-03,Graham Ashcraft,SP
+2023,10,35,2023-05-03,Hunter Brown,SP
+2023,10,35,2023-05-03,Jordan Romano,RP
+2023,10,35,2023-05-03,Ryan Helsley,RP
+2023,10,35,2023-05-03,Jorge Lopez,RP
+2023,10,36,2023-05-04,Adley Rutschman,C
+2023,10,36,2023-05-04,Ryan Mountcastle,1B
+2023,10,36,2023-05-04,Rodolfo Castro,2B
+2023,10,36,2023-05-04,Eugenio Suarez,3B
+2023,10,36,2023-05-04,Bobby Witt Jr.,SS
+2023,10,36,2023-05-04,Christian Yelich,OF
+2023,10,36,2023-05-04,Cody Bellinger,OF
+2023,10,36,2023-05-04,Jack Suwinski,OF
+2023,10,36,2023-05-04,Vladimir Guerrero Jr.,UTIL
+2023,10,36,2023-05-04,Anthony Rizzo,UTIL
+2023,10,36,2023-05-04,Steven Kwan,Bench
+2023,10,36,2023-05-04,Harrison Bader,Bench
+2023,10,36,2023-05-04,Jonah Heim,Bench
+2023,10,36,2023-05-04,Cristian Javier,Bench
+2023,10,36,2023-05-04,Graham Ashcraft,Bench
+2023,10,36,2023-05-04,Oneil Cruz,IL
+2023,10,36,2023-05-04,Jose Altuve,IL
+2023,10,36,2023-05-04,Kyle Wright,IL
+2023,10,36,2023-05-04,Alek Manoah,SP
+2023,10,36,2023-05-04,Max Fried,SP
+2023,10,36,2023-05-04,Pablo Lopez,SP
+2023,10,36,2023-05-04,Hunter Brown,SP
+2023,10,36,2023-05-04,Vince Velasquez,SP
+2023,10,36,2023-05-04,Jordan Romano,RP
+2023,10,36,2023-05-04,Ryan Helsley,RP
+2023,10,36,2023-05-04,Jorge Lopez,RP
+2023,10,37,2023-05-05,Adley Rutschman,C
+2023,10,37,2023-05-05,Anthony Rizzo,1B
+2023,10,37,2023-05-05,Rodolfo Castro,2B
+2023,10,37,2023-05-05,Eugenio Suarez,3B
+2023,10,37,2023-05-05,Bobby Witt Jr.,SS
+2023,10,37,2023-05-05,Christian Yelich,OF
+2023,10,37,2023-05-05,Cody Bellinger,OF
+2023,10,37,2023-05-05,Jack Suwinski,OF
+2023,10,37,2023-05-05,Vladimir Guerrero Jr.,UTIL
+2023,10,37,2023-05-05,Ryan Mountcastle,UTIL
+2023,10,37,2023-05-05,Steven Kwan,Bench
+2023,10,37,2023-05-05,Harrison Bader,Bench
+2023,10,37,2023-05-05,Jonah Heim,Bench
+2023,10,37,2023-05-05,Max Fried,Bench
+2023,10,37,2023-05-05,Vince Velasquez,Bench
+2023,10,37,2023-05-05,Oneil Cruz,IL
+2023,10,37,2023-05-05,Jose Altuve,IL
+2023,10,37,2023-05-05,Kyle Wright,IL
+2023,10,37,2023-05-05,Alek Manoah,SP
+2023,10,37,2023-05-05,Cristian Javier,SP
+2023,10,37,2023-05-05,Pablo Lopez,SP
+2023,10,37,2023-05-05,Graham Ashcraft,SP
+2023,10,37,2023-05-05,Hunter Brown,SP
+2023,10,37,2023-05-05,Jordan Romano,RP
+2023,10,37,2023-05-05,Ryan Helsley,RP
+2023,10,37,2023-05-05,Jorge Lopez,RP
+2023,10,38,2023-05-06,Adley Rutschman,C
+2023,10,38,2023-05-06,Anthony Rizzo,1B
+2023,10,38,2023-05-06,Rodolfo Castro,2B
+2023,10,38,2023-05-06,Eugenio Suarez,3B
+2023,10,38,2023-05-06,Bobby Witt Jr.,SS
+2023,10,38,2023-05-06,Christian Yelich,OF
+2023,10,38,2023-05-06,Cody Bellinger,OF
+2023,10,38,2023-05-06,Harrison Bader,OF
+2023,10,38,2023-05-06,Ryan Mountcastle,UTIL
+2023,10,38,2023-05-06,Jonah Heim,UTIL
+2023,10,38,2023-05-06,Vladimir Guerrero Jr.,Bench
+2023,10,38,2023-05-06,Steven Kwan,Bench
+2023,10,38,2023-05-06,Jack Suwinski,Bench
+2023,10,38,2023-05-06,Max Fried,Bench
+2023,10,38,2023-05-06,Vince Velasquez,Bench
+2023,10,38,2023-05-06,Oneil Cruz,IL
+2023,10,38,2023-05-06,Jose Altuve,IL
+2023,10,38,2023-05-06,Kyle Wright,IL
+2023,10,38,2023-05-06,Alek Manoah,SP
+2023,10,38,2023-05-06,Cristian Javier,SP
+2023,10,38,2023-05-06,Pablo Lopez,SP
+2023,10,38,2023-05-06,Graham Ashcraft,SP
+2023,10,38,2023-05-06,Hunter Brown,SP
+2023,10,38,2023-05-06,Jordan Romano,RP
+2023,10,38,2023-05-06,Ryan Helsley,RP
+2023,10,38,2023-05-06,Jorge Lopez,RP
+2023,10,39,2023-05-07,Adley Rutschman,C
+2023,10,39,2023-05-07,Anthony Rizzo,1B
+2023,10,39,2023-05-07,Rodolfo Castro,2B
+2023,10,39,2023-05-07,Eugenio Suarez,3B
+2023,10,39,2023-05-07,Bobby Witt Jr.,SS
+2023,10,39,2023-05-07,Christian Yelich,OF
+2023,10,39,2023-05-07,Steven Kwan,OF
+2023,10,39,2023-05-07,Cody Bellinger,OF
+2023,10,39,2023-05-07,Ryan Mountcastle,UTIL
+2023,10,39,2023-05-07,Harrison Bader,UTIL
+2023,10,39,2023-05-07,Vladimir Guerrero Jr.,Bench
+2023,10,39,2023-05-07,Jonah Heim,Bench
+2023,10,39,2023-05-07,Jack Suwinski,Bench
+2023,10,39,2023-05-07,Max Fried,Bench
+2023,10,39,2023-05-07,Graham Ashcraft,Bench
+2023,10,39,2023-05-07,Hunter Brown,Bench
+2023,10,39,2023-05-07,Vince Velasquez,Bench
+2023,10,39,2023-05-07,Oneil Cruz,IL
+2023,10,39,2023-05-07,Jose Altuve,IL
+2023,10,39,2023-05-07,Kyle Wright,IL
+2023,10,39,2023-05-07,Alek Manoah,SP
+2023,10,39,2023-05-07,Cristian Javier,SP
+2023,10,39,2023-05-07,Pablo Lopez,SP
+2023,10,39,2023-05-07,Jordan Romano,RP
+2023,10,39,2023-05-07,Ryan Helsley,RP
+2023,10,39,2023-05-07,Jorge Lopez,RP
+2023,10,40,2023-05-08,Adley Rutschman,C
+2023,10,40,2023-05-08,Anthony Rizzo,1B
+2023,10,40,2023-05-08,Rodolfo Castro,2B
+2023,10,40,2023-05-08,Eugenio Suarez,3B
+2023,10,40,2023-05-08,Bobby Witt Jr.,SS
+2023,10,40,2023-05-08,Christian Yelich,OF
+2023,10,40,2023-05-08,Steven Kwan,OF
+2023,10,40,2023-05-08,Cody Bellinger,OF
+2023,10,40,2023-05-08,Ryan Mountcastle,UTIL
+2023,10,40,2023-05-08,Harrison Bader,UTIL
+2023,10,40,2023-05-08,Vladimir Guerrero Jr.,Bench
+2023,10,40,2023-05-08,Jonah Heim,Bench
+2023,10,40,2023-05-08,Jack Suwinski,Bench
+2023,10,40,2023-05-08,Alek Manoah,Bench
+2023,10,40,2023-05-08,Max Fried,Bench
+2023,10,40,2023-05-08,Graham Ashcraft,Bench
+2023,10,40,2023-05-08,Vince Velasquez,Bench
+2023,10,40,2023-05-08,Oneil Cruz,IL
+2023,10,40,2023-05-08,Jose Altuve,IL
+2023,10,40,2023-05-08,Kyle Wright,IL
+2023,10,40,2023-05-08,Cristian Javier,SP
+2023,10,40,2023-05-08,Pablo Lopez,SP
+2023,10,40,2023-05-08,Hunter Brown,SP
+2023,10,40,2023-05-08,Jordan Romano,RP
+2023,10,40,2023-05-08,Ryan Helsley,RP
+2023,10,40,2023-05-08,Jorge Lopez,RP
+2023,10,41,2023-05-09,Adley Rutschman,C
+2023,10,41,2023-05-09,Anthony Rizzo,1B
+2023,10,41,2023-05-09,Rodolfo Castro,2B
+2023,10,41,2023-05-09,Eugenio Suarez,3B
+2023,10,41,2023-05-09,Bobby Witt Jr.,SS
+2023,10,41,2023-05-09,Christian Yelich,OF
+2023,10,41,2023-05-09,Steven Kwan,OF
+2023,10,41,2023-05-09,Cody Bellinger,OF
+2023,10,41,2023-05-09,Vladimir Guerrero Jr.,UTIL
+2023,10,41,2023-05-09,Harrison Bader,UTIL
+2023,10,41,2023-05-09,Ryan Mountcastle,Bench
+2023,10,41,2023-05-09,Jonah Heim,Bench
+2023,10,41,2023-05-09,Ezequiel Duran,Bench
+2023,10,41,2023-05-09,Max Fried,Bench
+2023,10,41,2023-05-09,Graham Ashcraft,Bench
+2023,10,41,2023-05-09,Vince Velasquez,Bench
+2023,10,41,2023-05-09,Oneil Cruz,IL
+2023,10,41,2023-05-09,Jose Altuve,IL
+2023,10,41,2023-05-09,Kyle Wright,IL
+2023,10,41,2023-05-09,Alek Manoah,SP
+2023,10,41,2023-05-09,Cristian Javier,SP
+2023,10,41,2023-05-09,Pablo Lopez,SP
+2023,10,41,2023-05-09,Hunter Brown,SP
+2023,10,41,2023-05-09,Jordan Romano,RP
+2023,10,41,2023-05-09,Ryan Helsley,RP
+2023,10,41,2023-05-09,Jorge Lopez,RP
+2023,10,42,2023-05-10,Adley Rutschman,C
+2023,10,42,2023-05-10,Anthony Rizzo,1B
+2023,10,42,2023-05-10,Rodolfo Castro,2B
+2023,10,42,2023-05-10,Eugenio Suarez,3B
+2023,10,42,2023-05-10,Bobby Witt Jr.,SS
+2023,10,42,2023-05-10,Christian Yelich,OF
+2023,10,42,2023-05-10,Steven Kwan,OF
+2023,10,42,2023-05-10,Cody Bellinger,OF
+2023,10,42,2023-05-10,Vladimir Guerrero Jr.,UTIL
+2023,10,42,2023-05-10,Harrison Bader,UTIL
+2023,10,42,2023-05-10,Ryan Mountcastle,Bench
+2023,10,42,2023-05-10,Jonah Heim,Bench
+2023,10,42,2023-05-10,Ezequiel Duran,Bench
+2023,10,42,2023-05-10,Max Fried,Bench
+2023,10,42,2023-05-10,Graham Ashcraft,Bench
+2023,10,42,2023-05-10,Vince Velasquez,Bench
+2023,10,42,2023-05-10,Oneil Cruz,IL
+2023,10,42,2023-05-10,Jose Altuve,IL
+2023,10,42,2023-05-10,Kyle Wright,IL
+2023,10,42,2023-05-10,Alek Manoah,SP
+2023,10,42,2023-05-10,Cristian Javier,SP
+2023,10,42,2023-05-10,Pablo Lopez,SP
+2023,10,42,2023-05-10,Hunter Brown,SP
+2023,10,42,2023-05-10,Jordan Romano,RP
+2023,10,42,2023-05-10,Ryan Helsley,RP
+2023,10,42,2023-05-10,Jorge Lopez,RP
+2023,10,43,2023-05-11,Jonah Heim,C
+2023,10,43,2023-05-11,Anthony Rizzo,1B
+2023,10,43,2023-05-11,Rodolfo Castro,2B
+2023,10,43,2023-05-11,Eugenio Suarez,3B
+2023,10,43,2023-05-11,Bobby Witt Jr.,SS
+2023,10,43,2023-05-11,Christian Yelich,OF
+2023,10,43,2023-05-11,Steven Kwan,OF
+2023,10,43,2023-05-11,Cody Bellinger,OF
+2023,10,43,2023-05-11,Harrison Bader,UTIL
+2023,10,43,2023-05-11,Ezequiel Duran,UTIL
+2023,10,43,2023-05-11,Vladimir Guerrero Jr.,Bench
+2023,10,43,2023-05-11,Adley Rutschman,Bench
+2023,10,43,2023-05-11,Ryan Mountcastle,Bench
+2023,10,43,2023-05-11,Max Fried,Bench
+2023,10,43,2023-05-11,Graham Ashcraft,Bench
+2023,10,43,2023-05-11,Vince Velasquez,Bench
+2023,10,43,2023-05-11,Oneil Cruz,IL
+2023,10,43,2023-05-11,Jose Altuve,IL
+2023,10,43,2023-05-11,Kyle Wright,IL
+2023,10,43,2023-05-11,Alek Manoah,SP
+2023,10,43,2023-05-11,Cristian Javier,SP
+2023,10,43,2023-05-11,Pablo Lopez,SP
+2023,10,43,2023-05-11,Hunter Brown,SP
+2023,10,43,2023-05-11,Jordan Romano,RP
+2023,10,43,2023-05-11,Ryan Helsley,RP
+2023,10,43,2023-05-11,Jorge Lopez,RP
+2023,10,44,2023-05-12,Adley Rutschman,C
+2023,10,44,2023-05-12,Anthony Rizzo,1B
+2023,10,44,2023-05-12,Luis Garcia,2B
+2023,10,44,2023-05-12,Ezequiel Duran,3B
+2023,10,44,2023-05-12,Bobby Witt Jr.,SS
+2023,10,44,2023-05-12,Christian Yelich,OF
+2023,10,44,2023-05-12,Steven Kwan,OF
+2023,10,44,2023-05-12,Cody Bellinger,OF
+2023,10,44,2023-05-12,Vladimir Guerrero Jr.,UTIL
+2023,10,44,2023-05-12,Harrison Bader,UTIL
+2023,10,44,2023-05-12,Ryan Mountcastle,Bench
+2023,10,44,2023-05-12,Jonah Heim,Bench
+2023,10,44,2023-05-12,Max Fried,Bench
+2023,10,44,2023-05-12,Vince Velasquez,Bench
+2023,10,44,2023-05-12,Yusei Kikuchi,Bench
+2023,10,44,2023-05-12,Oneil Cruz,IL
+2023,10,44,2023-05-12,Jose Altuve,IL
+2023,10,44,2023-05-12,Kyle Wright,IL
+2023,10,44,2023-05-12,Alek Manoah,SP
+2023,10,44,2023-05-12,Cristian Javier,SP
+2023,10,44,2023-05-12,Pablo Lopez,SP
+2023,10,44,2023-05-12,Graham Ashcraft,SP
+2023,10,44,2023-05-12,Hunter Brown,SP
+2023,10,44,2023-05-12,Jordan Romano,RP
+2023,10,44,2023-05-12,Ryan Helsley,RP
+2023,10,44,2023-05-12,Jorge Lopez,RP
+2023,10,45,2023-05-13,Adley Rutschman,C
+2023,10,45,2023-05-13,Anthony Rizzo,1B
+2023,10,45,2023-05-13,Luis Garcia,2B
+2023,10,45,2023-05-13,Ezequiel Duran,3B
+2023,10,45,2023-05-13,Bobby Witt Jr.,SS
+2023,10,45,2023-05-13,Christian Yelich,OF
+2023,10,45,2023-05-13,Steven Kwan,OF
+2023,10,45,2023-05-13,Cody Bellinger,OF
+2023,10,45,2023-05-13,Vladimir Guerrero Jr.,UTIL
+2023,10,45,2023-05-13,Harrison Bader,UTIL
+2023,10,45,2023-05-13,Ryan Mountcastle,Bench
+2023,10,45,2023-05-13,Jonah Heim,Bench
+2023,10,45,2023-05-13,Max Fried,Bench
+2023,10,45,2023-05-13,Vince Velasquez,Bench
+2023,10,45,2023-05-13,Yusei Kikuchi,Bench
+2023,10,45,2023-05-13,Oneil Cruz,IL
+2023,10,45,2023-05-13,Jose Altuve,IL
+2023,10,45,2023-05-13,Kyle Wright,IL
+2023,10,45,2023-05-13,Alek Manoah,SP
+2023,10,45,2023-05-13,Cristian Javier,SP
+2023,10,45,2023-05-13,Pablo Lopez,SP
+2023,10,45,2023-05-13,Graham Ashcraft,SP
+2023,10,45,2023-05-13,Hunter Brown,SP
+2023,10,45,2023-05-13,Jordan Romano,RP
+2023,10,45,2023-05-13,Ryan Helsley,RP
+2023,10,45,2023-05-13,Jorge Lopez,RP
+2023,10,46,2023-05-14,Jonah Heim,C
+2023,10,46,2023-05-14,Anthony Rizzo,1B
+2023,10,46,2023-05-14,Luis Garcia,2B
+2023,10,46,2023-05-14,Ezequiel Duran,3B
+2023,10,46,2023-05-14,Bobby Witt Jr.,SS
+2023,10,46,2023-05-14,Christian Yelich,OF
+2023,10,46,2023-05-14,Steven Kwan,OF
+2023,10,46,2023-05-14,Harrison Bader,OF
+2023,10,46,2023-05-14,Vladimir Guerrero Jr.,UTIL
+2023,10,46,2023-05-14,Ryan Mountcastle,UTIL
+2023,10,46,2023-05-14,Adley Rutschman,Bench
+2023,10,46,2023-05-14,Cody Bellinger,Bench
+2023,10,46,2023-05-14,Max Fried,Bench
+2023,10,46,2023-05-14,Graham Ashcraft,Bench
+2023,10,46,2023-05-14,Vince Velasquez,Bench
+2023,10,46,2023-05-14,Oneil Cruz,IL
+2023,10,46,2023-05-14,Jose Altuve,IL
+2023,10,46,2023-05-14,Kyle Wright,IL
+2023,10,46,2023-05-14,Alek Manoah,SP
+2023,10,46,2023-05-14,Cristian Javier,SP
+2023,10,46,2023-05-14,Pablo Lopez,SP
+2023,10,46,2023-05-14,Hunter Brown,SP
+2023,10,46,2023-05-14,Yusei Kikuchi,SP
+2023,10,46,2023-05-14,Jordan Romano,RP
+2023,10,46,2023-05-14,Ryan Helsley,RP
+2023,10,46,2023-05-14,Jorge Lopez,RP
+2023,10,47,2023-05-15,Adley Rutschman,C
+2023,10,47,2023-05-15,Anthony Rizzo,1B
+2023,10,47,2023-05-15,Luis Garcia,2B
+2023,10,47,2023-05-15,Ezequiel Duran,3B
+2023,10,47,2023-05-15,Bobby Witt Jr.,SS
+2023,10,47,2023-05-15,Christian Yelich,OF
+2023,10,47,2023-05-15,Cody Bellinger,OF
+2023,10,47,2023-05-15,Harrison Bader,OF
+2023,10,47,2023-05-15,Vladimir Guerrero Jr.,UTIL
+2023,10,47,2023-05-15,Ryan Mountcastle,UTIL
+2023,10,47,2023-05-15,Steven Kwan,Bench
+2023,10,47,2023-05-15,Jonah Heim,Bench
+2023,10,47,2023-05-15,Max Fried,Bench
+2023,10,47,2023-05-15,Graham Ashcraft,Bench
+2023,10,47,2023-05-15,Vince Velasquez,Bench
+2023,10,47,2023-05-15,Oneil Cruz,IL
+2023,10,47,2023-05-15,Jose Altuve,IL
+2023,10,47,2023-05-15,Kyle Wright,IL
+2023,10,47,2023-05-15,Alek Manoah,SP
+2023,10,47,2023-05-15,Cristian Javier,SP
+2023,10,47,2023-05-15,Pablo Lopez,SP
+2023,10,47,2023-05-15,Hunter Brown,SP
+2023,10,47,2023-05-15,Yusei Kikuchi,SP
+2023,10,47,2023-05-15,Jordan Romano,RP
+2023,10,47,2023-05-15,Ryan Helsley,RP
+2023,10,47,2023-05-15,Jorge Lopez,RP
+2023,10,48,2023-05-16,Adley Rutschman,C
+2023,10,48,2023-05-16,Anthony Rizzo,1B
+2023,10,48,2023-05-16,Luis Garcia,2B
+2023,10,48,2023-05-16,Ezequiel Duran,3B
+2023,10,48,2023-05-16,Bobby Witt Jr.,SS
+2023,10,48,2023-05-16,Christian Yelich,OF
+2023,10,48,2023-05-16,Steven Kwan,OF
+2023,10,48,2023-05-16,Harrison Bader,OF
+2023,10,48,2023-05-16,Vladimir Guerrero Jr.,UTIL
+2023,10,48,2023-05-16,Jonah Heim,UTIL
+2023,10,48,2023-05-16,Jose Altuve,Bench
+2023,10,48,2023-05-16,Ryan Mountcastle,Bench
+2023,10,48,2023-05-16,Cody Bellinger,Bench
+2023,10,48,2023-05-16,Graham Ashcraft,Bench
+2023,10,48,2023-05-16,Vince Velasquez,Bench
+2023,10,48,2023-05-16,Oneil Cruz,IL
+2023,10,48,2023-05-16,Max Fried,IL
+2023,10,48,2023-05-16,Kyle Wright,IL
+2023,10,48,2023-05-16,Alek Manoah,SP
+2023,10,48,2023-05-16,Cristian Javier,SP
+2023,10,48,2023-05-16,Pablo Lopez,SP
+2023,10,48,2023-05-16,Hunter Brown,SP
+2023,10,48,2023-05-16,Yusei Kikuchi,SP
+2023,10,48,2023-05-16,Jordan Romano,RP
+2023,10,48,2023-05-16,Ryan Helsley,RP
+2023,10,48,2023-05-16,Jorge Lopez,RP
+2023,10,49,2023-05-17,Adley Rutschman,C
+2023,10,49,2023-05-17,Anthony Rizzo,1B
+2023,10,49,2023-05-17,Luis Garcia,2B
+2023,10,49,2023-05-17,Ezequiel Duran,3B
+2023,10,49,2023-05-17,Bobby Witt Jr.,SS
+2023,10,49,2023-05-17,Christian Yelich,OF
+2023,10,49,2023-05-17,Steven Kwan,OF
+2023,10,49,2023-05-17,Harrison Bader,OF
+2023,10,49,2023-05-17,Ryan Mountcastle,UTIL
+2023,10,49,2023-05-17,Jonah Heim,UTIL
+2023,10,49,2023-05-17,Vladimir Guerrero Jr.,Bench
+2023,10,49,2023-05-17,Jose Altuve,Bench
+2023,10,49,2023-05-17,Cody Bellinger,Bench
+2023,10,49,2023-05-17,Pablo Lopez,Bench
+2023,10,49,2023-05-17,Vince Velasquez,Bench
+2023,10,49,2023-05-17,Oneil Cruz,IL
+2023,10,49,2023-05-17,Max Fried,IL
+2023,10,49,2023-05-17,Kyle Wright,IL
+2023,10,49,2023-05-17,Alek Manoah,SP
+2023,10,49,2023-05-17,Cristian Javier,SP
+2023,10,49,2023-05-17,Graham Ashcraft,SP
+2023,10,49,2023-05-17,Hunter Brown,SP
+2023,10,49,2023-05-17,Yusei Kikuchi,SP
+2023,10,49,2023-05-17,Jordan Romano,RP
+2023,10,49,2023-05-17,Ryan Helsley,RP
+2023,10,49,2023-05-17,Jorge Lopez,RP
+2023,10,50,2023-05-18,Adley Rutschman,C
+2023,10,50,2023-05-18,Anthony Rizzo,1B
+2023,10,50,2023-05-18,Luis Garcia,2B
+2023,10,50,2023-05-18,Ezequiel Duran,3B
+2023,10,50,2023-05-18,Bobby Witt Jr.,SS
+2023,10,50,2023-05-18,Christian Yelich,OF
+2023,10,50,2023-05-18,Steven Kwan,OF
+2023,10,50,2023-05-18,Harrison Bader,OF
+2023,10,50,2023-05-18,Vladimir Guerrero Jr.,UTIL
+2023,10,50,2023-05-18,Ryan Mountcastle,UTIL
+2023,10,50,2023-05-18,Jose Altuve,Bench
+2023,10,50,2023-05-18,Cody Bellinger,Bench
+2023,10,50,2023-05-18,Jonah Heim,Bench
+2023,10,50,2023-05-18,Pablo Lopez,Bench
+2023,10,50,2023-05-18,Vince Velasquez,Bench
+2023,10,50,2023-05-18,Oneil Cruz,IL
+2023,10,50,2023-05-18,Max Fried,IL
+2023,10,50,2023-05-18,Kyle Wright,IL
+2023,10,50,2023-05-18,Alek Manoah,SP
+2023,10,50,2023-05-18,Cristian Javier,SP
+2023,10,50,2023-05-18,Graham Ashcraft,SP
+2023,10,50,2023-05-18,Hunter Brown,SP
+2023,10,50,2023-05-18,Yusei Kikuchi,SP
+2023,10,50,2023-05-18,Jordan Romano,RP
+2023,10,50,2023-05-18,Ryan Helsley,RP
+2023,10,50,2023-05-18,Jorge Lopez,RP
+2023,10,51,2023-05-19,Adley Rutschman,C
+2023,10,51,2023-05-19,Anthony Rizzo,1B
+2023,10,51,2023-05-19,Luis Garcia,2B
+2023,10,51,2023-05-19,Ezequiel Duran,3B
+2023,10,51,2023-05-19,Bobby Witt Jr.,SS
+2023,10,51,2023-05-19,Christian Yelich,OF
+2023,10,51,2023-05-19,Steven Kwan,OF
+2023,10,51,2023-05-19,Harrison Bader,OF
+2023,10,51,2023-05-19,Vladimir Guerrero Jr.,UTIL
+2023,10,51,2023-05-19,Ryan Mountcastle,UTIL
+2023,10,51,2023-05-19,Jose Altuve,Bench
+2023,10,51,2023-05-19,Cody Bellinger,Bench
+2023,10,51,2023-05-19,Jonah Heim,Bench
+2023,10,51,2023-05-19,Pablo Lopez,Bench
+2023,10,51,2023-05-19,Vince Velasquez,Bench
+2023,10,51,2023-05-19,Oneil Cruz,IL
+2023,10,51,2023-05-19,Max Fried,IL
+2023,10,51,2023-05-19,Kyle Wright,IL
+2023,10,51,2023-05-19,Alek Manoah,SP
+2023,10,51,2023-05-19,Cristian Javier,SP
+2023,10,51,2023-05-19,Graham Ashcraft,SP
+2023,10,51,2023-05-19,Hunter Brown,SP
+2023,10,51,2023-05-19,Yusei Kikuchi,SP
+2023,10,51,2023-05-19,Jordan Romano,RP
+2023,10,51,2023-05-19,Ryan Helsley,RP
+2023,10,51,2023-05-19,Jorge Lopez,RP
+2023,10,52,2023-05-20,Adley Rutschman,C
+2023,10,52,2023-05-20,Anthony Rizzo,1B
+2023,10,52,2023-05-20,Jose Altuve,2B
+2023,10,52,2023-05-20,Ezequiel Duran,3B
+2023,10,52,2023-05-20,Bobby Witt Jr.,SS
+2023,10,52,2023-05-20,Christian Yelich,OF
+2023,10,52,2023-05-20,Steven Kwan,OF
+2023,10,52,2023-05-20,Postponed,OF
+2023,10,52,2023-05-20,Harrison Bader,OF
+2023,10,52,2023-05-20,Postponed,OF
+2023,10,52,2023-05-20,Vladimir Guerrero Jr.,UTIL
+2023,10,52,2023-05-20,Ryan Mountcastle,UTIL
+2023,10,52,2023-05-20,Cody Bellinger,Bench
+2023,10,52,2023-05-20,Jonah Heim,Bench
+2023,10,52,2023-05-20,Luis Garcia,Bench
+2023,10,52,2023-05-20,Alek Manoah,Bench
+2023,10,52,2023-05-20,Pablo Lopez,Bench
+2023,10,52,2023-05-20,Vince Velasquez,Bench
+2023,10,52,2023-05-20,Oneil Cruz,IL
+2023,10,52,2023-05-20,Max Fried,IL
+2023,10,52,2023-05-20,Kyle Wright,IL
+2023,10,52,2023-05-20,Cristian Javier,SP
+2023,10,52,2023-05-20,Graham Ashcraft,SP
+2023,10,52,2023-05-20,Hunter Brown,SP
+2023,10,52,2023-05-20,Yusei Kikuchi,SP
+2023,10,52,2023-05-20,Jordan Romano,RP
+2023,10,52,2023-05-20,Ryan Helsley,RP
+2023,10,52,2023-05-20,Jorge Lopez,RP
+2023,10,52,2023-05-20,Postponed,RP
+2023,10,53,2023-05-21,Adley Rutschman,C
+2023,10,53,2023-05-21,Anthony Rizzo,1B
+2023,10,53,2023-05-21,Jose Altuve,2B
+2023,10,53,2023-05-21,Ezequiel Duran,3B
+2023,10,53,2023-05-21,Bobby Witt Jr.,SS
+2023,10,53,2023-05-21,Christian Yelich,OF
+2023,10,53,2023-05-21,Steven Kwan,OF
+2023,10,53,2023-05-21,Harrison Bader,OF
+2023,10,53,2023-05-21,Vladimir Guerrero Jr.,UTIL
+2023,10,53,2023-05-21,Ryan Mountcastle,UTIL
+2023,10,53,2023-05-21,Cody Bellinger,Bench
+2023,10,53,2023-05-21,Jonah Heim,Bench
+2023,10,53,2023-05-21,Luis Garcia,Bench
+2023,10,53,2023-05-21,Graham Ashcraft,Bench
+2023,10,53,2023-05-21,Vince Velasquez,Bench
+2023,10,53,2023-05-21,Oneil Cruz,IL
+2023,10,53,2023-05-21,Max Fried,IL
+2023,10,53,2023-05-21,Kyle Wright,IL
+2023,10,53,2023-05-21,Alek Manoah,SP
+2023,10,53,2023-05-21,Cristian Javier,SP
+2023,10,53,2023-05-21,Pablo Lopez,SP
+2023,10,53,2023-05-21,Hunter Brown,SP
+2023,10,53,2023-05-21,Yusei Kikuchi,SP
+2023,10,53,2023-05-21,Jordan Romano,RP
+2023,10,53,2023-05-21,Ryan Helsley,RP
+2023,10,53,2023-05-21,Jorge Lopez,RP
+2023,10,54,2023-05-22,Jonah Heim,C
+2023,10,54,2023-05-22,Anthony Rizzo,1B
+2023,10,54,2023-05-22,Jose Altuve,2B
+2023,10,54,2023-05-22,Ezequiel Duran,3B
+2023,10,54,2023-05-22,Bobby Witt Jr.,SS
+2023,10,54,2023-05-22,Christian Yelich,OF
+2023,10,54,2023-05-22,Steven Kwan,OF
+2023,10,54,2023-05-22,Harrison Bader,OF
+2023,10,54,2023-05-22,Vladimir Guerrero Jr.,UTIL
+2023,10,54,2023-05-22,Ryan Mountcastle,UTIL
+2023,10,54,2023-05-22,Adley Rutschman,Bench
+2023,10,54,2023-05-22,Cody Bellinger,Bench
+2023,10,54,2023-05-22,Luis Garcia,Bench
+2023,10,54,2023-05-22,Graham Ashcraft,Bench
+2023,10,54,2023-05-22,Vince Velasquez,Bench
+2023,10,54,2023-05-22,Oneil Cruz,IL
+2023,10,54,2023-05-22,Max Fried,IL
+2023,10,54,2023-05-22,Kyle Wright,IL
+2023,10,54,2023-05-22,Alek Manoah,SP
+2023,10,54,2023-05-22,Cristian Javier,SP
+2023,10,54,2023-05-22,Pablo Lopez,SP
+2023,10,54,2023-05-22,Hunter Brown,SP
+2023,10,54,2023-05-22,Yusei Kikuchi,SP
+2023,10,54,2023-05-22,Jordan Romano,RP
+2023,10,54,2023-05-22,Ryan Helsley,RP
+2023,10,54,2023-05-22,Jorge Lopez,RP
+2023,10,55,2023-05-23,Adley Rutschman,C
+2023,10,55,2023-05-23,Anthony Rizzo,1B
+2023,10,55,2023-05-23,Jose Altuve,2B
+2023,10,55,2023-05-23,Ezequiel Duran,3B
+2023,10,55,2023-05-23,Bobby Witt Jr.,SS
+2023,10,55,2023-05-23,Christian Yelich,OF
+2023,10,55,2023-05-23,Steven Kwan,OF
+2023,10,55,2023-05-23,Harrison Bader,OF
+2023,10,55,2023-05-23,Vladimir Guerrero Jr.,UTIL
+2023,10,55,2023-05-23,Ryan Mountcastle,UTIL
+2023,10,55,2023-05-23,Cody Bellinger,Bench
+2023,10,55,2023-05-23,Jonah Heim,Bench
+2023,10,55,2023-05-23,Luis Garcia,Bench
+2023,10,55,2023-05-23,Graham Ashcraft,Bench
+2023,10,55,2023-05-23,Vince Velasquez,Bench
+2023,10,55,2023-05-23,Oneil Cruz,IL
+2023,10,55,2023-05-23,Max Fried,IL
+2023,10,55,2023-05-23,Kyle Wright,IL
+2023,10,55,2023-05-23,Alek Manoah,SP
+2023,10,55,2023-05-23,Cristian Javier,SP
+2023,10,55,2023-05-23,Pablo Lopez,SP
+2023,10,55,2023-05-23,Hunter Brown,SP
+2023,10,55,2023-05-23,Yusei Kikuchi,SP
+2023,10,55,2023-05-23,Jordan Romano,RP
+2023,10,55,2023-05-23,Ryan Helsley,RP
+2023,10,55,2023-05-23,Jorge Lopez,RP
+2023,10,56,2023-05-24,Adley Rutschman,C
+2023,10,56,2023-05-24,Anthony Rizzo,1B
+2023,10,56,2023-05-24,Jose Altuve,2B
+2023,10,56,2023-05-24,Bobby Witt Jr.,3B
+2023,10,56,2023-05-24,Luis Garcia,SS
+2023,10,56,2023-05-24,Christian Yelich,OF
+2023,10,56,2023-05-24,Steven Kwan,OF
+2023,10,56,2023-05-24,Harrison Bader,OF
+2023,10,56,2023-05-24,Vladimir Guerrero Jr.,UTIL
+2023,10,56,2023-05-24,Ryan Mountcastle,UTIL
+2023,10,56,2023-05-24,Cody Bellinger,Bench
+2023,10,56,2023-05-24,Jonah Heim,Bench
+2023,10,56,2023-05-24,Ezequiel Duran,Bench
+2023,10,56,2023-05-24,Graham Ashcraft,Bench
+2023,10,56,2023-05-24,Vince Velasquez,Bench
+2023,10,56,2023-05-24,Oneil Cruz,IL
+2023,10,56,2023-05-24,Max Fried,IL
+2023,10,56,2023-05-24,Kyle Wright,IL
+2023,10,56,2023-05-24,Alek Manoah,SP
+2023,10,56,2023-05-24,Cristian Javier,SP
+2023,10,56,2023-05-24,Pablo Lopez,SP
+2023,10,56,2023-05-24,Hunter Brown,SP
+2023,10,56,2023-05-24,Yusei Kikuchi,SP
+2023,10,56,2023-05-24,Jordan Romano,RP
+2023,10,56,2023-05-24,Ryan Helsley,RP
+2023,10,56,2023-05-24,Jorge Lopez,RP
+2023,10,57,2023-05-25,Adley Rutschman,C
+2023,10,57,2023-05-25,Anthony Rizzo,1B
+2023,10,57,2023-05-25,Jose Altuve,2B
+2023,10,57,2023-05-25,Bobby Witt Jr.,3B
+2023,10,57,2023-05-25,Luis Garcia,SS
+2023,10,57,2023-05-25,Christian Yelich,OF
+2023,10,57,2023-05-25,Steven Kwan,OF
+2023,10,57,2023-05-25,Harrison Bader,OF
+2023,10,57,2023-05-25,Vladimir Guerrero Jr.,UTIL
+2023,10,57,2023-05-25,Ryan Mountcastle,UTIL
+2023,10,57,2023-05-25,Cody Bellinger,Bench
+2023,10,57,2023-05-25,Jonah Heim,Bench
+2023,10,57,2023-05-25,Ezequiel Duran,Bench
+2023,10,57,2023-05-25,Graham Ashcraft,Bench
+2023,10,57,2023-05-25,Vince Velasquez,Bench
+2023,10,57,2023-05-25,Oneil Cruz,IL
+2023,10,57,2023-05-25,Max Fried,IL
+2023,10,57,2023-05-25,Kyle Wright,IL
+2023,10,57,2023-05-25,Alek Manoah,SP
+2023,10,57,2023-05-25,Cristian Javier,SP
+2023,10,57,2023-05-25,Pablo Lopez,SP
+2023,10,57,2023-05-25,Hunter Brown,SP
+2023,10,57,2023-05-25,Brayan Bello,SP
+2023,10,57,2023-05-25,Jordan Romano,RP
+2023,10,57,2023-05-25,Ryan Helsley,RP
+2023,10,57,2023-05-25,Jorge Lopez,RP
+2023,10,58,2023-05-26,Adley Rutschman,C
+2023,10,58,2023-05-26,Anthony Rizzo,1B
+2023,10,58,2023-05-26,Jose Altuve,2B
+2023,10,58,2023-05-26,Bobby Witt Jr.,3B
+2023,10,58,2023-05-26,Luis Garcia,SS
+2023,10,58,2023-05-26,Christian Yelich,OF
+2023,10,58,2023-05-26,Steven Kwan,OF
+2023,10,58,2023-05-26,Harrison Bader,OF
+2023,10,58,2023-05-26,Vladimir Guerrero Jr.,UTIL
+2023,10,58,2023-05-26,Ryan Mountcastle,UTIL
+2023,10,58,2023-05-26,Cody Bellinger,Bench
+2023,10,58,2023-05-26,Jonah Heim,Bench
+2023,10,58,2023-05-26,Adam Frazier,Bench
+2023,10,58,2023-05-26,Graham Ashcraft,Bench
+2023,10,58,2023-05-26,Vince Velasquez,Bench
+2023,10,58,2023-05-26,Oneil Cruz,IL
+2023,10,58,2023-05-26,Max Fried,IL
+2023,10,58,2023-05-26,Kyle Wright,IL
+2023,10,58,2023-05-26,Alek Manoah,SP
+2023,10,58,2023-05-26,Cristian Javier,SP
+2023,10,58,2023-05-26,Pablo Lopez,SP
+2023,10,58,2023-05-26,Hunter Brown,SP
+2023,10,58,2023-05-26,Brayan Bello,SP
+2023,10,58,2023-05-26,Jordan Romano,RP
+2023,10,58,2023-05-26,Ryan Helsley,RP
+2023,10,58,2023-05-26,Jorge Lopez,RP
+2023,10,59,2023-05-27,Adley Rutschman,C
+2023,10,59,2023-05-27,Anthony Rizzo,1B
+2023,10,59,2023-05-27,Jose Altuve,2B
+2023,10,59,2023-05-27,Bobby Witt Jr.,3B
+2023,10,59,2023-05-27,Luis Garcia,SS
+2023,10,59,2023-05-27,Christian Yelich,OF
+2023,10,59,2023-05-27,Steven Kwan,OF
+2023,10,59,2023-05-27,Harrison Bader,OF
+2023,10,59,2023-05-27,Vladimir Guerrero Jr.,UTIL
+2023,10,59,2023-05-27,Ryan Mountcastle,UTIL
+2023,10,59,2023-05-27,Cody Bellinger,Bench
+2023,10,59,2023-05-27,Jonah Heim,Bench
+2023,10,59,2023-05-27,Adam Frazier,Bench
+2023,10,59,2023-05-27,Graham Ashcraft,Bench
+2023,10,59,2023-05-27,Hunter Brown,Bench
+2023,10,59,2023-05-27,Oneil Cruz,IL
+2023,10,59,2023-05-27,Max Fried,IL
+2023,10,59,2023-05-27,Kyle Wright,IL
+2023,10,59,2023-05-27,Alek Manoah,SP
+2023,10,59,2023-05-27,Cristian Javier,SP
+2023,10,59,2023-05-27,Pablo Lopez,SP
+2023,10,59,2023-05-27,Vince Velasquez,SP
+2023,10,59,2023-05-27,Brayan Bello,SP
+2023,10,59,2023-05-27,Jordan Romano,RP
+2023,10,59,2023-05-27,Ryan Helsley,RP
+2023,10,59,2023-05-27,Jorge Lopez,RP
+2023,10,60,2023-05-28,Adley Rutschman,C
+2023,10,60,2023-05-28,Anthony Rizzo,1B
+2023,10,60,2023-05-28,Jose Altuve,2B
+2023,10,60,2023-05-28,Bobby Witt Jr.,3B
+2023,10,60,2023-05-28,Luis Garcia,SS
+2023,10,60,2023-05-28,Christian Yelich,OF
+2023,10,60,2023-05-28,Steven Kwan,OF
+2023,10,60,2023-05-28,Harrison Bader,OF
+2023,10,60,2023-05-28,Vladimir Guerrero Jr.,UTIL
+2023,10,60,2023-05-28,Ryan Mountcastle,UTIL
+2023,10,60,2023-05-28,Cody Bellinger,Bench
+2023,10,60,2023-05-28,Jonah Heim,Bench
+2023,10,60,2023-05-28,Adam Frazier,Bench
+2023,10,60,2023-05-28,Graham Ashcraft,Bench
+2023,10,60,2023-05-28,Hunter Brown,Bench
+2023,10,60,2023-05-28,Oneil Cruz,IL
+2023,10,60,2023-05-28,Max Fried,IL
+2023,10,60,2023-05-28,Kyle Wright,IL
+2023,10,60,2023-05-28,Alek Manoah,SP
+2023,10,60,2023-05-28,Cristian Javier,SP
+2023,10,60,2023-05-28,Pablo Lopez,SP
+2023,10,60,2023-05-28,Vince Velasquez,SP
+2023,10,60,2023-05-28,Brayan Bello,SP
+2023,10,60,2023-05-28,Jordan Romano,RP
+2023,10,60,2023-05-28,Ryan Helsley,RP
+2023,10,60,2023-05-28,Jorge Lopez,RP
+2023,10,61,2023-05-29,Adley Rutschman,C
+2023,10,61,2023-05-29,Anthony Rizzo,1B
+2023,10,61,2023-05-29,Jose Altuve,2B
+2023,10,61,2023-05-29,Bobby Witt Jr.,3B
+2023,10,61,2023-05-29,Luis Garcia,SS
+2023,10,61,2023-05-29,Christian Yelich,OF
+2023,10,61,2023-05-29,Steven Kwan,OF
+2023,10,61,2023-05-29,Harrison Bader,OF
+2023,10,61,2023-05-29,Vladimir Guerrero Jr.,UTIL
+2023,10,61,2023-05-29,Ryan Mountcastle,UTIL
+2023,10,61,2023-05-29,Cody Bellinger,Bench
+2023,10,61,2023-05-29,Jonah Heim,Bench
+2023,10,61,2023-05-29,Adam Frazier,Bench
+2023,10,61,2023-05-29,Graham Ashcraft,Bench
+2023,10,61,2023-05-29,Hunter Brown,Bench
+2023,10,61,2023-05-29,Oneil Cruz,IL
+2023,10,61,2023-05-29,Max Fried,IL
+2023,10,61,2023-05-29,Kyle Wright,IL
+2023,10,61,2023-05-29,Alek Manoah,SP
+2023,10,61,2023-05-29,Cristian Javier,SP
+2023,10,61,2023-05-29,Pablo Lopez,SP
+2023,10,61,2023-05-29,Brayan Bello,SP
+2023,10,61,2023-05-29,Daniel Lynch IV,SP
+2023,10,61,2023-05-29,Jordan Romano,RP
+2023,10,61,2023-05-29,Ryan Helsley,RP
+2023,10,61,2023-05-29,Jorge Lopez,RP
+2023,10,62,2023-05-30,Adley Rutschman,C
+2023,10,62,2023-05-30,Vladimir Guerrero Jr.,1B
+2023,10,62,2023-05-30,Jose Altuve,2B
+2023,10,62,2023-05-30,Bobby Witt Jr.,3B
+2023,10,62,2023-05-30,Luis Garcia,SS
+2023,10,62,2023-05-30,Christian Yelich,OF
+2023,10,62,2023-05-30,Steven Kwan,OF
+2023,10,62,2023-05-30,Adam Frazier,OF
+2023,10,62,2023-05-30,Ryan Mountcastle,UTIL
+2023,10,62,2023-05-30,Jonah Heim,UTIL
+2023,10,62,2023-05-30,Anthony Rizzo,Bench
+2023,10,62,2023-05-30,Cody Bellinger,Bench
+2023,10,62,2023-05-30,Harrison Bader,Bench
+2023,10,62,2023-05-30,Graham Ashcraft,Bench
+2023,10,62,2023-05-30,Hunter Brown,Bench
+2023,10,62,2023-05-30,Oneil Cruz,IL
+2023,10,62,2023-05-30,Max Fried,IL
+2023,10,62,2023-05-30,Kyle Wright,IL
+2023,10,62,2023-05-30,Alek Manoah,SP
+2023,10,62,2023-05-30,Cristian Javier,SP
+2023,10,62,2023-05-30,Pablo Lopez,SP
+2023,10,62,2023-05-30,Brayan Bello,SP
+2023,10,62,2023-05-30,Daniel Lynch IV,SP
+2023,10,62,2023-05-30,Jordan Romano,RP
+2023,10,62,2023-05-30,Ryan Helsley,RP
+2023,10,62,2023-05-30,Jorge Lopez,RP
+2023,10,63,2023-05-31,Adley Rutschman,C
+2023,10,63,2023-05-31,Vladimir Guerrero Jr.,1B
+2023,10,63,2023-05-31,Jose Altuve,2B
+2023,10,63,2023-05-31,Bobby Witt Jr.,3B
+2023,10,63,2023-05-31,Luis Garcia,SS
+2023,10,63,2023-05-31,Christian Yelich,OF
+2023,10,63,2023-05-31,Steven Kwan,OF
+2023,10,63,2023-05-31,Adam Frazier,OF
+2023,10,63,2023-05-31,Ryan Mountcastle,UTIL
+2023,10,63,2023-05-31,Jonah Heim,UTIL
+2023,10,63,2023-05-31,Anthony Rizzo,Bench
+2023,10,63,2023-05-31,Cody Bellinger,Bench
+2023,10,63,2023-05-31,Harrison Bader,Bench
+2023,10,63,2023-05-31,Alek Manoah,Bench
+2023,10,63,2023-05-31,Graham Ashcraft,Bench
+2023,10,63,2023-05-31,Oneil Cruz,IL
+2023,10,63,2023-05-31,Max Fried,IL
+2023,10,63,2023-05-31,Kyle Wright,IL
+2023,10,63,2023-05-31,Cristian Javier,SP
+2023,10,63,2023-05-31,Pablo Lopez,SP
+2023,10,63,2023-05-31,Hunter Brown,SP
+2023,10,63,2023-05-31,Brayan Bello,SP
+2023,10,63,2023-05-31,Daniel Lynch IV,SP
+2023,10,63,2023-05-31,Jordan Romano,RP
+2023,10,63,2023-05-31,Ryan Helsley,RP
+2023,10,63,2023-05-31,Jorge Lopez,RP
+2023,10,64,2023-06-01,Adley Rutschman,C
+2023,10,64,2023-06-01,Vladimir Guerrero Jr.,1B
+2023,10,64,2023-06-01,Jose Altuve,2B
+2023,10,64,2023-06-01,Bobby Witt Jr.,3B
+2023,10,64,2023-06-01,Luis Garcia,SS
+2023,10,64,2023-06-01,Christian Yelich,OF
+2023,10,64,2023-06-01,Steven Kwan,OF
+2023,10,64,2023-06-01,Adam Frazier,OF
+2023,10,64,2023-06-01,Ryan Mountcastle,UTIL
+2023,10,64,2023-06-01,Jonah Heim,UTIL
+2023,10,64,2023-06-01,Anthony Rizzo,Bench
+2023,10,64,2023-06-01,Cody Bellinger,Bench
+2023,10,64,2023-06-01,Harrison Bader,Bench
+2023,10,64,2023-06-01,Alek Manoah,Bench
+2023,10,64,2023-06-01,Graham Ashcraft,Bench
+2023,10,64,2023-06-01,Oneil Cruz,IL
+2023,10,64,2023-06-01,Max Fried,IL
+2023,10,64,2023-06-01,Kyle Wright,IL
+2023,10,64,2023-06-01,Cristian Javier,SP
+2023,10,64,2023-06-01,Pablo Lopez,SP
+2023,10,64,2023-06-01,Hunter Brown,SP
+2023,10,64,2023-06-01,Brayan Bello,SP
+2023,10,64,2023-06-01,Daniel Lynch IV,SP
+2023,10,64,2023-06-01,Jordan Romano,RP
+2023,10,64,2023-06-01,Ryan Helsley,RP
+2023,10,64,2023-06-01,Jorge Lopez,RP
+2023,10,65,2023-06-02,Adley Rutschman,C
+2023,10,65,2023-06-02,Vladimir Guerrero Jr.,1B
+2023,10,65,2023-06-02,Jose Altuve,2B
+2023,10,65,2023-06-02,Bobby Witt Jr.,3B
+2023,10,65,2023-06-02,Luis Garcia,SS
+2023,10,65,2023-06-02,Christian Yelich,OF
+2023,10,65,2023-06-02,Steven Kwan,OF
+2023,10,65,2023-06-02,Adam Frazier,OF
+2023,10,65,2023-06-02,Ryan Mountcastle,UTIL
+2023,10,65,2023-06-02,Jonah Heim,UTIL
+2023,10,65,2023-06-02,Anthony Rizzo,Bench
+2023,10,65,2023-06-02,Cody Bellinger,Bench
+2023,10,65,2023-06-02,Harrison Bader,Bench
+2023,10,65,2023-06-02,Alek Manoah,Bench
+2023,10,65,2023-06-02,Graham Ashcraft,Bench
+2023,10,65,2023-06-02,Oneil Cruz,IL
+2023,10,65,2023-06-02,Max Fried,IL
+2023,10,65,2023-06-02,Kyle Wright,IL
+2023,10,65,2023-06-02,Cristian Javier,SP
+2023,10,65,2023-06-02,Pablo Lopez,SP
+2023,10,65,2023-06-02,Hunter Brown,SP
+2023,10,65,2023-06-02,Brayan Bello,SP
+2023,10,65,2023-06-02,Postponed,SP
+2023,10,65,2023-06-02,Daniel Lynch IV,SP
+2023,10,65,2023-06-02,Jordan Romano,RP
+2023,10,65,2023-06-02,Ryan Helsley,RP
+2023,10,65,2023-06-02,Jorge Lopez,RP
+2023,10,66,2023-06-03,Adley Rutschman,C
+2023,10,66,2023-06-03,Vladimir Guerrero Jr.,1B
+2023,10,66,2023-06-03,Jose Altuve,2B
+2023,10,66,2023-06-03,Bobby Witt Jr.,3B
+2023,10,66,2023-06-03,Luis Garcia,SS
+2023,10,66,2023-06-03,Christian Yelich,OF
+2023,10,66,2023-06-03,Steven Kwan,OF
+2023,10,66,2023-06-03,Adam Frazier,OF
+2023,10,66,2023-06-03,Ryan Mountcastle,UTIL
+2023,10,66,2023-06-03,Jonah Heim,UTIL
+2023,10,66,2023-06-03,Anthony Rizzo,Bench
+2023,10,66,2023-06-03,Cody Bellinger,Bench
+2023,10,66,2023-06-03,Harrison Bader,Bench
+2023,10,66,2023-06-03,Alek Manoah,Bench
+2023,10,66,2023-06-03,Hunter Brown,Bench
+2023,10,66,2023-06-03,Oneil Cruz,IL
+2023,10,66,2023-06-03,Max Fried,IL
+2023,10,66,2023-06-03,Kyle Wright,IL
+2023,10,66,2023-06-03,Cristian Javier,SP
+2023,10,66,2023-06-03,Pablo Lopez,SP
+2023,10,66,2023-06-03,Graham Ashcraft,SP
+2023,10,66,2023-06-03,Brayan Bello,SP
+2023,10,66,2023-06-03,Daniel Lynch IV,SP
+2023,10,66,2023-06-03,Jordan Romano,RP
+2023,10,66,2023-06-03,Ryan Helsley,RP
+2023,10,66,2023-06-03,Jorge Lopez,RP
+2023,10,67,2023-06-04,Adley Rutschman,C
+2023,10,67,2023-06-04,Vladimir Guerrero Jr.,1B
+2023,10,67,2023-06-04,Jose Altuve,2B
+2023,10,67,2023-06-04,Bobby Witt Jr.,3B
+2023,10,67,2023-06-04,Luis Garcia,SS
+2023,10,67,2023-06-04,Christian Yelich,OF
+2023,10,67,2023-06-04,Steven Kwan,OF
+2023,10,67,2023-06-04,Adam Frazier,OF
+2023,10,67,2023-06-04,Ryan Mountcastle,UTIL
+2023,10,67,2023-06-04,Jonah Heim,UTIL
+2023,10,67,2023-06-04,Anthony Rizzo,Bench
+2023,10,67,2023-06-04,Cody Bellinger,Bench
+2023,10,67,2023-06-04,Harrison Bader,Bench
+2023,10,67,2023-06-04,Alek Manoah,Bench
+2023,10,67,2023-06-04,Hunter Brown,Bench
+2023,10,67,2023-06-04,Oneil Cruz,IL
+2023,10,67,2023-06-04,Max Fried,IL
+2023,10,67,2023-06-04,Kyle Wright,IL
+2023,10,67,2023-06-04,Cristian Javier,SP
+2023,10,67,2023-06-04,Pablo Lopez,SP
+2023,10,67,2023-06-04,Graham Ashcraft,SP
+2023,10,67,2023-06-04,Brayan Bello,SP
+2023,10,67,2023-06-04,Daniel Lynch IV,SP
+2023,10,67,2023-06-04,Jordan Romano,RP
+2023,10,67,2023-06-04,Ryan Helsley,RP
+2023,10,67,2023-06-04,Jorge Lopez,RP
+2023,10,68,2023-06-05,Adley Rutschman,C
+2023,10,68,2023-06-05,Vladimir Guerrero Jr.,1B
+2023,10,68,2023-06-05,Jose Altuve,2B
+2023,10,68,2023-06-05,Bobby Witt Jr.,3B
+2023,10,68,2023-06-05,Luis Garcia,SS
+2023,10,68,2023-06-05,Christian Yelich,OF
+2023,10,68,2023-06-05,Steven Kwan,OF
+2023,10,68,2023-06-05,Adam Frazier,OF
+2023,10,68,2023-06-05,Ryan Mountcastle,UTIL
+2023,10,68,2023-06-05,Jonah Heim,UTIL
+2023,10,68,2023-06-05,Anthony Rizzo,Bench
+2023,10,68,2023-06-05,Cody Bellinger,Bench
+2023,10,68,2023-06-05,Harrison Bader,Bench
+2023,10,68,2023-06-05,Alek Manoah,Bench
+2023,10,68,2023-06-05,Hunter Brown,Bench
+2023,10,68,2023-06-05,Oneil Cruz,IL
+2023,10,68,2023-06-05,Max Fried,IL
+2023,10,68,2023-06-05,Kyle Wright,IL
+2023,10,68,2023-06-05,Cristian Javier,SP
+2023,10,68,2023-06-05,Pablo Lopez,SP
+2023,10,68,2023-06-05,Brayan Bello,SP
+2023,10,68,2023-06-05,Daniel Lynch IV,SP
+2023,10,68,2023-06-05,Edward Cabrera,SP
+2023,10,68,2023-06-05,Jordan Romano,RP
+2023,10,68,2023-06-05,Ryan Helsley,RP
+2023,10,68,2023-06-05,Jorge Lopez,RP
+2023,10,69,2023-06-06,Adley Rutschman,C
+2023,10,69,2023-06-06,Vladimir Guerrero Jr.,1B
+2023,10,69,2023-06-06,Jose Altuve,2B
+2023,10,69,2023-06-06,Bobby Witt Jr.,3B
+2023,10,69,2023-06-06,Luis Garcia,SS
+2023,10,69,2023-06-06,Christian Yelich,OF
+2023,10,69,2023-06-06,Steven Kwan,OF
+2023,10,69,2023-06-06,Adam Frazier,OF
+2023,10,69,2023-06-06,Anthony Rizzo,UTIL
+2023,10,69,2023-06-06,Jonah Heim,UTIL
+2023,10,69,2023-06-06,Ryan Mountcastle,Bench
+2023,10,69,2023-06-06,Cody Bellinger,Bench
+2023,10,69,2023-06-06,Harrison Bader,Bench
+2023,10,69,2023-06-06,Alek Manoah,Bench
+2023,10,69,2023-06-06,Brayan Bello,Bench
+2023,10,69,2023-06-06,Oneil Cruz,IL
+2023,10,69,2023-06-06,Max Fried,IL
+2023,10,69,2023-06-06,Kyle Wright,IL
+2023,10,69,2023-06-06,Cristian Javier,SP
+2023,10,69,2023-06-06,Pablo Lopez,SP
+2023,10,69,2023-06-06,Hunter Brown,SP
+2023,10,69,2023-06-06,Daniel Lynch IV,SP
+2023,10,69,2023-06-06,Edward Cabrera,SP
+2023,10,69,2023-06-06,Jordan Romano,RP
+2023,10,69,2023-06-06,Ryan Helsley,RP
+2023,10,69,2023-06-06,Jake Bird,RP
+2023,10,70,2023-06-07,Adley Rutschman,C
+2023,10,70,2023-06-07,Vladimir Guerrero Jr.,1B
+2023,10,70,2023-06-07,Postponed,1B
+2023,10,70,2023-06-07,Jose Altuve,2B
+2023,10,70,2023-06-07,Bobby Witt Jr.,3B
+2023,10,70,2023-06-07,Luis Garcia,SS
+2023,10,70,2023-06-07,Christian Yelich,OF
+2023,10,70,2023-06-07,Steven Kwan,OF
+2023,10,70,2023-06-07,Adam Frazier,OF
+2023,10,70,2023-06-07,Anthony Rizzo,UTIL
+2023,10,70,2023-06-07,Jonah Heim,UTIL
+2023,10,70,2023-06-07,Ryan Mountcastle,Bench
+2023,10,70,2023-06-07,Cody Bellinger,Bench
+2023,10,70,2023-06-07,Harrison Bader,Bench
+2023,10,70,2023-06-07,Alek Manoah,Bench
+2023,10,70,2023-06-07,Brayan Bello,Bench
+2023,10,70,2023-06-07,Oneil Cruz,IL
+2023,10,70,2023-06-07,Max Fried,IL
+2023,10,70,2023-06-07,Kyle Wright,IL
+2023,10,70,2023-06-07,Cristian Javier,SP
+2023,10,70,2023-06-07,Pablo Lopez,SP
+2023,10,70,2023-06-07,Hunter Brown,SP
+2023,10,70,2023-06-07,Daniel Lynch IV,SP
+2023,10,70,2023-06-07,Edward Cabrera,SP
+2023,10,70,2023-06-07,Jordan Romano,RP
+2023,10,70,2023-06-07,Ryan Helsley,RP
+2023,10,70,2023-06-07,Jake Bird,RP
+2023,10,71,2023-06-08,Adley Rutschman,C
+2023,10,71,2023-06-08,Vladimir Guerrero Jr.,1B
+2023,10,71,2023-06-08,Jose Altuve,2B
+2023,10,71,2023-06-08,Bobby Witt Jr.,3B
+2023,10,71,2023-06-08,Luis Garcia,SS
+2023,10,71,2023-06-08,Christian Yelich,OF
+2023,10,71,2023-06-08,Steven Kwan,OF
+2023,10,71,2023-06-08,Adam Frazier,OF
+2023,10,71,2023-06-08,Anthony Rizzo,UTIL
+2023,10,71,2023-06-08,Ryan Mountcastle,UTIL
+2023,10,71,2023-06-08,Cody Bellinger,Bench
+2023,10,71,2023-06-08,Harrison Bader,Bench
+2023,10,71,2023-06-08,Jonah Heim,Bench
+2023,10,71,2023-06-08,Alek Manoah,Bench
+2023,10,71,2023-06-08,Brayan Bello,Bench
+2023,10,71,2023-06-08,Oneil Cruz,IL
+2023,10,71,2023-06-08,Max Fried,IL
+2023,10,71,2023-06-08,Kyle Wright,IL
+2023,10,71,2023-06-08,Cristian Javier,SP
+2023,10,71,2023-06-08,Pablo Lopez,SP
+2023,10,71,2023-06-08,Hunter Brown,SP
+2023,10,71,2023-06-08,Daniel Lynch IV,SP
+2023,10,71,2023-06-08,Edward Cabrera,SP
+2023,10,71,2023-06-08,Jordan Romano,RP
+2023,10,71,2023-06-08,Ryan Helsley,RP
+2023,10,71,2023-06-08,Jake Bird,RP
+2023,10,72,2023-06-09,Adley Rutschman,C
+2023,10,72,2023-06-09,Vladimir Guerrero Jr.,1B
+2023,10,72,2023-06-09,Jose Altuve,2B
+2023,10,72,2023-06-09,Bobby Witt Jr.,3B
+2023,10,72,2023-06-09,Luis Garcia,SS
+2023,10,72,2023-06-09,Christian Yelich,OF
+2023,10,72,2023-06-09,Steven Kwan,OF
+2023,10,72,2023-06-09,Adam Frazier,OF
+2023,10,72,2023-06-09,Anthony Rizzo,UTIL
+2023,10,72,2023-06-09,Ryan Mountcastle,UTIL
+2023,10,72,2023-06-09,Cody Bellinger,Bench
+2023,10,72,2023-06-09,Harrison Bader,Bench
+2023,10,72,2023-06-09,Jonah Heim,Bench
+2023,10,72,2023-06-09,Alek Manoah,Bench
+2023,10,72,2023-06-09,Brayan Bello,Bench
+2023,10,72,2023-06-09,Oneil Cruz,IL
+2023,10,72,2023-06-09,Max Fried,IL
+2023,10,72,2023-06-09,Kyle Wright,IL
+2023,10,72,2023-06-09,Cristian Javier,SP
+2023,10,72,2023-06-09,Pablo Lopez,SP
+2023,10,72,2023-06-09,Hunter Brown,SP
+2023,10,72,2023-06-09,Daniel Lynch IV,SP
+2023,10,72,2023-06-09,Edward Cabrera,SP
+2023,10,72,2023-06-09,Jordan Romano,RP
+2023,10,72,2023-06-09,Ryan Helsley,RP
+2023,10,72,2023-06-09,Jake Bird,RP
+2023,10,73,2023-06-10,Adley Rutschman,C
+2023,10,73,2023-06-10,Vladimir Guerrero Jr.,1B
+2023,10,73,2023-06-10,Jose Altuve,2B
+2023,10,73,2023-06-10,Bobby Witt Jr.,3B
+2023,10,73,2023-06-10,Luis Garcia,SS
+2023,10,73,2023-06-10,Christian Yelich,OF
+2023,10,73,2023-06-10,Steven Kwan,OF
+2023,10,73,2023-06-10,Adam Frazier,OF
+2023,10,73,2023-06-10,Anthony Rizzo,UTIL
+2023,10,73,2023-06-10,Jonah Heim,UTIL
+2023,10,73,2023-06-10,Ryan Mountcastle,Bench
+2023,10,73,2023-06-10,Cody Bellinger,Bench
+2023,10,73,2023-06-10,Harrison Bader,Bench
+2023,10,73,2023-06-10,Alek Manoah,Bench
+2023,10,73,2023-06-10,Pablo Lopez,Bench
+2023,10,73,2023-06-10,Oneil Cruz,IL
+2023,10,73,2023-06-10,Max Fried,IL
+2023,10,73,2023-06-10,Kyle Wright,IL
+2023,10,73,2023-06-10,Cristian Javier,SP
+2023,10,73,2023-06-10,Hunter Brown,SP
+2023,10,73,2023-06-10,Brayan Bello,SP
+2023,10,73,2023-06-10,Daniel Lynch IV,SP
+2023,10,73,2023-06-10,Edward Cabrera,SP
+2023,10,73,2023-06-10,Jordan Romano,RP
+2023,10,73,2023-06-10,Ryan Helsley,RP
+2023,10,73,2023-06-10,Jake Bird,RP
+2023,10,74,2023-06-11,Jonah Heim,C
+2023,10,74,2023-06-11,Vladimir Guerrero Jr.,1B
+2023,10,74,2023-06-11,Jose Altuve,2B
+2023,10,74,2023-06-11,Bobby Witt Jr.,3B
+2023,10,74,2023-06-11,Luis Garcia,SS
+2023,10,74,2023-06-11,Christian Yelich,OF
+2023,10,74,2023-06-11,Steven Kwan,OF
+2023,10,74,2023-06-11,Adam Frazier,OF
+2023,10,74,2023-06-11,Adley Rutschman,UTIL
+2023,10,74,2023-06-11,Anthony Rizzo,UTIL
+2023,10,74,2023-06-11,Ryan Mountcastle,Bench
+2023,10,74,2023-06-11,Cody Bellinger,Bench
+2023,10,74,2023-06-11,Harrison Bader,Bench
+2023,10,74,2023-06-11,Alek Manoah,Bench
+2023,10,74,2023-06-11,Pablo Lopez,Bench
+2023,10,74,2023-06-11,Oneil Cruz,IL
+2023,10,74,2023-06-11,Max Fried,IL
+2023,10,74,2023-06-11,Kyle Wright,IL
+2023,10,74,2023-06-11,Cristian Javier,SP
+2023,10,74,2023-06-11,Hunter Brown,SP
+2023,10,74,2023-06-11,Brayan Bello,SP
+2023,10,74,2023-06-11,Daniel Lynch IV,SP
+2023,10,74,2023-06-11,Edward Cabrera,SP
+2023,10,74,2023-06-11,Jordan Romano,RP
+2023,10,74,2023-06-11,Ryan Helsley,RP
+2023,10,74,2023-06-11,Jake Bird,RP
+2023,10,75,2023-06-12,Jonah Heim,C
+2023,10,75,2023-06-12,Vladimir Guerrero Jr.,1B
+2023,10,75,2023-06-12,Jose Altuve,2B
+2023,10,75,2023-06-12,Bobby Witt Jr.,3B
+2023,10,75,2023-06-12,Luis Garcia,SS
+2023,10,75,2023-06-12,Christian Yelich,OF
+2023,10,75,2023-06-12,Steven Kwan,OF
+2023,10,75,2023-06-12,Adam Frazier,OF
+2023,10,75,2023-06-12,Adley Rutschman,UTIL
+2023,10,75,2023-06-12,Anthony Rizzo,UTIL
+2023,10,75,2023-06-12,Ryan Mountcastle,Bench
+2023,10,75,2023-06-12,Cody Bellinger,Bench
+2023,10,75,2023-06-12,Harrison Bader,Bench
+2023,10,75,2023-06-12,Alek Manoah,Bench
+2023,10,75,2023-06-12,Pablo Lopez,Bench
+2023,10,75,2023-06-12,Oneil Cruz,IL
+2023,10,75,2023-06-12,Max Fried,IL
+2023,10,75,2023-06-12,Kyle Wright,IL
+2023,10,75,2023-06-12,Cristian Javier,SP
+2023,10,75,2023-06-12,Hunter Brown,SP
+2023,10,75,2023-06-12,Brayan Bello,SP
+2023,10,75,2023-06-12,Daniel Lynch IV,SP
+2023,10,75,2023-06-12,Edward Cabrera,SP
+2023,10,75,2023-06-12,Jordan Romano,RP
+2023,10,75,2023-06-12,Ryan Helsley,RP
+2023,10,75,2023-06-12,Jake Bird,RP
+2023,10,76,2023-06-13,Jonah Heim,C
+2023,10,76,2023-06-13,Vladimir Guerrero Jr.,1B
+2023,10,76,2023-06-13,Jose Altuve,2B
+2023,10,76,2023-06-13,Bobby Witt Jr.,3B
+2023,10,76,2023-06-13,Luis Garcia,SS
+2023,10,76,2023-06-13,Christian Yelich,OF
+2023,10,76,2023-06-13,Steven Kwan,OF
+2023,10,76,2023-06-13,Adam Frazier,OF
+2023,10,76,2023-06-13,Adley Rutschman,UTIL
+2023,10,76,2023-06-13,Anthony Rizzo,UTIL
+2023,10,76,2023-06-13,Ryan Mountcastle,Bench
+2023,10,76,2023-06-13,Cody Bellinger,Bench
+2023,10,76,2023-06-13,Harrison Bader,Bench
+2023,10,76,2023-06-13,Alek Manoah,Bench
+2023,10,76,2023-06-13,Brayan Bello,Bench
+2023,10,76,2023-06-13,Oneil Cruz,IL
+2023,10,76,2023-06-13,Max Fried,IL
+2023,10,76,2023-06-13,Kyle Wright,IL
+2023,10,76,2023-06-13,Cristian Javier,SP
+2023,10,76,2023-06-13,Pablo Lopez,SP
+2023,10,76,2023-06-13,Hunter Brown,SP
+2023,10,76,2023-06-13,Daniel Lynch IV,SP
+2023,10,76,2023-06-13,Edward Cabrera,SP
+2023,10,76,2023-06-13,Postponed,SP
+2023,10,76,2023-06-13,Jordan Romano,RP
+2023,10,76,2023-06-13,Ryan Helsley,RP
+2023,10,76,2023-06-13,Jake Bird,RP
+2023,10,77,2023-06-14,Jonah Heim,C
+2023,10,77,2023-06-14,Vladimir Guerrero Jr.,1B
+2023,10,77,2023-06-14,Jose Altuve,2B
+2023,10,77,2023-06-14,Bobby Witt Jr.,3B
+2023,10,77,2023-06-14,Luis Garcia,SS
+2023,10,77,2023-06-14,Christian Yelich,OF
+2023,10,77,2023-06-14,Steven Kwan,OF
+2023,10,77,2023-06-14,Adam Frazier,OF
+2023,10,77,2023-06-14,Adley Rutschman,UTIL
+2023,10,77,2023-06-14,Anthony Rizzo,UTIL
+2023,10,77,2023-06-14,Cody Bellinger,Bench
+2023,10,77,2023-06-14,Harrison Bader,Bench
+2023,10,77,2023-06-14,Brandon Drury,Bench
+2023,10,77,2023-06-14,Alek Manoah,Bench
+2023,10,77,2023-06-14,Brayan Bello,Bench
+2023,10,77,2023-06-14,Oneil Cruz,IL
+2023,10,77,2023-06-14,Max Fried,IL
+2023,10,77,2023-06-14,Kyle Wright,IL
+2023,10,77,2023-06-14,Cristian Javier,SP
+2023,10,77,2023-06-14,Pablo Lopez,SP
+2023,10,77,2023-06-14,Hunter Brown,SP
+2023,10,77,2023-06-14,Daniel Lynch IV,SP
+2023,10,77,2023-06-14,Edward Cabrera,SP
+2023,10,77,2023-06-14,Jordan Romano,RP
+2023,10,77,2023-06-14,Jake Bird,RP
+2023,10,78,2023-06-15,Jonah Heim,C
+2023,10,78,2023-06-15,Vladimir Guerrero Jr.,1B
+2023,10,78,2023-06-15,Jose Altuve,2B
+2023,10,78,2023-06-15,Bobby Witt Jr.,3B
+2023,10,78,2023-06-15,Luis Garcia,SS
+2023,10,78,2023-06-15,Christian Yelich,OF
+2023,10,78,2023-06-15,Steven Kwan,OF
+2023,10,78,2023-06-15,Adam Frazier,OF
+2023,10,78,2023-06-15,Adley Rutschman,UTIL
+2023,10,78,2023-06-15,Brandon Drury,UTIL
+2023,10,78,2023-06-15,Anthony Rizzo,Bench
+2023,10,78,2023-06-15,Cody Bellinger,Bench
+2023,10,78,2023-06-15,Harrison Bader,Bench
+2023,10,78,2023-06-15,Alek Manoah,Bench
+2023,10,78,2023-06-15,Brayan Bello,Bench
+2023,10,78,2023-06-15,Oneil Cruz,IL
+2023,10,78,2023-06-15,Max Fried,IL
+2023,10,78,2023-06-15,Kyle Wright,IL
+2023,10,78,2023-06-15,Cristian Javier,SP
+2023,10,78,2023-06-15,Pablo Lopez,SP
+2023,10,78,2023-06-15,Hunter Brown,SP
+2023,10,78,2023-06-15,Daniel Lynch IV,SP
+2023,10,78,2023-06-15,Edward Cabrera,SP
+2023,10,78,2023-06-15,Jordan Romano,RP
+2023,10,78,2023-06-15,Jake Bird,RP
+2023,10,79,2023-06-16,Jonah Heim,C
+2023,10,79,2023-06-16,Vladimir Guerrero Jr.,1B
+2023,10,79,2023-06-16,Jose Altuve,2B
+2023,10,79,2023-06-16,Bobby Witt Jr.,3B
+2023,10,79,2023-06-16,Luis Garcia,SS
+2023,10,79,2023-06-16,Christian Yelich,OF
+2023,10,79,2023-06-16,Steven Kwan,OF
+2023,10,79,2023-06-16,Adam Frazier,OF
+2023,10,79,2023-06-16,Adley Rutschman,UTIL
+2023,10,79,2023-06-16,Brandon Drury,UTIL
+2023,10,79,2023-06-16,Anthony Rizzo,Bench
+2023,10,79,2023-06-16,Cody Bellinger,Bench
+2023,10,79,2023-06-16,Harrison Bader,Bench
+2023,10,79,2023-06-16,Alek Manoah,Bench
+2023,10,79,2023-06-16,Brayan Bello,Bench
+2023,10,79,2023-06-16,Oneil Cruz,IL
+2023,10,79,2023-06-16,Max Fried,IL
+2023,10,79,2023-06-16,Kyle Wright,IL
+2023,10,79,2023-06-16,Cristian Javier,SP
+2023,10,79,2023-06-16,Pablo Lopez,SP
+2023,10,79,2023-06-16,Hunter Brown,SP
+2023,10,79,2023-06-16,Daniel Lynch IV,SP
+2023,10,79,2023-06-16,Edward Cabrera,SP
+2023,10,79,2023-06-16,Jordan Romano,RP
+2023,10,79,2023-06-16,Jake Bird,RP
+2023,10,80,2023-06-17,Jonah Heim,C
+2023,10,80,2023-06-17,Vladimir Guerrero Jr.,1B
+2023,10,80,2023-06-17,Postponed,1B
+2023,10,80,2023-06-17,Jose Altuve,2B
+2023,10,80,2023-06-17,Bobby Witt Jr.,3B
+2023,10,80,2023-06-17,Luis Garcia,SS
+2023,10,80,2023-06-17,Christian Yelich,OF
+2023,10,80,2023-06-17,Steven Kwan,OF
+2023,10,80,2023-06-17,Adam Frazier,OF
+2023,10,80,2023-06-17,Adley Rutschman,UTIL
+2023,10,80,2023-06-17,Brandon Drury,UTIL
+2023,10,80,2023-06-17,Anthony Rizzo,Bench
+2023,10,80,2023-06-17,Cody Bellinger,Bench
+2023,10,80,2023-06-17,Harrison Bader,Bench
+2023,10,80,2023-06-17,Alek Manoah,Bench
+2023,10,80,2023-06-17,Edward Cabrera,Bench
+2023,10,80,2023-06-17,Oneil Cruz,IL
+2023,10,80,2023-06-17,Max Fried,IL
+2023,10,80,2023-06-17,Kyle Wright,IL
+2023,10,80,2023-06-17,Cristian Javier,SP
+2023,10,80,2023-06-17,Pablo Lopez,SP
+2023,10,80,2023-06-17,Hunter Brown,SP
+2023,10,80,2023-06-17,Brayan Bello,SP
+2023,10,80,2023-06-17,Postponed,SP
+2023,10,80,2023-06-17,Daniel Lynch IV,SP
+2023,10,80,2023-06-17,Jordan Romano,RP
+2023,10,80,2023-06-17,Jake Bird,RP
+2023,10,81,2023-06-18,Jonah Heim,C
+2023,10,81,2023-06-18,Vladimir Guerrero Jr.,1B
+2023,10,81,2023-06-18,Brandon Drury,2B
+2023,10,81,2023-06-18,Bobby Witt Jr.,3B
+2023,10,81,2023-06-18,Luis Garcia,SS
+2023,10,81,2023-06-18,Christian Yelich,OF
+2023,10,81,2023-06-18,Cody Bellinger,OF
+2023,10,81,2023-06-18,Adam Frazier,OF
+2023,10,81,2023-06-18,Adley Rutschman,UTIL
+2023,10,81,2023-06-18,Anthony Rizzo,UTIL
+2023,10,81,2023-06-18,Steven Kwan,Bench
+2023,10,81,2023-06-18,Jose Altuve,Bench
+2023,10,81,2023-06-18,Harrison Bader,Bench
+2023,10,81,2023-06-18,Alek Manoah,Bench
+2023,10,81,2023-06-18,Edward Cabrera,Bench
+2023,10,81,2023-06-18,Jameson Taillon,Bench
+2023,10,81,2023-06-18,Oneil Cruz,IL
+2023,10,81,2023-06-18,Max Fried,IL
+2023,10,81,2023-06-18,Kyle Wright,IL
+2023,10,81,2023-06-18,Cristian Javier,SP
+2023,10,81,2023-06-18,Pablo Lopez,SP
+2023,10,81,2023-06-18,Hunter Brown,SP
+2023,10,81,2023-06-18,Brayan Bello,SP
+2023,10,81,2023-06-18,Daniel Lynch IV,SP
+2023,10,81,2023-06-18,Jordan Romano,RP
+2023,10,81,2023-06-18,Jake Bird,RP
+2023,10,82,2023-06-19,Jonah Heim,C
+2023,10,82,2023-06-19,Vladimir Guerrero Jr.,1B
+2023,10,82,2023-06-19,Brandon Drury,2B
+2023,10,82,2023-06-19,Bobby Witt Jr.,3B
+2023,10,82,2023-06-19,Luis Garcia,SS
+2023,10,82,2023-06-19,Christian Yelich,OF
+2023,10,82,2023-06-19,Cody Bellinger,OF
+2023,10,82,2023-06-19,Adam Frazier,OF
+2023,10,82,2023-06-19,Anthony Rizzo,UTIL
+2023,10,82,2023-06-19,Jose Altuve,UTIL
+2023,10,82,2023-06-19,Adley Rutschman,Bench
+2023,10,82,2023-06-19,Steven Kwan,Bench
+2023,10,82,2023-06-19,Harrison Bader,Bench
+2023,10,82,2023-06-19,Alek Manoah,Bench
+2023,10,82,2023-06-19,Jameson Taillon,Bench
+2023,10,82,2023-06-19,Oneil Cruz,IL
+2023,10,82,2023-06-19,Max Fried,IL
+2023,10,82,2023-06-19,Kyle Wright,IL
+2023,10,82,2023-06-19,Cristian Javier,SP
+2023,10,82,2023-06-19,Pablo Lopez,SP
+2023,10,82,2023-06-19,Hunter Brown,SP
+2023,10,82,2023-06-19,Brayan Bello,SP
+2023,10,82,2023-06-19,Daniel Lynch IV,SP
+2023,10,82,2023-06-19,Jordan Romano,RP
+2023,10,82,2023-06-19,Jake Bird,RP
+2023,10,82,2023-06-19,Josh Sborz,RP
+2023,10,83,2023-06-20,Jonah Heim,C
+2023,10,83,2023-06-20,Vladimir Guerrero Jr.,1B
+2023,10,83,2023-06-20,Brandon Drury,2B
+2023,10,83,2023-06-20,Bobby Witt Jr.,3B
+2023,10,83,2023-06-20,Luis Garcia,SS
+2023,10,83,2023-06-20,Christian Yelich,OF
+2023,10,83,2023-06-20,Cody Bellinger,OF
+2023,10,83,2023-06-20,Adam Frazier,OF
+2023,10,83,2023-06-20,Anthony Rizzo,UTIL
+2023,10,83,2023-06-20,Jose Altuve,UTIL
+2023,10,83,2023-06-20,Adley Rutschman,Bench
+2023,10,83,2023-06-20,Steven Kwan,Bench
+2023,10,83,2023-06-20,Harrison Bader,Bench
+2023,10,83,2023-06-20,Alek Manoah,Bench
+2023,10,83,2023-06-20,Jameson Taillon,Bench
+2023,10,83,2023-06-20,Oneil Cruz,IL
+2023,10,83,2023-06-20,Max Fried,IL
+2023,10,83,2023-06-20,Kyle Wright,IL
+2023,10,83,2023-06-20,Cristian Javier,SP
+2023,10,83,2023-06-20,Pablo Lopez,SP
+2023,10,83,2023-06-20,Hunter Brown,SP
+2023,10,83,2023-06-20,Brayan Bello,SP
+2023,10,83,2023-06-20,Daniel Lynch IV,SP
+2023,10,83,2023-06-20,Jordan Romano,RP
+2023,10,83,2023-06-20,Jake Bird,RP
+2023,10,83,2023-06-20,Josh Sborz,RP
+2023,10,84,2023-06-21,Adley Rutschman,C
+2023,10,84,2023-06-21,Vladimir Guerrero Jr.,1B
+2023,10,84,2023-06-21,Brandon Drury,2B
+2023,10,84,2023-06-21,Bobby Witt Jr.,3B
+2023,10,84,2023-06-21,Luis Garcia,SS
+2023,10,84,2023-06-21,Christian Yelich,OF
+2023,10,84,2023-06-21,Cody Bellinger,OF
+2023,10,84,2023-06-21,Adam Frazier,OF
+2023,10,84,2023-06-21,Anthony Rizzo,UTIL
+2023,10,84,2023-06-21,Jose Altuve,UTIL
+2023,10,84,2023-06-21,Steven Kwan,Bench
+2023,10,84,2023-06-21,Harrison Bader,Bench
+2023,10,84,2023-06-21,Jonah Heim,Bench
+2023,10,84,2023-06-21,Alek Manoah,Bench
+2023,10,84,2023-06-21,Jameson Taillon,Bench
+2023,10,84,2023-06-21,Oneil Cruz,IL
+2023,10,84,2023-06-21,Max Fried,IL
+2023,10,84,2023-06-21,Kyle Wright,IL
+2023,10,84,2023-06-21,Cristian Javier,SP
+2023,10,84,2023-06-21,Pablo Lopez,SP
+2023,10,84,2023-06-21,Hunter Brown,SP
+2023,10,84,2023-06-21,Brayan Bello,SP
+2023,10,84,2023-06-21,Daniel Lynch IV,SP
+2023,10,84,2023-06-21,Postponed,SP
+2023,10,84,2023-06-21,Jordan Romano,RP
+2023,10,84,2023-06-21,Jake Bird,RP
+2023,10,84,2023-06-21,Josh Sborz,RP
+2023,10,85,2023-06-22,Adley Rutschman,C
+2023,10,85,2023-06-22,Vladimir Guerrero Jr.,1B
+2023,10,85,2023-06-22,Brandon Drury,2B
+2023,10,85,2023-06-22,Bobby Witt Jr.,3B
+2023,10,85,2023-06-22,Luis Garcia,SS
+2023,10,85,2023-06-22,Christian Yelich,OF
+2023,10,85,2023-06-22,Cody Bellinger,OF
+2023,10,85,2023-06-22,Harrison Bader,OF
+2023,10,85,2023-06-22,Anthony Rizzo,UTIL
+2023,10,85,2023-06-22,Jose Altuve,UTIL
+2023,10,85,2023-06-22,Steven Kwan,Bench
+2023,10,85,2023-06-22,Jonah Heim,Bench
+2023,10,85,2023-06-22,Adam Frazier,Bench
+2023,10,85,2023-06-22,Alek Manoah,Bench
+2023,10,85,2023-06-22,Jameson Taillon,Bench
+2023,10,85,2023-06-22,Oneil Cruz,IL
+2023,10,85,2023-06-22,Max Fried,IL
+2023,10,85,2023-06-22,Kyle Wright,IL
+2023,10,85,2023-06-22,Cristian Javier,SP
+2023,10,85,2023-06-22,Pablo Lopez,SP
+2023,10,85,2023-06-22,Hunter Brown,SP
+2023,10,85,2023-06-22,Brayan Bello,SP
+2023,10,85,2023-06-22,Daniel Lynch IV,SP
+2023,10,85,2023-06-22,Jordan Romano,RP
+2023,10,85,2023-06-22,Jake Bird,RP
+2023,10,85,2023-06-22,Josh Sborz,RP
+2023,10,86,2023-06-23,Adley Rutschman,C
+2023,10,86,2023-06-23,Vladimir Guerrero Jr.,1B
+2023,10,86,2023-06-23,Jose Altuve,2B
+2023,10,86,2023-06-23,Bobby Witt Jr.,3B
+2023,10,86,2023-06-23,Luis Garcia,SS
+2023,10,86,2023-06-23,Christian Yelich,OF
+2023,10,86,2023-06-23,Steven Kwan,OF
+2023,10,86,2023-06-23,Harrison Bader,OF
+2023,10,86,2023-06-23,Anthony Rizzo,UTIL
+2023,10,86,2023-06-23,Jonah Heim,UTIL
+2023,10,86,2023-06-23,Cody Bellinger,Bench
+2023,10,86,2023-06-23,Adam Frazier,Bench
+2023,10,86,2023-06-23,Brandon Drury,Bench
+2023,10,86,2023-06-23,Alek Manoah,Bench
+2023,10,86,2023-06-23,Jameson Taillon,Bench
+2023,10,86,2023-06-23,Oneil Cruz,IL
+2023,10,86,2023-06-23,Max Fried,IL
+2023,10,86,2023-06-23,Kyle Wright,IL
+2023,10,86,2023-06-23,Cristian Javier,SP
+2023,10,86,2023-06-23,Pablo Lopez,SP
+2023,10,86,2023-06-23,Hunter Brown,SP
+2023,10,86,2023-06-23,Brayan Bello,SP
+2023,10,86,2023-06-23,Daniel Lynch IV,SP
+2023,10,86,2023-06-23,Jordan Romano,RP
+2023,10,86,2023-06-23,Jake Bird,RP
+2023,10,86,2023-06-23,Josh Sborz,RP
+2023,10,87,2023-06-24,Adley Rutschman,C
+2023,10,87,2023-06-24,Vladimir Guerrero Jr.,1B
+2023,10,87,2023-06-24,Jose Altuve,2B
+2023,10,87,2023-06-24,Bobby Witt Jr.,3B
+2023,10,87,2023-06-24,Luis Garcia,SS
+2023,10,87,2023-06-24,Christian Yelich,OF
+2023,10,87,2023-06-24,Steven Kwan,OF
+2023,10,87,2023-06-24,Harrison Bader,OF
+2023,10,87,2023-06-24,Anthony Rizzo,UTIL
+2023,10,87,2023-06-24,Jonah Heim,UTIL
+2023,10,87,2023-06-24,Cody Bellinger,Bench
+2023,10,87,2023-06-24,Adam Frazier,Bench
+2023,10,87,2023-06-24,Brandon Drury,Bench
+2023,10,87,2023-06-24,Alek Manoah,Bench
+2023,10,87,2023-06-24,Jameson Taillon,Bench
+2023,10,87,2023-06-24,Oneil Cruz,IL
+2023,10,87,2023-06-24,Max Fried,IL
+2023,10,87,2023-06-24,Kyle Wright,IL
+2023,10,87,2023-06-24,Cristian Javier,SP
+2023,10,87,2023-06-24,Pablo Lopez,SP
+2023,10,87,2023-06-24,Hunter Brown,SP
+2023,10,87,2023-06-24,Brayan Bello,SP
+2023,10,87,2023-06-24,Daniel Lynch IV,SP
+2023,10,87,2023-06-24,Jordan Romano,RP
+2023,10,87,2023-06-24,Jake Bird,RP
+2023,10,87,2023-06-24,Josh Sborz,RP
+2023,10,88,2023-06-25,Adley Rutschman,C
+2023,10,88,2023-06-25,Vladimir Guerrero Jr.,1B
+2023,10,88,2023-06-25,Jose Altuve,2B
+2023,10,88,2023-06-25,Bobby Witt Jr.,3B
+2023,10,88,2023-06-25,Luis Garcia,SS
+2023,10,88,2023-06-25,Christian Yelich,OF
+2023,10,88,2023-06-25,Steven Kwan,OF
+2023,10,88,2023-06-25,Harrison Bader,OF
+2023,10,88,2023-06-25,Anthony Rizzo,UTIL
+2023,10,88,2023-06-25,Jonah Heim,UTIL
+2023,10,88,2023-06-25,Cody Bellinger,Bench
+2023,10,88,2023-06-25,Adam Frazier,Bench
+2023,10,88,2023-06-25,Brandon Drury,Bench
+2023,10,88,2023-06-25,Alek Manoah,Bench
+2023,10,88,2023-06-25,Hunter Brown,Bench
+2023,10,88,2023-06-25,Jameson Taillon,Bench
+2023,10,88,2023-06-25,Oneil Cruz,IL
+2023,10,88,2023-06-25,Max Fried,IL
+2023,10,88,2023-06-25,Kyle Wright,IL
+2023,10,88,2023-06-25,Cristian Javier,SP
+2023,10,88,2023-06-25,Pablo Lopez,SP
+2023,10,88,2023-06-25,Brayan Bello,SP
+2023,10,88,2023-06-25,Daniel Lynch IV,SP
+2023,10,88,2023-06-25,Jordan Romano,RP
+2023,10,88,2023-06-25,Jake Bird,RP
+2023,10,88,2023-06-25,Josh Sborz,RP
+2023,10,89,2023-06-26,Adley Rutschman,C
+2023,10,89,2023-06-26,Vladimir Guerrero Jr.,1B
+2023,10,89,2023-06-26,Brandon Drury,2B
+2023,10,89,2023-06-26,Bobby Witt Jr.,3B
+2023,10,89,2023-06-26,Luis Garcia,SS
+2023,10,89,2023-06-26,Christian Yelich,OF
+2023,10,89,2023-06-26,Harrison Bader,OF
+2023,10,89,2023-06-26,Adam Frazier,OF
+2023,10,89,2023-06-26,Anthony Rizzo,UTIL
+2023,10,89,2023-06-26,Jonah Heim,UTIL
+2023,10,89,2023-06-26,Steven Kwan,Bench
+2023,10,89,2023-06-26,Jose Altuve,Bench
+2023,10,89,2023-06-26,Cody Bellinger,Bench
+2023,10,89,2023-06-26,Alek Manoah,Bench
+2023,10,89,2023-06-26,Hunter Brown,Bench
+2023,10,89,2023-06-26,Jameson Taillon,Bench
+2023,10,89,2023-06-26,Oneil Cruz,IL
+2023,10,89,2023-06-26,Max Fried,IL
+2023,10,89,2023-06-26,Kyle Wright,IL
+2023,10,89,2023-06-26,Cristian Javier,SP
+2023,10,89,2023-06-26,Pablo Lopez,SP
+2023,10,89,2023-06-26,Brayan Bello,SP
+2023,10,89,2023-06-26,Daniel Lynch IV,SP
+2023,10,89,2023-06-26,Jordan Romano,RP
+2023,10,89,2023-06-26,Jake Bird,RP
+2023,10,89,2023-06-26,Josh Sborz,RP
+2023,10,90,2023-06-27,Adley Rutschman,C
+2023,10,90,2023-06-27,Vladimir Guerrero Jr.,1B
+2023,10,90,2023-06-27,Brandon Drury,2B
+2023,10,90,2023-06-27,Bobby Witt Jr.,3B
+2023,10,90,2023-06-27,Luis Garcia,SS
+2023,10,90,2023-06-27,Christian Yelich,OF
+2023,10,90,2023-06-27,Steven Kwan,OF
+2023,10,90,2023-06-27,Harrison Bader,OF
+2023,10,90,2023-06-27,Anthony Rizzo,UTIL
+2023,10,90,2023-06-27,Jonah Heim,UTIL
+2023,10,90,2023-06-27,Jose Altuve,Bench
+2023,10,90,2023-06-27,Cody Bellinger,Bench
+2023,10,90,2023-06-27,Adam Frazier,Bench
+2023,10,90,2023-06-27,Alek Manoah,Bench
+2023,10,90,2023-06-27,Hunter Brown,Bench
+2023,10,90,2023-06-27,Oneil Cruz,IL
+2023,10,90,2023-06-27,Max Fried,IL
+2023,10,90,2023-06-27,Kyle Wright,IL
+2023,10,90,2023-06-27,Cristian Javier,SP
+2023,10,90,2023-06-27,Pablo Lopez,SP
+2023,10,90,2023-06-27,Brayan Bello,SP
+2023,10,90,2023-06-27,Daniel Lynch IV,SP
+2023,10,90,2023-06-27,Jameson Taillon,SP
+2023,10,90,2023-06-27,Jordan Romano,RP
+2023,10,90,2023-06-27,Jake Bird,RP
+2023,10,90,2023-06-27,Josh Sborz,RP
+2023,10,91,2023-06-28,Adley Rutschman,C
+2023,10,91,2023-06-28,Vladimir Guerrero Jr.,1B
+2023,10,91,2023-06-28,Brandon Drury,2B
+2023,10,91,2023-06-28,Bobby Witt Jr.,3B
+2023,10,91,2023-06-28,Luis Garcia,SS
+2023,10,91,2023-06-28,Christian Yelich,OF
+2023,10,91,2023-06-28,Cody Bellinger,OF
+2023,10,91,2023-06-28,Harrison Bader,OF
+2023,10,91,2023-06-28,Anthony Rizzo,UTIL
+2023,10,91,2023-06-28,Jonah Heim,UTIL
+2023,10,91,2023-06-28,Steven Kwan,Bench
+2023,10,91,2023-06-28,Jose Altuve,Bench
+2023,10,91,2023-06-28,Adam Frazier,Bench
+2023,10,91,2023-06-28,Alek Manoah,Bench
+2023,10,91,2023-06-28,Hunter Brown,Bench
+2023,10,91,2023-06-28,Oneil Cruz,IL
+2023,10,91,2023-06-28,Max Fried,IL
+2023,10,91,2023-06-28,Kyle Wright,IL
+2023,10,91,2023-06-28,Cristian Javier,SP
+2023,10,91,2023-06-28,Pablo Lopez,SP
+2023,10,91,2023-06-28,Brayan Bello,SP
+2023,10,91,2023-06-28,Daniel Lynch IV,SP
+2023,10,91,2023-06-28,Jameson Taillon,SP
+2023,10,91,2023-06-28,Jordan Romano,RP
+2023,10,91,2023-06-28,Jake Bird,RP
+2023,10,91,2023-06-28,Josh Sborz,RP
+2023,10,92,2023-06-29,Adley Rutschman,C
+2023,10,92,2023-06-29,Vladimir Guerrero Jr.,1B
+2023,10,92,2023-06-29,Brandon Drury,2B
+2023,10,92,2023-06-29,Bobby Witt Jr.,3B
+2023,10,92,2023-06-29,Luis Garcia,SS
+2023,10,92,2023-06-29,Christian Yelich,OF
+2023,10,92,2023-06-29,Cody Bellinger,OF
+2023,10,92,2023-06-29,Harrison Bader,OF
+2023,10,92,2023-06-29,Anthony Rizzo,UTIL
+2023,10,92,2023-06-29,Jonah Heim,UTIL
+2023,10,92,2023-06-29,Steven Kwan,Bench
+2023,10,92,2023-06-29,Jose Altuve,Bench
+2023,10,92,2023-06-29,Adam Frazier,Bench
+2023,10,92,2023-06-29,Alek Manoah,Bench
+2023,10,92,2023-06-29,Hunter Brown,Bench
+2023,10,92,2023-06-29,Oneil Cruz,IL
+2023,10,92,2023-06-29,Max Fried,IL
+2023,10,92,2023-06-29,Kyle Wright,IL
+2023,10,92,2023-06-29,Cristian Javier,SP
+2023,10,92,2023-06-29,Pablo Lopez,SP
+2023,10,92,2023-06-29,Brayan Bello,SP
+2023,10,92,2023-06-29,Daniel Lynch IV,SP
+2023,10,92,2023-06-29,Jameson Taillon,SP
+2023,10,92,2023-06-29,Jordan Romano,RP
+2023,10,92,2023-06-29,Jake Bird,RP
+2023,10,92,2023-06-29,Josh Sborz,RP
+2023,10,93,2023-06-30,Adley Rutschman,C
+2023,10,93,2023-06-30,Vladimir Guerrero Jr.,1B
+2023,10,93,2023-06-30,Postponed,1B
+2023,10,93,2023-06-30,Brandon Drury,2B
+2023,10,93,2023-06-30,Bobby Witt Jr.,3B
+2023,10,93,2023-06-30,Luis Garcia,SS
+2023,10,93,2023-06-30,Christian Yelich,OF
+2023,10,93,2023-06-30,Cody Bellinger,OF
+2023,10,93,2023-06-30,Harrison Bader,OF
+2023,10,93,2023-06-30,Jose Altuve,UTIL
+2023,10,93,2023-06-30,Jonah Heim,UTIL
+2023,10,93,2023-06-30,Steven Kwan,Bench
+2023,10,93,2023-06-30,Anthony Rizzo,Bench
+2023,10,93,2023-06-30,Adam Frazier,Bench
+2023,10,93,2023-06-30,Alek Manoah,Bench
+2023,10,93,2023-06-30,Hunter Brown,Bench
+2023,10,93,2023-06-30,Oneil Cruz,IL
+2023,10,93,2023-06-30,Max Fried,IL
+2023,10,93,2023-06-30,Kyle Wright,IL
+2023,10,93,2023-06-30,Cristian Javier,SP
+2023,10,93,2023-06-30,Pablo Lopez,SP
+2023,10,93,2023-06-30,Brayan Bello,SP
+2023,10,93,2023-06-30,Daniel Lynch IV,SP
+2023,10,93,2023-06-30,Jameson Taillon,SP
+2023,10,93,2023-06-30,Jordan Romano,RP
+2023,10,93,2023-06-30,Jake Bird,RP
+2023,10,93,2023-06-30,Josh Sborz,RP
+2023,10,94,2023-07-01,Adley Rutschman,C
+2023,10,94,2023-07-01,Vladimir Guerrero Jr.,1B
+2023,10,94,2023-07-01,Brandon Drury,2B
+2023,10,94,2023-07-01,Bobby Witt Jr.,3B
+2023,10,94,2023-07-01,Luis Garcia,SS
+2023,10,94,2023-07-01,Christian Yelich,OF
+2023,10,94,2023-07-01,Cody Bellinger,OF
+2023,10,94,2023-07-01,Harrison Bader,OF
+2023,10,94,2023-07-01,Jose Altuve,UTIL
+2023,10,94,2023-07-01,Jonah Heim,UTIL
+2023,10,94,2023-07-01,Steven Kwan,Bench
+2023,10,94,2023-07-01,Anthony Rizzo,Bench
+2023,10,94,2023-07-01,Adam Frazier,Bench
+2023,10,94,2023-07-01,Alek Manoah,Bench
+2023,10,94,2023-07-01,Brayan Bello,Bench
+2023,10,94,2023-07-01,Oneil Cruz,IL
+2023,10,94,2023-07-01,Max Fried,IL
+2023,10,94,2023-07-01,Kyle Wright,IL
+2023,10,94,2023-07-01,Cristian Javier,SP
+2023,10,94,2023-07-01,Pablo Lopez,SP
+2023,10,94,2023-07-01,Hunter Brown,SP
+2023,10,94,2023-07-01,Daniel Lynch IV,SP
+2023,10,94,2023-07-01,Jameson Taillon,SP
+2023,10,94,2023-07-01,Jordan Romano,RP
+2023,10,94,2023-07-01,Jake Bird,RP
+2023,10,94,2023-07-01,Josh Sborz,RP
+2023,10,95,2023-07-02,Adley Rutschman,C
+2023,10,95,2023-07-02,Vladimir Guerrero Jr.,1B
+2023,10,95,2023-07-02,Brandon Drury,2B
+2023,10,95,2023-07-02,Bobby Witt Jr.,3B
+2023,10,95,2023-07-02,Luis Garcia,SS
+2023,10,95,2023-07-02,Christian Yelich,OF
+2023,10,95,2023-07-02,Cody Bellinger,OF
+2023,10,95,2023-07-02,Harrison Bader,OF
+2023,10,95,2023-07-02,Jose Altuve,UTIL
+2023,10,95,2023-07-02,Jonah Heim,UTIL
+2023,10,95,2023-07-02,Steven Kwan,Bench
+2023,10,95,2023-07-02,Anthony Rizzo,Bench
+2023,10,95,2023-07-02,Adam Frazier,Bench
+2023,10,95,2023-07-02,Alek Manoah,Bench
+2023,10,95,2023-07-02,Brayan Bello,Bench
+2023,10,95,2023-07-02,Oneil Cruz,IL
+2023,10,95,2023-07-02,Max Fried,IL
+2023,10,95,2023-07-02,Kyle Wright,IL
+2023,10,95,2023-07-02,Cristian Javier,SP
+2023,10,95,2023-07-02,Pablo Lopez,SP
+2023,10,95,2023-07-02,Hunter Brown,SP
+2023,10,95,2023-07-02,Daniel Lynch IV,SP
+2023,10,95,2023-07-02,Jameson Taillon,SP
+2023,10,95,2023-07-02,Jordan Romano,RP
+2023,10,95,2023-07-02,Jake Bird,RP
+2023,10,95,2023-07-02,Josh Sborz,RP
+2023,10,96,2023-07-03,Adley Rutschman,C
+2023,10,96,2023-07-03,Anthony Rizzo,1B
+2023,10,96,2023-07-03,Jose Altuve,2B
+2023,10,96,2023-07-03,Bobby Witt Jr.,3B
+2023,10,96,2023-07-03,Luis Garcia,SS
+2023,10,96,2023-07-03,Christian Yelich,OF
+2023,10,96,2023-07-03,Cody Bellinger,OF
+2023,10,96,2023-07-03,Harrison Bader,OF
+2023,10,96,2023-07-03,Steven Kwan,UTIL
+2023,10,96,2023-07-03,Jonah Heim,UTIL
+2023,10,96,2023-07-03,Vladimir Guerrero Jr.,Bench
+2023,10,96,2023-07-03,Adam Frazier,Bench
+2023,10,96,2023-07-03,Alek Manoah,Bench
+2023,10,96,2023-07-03,Brayan Bello,Bench
+2023,10,96,2023-07-03,Oneil Cruz,IL
+2023,10,96,2023-07-03,Max Fried,IL
+2023,10,96,2023-07-03,Kyle Wright,IL
+2023,10,96,2023-07-03,Cristian Javier,SP
+2023,10,96,2023-07-03,Pablo Lopez,SP
+2023,10,96,2023-07-03,Hunter Brown,SP
+2023,10,96,2023-07-03,Daniel Lynch IV,SP
+2023,10,96,2023-07-03,Jameson Taillon,SP
+2023,10,96,2023-07-03,Jordan Romano,RP
+2023,10,96,2023-07-03,Jake Bird,RP
+2023,10,96,2023-07-03,Josh Sborz,RP
+2023,10,97,2023-07-04,Adley Rutschman,C
+2023,10,97,2023-07-04,Anthony Rizzo,1B
+2023,10,97,2023-07-04,Jose Altuve,2B
+2023,10,97,2023-07-04,Bobby Witt Jr.,3B
+2023,10,97,2023-07-04,Luis Garcia,SS
+2023,10,97,2023-07-04,Christian Yelich,OF
+2023,10,97,2023-07-04,Cody Bellinger,OF
+2023,10,97,2023-07-04,Harrison Bader,OF
+2023,10,97,2023-07-04,Steven Kwan,UTIL
+2023,10,97,2023-07-04,Jonah Heim,UTIL
+2023,10,97,2023-07-04,Vladimir Guerrero Jr.,Bench
+2023,10,97,2023-07-04,Adam Frazier,Bench
+2023,10,97,2023-07-04,Alek Manoah,Bench
+2023,10,97,2023-07-04,Brayan Bello,Bench
+2023,10,97,2023-07-04,Oneil Cruz,IL
+2023,10,97,2023-07-04,Max Fried,IL
+2023,10,97,2023-07-04,Kyle Wright,IL
+2023,10,97,2023-07-04,Cristian Javier,SP
+2023,10,97,2023-07-04,Pablo Lopez,SP
+2023,10,97,2023-07-04,Hunter Brown,SP
+2023,10,97,2023-07-04,Daniel Lynch IV,SP
+2023,10,97,2023-07-04,Jameson Taillon,SP
+2023,10,97,2023-07-04,Jordan Romano,RP
+2023,10,97,2023-07-04,Jake Bird,RP
+2023,10,97,2023-07-04,Josh Sborz,RP
+2023,10,98,2023-07-05,Adley Rutschman,C
+2023,10,98,2023-07-05,Anthony Rizzo,1B
+2023,10,98,2023-07-05,Adam Frazier,2B
+2023,10,98,2023-07-05,Bobby Witt Jr.,3B
+2023,10,98,2023-07-05,Luis Garcia,SS
+2023,10,98,2023-07-05,Christian Yelich,OF
+2023,10,98,2023-07-05,Cody Bellinger,OF
+2023,10,98,2023-07-05,Harrison Bader,OF
+2023,10,98,2023-07-05,Vladimir Guerrero Jr.,UTIL
+2023,10,98,2023-07-05,Jonah Heim,UTIL
+2023,10,98,2023-07-05,Steven Kwan,Bench
+2023,10,98,2023-07-05,Jose Altuve,Bench
+2023,10,98,2023-07-05,Ezequiel Tovar,Bench
+2023,10,98,2023-07-05,Alek Manoah,Bench
+2023,10,98,2023-07-05,Hunter Brown,Bench
+2023,10,98,2023-07-05,Oneil Cruz,IL
+2023,10,98,2023-07-05,Max Fried,IL
+2023,10,98,2023-07-05,Kyle Wright,IL
+2023,10,98,2023-07-05,Cristian Javier,SP
+2023,10,98,2023-07-05,Pablo Lopez,SP
+2023,10,98,2023-07-05,Brayan Bello,SP
+2023,10,98,2023-07-05,Daniel Lynch IV,SP
+2023,10,98,2023-07-05,Jameson Taillon,SP
+2023,10,98,2023-07-05,Postponed,SP
+2023,10,98,2023-07-05,Jordan Romano,RP
+2023,10,98,2023-07-05,Postponed,RP
+2023,10,98,2023-07-05,Jake Bird,RP
+2023,10,98,2023-07-05,Josh Sborz,RP
+2023,10,99,2023-07-06,Adley Rutschman,C
+2023,10,99,2023-07-06,Anthony Rizzo,1B
+2023,10,99,2023-07-06,Adam Frazier,2B
+2023,10,99,2023-07-06,Bobby Witt Jr.,3B
+2023,10,99,2023-07-06,Luis Garcia,SS
+2023,10,99,2023-07-06,Christian Yelich,OF
+2023,10,99,2023-07-06,Cody Bellinger,OF
+2023,10,99,2023-07-06,Harrison Bader,OF
+2023,10,99,2023-07-06,Vladimir Guerrero Jr.,UTIL
+2023,10,99,2023-07-06,Jonah Heim,UTIL
+2023,10,99,2023-07-06,Steven Kwan,Bench
+2023,10,99,2023-07-06,Jose Altuve,Bench
+2023,10,99,2023-07-06,Ezequiel Tovar,Bench
+2023,10,99,2023-07-06,Alek Manoah,Bench
+2023,10,99,2023-07-06,Hunter Brown,Bench
+2023,10,99,2023-07-06,Oneil Cruz,IL
+2023,10,99,2023-07-06,Max Fried,IL
+2023,10,99,2023-07-06,Kyle Wright,IL
+2023,10,99,2023-07-06,Cristian Javier,SP
+2023,10,99,2023-07-06,Pablo Lopez,SP
+2023,10,99,2023-07-06,Brayan Bello,SP
+2023,10,99,2023-07-06,Daniel Lynch IV,SP
+2023,10,99,2023-07-06,Jameson Taillon,SP
+2023,10,99,2023-07-06,Jordan Romano,RP
+2023,10,99,2023-07-06,Jake Bird,RP
+2023,10,99,2023-07-06,Josh Sborz,RP
+2023,10,100,2023-07-07,Adley Rutschman,C
+2023,10,100,2023-07-07,Anthony Rizzo,1B
+2023,10,100,2023-07-07,Adam Frazier,2B
+2023,10,100,2023-07-07,Bobby Witt Jr.,3B
+2023,10,100,2023-07-07,Luis Garcia,SS
+2023,10,100,2023-07-07,Christian Yelich,OF
+2023,10,100,2023-07-07,Cody Bellinger,OF
+2023,10,100,2023-07-07,Harrison Bader,OF
+2023,10,100,2023-07-07,Vladimir Guerrero Jr.,UTIL
+2023,10,100,2023-07-07,Jonah Heim,UTIL
+2023,10,100,2023-07-07,Steven Kwan,Bench
+2023,10,100,2023-07-07,Jose Altuve,Bench
+2023,10,100,2023-07-07,Ezequiel Tovar,Bench
+2023,10,100,2023-07-07,Alek Manoah,Bench
+2023,10,100,2023-07-07,Jameson Taillon,Bench
+2023,10,100,2023-07-07,Oneil Cruz,IL
+2023,10,100,2023-07-07,Max Fried,IL
+2023,10,100,2023-07-07,Kyle Wright,IL
+2023,10,100,2023-07-07,Cristian Javier,SP
+2023,10,100,2023-07-07,Pablo Lopez,SP
+2023,10,100,2023-07-07,Hunter Brown,SP
+2023,10,100,2023-07-07,Brayan Bello,SP
+2023,10,100,2023-07-07,Daniel Lynch IV,SP
+2023,10,100,2023-07-07,Jordan Romano,RP
+2023,10,100,2023-07-07,Jake Bird,RP
+2023,10,100,2023-07-07,Josh Sborz,RP
+2023,10,101,2023-07-08,Adley Rutschman,C
+2023,10,101,2023-07-08,Anthony Rizzo,1B
+2023,10,101,2023-07-08,Adam Frazier,2B
+2023,10,101,2023-07-08,Bobby Witt Jr.,3B
+2023,10,101,2023-07-08,Luis Garcia,SS
+2023,10,101,2023-07-08,Christian Yelich,OF
+2023,10,101,2023-07-08,Cody Bellinger,OF
+2023,10,101,2023-07-08,Harrison Bader,OF
+2023,10,101,2023-07-08,Vladimir Guerrero Jr.,UTIL
+2023,10,101,2023-07-08,Jonah Heim,UTIL
+2023,10,101,2023-07-08,Steven Kwan,Bench
+2023,10,101,2023-07-08,Jose Altuve,Bench
+2023,10,101,2023-07-08,Ezequiel Tovar,Bench
+2023,10,101,2023-07-08,Alek Manoah,Bench
+2023,10,101,2023-07-08,Jameson Taillon,Bench
+2023,10,101,2023-07-08,Oneil Cruz,IL
+2023,10,101,2023-07-08,Max Fried,IL
+2023,10,101,2023-07-08,Kyle Wright,IL
+2023,10,101,2023-07-08,Cristian Javier,SP
+2023,10,101,2023-07-08,Pablo Lopez,SP
+2023,10,101,2023-07-08,Hunter Brown,SP
+2023,10,101,2023-07-08,Brayan Bello,SP
+2023,10,101,2023-07-08,Daniel Lynch IV,SP
+2023,10,101,2023-07-08,Jordan Romano,RP
+2023,10,101,2023-07-08,Jake Bird,RP
+2023,10,101,2023-07-08,Josh Sborz,RP
+2023,10,102,2023-07-09,Adley Rutschman,C
+2023,10,102,2023-07-09,Anthony Rizzo,1B
+2023,10,102,2023-07-09,Adam Frazier,2B
+2023,10,102,2023-07-09,Bobby Witt Jr.,3B
+2023,10,102,2023-07-09,Luis Garcia,SS
+2023,10,102,2023-07-09,Christian Yelich,OF
+2023,10,102,2023-07-09,Cody Bellinger,OF
+2023,10,102,2023-07-09,Harrison Bader,OF
+2023,10,102,2023-07-09,Vladimir Guerrero Jr.,UTIL
+2023,10,102,2023-07-09,Jonah Heim,UTIL
+2023,10,102,2023-07-09,Steven Kwan,Bench
+2023,10,102,2023-07-09,Jose Altuve,Bench
+2023,10,102,2023-07-09,Ezequiel Tovar,Bench
+2023,10,102,2023-07-09,Alek Manoah,Bench
+2023,10,102,2023-07-09,Jameson Taillon,Bench
+2023,10,102,2023-07-09,Oneil Cruz,IL
+2023,10,102,2023-07-09,Max Fried,IL
+2023,10,102,2023-07-09,Kyle Wright,IL
+2023,10,102,2023-07-09,Cristian Javier,SP
+2023,10,102,2023-07-09,Pablo Lopez,SP
+2023,10,102,2023-07-09,Hunter Brown,SP
+2023,10,102,2023-07-09,Brayan Bello,SP
+2023,10,102,2023-07-09,Daniel Lynch IV,SP
+2023,10,102,2023-07-09,Jordan Romano,RP
+2023,10,102,2023-07-09,Jake Bird,RP
+2023,10,102,2023-07-09,Josh Sborz,RP
+2023,10,103,2023-07-10,Adley Rutschman,C
+2023,10,103,2023-07-10,Anthony Rizzo,1B
+2023,10,103,2023-07-10,Adam Frazier,2B
+2023,10,103,2023-07-10,Bobby Witt Jr.,3B
+2023,10,103,2023-07-10,Luis Garcia,SS
+2023,10,103,2023-07-10,Christian Yelich,OF
+2023,10,103,2023-07-10,Cody Bellinger,OF
+2023,10,103,2023-07-10,Harrison Bader,OF
+2023,10,103,2023-07-10,Vladimir Guerrero Jr.,UTIL
+2023,10,103,2023-07-10,Jonah Heim,UTIL
+2023,10,103,2023-07-10,Steven Kwan,Bench
+2023,10,103,2023-07-10,Jose Altuve,Bench
+2023,10,103,2023-07-10,Ezequiel Tovar,Bench
+2023,10,103,2023-07-10,Alek Manoah,Bench
+2023,10,103,2023-07-10,Jameson Taillon,Bench
+2023,10,103,2023-07-10,Oneil Cruz,IL
+2023,10,103,2023-07-10,Max Fried,IL
+2023,10,103,2023-07-10,Kyle Wright,IL
+2023,10,103,2023-07-10,Cristian Javier,SP
+2023,10,103,2023-07-10,Pablo Lopez,SP
+2023,10,103,2023-07-10,Hunter Brown,SP
+2023,10,103,2023-07-10,Brayan Bello,SP
+2023,10,103,2023-07-10,Daniel Lynch IV,SP
+2023,10,103,2023-07-10,Jordan Romano,RP
+2023,10,103,2023-07-10,Jake Bird,RP
+2023,10,103,2023-07-10,Josh Sborz,RP
+2023,10,104,2023-07-11,Adley Rutschman,C
+2023,10,104,2023-07-11,Anthony Rizzo,1B
+2023,10,104,2023-07-11,Adam Frazier,2B
+2023,10,104,2023-07-11,Bobby Witt Jr.,3B
+2023,10,104,2023-07-11,Luis Garcia,SS
+2023,10,104,2023-07-11,Christian Yelich,OF
+2023,10,104,2023-07-11,Cody Bellinger,OF
+2023,10,104,2023-07-11,Harrison Bader,OF
+2023,10,104,2023-07-11,Vladimir Guerrero Jr.,UTIL
+2023,10,104,2023-07-11,Jonah Heim,UTIL
+2023,10,104,2023-07-11,Steven Kwan,Bench
+2023,10,104,2023-07-11,Jose Altuve,Bench
+2023,10,104,2023-07-11,Ezequiel Tovar,Bench
+2023,10,104,2023-07-11,Alek Manoah,Bench
+2023,10,104,2023-07-11,Jameson Taillon,Bench
+2023,10,104,2023-07-11,Oneil Cruz,IL
+2023,10,104,2023-07-11,Max Fried,IL
+2023,10,104,2023-07-11,Kyle Wright,IL
+2023,10,104,2023-07-11,Cristian Javier,SP
+2023,10,104,2023-07-11,Pablo Lopez,SP
+2023,10,104,2023-07-11,Hunter Brown,SP
+2023,10,104,2023-07-11,Brayan Bello,SP
+2023,10,104,2023-07-11,Daniel Lynch IV,SP
+2023,10,104,2023-07-11,Jordan Romano,RP
+2023,10,104,2023-07-11,Jake Bird,RP
+2023,10,104,2023-07-11,Josh Sborz,RP
+2023,10,105,2023-07-12,Adley Rutschman,C
+2023,10,105,2023-07-12,Anthony Rizzo,1B
+2023,10,105,2023-07-12,Adam Frazier,2B
+2023,10,105,2023-07-12,Bobby Witt Jr.,3B
+2023,10,105,2023-07-12,Luis Garcia,SS
+2023,10,105,2023-07-12,Christian Yelich,OF
+2023,10,105,2023-07-12,Cody Bellinger,OF
+2023,10,105,2023-07-12,Harrison Bader,OF
+2023,10,105,2023-07-12,Vladimir Guerrero Jr.,UTIL
+2023,10,105,2023-07-12,Jonah Heim,UTIL
+2023,10,105,2023-07-12,Steven Kwan,Bench
+2023,10,105,2023-07-12,Jose Altuve,Bench
+2023,10,105,2023-07-12,Ezequiel Tovar,Bench
+2023,10,105,2023-07-12,Alek Manoah,Bench
+2023,10,105,2023-07-12,Jameson Taillon,Bench
+2023,10,105,2023-07-12,Oneil Cruz,IL
+2023,10,105,2023-07-12,Max Fried,IL
+2023,10,105,2023-07-12,Kyle Wright,IL
+2023,10,105,2023-07-12,Cristian Javier,SP
+2023,10,105,2023-07-12,Pablo Lopez,SP
+2023,10,105,2023-07-12,Hunter Brown,SP
+2023,10,105,2023-07-12,Brayan Bello,SP
+2023,10,105,2023-07-12,Daniel Lynch IV,SP
+2023,10,105,2023-07-12,Jordan Romano,RP
+2023,10,105,2023-07-12,Jake Bird,RP
+2023,10,105,2023-07-12,Josh Sborz,RP
+2023,10,106,2023-07-13,Adley Rutschman,C
+2023,10,106,2023-07-13,Anthony Rizzo,1B
+2023,10,106,2023-07-13,Adam Frazier,2B
+2023,10,106,2023-07-13,Bobby Witt Jr.,3B
+2023,10,106,2023-07-13,Luis Garcia,SS
+2023,10,106,2023-07-13,Christian Yelich,OF
+2023,10,106,2023-07-13,Cody Bellinger,OF
+2023,10,106,2023-07-13,Harrison Bader,OF
+2023,10,106,2023-07-13,Vladimir Guerrero Jr.,UTIL
+2023,10,106,2023-07-13,Jonah Heim,UTIL
+2023,10,106,2023-07-13,Steven Kwan,Bench
+2023,10,106,2023-07-13,Jose Altuve,Bench
+2023,10,106,2023-07-13,Ezequiel Tovar,Bench
+2023,10,106,2023-07-13,Alek Manoah,Bench
+2023,10,106,2023-07-13,Jameson Taillon,Bench
+2023,10,106,2023-07-13,Oneil Cruz,IL
+2023,10,106,2023-07-13,Max Fried,IL
+2023,10,106,2023-07-13,Kyle Wright,IL
+2023,10,106,2023-07-13,Cristian Javier,SP
+2023,10,106,2023-07-13,Pablo Lopez,SP
+2023,10,106,2023-07-13,Hunter Brown,SP
+2023,10,106,2023-07-13,Brayan Bello,SP
+2023,10,106,2023-07-13,Daniel Lynch IV,SP
+2023,10,106,2023-07-13,Jordan Romano,RP
+2023,10,106,2023-07-13,Jake Bird,RP
+2023,10,106,2023-07-13,Josh Sborz,RP
+2023,10,107,2023-07-14,Adley Rutschman,C
+2023,10,107,2023-07-14,Anthony Rizzo,1B
+2023,10,107,2023-07-14,Adam Frazier,2B
+2023,10,107,2023-07-14,Bobby Witt Jr.,3B
+2023,10,107,2023-07-14,Luis Garcia,SS
+2023,10,107,2023-07-14,Christian Yelich,OF
+2023,10,107,2023-07-14,Cody Bellinger,OF
+2023,10,107,2023-07-14,Harrison Bader,OF
+2023,10,107,2023-07-14,Vladimir Guerrero Jr.,UTIL
+2023,10,107,2023-07-14,Jonah Heim,UTIL
+2023,10,107,2023-07-14,Steven Kwan,Bench
+2023,10,107,2023-07-14,Jose Altuve,Bench
+2023,10,107,2023-07-14,Ezequiel Tovar,Bench
+2023,10,107,2023-07-14,Alek Manoah,Bench
+2023,10,107,2023-07-14,Jameson Taillon,Bench
+2023,10,107,2023-07-14,Oneil Cruz,IL
+2023,10,107,2023-07-14,Max Fried,IL
+2023,10,107,2023-07-14,Kyle Wright,IL
+2023,10,107,2023-07-14,Cristian Javier,SP
+2023,10,107,2023-07-14,Pablo Lopez,SP
+2023,10,107,2023-07-14,Hunter Brown,SP
+2023,10,107,2023-07-14,Brayan Bello,SP
+2023,10,107,2023-07-14,Daniel Lynch IV,SP
+2023,10,107,2023-07-14,Postponed,SP
+2023,10,107,2023-07-14,Postponed,SP
+2023,10,107,2023-07-14,Jordan Romano,RP
+2023,10,107,2023-07-14,Jake Bird,RP
+2023,10,107,2023-07-14,Josh Sborz,RP
+2023,10,108,2023-07-15,Adley Rutschman,C
+2023,10,108,2023-07-15,Anthony Rizzo,1B
+2023,10,108,2023-07-15,Adam Frazier,2B
+2023,10,108,2023-07-15,Bobby Witt Jr.,3B
+2023,10,108,2023-07-15,Luis Garcia,SS
+2023,10,108,2023-07-15,Christian Yelich,OF
+2023,10,108,2023-07-15,Cody Bellinger,OF
+2023,10,108,2023-07-15,Harrison Bader,OF
+2023,10,108,2023-07-15,Vladimir Guerrero Jr.,UTIL
+2023,10,108,2023-07-15,Jonah Heim,UTIL
+2023,10,108,2023-07-15,Steven Kwan,Bench
+2023,10,108,2023-07-15,Jose Altuve,Bench
+2023,10,108,2023-07-15,Alek Manoah,Bench
+2023,10,108,2023-07-15,Jameson Taillon,Bench
+2023,10,108,2023-07-15,Brady Singer,Bench
+2023,10,108,2023-07-15,Oneil Cruz,IL
+2023,10,108,2023-07-15,Max Fried,IL
+2023,10,108,2023-07-15,Kyle Wright,IL
+2023,10,108,2023-07-15,Cristian Javier,SP
+2023,10,108,2023-07-15,Pablo Lopez,SP
+2023,10,108,2023-07-15,Hunter Brown,SP
+2023,10,108,2023-07-15,Brayan Bello,SP
+2023,10,108,2023-07-15,Daniel Lynch IV,SP
+2023,10,108,2023-07-15,Jordan Romano,RP
+2023,10,108,2023-07-15,Jake Bird,RP
+2023,10,108,2023-07-15,Josh Sborz,RP
+2023,10,109,2023-07-16,Adley Rutschman,C
+2023,10,109,2023-07-16,Anthony Rizzo,1B
+2023,10,109,2023-07-16,Adam Frazier,2B
+2023,10,109,2023-07-16,Bobby Witt Jr.,3B
+2023,10,109,2023-07-16,Luis Garcia,SS
+2023,10,109,2023-07-16,Christian Yelich,OF
+2023,10,109,2023-07-16,Cody Bellinger,OF
+2023,10,109,2023-07-16,Harrison Bader,OF
+2023,10,109,2023-07-16,Vladimir Guerrero Jr.,UTIL
+2023,10,109,2023-07-16,Jonah Heim,UTIL
+2023,10,109,2023-07-16,Steven Kwan,Bench
+2023,10,109,2023-07-16,Jose Altuve,Bench
+2023,10,109,2023-07-16,Alek Manoah,Bench
+2023,10,109,2023-07-16,Pablo Lopez,Bench
+2023,10,109,2023-07-16,Brayan Bello,Bench
+2023,10,109,2023-07-16,Oneil Cruz,IL
+2023,10,109,2023-07-16,Max Fried,IL
+2023,10,109,2023-07-16,Kyle Wright,IL
+2023,10,109,2023-07-16,Cristian Javier,SP
+2023,10,109,2023-07-16,Hunter Brown,SP
+2023,10,109,2023-07-16,Daniel Lynch IV,SP
+2023,10,109,2023-07-16,Brady Singer,SP
+2023,10,109,2023-07-16,Tommy Henry,SP
+2023,10,109,2023-07-16,Jordan Romano,RP
+2023,10,109,2023-07-16,Jake Bird,RP
+2023,10,109,2023-07-16,Josh Sborz,RP
+2023,10,110,2023-07-17,Adley Rutschman,C
+2023,10,110,2023-07-17,Anthony Rizzo,1B
+2023,10,110,2023-07-17,Adam Frazier,2B
+2023,10,110,2023-07-17,Bobby Witt Jr.,3B
+2023,10,110,2023-07-17,Luis Garcia,SS
+2023,10,110,2023-07-17,Christian Yelich,OF
+2023,10,110,2023-07-17,Cody Bellinger,OF
+2023,10,110,2023-07-17,Harrison Bader,OF
+2023,10,110,2023-07-17,Steven Kwan,UTIL
+2023,10,110,2023-07-17,Jonah Heim,UTIL
+2023,10,110,2023-07-17,Vladimir Guerrero Jr.,Bench
+2023,10,110,2023-07-17,Jose Altuve,Bench
+2023,10,110,2023-07-17,Alek Manoah,Bench
+2023,10,110,2023-07-17,Pablo Lopez,Bench
+2023,10,110,2023-07-17,Brayan Bello,Bench
+2023,10,110,2023-07-17,Oneil Cruz,IL
+2023,10,110,2023-07-17,Max Fried,IL
+2023,10,110,2023-07-17,Kyle Wright,IL
+2023,10,110,2023-07-17,Cristian Javier,SP
+2023,10,110,2023-07-17,Hunter Brown,SP
+2023,10,110,2023-07-17,Daniel Lynch IV,SP
+2023,10,110,2023-07-17,Brady Singer,SP
+2023,10,110,2023-07-17,Tommy Henry,SP
+2023,10,110,2023-07-17,Jordan Romano,RP
+2023,10,110,2023-07-17,Jake Bird,RP
+2023,10,110,2023-07-17,Shawn Armstrong,RP
+2023,10,111,2023-07-18,Adley Rutschman,C
+2023,10,111,2023-07-18,Anthony Rizzo,1B
+2023,10,111,2023-07-18,Adam Frazier,2B
+2023,10,111,2023-07-18,Bobby Witt Jr.,3B
+2023,10,111,2023-07-18,Luis Garcia,SS
+2023,10,111,2023-07-18,Christian Yelich,OF
+2023,10,111,2023-07-18,Cody Bellinger,OF
+2023,10,111,2023-07-18,Harrison Bader,OF
+2023,10,111,2023-07-18,Steven Kwan,UTIL
+2023,10,111,2023-07-18,Jonah Heim,UTIL
+2023,10,111,2023-07-18,Vladimir Guerrero Jr.,Bench
+2023,10,111,2023-07-18,Jose Altuve,Bench
+2023,10,111,2023-07-18,Pablo Lopez,Bench
+2023,10,111,2023-07-18,Brayan Bello,Bench
+2023,10,111,2023-07-18,Brady Singer,Bench
+2023,10,111,2023-07-18,Oneil Cruz,IL
+2023,10,111,2023-07-18,Max Fried,IL
+2023,10,111,2023-07-18,Kyle Wright,IL
+2023,10,111,2023-07-18,Alek Manoah,SP
+2023,10,111,2023-07-18,Cristian Javier,SP
+2023,10,111,2023-07-18,Hunter Brown,SP
+2023,10,111,2023-07-18,Daniel Lynch IV,SP
+2023,10,111,2023-07-18,Tommy Henry,SP
+2023,10,111,2023-07-18,Jordan Romano,RP
+2023,10,111,2023-07-18,Jake Bird,RP
+2023,10,111,2023-07-18,Shawn Armstrong,RP
+2023,10,112,2023-07-19,Jonah Heim,C
+2023,10,112,2023-07-19,Anthony Rizzo,1B
+2023,10,112,2023-07-19,Adam Frazier,2B
+2023,10,112,2023-07-19,Bobby Witt Jr.,3B
+2023,10,112,2023-07-19,Luis Garcia,SS
+2023,10,112,2023-07-19,Christian Yelich,OF
+2023,10,112,2023-07-19,Cody Bellinger,OF
+2023,10,112,2023-07-19,Harrison Bader,OF
+2023,10,112,2023-07-19,Vladimir Guerrero Jr.,UTIL
+2023,10,112,2023-07-19,Steven Kwan,UTIL
+2023,10,112,2023-07-19,Adley Rutschman,Bench
+2023,10,112,2023-07-19,Jose Altuve,Bench
+2023,10,112,2023-07-19,Pablo Lopez,Bench
+2023,10,112,2023-07-19,Hunter Brown,Bench
+2023,10,112,2023-07-19,Brady Singer,Bench
+2023,10,112,2023-07-19,Oneil Cruz,IL
+2023,10,112,2023-07-19,Max Fried,IL
+2023,10,112,2023-07-19,Kyle Wright,IL
+2023,10,112,2023-07-19,Alek Manoah,SP
+2023,10,112,2023-07-19,Cristian Javier,SP
+2023,10,112,2023-07-19,Brayan Bello,SP
+2023,10,112,2023-07-19,Daniel Lynch IV,SP
+2023,10,112,2023-07-19,Tommy Henry,SP
+2023,10,112,2023-07-19,Jordan Romano,RP
+2023,10,112,2023-07-19,Jake Bird,RP
+2023,10,112,2023-07-19,Shawn Armstrong,RP
+2023,10,113,2023-07-20,Adley Rutschman,C
+2023,10,113,2023-07-20,Anthony Rizzo,1B
+2023,10,113,2023-07-20,Adam Frazier,2B
+2023,10,113,2023-07-20,Bobby Witt Jr.,3B
+2023,10,113,2023-07-20,Luis Garcia,SS
+2023,10,113,2023-07-20,Christian Yelich,OF
+2023,10,113,2023-07-20,Cody Bellinger,OF
+2023,10,113,2023-07-20,Harrison Bader,OF
+2023,10,113,2023-07-20,Vladimir Guerrero Jr.,UTIL
+2023,10,113,2023-07-20,Steven Kwan,UTIL
+2023,10,113,2023-07-20,Jose Altuve,Bench
+2023,10,113,2023-07-20,Jonah Heim,Bench
+2023,10,113,2023-07-20,Hunter Brown,Bench
+2023,10,113,2023-07-20,Brayan Bello,Bench
+2023,10,113,2023-07-20,Brady Singer,Bench
+2023,10,113,2023-07-20,Oneil Cruz,IL
+2023,10,113,2023-07-20,Max Fried,IL
+2023,10,113,2023-07-20,Kyle Wright,IL
+2023,10,113,2023-07-20,Alek Manoah,SP
+2023,10,113,2023-07-20,Cristian Javier,SP
+2023,10,113,2023-07-20,Pablo Lopez,SP
+2023,10,113,2023-07-20,Daniel Lynch IV,SP
+2023,10,113,2023-07-20,Tommy Henry,SP
+2023,10,113,2023-07-20,Jordan Romano,RP
+2023,10,113,2023-07-20,Jake Bird,RP
+2023,10,113,2023-07-20,Shawn Armstrong,RP
+2023,10,114,2023-07-21,Adley Rutschman,C
+2023,10,114,2023-07-21,Anthony Rizzo,1B
+2023,10,114,2023-07-21,Adam Frazier,2B
+2023,10,114,2023-07-21,Bobby Witt Jr.,3B
+2023,10,114,2023-07-21,Luis Garcia,SS
+2023,10,114,2023-07-21,Christian Yelich,OF
+2023,10,114,2023-07-21,Cody Bellinger,OF
+2023,10,114,2023-07-21,Harrison Bader,OF
+2023,10,114,2023-07-21,Vladimir Guerrero Jr.,UTIL
+2023,10,114,2023-07-21,Steven Kwan,UTIL
+2023,10,114,2023-07-21,Jose Altuve,Bench
+2023,10,114,2023-07-21,Jonah Heim,Bench
+2023,10,114,2023-07-21,Hunter Brown,Bench
+2023,10,114,2023-07-21,Brayan Bello,Bench
+2023,10,114,2023-07-21,Brady Singer,Bench
+2023,10,114,2023-07-21,Oneil Cruz,IL
+2023,10,114,2023-07-21,Max Fried,IL
+2023,10,114,2023-07-21,Kyle Wright,IL
+2023,10,114,2023-07-21,Alek Manoah,SP
+2023,10,114,2023-07-21,Cristian Javier,SP
+2023,10,114,2023-07-21,Pablo Lopez,SP
+2023,10,114,2023-07-21,Daniel Lynch IV,SP
+2023,10,114,2023-07-21,Tommy Henry,SP
+2023,10,114,2023-07-21,Jordan Romano,RP
+2023,10,114,2023-07-21,Jake Bird,RP
+2023,10,114,2023-07-21,Shawn Armstrong,RP
+2023,10,115,2023-07-22,Adley Rutschman,C
+2023,10,115,2023-07-22,Anthony Rizzo,1B
+2023,10,115,2023-07-22,Adam Frazier,2B
+2023,10,115,2023-07-22,Bobby Witt Jr.,3B
+2023,10,115,2023-07-22,Luis Garcia,SS
+2023,10,115,2023-07-22,Christian Yelich,OF
+2023,10,115,2023-07-22,Cody Bellinger,OF
+2023,10,115,2023-07-22,Harrison Bader,OF
+2023,10,115,2023-07-22,Vladimir Guerrero Jr.,UTIL
+2023,10,115,2023-07-22,Steven Kwan,UTIL
+2023,10,115,2023-07-22,Jose Altuve,Bench
+2023,10,115,2023-07-22,Jonah Heim,Bench
+2023,10,115,2023-07-22,Hunter Brown,Bench
+2023,10,115,2023-07-22,Brayan Bello,Bench
+2023,10,115,2023-07-22,Brady Singer,Bench
+2023,10,115,2023-07-22,Oneil Cruz,IL
+2023,10,115,2023-07-22,Max Fried,IL
+2023,10,115,2023-07-22,Kyle Wright,IL
+2023,10,115,2023-07-22,Alek Manoah,SP
+2023,10,115,2023-07-22,Cristian Javier,SP
+2023,10,115,2023-07-22,Pablo Lopez,SP
+2023,10,115,2023-07-22,Daniel Lynch IV,SP
+2023,10,115,2023-07-22,Tommy Henry,SP
+2023,10,115,2023-07-22,Jordan Romano,RP
+2023,10,115,2023-07-22,Jake Bird,RP
+2023,10,115,2023-07-22,Shawn Armstrong,RP
+2023,10,116,2023-07-23,Adley Rutschman,C
+2023,10,116,2023-07-23,Anthony Rizzo,1B
+2023,10,116,2023-07-23,Adam Frazier,2B
+2023,10,116,2023-07-23,Bobby Witt Jr.,3B
+2023,10,116,2023-07-23,Luis Garcia,SS
+2023,10,116,2023-07-23,Christian Yelich,OF
+2023,10,116,2023-07-23,Cody Bellinger,OF
+2023,10,116,2023-07-23,Harrison Bader,OF
+2023,10,116,2023-07-23,Vladimir Guerrero Jr.,UTIL
+2023,10,116,2023-07-23,Steven Kwan,UTIL
+2023,10,116,2023-07-23,Jose Altuve,Bench
+2023,10,116,2023-07-23,Jonah Heim,Bench
+2023,10,116,2023-07-23,Trent Grisham,Bench
+2023,10,116,2023-07-23,Alek Manoah,Bench
+2023,10,116,2023-07-23,Hunter Brown,Bench
+2023,10,116,2023-07-23,Brayan Bello,Bench
+2023,10,116,2023-07-23,Brady Singer,Bench
+2023,10,116,2023-07-23,Oneil Cruz,IL
+2023,10,116,2023-07-23,Max Fried,IL
+2023,10,116,2023-07-23,Kyle Wright,IL
+2023,10,116,2023-07-23,Cristian Javier,SP
+2023,10,116,2023-07-23,Pablo Lopez,SP
+2023,10,116,2023-07-23,Tommy Henry,SP
+2023,10,116,2023-07-23,Jordan Romano,RP
+2023,10,116,2023-07-23,Jake Bird,RP
+2023,10,116,2023-07-23,Shawn Armstrong,RP
+2023,10,117,2023-07-24,Adley Rutschman,C
+2023,10,117,2023-07-24,Vladimir Guerrero Jr.,1B
+2023,10,117,2023-07-24,Adam Frazier,2B
+2023,10,117,2023-07-24,Bobby Witt Jr.,3B
+2023,10,117,2023-07-24,Luis Garcia,SS
+2023,10,117,2023-07-24,Christian Yelich,OF
+2023,10,117,2023-07-24,Cody Bellinger,OF
+2023,10,117,2023-07-24,Trent Grisham,OF
+2023,10,117,2023-07-24,Steven Kwan,UTIL
+2023,10,117,2023-07-24,Jonah Heim,UTIL
+2023,10,117,2023-07-24,Anthony Rizzo,Bench
+2023,10,117,2023-07-24,Jose Altuve,Bench
+2023,10,117,2023-07-24,Harrison Bader,Bench
+2023,10,117,2023-07-24,Alek Manoah,Bench
+2023,10,117,2023-07-24,Hunter Brown,Bench
+2023,10,117,2023-07-24,Brayan Bello,Bench
+2023,10,117,2023-07-24,Jake Bird,Bench
+2023,10,117,2023-07-24,Brady Singer,Bench
+2023,10,117,2023-07-24,Oneil Cruz,IL
+2023,10,117,2023-07-24,Max Fried,IL
+2023,10,117,2023-07-24,Kyle Wright,IL
+2023,10,117,2023-07-24,Cristian Javier,SP
+2023,10,117,2023-07-24,Pablo Lopez,SP
+2023,10,117,2023-07-24,Tommy Henry,SP
+2023,10,117,2023-07-24,Jordan Romano,RP
+2023,10,117,2023-07-24,Shawn Armstrong,RP
+2023,10,118,2023-07-25,Adley Rutschman,C
+2023,10,118,2023-07-25,Vladimir Guerrero Jr.,1B
+2023,10,118,2023-07-25,Adam Frazier,2B
+2023,10,118,2023-07-25,Bobby Witt Jr.,3B
+2023,10,118,2023-07-25,Luis Garcia,SS
+2023,10,118,2023-07-25,Christian Yelich,OF
+2023,10,118,2023-07-25,Cody Bellinger,OF
+2023,10,118,2023-07-25,Trent Grisham,OF
+2023,10,118,2023-07-25,Steven Kwan,UTIL
+2023,10,118,2023-07-25,Jonah Heim,UTIL
+2023,10,118,2023-07-25,Anthony Rizzo,Bench
+2023,10,118,2023-07-25,Jose Altuve,Bench
+2023,10,118,2023-07-25,Harrison Bader,Bench
+2023,10,118,2023-07-25,Alek Manoah,Bench
+2023,10,118,2023-07-25,Hunter Brown,Bench
+2023,10,118,2023-07-25,Brayan Bello,Bench
+2023,10,118,2023-07-25,Jake Bird,Bench
+2023,10,118,2023-07-25,Brady Singer,Bench
+2023,10,118,2023-07-25,Oneil Cruz,IL
+2023,10,118,2023-07-25,Max Fried,IL
+2023,10,118,2023-07-25,Kyle Wright,IL
+2023,10,118,2023-07-25,Cristian Javier,SP
+2023,10,118,2023-07-25,Pablo Lopez,SP
+2023,10,118,2023-07-25,Tommy Henry,SP
+2023,10,118,2023-07-25,Jordan Romano,RP
+2023,10,118,2023-07-25,Shawn Armstrong,RP
+2023,10,119,2023-07-26,Adley Rutschman,C
+2023,10,119,2023-07-26,Vladimir Guerrero Jr.,1B
+2023,10,119,2023-07-26,Adam Frazier,2B
+2023,10,119,2023-07-26,Bobby Witt Jr.,3B
+2023,10,119,2023-07-26,Luis Garcia,SS
+2023,10,119,2023-07-26,Christian Yelich,OF
+2023,10,119,2023-07-26,Cody Bellinger,OF
+2023,10,119,2023-07-26,Trent Grisham,OF
+2023,10,119,2023-07-26,Steven Kwan,UTIL
+2023,10,119,2023-07-26,Anthony Rizzo,UTIL
+2023,10,119,2023-07-26,Jose Altuve,Bench
+2023,10,119,2023-07-26,Harrison Bader,Bench
+2023,10,119,2023-07-26,Jonah Heim,Bench
+2023,10,119,2023-07-26,Alek Manoah,Bench
+2023,10,119,2023-07-26,Hunter Brown,Bench
+2023,10,119,2023-07-26,Jake Bird,Bench
+2023,10,119,2023-07-26,Brady Singer,Bench
+2023,10,119,2023-07-26,Oneil Cruz,IL
+2023,10,119,2023-07-26,Max Fried,IL
+2023,10,119,2023-07-26,Kyle Wright,IL
+2023,10,119,2023-07-26,Cristian Javier,SP
+2023,10,119,2023-07-26,Pablo Lopez,SP
+2023,10,119,2023-07-26,Brayan Bello,SP
+2023,10,119,2023-07-26,Tommy Henry,SP
+2023,10,119,2023-07-26,Jordan Romano,RP
+2023,10,119,2023-07-26,Shawn Armstrong,RP
+2023,10,120,2023-07-27,Adley Rutschman,C
+2023,10,120,2023-07-27,Vladimir Guerrero Jr.,1B
+2023,10,120,2023-07-27,Adam Frazier,2B
+2023,10,120,2023-07-27,Bobby Witt Jr.,3B
+2023,10,120,2023-07-27,Luis Garcia,SS
+2023,10,120,2023-07-27,Christian Yelich,OF
+2023,10,120,2023-07-27,Cody Bellinger,OF
+2023,10,120,2023-07-27,Trent Grisham,OF
+2023,10,120,2023-07-27,Steven Kwan,UTIL
+2023,10,120,2023-07-27,Anthony Rizzo,UTIL
+2023,10,120,2023-07-27,Jose Altuve,Bench
+2023,10,120,2023-07-27,Harrison Bader,Bench
+2023,10,120,2023-07-27,Jonah Heim,Bench
+2023,10,120,2023-07-27,Alek Manoah,Bench
+2023,10,120,2023-07-27,Hunter Brown,Bench
+2023,10,120,2023-07-27,Jake Bird,Bench
+2023,10,120,2023-07-27,Brady Singer,Bench
+2023,10,120,2023-07-27,Oneil Cruz,IL
+2023,10,120,2023-07-27,Max Fried,IL
+2023,10,120,2023-07-27,Kyle Wright,IL
+2023,10,120,2023-07-27,Cristian Javier,SP
+2023,10,120,2023-07-27,Pablo Lopez,SP
+2023,10,120,2023-07-27,Brayan Bello,SP
+2023,10,120,2023-07-27,Tommy Henry,SP
+2023,10,120,2023-07-27,Jordan Romano,RP
+2023,10,120,2023-07-27,Shawn Armstrong,RP
+2023,10,121,2023-07-28,Adley Rutschman,C
+2023,10,121,2023-07-28,Vladimir Guerrero Jr.,1B
+2023,10,121,2023-07-28,Adam Frazier,2B
+2023,10,121,2023-07-28,Bobby Witt Jr.,3B
+2023,10,121,2023-07-28,Luis Garcia,SS
+2023,10,121,2023-07-28,Christian Yelich,OF
+2023,10,121,2023-07-28,Cody Bellinger,OF
+2023,10,121,2023-07-28,Trent Grisham,OF
+2023,10,121,2023-07-28,Steven Kwan,UTIL
+2023,10,121,2023-07-28,Anthony Rizzo,UTIL
+2023,10,121,2023-07-28,Jose Altuve,Bench
+2023,10,121,2023-07-28,Harrison Bader,Bench
+2023,10,121,2023-07-28,Jonah Heim,Bench
+2023,10,121,2023-07-28,Alek Manoah,Bench
+2023,10,121,2023-07-28,Hunter Brown,Bench
+2023,10,121,2023-07-28,Jake Bird,Bench
+2023,10,121,2023-07-28,Oneil Cruz,IL
+2023,10,121,2023-07-28,Max Fried,IL
+2023,10,121,2023-07-28,Kyle Wright,IL
+2023,10,121,2023-07-28,Cristian Javier,SP
+2023,10,121,2023-07-28,Pablo Lopez,SP
+2023,10,121,2023-07-28,Brayan Bello,SP
+2023,10,121,2023-07-28,Brady Singer,SP
+2023,10,121,2023-07-28,Tommy Henry,SP
+2023,10,121,2023-07-28,Jordan Romano,RP
+2023,10,121,2023-07-28,Shawn Armstrong,RP
+2023,10,122,2023-07-29,Adley Rutschman,C
+2023,10,122,2023-07-29,Vladimir Guerrero Jr.,1B
+2023,10,122,2023-07-29,Adam Frazier,2B
+2023,10,122,2023-07-29,Bobby Witt Jr.,3B
+2023,10,122,2023-07-29,Luis Garcia,SS
+2023,10,122,2023-07-29,Christian Yelich,OF
+2023,10,122,2023-07-29,Cody Bellinger,OF
+2023,10,122,2023-07-29,Trent Grisham,OF
+2023,10,122,2023-07-29,Steven Kwan,UTIL
+2023,10,122,2023-07-29,Anthony Rizzo,UTIL
+2023,10,122,2023-07-29,Jose Altuve,Bench
+2023,10,122,2023-07-29,Harrison Bader,Bench
+2023,10,122,2023-07-29,Jonah Heim,Bench
+2023,10,122,2023-07-29,Alek Manoah,Bench
+2023,10,122,2023-07-29,Hunter Brown,Bench
+2023,10,122,2023-07-29,Jake Bird,Bench
+2023,10,122,2023-07-29,Oneil Cruz,IL
+2023,10,122,2023-07-29,Max Fried,IL
+2023,10,122,2023-07-29,Kyle Wright,IL
+2023,10,122,2023-07-29,Cristian Javier,SP
+2023,10,122,2023-07-29,Pablo Lopez,SP
+2023,10,122,2023-07-29,Brayan Bello,SP
+2023,10,122,2023-07-29,Brady Singer,SP
+2023,10,122,2023-07-29,Tommy Henry,SP
+2023,10,122,2023-07-29,Jordan Romano,RP
+2023,10,122,2023-07-29,Shawn Armstrong,RP
+2023,10,123,2023-07-30,Adley Rutschman,C
+2023,10,123,2023-07-30,Vladimir Guerrero Jr.,1B
+2023,10,123,2023-07-30,Jose Altuve,2B
+2023,10,123,2023-07-30,Bobby Witt Jr.,3B
+2023,10,123,2023-07-30,Luis Garcia,SS
+2023,10,123,2023-07-30,Christian Yelich,OF
+2023,10,123,2023-07-30,Cody Bellinger,OF
+2023,10,123,2023-07-30,Trent Grisham,OF
+2023,10,123,2023-07-30,Steven Kwan,UTIL
+2023,10,123,2023-07-30,Anthony Rizzo,UTIL
+2023,10,123,2023-07-30,Harrison Bader,Bench
+2023,10,123,2023-07-30,Jonah Heim,Bench
+2023,10,123,2023-07-30,Adam Frazier,Bench
+2023,10,123,2023-07-30,Alek Manoah,Bench
+2023,10,123,2023-07-30,Hunter Brown,Bench
+2023,10,123,2023-07-30,Jake Bird,Bench
+2023,10,123,2023-07-30,Oneil Cruz,IL
+2023,10,123,2023-07-30,Max Fried,IL
+2023,10,123,2023-07-30,Kyle Wright,IL
+2023,10,123,2023-07-30,Cristian Javier,SP
+2023,10,123,2023-07-30,Pablo Lopez,SP
+2023,10,123,2023-07-30,Brayan Bello,SP
+2023,10,123,2023-07-30,Brady Singer,SP
+2023,10,123,2023-07-30,Tommy Henry,SP
+2023,10,123,2023-07-30,Jordan Romano,RP
+2023,10,123,2023-07-30,Shawn Armstrong,RP
+2023,10,124,2023-07-31,Adley Rutschman,C
+2023,10,124,2023-07-31,Vladimir Guerrero Jr.,1B
+2023,10,124,2023-07-31,Jose Altuve,2B
+2023,10,124,2023-07-31,Bobby Witt Jr.,3B
+2023,10,124,2023-07-31,Luis Garcia,SS
+2023,10,124,2023-07-31,Christian Yelich,OF
+2023,10,124,2023-07-31,Cody Bellinger,OF
+2023,10,124,2023-07-31,Trent Grisham,OF
+2023,10,124,2023-07-31,Steven Kwan,UTIL
+2023,10,124,2023-07-31,Anthony Rizzo,UTIL
+2023,10,124,2023-07-31,Harrison Bader,Bench
+2023,10,124,2023-07-31,Jonah Heim,Bench
+2023,10,124,2023-07-31,Adam Frazier,Bench
+2023,10,124,2023-07-31,Alek Manoah,Bench
+2023,10,124,2023-07-31,Hunter Brown,Bench
+2023,10,124,2023-07-31,Jake Bird,Bench
+2023,10,124,2023-07-31,Oneil Cruz,IL
+2023,10,124,2023-07-31,Max Fried,IL
+2023,10,124,2023-07-31,Kyle Wright,IL
+2023,10,124,2023-07-31,Cristian Javier,SP
+2023,10,124,2023-07-31,Pablo Lopez,SP
+2023,10,124,2023-07-31,Brayan Bello,SP
+2023,10,124,2023-07-31,Brady Singer,SP
+2023,10,124,2023-07-31,Tommy Henry,SP
+2023,10,124,2023-07-31,Jordan Romano,RP
+2023,10,124,2023-07-31,Shawn Armstrong,RP
+2023,10,125,2023-08-01,Adley Rutschman,C
+2023,10,125,2023-08-01,Vladimir Guerrero Jr.,1B
+2023,10,125,2023-08-01,Jose Altuve,2B
+2023,10,125,2023-08-01,Bobby Witt Jr.,3B
+2023,10,125,2023-08-01,Luis Garcia,SS
+2023,10,125,2023-08-01,Christian Yelich,OF
+2023,10,125,2023-08-01,Cody Bellinger,OF
+2023,10,125,2023-08-01,Trent Grisham,OF
+2023,10,125,2023-08-01,Steven Kwan,UTIL
+2023,10,125,2023-08-01,Anthony Rizzo,UTIL
+2023,10,125,2023-08-01,Harrison Bader,Bench
+2023,10,125,2023-08-01,Jonah Heim,Bench
+2023,10,125,2023-08-01,Adam Frazier,Bench
+2023,10,125,2023-08-01,Alek Manoah,Bench
+2023,10,125,2023-08-01,Hunter Brown,Bench
+2023,10,125,2023-08-01,Jake Bird,Bench
+2023,10,125,2023-08-01,Oneil Cruz,IL
+2023,10,125,2023-08-01,Max Fried,IL
+2023,10,125,2023-08-01,Kyle Wright,IL
+2023,10,125,2023-08-01,Cristian Javier,SP
+2023,10,125,2023-08-01,Pablo Lopez,SP
+2023,10,125,2023-08-01,Brayan Bello,SP
+2023,10,125,2023-08-01,Brady Singer,SP
+2023,10,125,2023-08-01,Tommy Henry,SP
+2023,10,125,2023-08-01,Jordan Romano,RP
+2023,10,125,2023-08-01,Shawn Armstrong,RP
+2023,10,126,2023-08-02,Adley Rutschman,C
+2023,10,126,2023-08-02,Vladimir Guerrero Jr.,1B
+2023,10,126,2023-08-02,Adam Frazier,2B
+2023,10,126,2023-08-02,Bobby Witt Jr.,3B
+2023,10,126,2023-08-02,Luis Garcia,SS
+2023,10,126,2023-08-02,Christian Yelich,OF
+2023,10,126,2023-08-02,Cody Bellinger,OF
+2023,10,126,2023-08-02,Trent Grisham,OF
+2023,10,126,2023-08-02,Steven Kwan,UTIL
+2023,10,126,2023-08-02,Anthony Rizzo,UTIL
+2023,10,126,2023-08-02,Jose Altuve,Bench
+2023,10,126,2023-08-02,Harrison Bader,Bench
+2023,10,126,2023-08-02,Jonah Heim,Bench
+2023,10,126,2023-08-02,Alek Manoah,Bench
+2023,10,126,2023-08-02,Hunter Brown,Bench
+2023,10,126,2023-08-02,Jake Bird,Bench
+2023,10,126,2023-08-02,Oneil Cruz,IL
+2023,10,126,2023-08-02,Max Fried,IL
+2023,10,126,2023-08-02,Kyle Wright,IL
+2023,10,126,2023-08-02,Cristian Javier,SP
+2023,10,126,2023-08-02,Pablo Lopez,SP
+2023,10,126,2023-08-02,Brayan Bello,SP
+2023,10,126,2023-08-02,Brady Singer,SP
+2023,10,126,2023-08-02,Tommy Henry,SP
+2023,10,126,2023-08-02,Jordan Romano,RP
+2023,10,126,2023-08-02,Shawn Armstrong,RP
+2023,10,127,2023-08-03,Adley Rutschman,C
+2023,10,127,2023-08-03,Vladimir Guerrero Jr.,1B
+2023,10,127,2023-08-03,Adam Frazier,2B
+2023,10,127,2023-08-03,Bobby Witt Jr.,3B
+2023,10,127,2023-08-03,Luis Garcia,SS
+2023,10,127,2023-08-03,Christian Yelich,OF
+2023,10,127,2023-08-03,Cody Bellinger,OF
+2023,10,127,2023-08-03,Harrison Bader,OF
+2023,10,127,2023-08-03,Anthony Rizzo,UTIL
+2023,10,127,2023-08-03,Jose Altuve,UTIL
+2023,10,127,2023-08-03,Steven Kwan,Bench
+2023,10,127,2023-08-03,Trent Grisham,Bench
+2023,10,127,2023-08-03,Alek Manoah,Bench
+2023,10,127,2023-08-03,Max Fried,Bench
+2023,10,127,2023-08-03,Hunter Brown,Bench
+2023,10,127,2023-08-03,Jake Bird,Bench
+2023,10,127,2023-08-03,Oneil Cruz,IL
+2023,10,127,2023-08-03,Jonah Heim,IL
+2023,10,127,2023-08-03,Kyle Wright,IL
+2023,10,127,2023-08-03,Cristian Javier,SP
+2023,10,127,2023-08-03,Pablo Lopez,SP
+2023,10,127,2023-08-03,Brayan Bello,SP
+2023,10,127,2023-08-03,Brady Singer,SP
+2023,10,127,2023-08-03,Tommy Henry,SP
+2023,10,127,2023-08-03,Jordan Romano,RP
+2023,10,127,2023-08-03,Shawn Armstrong,RP
+2023,10,128,2023-08-04,Adley Rutschman,C
+2023,10,128,2023-08-04,Vladimir Guerrero Jr.,1B
+2023,10,128,2023-08-04,Adam Frazier,2B
+2023,10,128,2023-08-04,Bobby Witt Jr.,3B
+2023,10,128,2023-08-04,Luis Garcia,SS
+2023,10,128,2023-08-04,Christian Yelich,OF
+2023,10,128,2023-08-04,Cody Bellinger,OF
+2023,10,128,2023-08-04,Harrison Bader,OF
+2023,10,128,2023-08-04,Steven Kwan,UTIL
+2023,10,128,2023-08-04,Jose Altuve,UTIL
+2023,10,128,2023-08-04,Anthony Rizzo,Bench
+2023,10,128,2023-08-04,Trent Grisham,Bench
+2023,10,128,2023-08-04,Pablo Lopez,Bench
+2023,10,128,2023-08-04,Brayan Bello,Bench
+2023,10,128,2023-08-04,Jake Bird,Bench
+2023,10,128,2023-08-04,Brady Singer,Bench
+2023,10,128,2023-08-04,Oneil Cruz,IL
+2023,10,128,2023-08-04,Jonah Heim,IL
+2023,10,128,2023-08-04,Kyle Wright,IL
+2023,10,128,2023-08-04,Alek Manoah,SP
+2023,10,128,2023-08-04,Max Fried,SP
+2023,10,128,2023-08-04,Cristian Javier,SP
+2023,10,128,2023-08-04,Hunter Brown,SP
+2023,10,128,2023-08-04,Tommy Henry,SP
+2023,10,128,2023-08-04,Jordan Romano,RP
+2023,10,128,2023-08-04,Shawn Armstrong,RP
+2023,10,129,2023-08-05,Adley Rutschman,C
+2023,10,129,2023-08-05,Vladimir Guerrero Jr.,1B
+2023,10,129,2023-08-05,Adam Frazier,2B
+2023,10,129,2023-08-05,Bobby Witt Jr.,3B
+2023,10,129,2023-08-05,Luis Garcia,SS
+2023,10,129,2023-08-05,Christian Yelich,OF
+2023,10,129,2023-08-05,Cody Bellinger,OF
+2023,10,129,2023-08-05,Harrison Bader,OF
+2023,10,129,2023-08-05,Steven Kwan,UTIL
+2023,10,129,2023-08-05,Jose Altuve,UTIL
+2023,10,129,2023-08-05,Anthony Rizzo,Bench
+2023,10,129,2023-08-05,Trent Grisham,Bench
+2023,10,129,2023-08-05,Pablo Lopez,Bench
+2023,10,129,2023-08-05,Brayan Bello,Bench
+2023,10,129,2023-08-05,Jake Bird,Bench
+2023,10,129,2023-08-05,Brady Singer,Bench
+2023,10,129,2023-08-05,Oneil Cruz,IL
+2023,10,129,2023-08-05,Jonah Heim,IL
+2023,10,129,2023-08-05,Kyle Wright,IL
+2023,10,129,2023-08-05,Alek Manoah,SP
+2023,10,129,2023-08-05,Max Fried,SP
+2023,10,129,2023-08-05,Cristian Javier,SP
+2023,10,129,2023-08-05,Hunter Brown,SP
+2023,10,129,2023-08-05,Tommy Henry,SP
+2023,10,129,2023-08-05,Jordan Romano,RP
+2023,10,129,2023-08-05,Shawn Armstrong,RP
+2023,10,130,2023-08-06,Adley Rutschman,C
+2023,10,130,2023-08-06,Vladimir Guerrero Jr.,1B
+2023,10,130,2023-08-06,Adam Frazier,2B
+2023,10,130,2023-08-06,Bobby Witt Jr.,3B
+2023,10,130,2023-08-06,Luis Garcia,SS
+2023,10,130,2023-08-06,Christian Yelich,OF
+2023,10,130,2023-08-06,Cody Bellinger,OF
+2023,10,130,2023-08-06,Harrison Bader,OF
+2023,10,130,2023-08-06,Steven Kwan,UTIL
+2023,10,130,2023-08-06,Jose Altuve,UTIL
+2023,10,130,2023-08-06,Anthony Rizzo,Bench
+2023,10,130,2023-08-06,Trent Grisham,Bench
+2023,10,130,2023-08-06,Pablo Lopez,Bench
+2023,10,130,2023-08-06,Brayan Bello,Bench
+2023,10,130,2023-08-06,Jake Bird,Bench
+2023,10,130,2023-08-06,Brady Singer,Bench
+2023,10,130,2023-08-06,Oneil Cruz,IL
+2023,10,130,2023-08-06,Jonah Heim,IL
+2023,10,130,2023-08-06,Kyle Wright,IL
+2023,10,130,2023-08-06,Alek Manoah,SP
+2023,10,130,2023-08-06,Max Fried,SP
+2023,10,130,2023-08-06,Cristian Javier,SP
+2023,10,130,2023-08-06,Hunter Brown,SP
+2023,10,130,2023-08-06,Tommy Henry,SP
+2023,10,130,2023-08-06,Jordan Romano,RP
+2023,10,130,2023-08-06,Shawn Armstrong,RP
+2023,10,131,2023-08-07,Adley Rutschman,C
+2023,10,131,2023-08-07,Vladimir Guerrero Jr.,1B
+2023,10,131,2023-08-07,Adam Frazier,2B
+2023,10,131,2023-08-07,Bobby Witt Jr.,3B
+2023,10,131,2023-08-07,Luis Garcia,SS
+2023,10,131,2023-08-07,Christian Yelich,OF
+2023,10,131,2023-08-07,Cody Bellinger,OF
+2023,10,131,2023-08-07,Harrison Bader,OF
+2023,10,131,2023-08-07,Steven Kwan,UTIL
+2023,10,131,2023-08-07,Jose Altuve,UTIL
+2023,10,131,2023-08-07,Anthony Rizzo,Bench
+2023,10,131,2023-08-07,Trent Grisham,Bench
+2023,10,131,2023-08-07,Pablo Lopez,Bench
+2023,10,131,2023-08-07,Brayan Bello,Bench
+2023,10,131,2023-08-07,Jake Bird,Bench
+2023,10,131,2023-08-07,Brady Singer,Bench
+2023,10,131,2023-08-07,Oneil Cruz,IL
+2023,10,131,2023-08-07,Jonah Heim,IL
+2023,10,131,2023-08-07,Kyle Wright,IL
+2023,10,131,2023-08-07,Alek Manoah,SP
+2023,10,131,2023-08-07,Max Fried,SP
+2023,10,131,2023-08-07,Cristian Javier,SP
+2023,10,131,2023-08-07,Hunter Brown,SP
+2023,10,131,2023-08-07,Tommy Henry,SP
+2023,10,131,2023-08-07,Jordan Romano,RP
+2023,10,131,2023-08-07,Shawn Armstrong,RP
+2023,10,132,2023-08-08,Adley Rutschman,C
+2023,10,132,2023-08-08,Vladimir Guerrero Jr.,1B
+2023,10,132,2023-08-08,Adam Frazier,2B
+2023,10,132,2023-08-08,Bobby Witt Jr.,3B
+2023,10,132,2023-08-08,Luis Garcia,SS
+2023,10,132,2023-08-08,Christian Yelich,OF
+2023,10,132,2023-08-08,Cody Bellinger,OF
+2023,10,132,2023-08-08,Harrison Bader,OF
+2023,10,132,2023-08-08,Steven Kwan,UTIL
+2023,10,132,2023-08-08,Jose Altuve,UTIL
+2023,10,132,2023-08-08,Anthony Rizzo,Bench
+2023,10,132,2023-08-08,Trent Grisham,Bench
+2023,10,132,2023-08-08,Pablo Lopez,Bench
+2023,10,132,2023-08-08,Brayan Bello,Bench
+2023,10,132,2023-08-08,Jake Bird,Bench
+2023,10,132,2023-08-08,Brady Singer,Bench
+2023,10,132,2023-08-08,Oneil Cruz,IL
+2023,10,132,2023-08-08,Jonah Heim,IL
+2023,10,132,2023-08-08,Kyle Wright,IL
+2023,10,132,2023-08-08,Alek Manoah,SP
+2023,10,132,2023-08-08,Max Fried,SP
+2023,10,132,2023-08-08,Cristian Javier,SP
+2023,10,132,2023-08-08,Hunter Brown,SP
+2023,10,132,2023-08-08,Tommy Henry,SP
+2023,10,132,2023-08-08,Jordan Romano,RP
+2023,10,132,2023-08-08,Shawn Armstrong,RP
+2023,10,133,2023-08-09,Adley Rutschman,C
+2023,10,133,2023-08-09,Vladimir Guerrero Jr.,1B
+2023,10,133,2023-08-09,Adam Frazier,2B
+2023,10,133,2023-08-09,Bobby Witt Jr.,3B
+2023,10,133,2023-08-09,Luis Garcia,SS
+2023,10,133,2023-08-09,Christian Yelich,OF
+2023,10,133,2023-08-09,Cody Bellinger,OF
+2023,10,133,2023-08-09,Harrison Bader,OF
+2023,10,133,2023-08-09,Steven Kwan,UTIL
+2023,10,133,2023-08-09,Jose Altuve,UTIL
+2023,10,133,2023-08-09,Anthony Rizzo,Bench
+2023,10,133,2023-08-09,Trent Grisham,Bench
+2023,10,133,2023-08-09,Pablo Lopez,Bench
+2023,10,133,2023-08-09,Brayan Bello,Bench
+2023,10,133,2023-08-09,Jake Bird,Bench
+2023,10,133,2023-08-09,Brady Singer,Bench
+2023,10,133,2023-08-09,Oneil Cruz,IL
+2023,10,133,2023-08-09,Jonah Heim,IL
+2023,10,133,2023-08-09,Kyle Wright,IL
+2023,10,133,2023-08-09,Alek Manoah,SP
+2023,10,133,2023-08-09,Max Fried,SP
+2023,10,133,2023-08-09,Cristian Javier,SP
+2023,10,133,2023-08-09,Hunter Brown,SP
+2023,10,133,2023-08-09,Tommy Henry,SP
+2023,10,133,2023-08-09,Jordan Romano,RP
+2023,10,133,2023-08-09,Shawn Armstrong,RP
+2023,10,134,2023-08-10,Adley Rutschman,C
+2023,10,134,2023-08-10,Vladimir Guerrero Jr.,1B
+2023,10,134,2023-08-10,Adam Frazier,2B
+2023,10,134,2023-08-10,Bobby Witt Jr.,3B
+2023,10,134,2023-08-10,Luis Garcia,SS
+2023,10,134,2023-08-10,Christian Yelich,OF
+2023,10,134,2023-08-10,Cody Bellinger,OF
+2023,10,134,2023-08-10,Harrison Bader,OF
+2023,10,134,2023-08-10,Steven Kwan,UTIL
+2023,10,134,2023-08-10,Jose Altuve,UTIL
+2023,10,134,2023-08-10,Anthony Rizzo,Bench
+2023,10,134,2023-08-10,Trent Grisham,Bench
+2023,10,134,2023-08-10,Pablo Lopez,Bench
+2023,10,134,2023-08-10,Brayan Bello,Bench
+2023,10,134,2023-08-10,Jake Bird,Bench
+2023,10,134,2023-08-10,Brady Singer,Bench
+2023,10,134,2023-08-10,Oneil Cruz,IL
+2023,10,134,2023-08-10,Jonah Heim,IL
+2023,10,134,2023-08-10,Kyle Wright,IL
+2023,10,134,2023-08-10,Alek Manoah,SP
+2023,10,134,2023-08-10,Max Fried,SP
+2023,10,134,2023-08-10,Cristian Javier,SP
+2023,10,134,2023-08-10,Hunter Brown,SP
+2023,10,134,2023-08-10,Tommy Henry,SP
+2023,10,134,2023-08-10,Jordan Romano,RP
+2023,10,134,2023-08-10,Shawn Armstrong,RP
+2023,10,135,2023-08-11,Adley Rutschman,C
+2023,10,135,2023-08-11,Vladimir Guerrero Jr.,1B
+2023,10,135,2023-08-11,Adam Frazier,2B
+2023,10,135,2023-08-11,Bobby Witt Jr.,3B
+2023,10,135,2023-08-11,Luis Garcia,SS
+2023,10,135,2023-08-11,Christian Yelich,OF
+2023,10,135,2023-08-11,Cody Bellinger,OF
+2023,10,135,2023-08-11,Harrison Bader,OF
+2023,10,135,2023-08-11,Steven Kwan,UTIL
+2023,10,135,2023-08-11,Jose Altuve,UTIL
+2023,10,135,2023-08-11,Anthony Rizzo,Bench
+2023,10,135,2023-08-11,Trent Grisham,Bench
+2023,10,135,2023-08-11,Pablo Lopez,Bench
+2023,10,135,2023-08-11,Brayan Bello,Bench
+2023,10,135,2023-08-11,Jake Bird,Bench
+2023,10,135,2023-08-11,Brady Singer,Bench
+2023,10,135,2023-08-11,Oneil Cruz,IL
+2023,10,135,2023-08-11,Jonah Heim,IL
+2023,10,135,2023-08-11,Kyle Wright,IL
+2023,10,135,2023-08-11,Alek Manoah,SP
+2023,10,135,2023-08-11,Max Fried,SP
+2023,10,135,2023-08-11,Cristian Javier,SP
+2023,10,135,2023-08-11,Hunter Brown,SP
+2023,10,135,2023-08-11,Tommy Henry,SP
+2023,10,135,2023-08-11,Jordan Romano,RP
+2023,10,135,2023-08-11,Shawn Armstrong,RP
+2023,10,136,2023-08-12,Adley Rutschman,C
+2023,10,136,2023-08-12,Vladimir Guerrero Jr.,1B
+2023,10,136,2023-08-12,Adam Frazier,2B
+2023,10,136,2023-08-12,Bobby Witt Jr.,3B
+2023,10,136,2023-08-12,Luis Garcia,SS
+2023,10,136,2023-08-12,Postponed,SS
+2023,10,136,2023-08-12,Christian Yelich,OF
+2023,10,136,2023-08-12,Cody Bellinger,OF
+2023,10,136,2023-08-12,Harrison Bader,OF
+2023,10,136,2023-08-12,Steven Kwan,UTIL
+2023,10,136,2023-08-12,Jose Altuve,UTIL
+2023,10,136,2023-08-12,Anthony Rizzo,Bench
+2023,10,136,2023-08-12,Trent Grisham,Bench
+2023,10,136,2023-08-12,Pablo Lopez,Bench
+2023,10,136,2023-08-12,Brayan Bello,Bench
+2023,10,136,2023-08-12,Jake Bird,Bench
+2023,10,136,2023-08-12,Brady Singer,Bench
+2023,10,136,2023-08-12,Oneil Cruz,IL
+2023,10,136,2023-08-12,Jonah Heim,IL
+2023,10,136,2023-08-12,Kyle Wright,IL
+2023,10,136,2023-08-12,Alek Manoah,SP
+2023,10,136,2023-08-12,Max Fried,SP
+2023,10,136,2023-08-12,Cristian Javier,SP
+2023,10,136,2023-08-12,Hunter Brown,SP
+2023,10,136,2023-08-12,Tommy Henry,SP
+2023,10,136,2023-08-12,Jordan Romano,RP
+2023,10,136,2023-08-12,Shawn Armstrong,RP
+2023,10,137,2023-08-13,Adley Rutschman,C
+2023,10,137,2023-08-13,Vladimir Guerrero Jr.,1B
+2023,10,137,2023-08-13,Adam Frazier,2B
+2023,10,137,2023-08-13,Bobby Witt Jr.,3B
+2023,10,137,2023-08-13,Luis Garcia,SS
+2023,10,137,2023-08-13,Christian Yelich,OF
+2023,10,137,2023-08-13,Cody Bellinger,OF
+2023,10,137,2023-08-13,Harrison Bader,OF
+2023,10,137,2023-08-13,Steven Kwan,UTIL
+2023,10,137,2023-08-13,Jose Altuve,UTIL
+2023,10,137,2023-08-13,Anthony Rizzo,Bench
+2023,10,137,2023-08-13,Trent Grisham,Bench
+2023,10,137,2023-08-13,Pablo Lopez,Bench
+2023,10,137,2023-08-13,Brayan Bello,Bench
+2023,10,137,2023-08-13,Jake Bird,Bench
+2023,10,137,2023-08-13,Brady Singer,Bench
+2023,10,137,2023-08-13,Oneil Cruz,IL
+2023,10,137,2023-08-13,Jonah Heim,IL
+2023,10,137,2023-08-13,Kyle Wright,IL
+2023,10,137,2023-08-13,Alek Manoah,SP
+2023,10,137,2023-08-13,Max Fried,SP
+2023,10,137,2023-08-13,Cristian Javier,SP
+2023,10,137,2023-08-13,Hunter Brown,SP
+2023,10,137,2023-08-13,Tommy Henry,SP
+2023,10,137,2023-08-13,Jordan Romano,RP
+2023,10,137,2023-08-13,Shawn Armstrong,RP
+2023,10,138,2023-08-14,Adley Rutschman,C
+2023,10,138,2023-08-14,Vladimir Guerrero Jr.,1B
+2023,10,138,2023-08-14,Adam Frazier,2B
+2023,10,138,2023-08-14,Bobby Witt Jr.,3B
+2023,10,138,2023-08-14,Luis Garcia,SS
+2023,10,138,2023-08-14,Christian Yelich,OF
+2023,10,138,2023-08-14,Cody Bellinger,OF
+2023,10,138,2023-08-14,Harrison Bader,OF
+2023,10,138,2023-08-14,Steven Kwan,UTIL
+2023,10,138,2023-08-14,Jose Altuve,UTIL
+2023,10,138,2023-08-14,Anthony Rizzo,Bench
+2023,10,138,2023-08-14,Trent Grisham,Bench
+2023,10,138,2023-08-14,Pablo Lopez,Bench
+2023,10,138,2023-08-14,Brayan Bello,Bench
+2023,10,138,2023-08-14,Jake Bird,Bench
+2023,10,138,2023-08-14,Brady Singer,Bench
+2023,10,138,2023-08-14,Oneil Cruz,IL
+2023,10,138,2023-08-14,Jonah Heim,IL
+2023,10,138,2023-08-14,Kyle Wright,IL
+2023,10,138,2023-08-14,Alek Manoah,SP
+2023,10,138,2023-08-14,Max Fried,SP
+2023,10,138,2023-08-14,Cristian Javier,SP
+2023,10,138,2023-08-14,Hunter Brown,SP
+2023,10,138,2023-08-14,Tommy Henry,SP
+2023,10,138,2023-08-14,Jordan Romano,RP
+2023,10,138,2023-08-14,Shawn Armstrong,RP
+2023,10,139,2023-08-15,Adley Rutschman,C
+2023,10,139,2023-08-15,Vladimir Guerrero Jr.,1B
+2023,10,139,2023-08-15,Adam Frazier,2B
+2023,10,139,2023-08-15,Bobby Witt Jr.,3B
+2023,10,139,2023-08-15,Luis Garcia,SS
+2023,10,139,2023-08-15,Christian Yelich,OF
+2023,10,139,2023-08-15,Cody Bellinger,OF
+2023,10,139,2023-08-15,Harrison Bader,OF
+2023,10,139,2023-08-15,Steven Kwan,UTIL
+2023,10,139,2023-08-15,Jose Altuve,UTIL
+2023,10,139,2023-08-15,Anthony Rizzo,Bench
+2023,10,139,2023-08-15,Trent Grisham,Bench
+2023,10,139,2023-08-15,Pablo Lopez,Bench
+2023,10,139,2023-08-15,Brayan Bello,Bench
+2023,10,139,2023-08-15,Jake Bird,Bench
+2023,10,139,2023-08-15,Brady Singer,Bench
+2023,10,139,2023-08-15,Oneil Cruz,IL
+2023,10,139,2023-08-15,Jonah Heim,IL
+2023,10,139,2023-08-15,Kyle Wright,IL
+2023,10,139,2023-08-15,Alek Manoah,SP
+2023,10,139,2023-08-15,Max Fried,SP
+2023,10,139,2023-08-15,Cristian Javier,SP
+2023,10,139,2023-08-15,Hunter Brown,SP
+2023,10,139,2023-08-15,Tommy Henry,SP
+2023,10,139,2023-08-15,Jordan Romano,RP
+2023,10,139,2023-08-15,Shawn Armstrong,RP
+2023,10,140,2023-08-16,Adley Rutschman,C
+2023,10,140,2023-08-16,Vladimir Guerrero Jr.,1B
+2023,10,140,2023-08-16,Adam Frazier,2B
+2023,10,140,2023-08-16,Bobby Witt Jr.,3B
+2023,10,140,2023-08-16,Luis Garcia,SS
+2023,10,140,2023-08-16,Christian Yelich,OF
+2023,10,140,2023-08-16,Cody Bellinger,OF
+2023,10,140,2023-08-16,Harrison Bader,OF
+2023,10,140,2023-08-16,Steven Kwan,UTIL
+2023,10,140,2023-08-16,Jose Altuve,UTIL
+2023,10,140,2023-08-16,Anthony Rizzo,Bench
+2023,10,140,2023-08-16,Trent Grisham,Bench
+2023,10,140,2023-08-16,Pablo Lopez,Bench
+2023,10,140,2023-08-16,Brayan Bello,Bench
+2023,10,140,2023-08-16,Jake Bird,Bench
+2023,10,140,2023-08-16,Brady Singer,Bench
+2023,10,140,2023-08-16,Oneil Cruz,IL
+2023,10,140,2023-08-16,Jonah Heim,IL
+2023,10,140,2023-08-16,Kyle Wright,IL
+2023,10,140,2023-08-16,Alek Manoah,SP
+2023,10,140,2023-08-16,Max Fried,SP
+2023,10,140,2023-08-16,Cristian Javier,SP
+2023,10,140,2023-08-16,Hunter Brown,SP
+2023,10,140,2023-08-16,Tommy Henry,SP
+2023,10,140,2023-08-16,Jordan Romano,RP
+2023,10,140,2023-08-16,Shawn Armstrong,RP
+2023,10,141,2023-08-17,Adley Rutschman,C
+2023,10,141,2023-08-17,Vladimir Guerrero Jr.,1B
+2023,10,141,2023-08-17,Adam Frazier,2B
+2023,10,141,2023-08-17,Bobby Witt Jr.,3B
+2023,10,141,2023-08-17,Luis Garcia,SS
+2023,10,141,2023-08-17,Christian Yelich,OF
+2023,10,141,2023-08-17,Cody Bellinger,OF
+2023,10,141,2023-08-17,Harrison Bader,OF
+2023,10,141,2023-08-17,Postponed,OF
+2023,10,141,2023-08-17,Steven Kwan,UTIL
+2023,10,141,2023-08-17,Jose Altuve,UTIL
+2023,10,141,2023-08-17,Anthony Rizzo,Bench
+2023,10,141,2023-08-17,Trent Grisham,Bench
+2023,10,141,2023-08-17,Pablo Lopez,Bench
+2023,10,141,2023-08-17,Brayan Bello,Bench
+2023,10,141,2023-08-17,Jake Bird,Bench
+2023,10,141,2023-08-17,Brady Singer,Bench
+2023,10,141,2023-08-17,Oneil Cruz,IL
+2023,10,141,2023-08-17,Jonah Heim,IL
+2023,10,141,2023-08-17,Kyle Wright,IL
+2023,10,141,2023-08-17,Alek Manoah,SP
+2023,10,141,2023-08-17,Max Fried,SP
+2023,10,141,2023-08-17,Cristian Javier,SP
+2023,10,141,2023-08-17,Hunter Brown,SP
+2023,10,141,2023-08-17,Tommy Henry,SP
+2023,10,141,2023-08-17,Jordan Romano,RP
+2023,10,141,2023-08-17,Shawn Armstrong,RP
+2023,10,142,2023-08-18,Adley Rutschman,C
+2023,10,142,2023-08-18,Vladimir Guerrero Jr.,1B
+2023,10,142,2023-08-18,Adam Frazier,2B
+2023,10,142,2023-08-18,Bobby Witt Jr.,3B
+2023,10,142,2023-08-18,Luis Garcia,SS
+2023,10,142,2023-08-18,Christian Yelich,OF
+2023,10,142,2023-08-18,Cody Bellinger,OF
+2023,10,142,2023-08-18,Harrison Bader,OF
+2023,10,142,2023-08-18,Steven Kwan,UTIL
+2023,10,142,2023-08-18,Jose Altuve,UTIL
+2023,10,142,2023-08-18,Anthony Rizzo,Bench
+2023,10,142,2023-08-18,Trent Grisham,Bench
+2023,10,142,2023-08-18,Pablo Lopez,Bench
+2023,10,142,2023-08-18,Brayan Bello,Bench
+2023,10,142,2023-08-18,Jake Bird,Bench
+2023,10,142,2023-08-18,Brady Singer,Bench
+2023,10,142,2023-08-18,Oneil Cruz,IL
+2023,10,142,2023-08-18,Jonah Heim,IL
+2023,10,142,2023-08-18,Kyle Wright,IL
+2023,10,142,2023-08-18,Alek Manoah,SP
+2023,10,142,2023-08-18,Max Fried,SP
+2023,10,142,2023-08-18,Cristian Javier,SP
+2023,10,142,2023-08-18,Hunter Brown,SP
+2023,10,142,2023-08-18,Tommy Henry,SP
+2023,10,142,2023-08-18,Jordan Romano,RP
+2023,10,142,2023-08-18,Shawn Armstrong,RP
+2023,10,143,2023-08-19,Adley Rutschman,C
+2023,10,143,2023-08-19,Vladimir Guerrero Jr.,1B
+2023,10,143,2023-08-19,Adam Frazier,2B
+2023,10,143,2023-08-19,Bobby Witt Jr.,3B
+2023,10,143,2023-08-19,Luis Garcia,SS
+2023,10,143,2023-08-19,Christian Yelich,OF
+2023,10,143,2023-08-19,Cody Bellinger,OF
+2023,10,143,2023-08-19,Harrison Bader,OF
+2023,10,143,2023-08-19,Steven Kwan,UTIL
+2023,10,143,2023-08-19,Jose Altuve,UTIL
+2023,10,143,2023-08-19,Anthony Rizzo,Bench
+2023,10,143,2023-08-19,Trent Grisham,Bench
+2023,10,143,2023-08-19,Pablo Lopez,Bench
+2023,10,143,2023-08-19,Brayan Bello,Bench
+2023,10,143,2023-08-19,Jake Bird,Bench
+2023,10,143,2023-08-19,Brady Singer,Bench
+2023,10,143,2023-08-19,Oneil Cruz,IL
+2023,10,143,2023-08-19,Jonah Heim,IL
+2023,10,143,2023-08-19,Kyle Wright,IL
+2023,10,143,2023-08-19,Alek Manoah,SP
+2023,10,143,2023-08-19,Max Fried,SP
+2023,10,143,2023-08-19,Cristian Javier,SP
+2023,10,143,2023-08-19,Hunter Brown,SP
+2023,10,143,2023-08-19,Tommy Henry,SP
+2023,10,143,2023-08-19,Jordan Romano,RP
+2023,10,143,2023-08-19,Shawn Armstrong,RP
+2023,10,144,2023-08-20,Adley Rutschman,C
+2023,10,144,2023-08-20,Vladimir Guerrero Jr.,1B
+2023,10,144,2023-08-20,Adam Frazier,2B
+2023,10,144,2023-08-20,Bobby Witt Jr.,3B
+2023,10,144,2023-08-20,Luis Garcia,SS
+2023,10,144,2023-08-20,Christian Yelich,OF
+2023,10,144,2023-08-20,Cody Bellinger,OF
+2023,10,144,2023-08-20,Harrison Bader,OF
+2023,10,144,2023-08-20,Steven Kwan,UTIL
+2023,10,144,2023-08-20,Jose Altuve,UTIL
+2023,10,144,2023-08-20,Anthony Rizzo,Bench
+2023,10,144,2023-08-20,Trent Grisham,Bench
+2023,10,144,2023-08-20,Pablo Lopez,Bench
+2023,10,144,2023-08-20,Brayan Bello,Bench
+2023,10,144,2023-08-20,Jake Bird,Bench
+2023,10,144,2023-08-20,Brady Singer,Bench
+2023,10,144,2023-08-20,Oneil Cruz,IL
+2023,10,144,2023-08-20,Jonah Heim,IL
+2023,10,144,2023-08-20,Kyle Wright,IL
+2023,10,144,2023-08-20,Alek Manoah,SP
+2023,10,144,2023-08-20,Max Fried,SP
+2023,10,144,2023-08-20,Cristian Javier,SP
+2023,10,144,2023-08-20,Hunter Brown,SP
+2023,10,144,2023-08-20,Tommy Henry,SP
+2023,10,144,2023-08-20,Jordan Romano,RP
+2023,10,144,2023-08-20,Shawn Armstrong,RP
