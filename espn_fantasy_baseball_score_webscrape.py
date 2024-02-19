@@ -18,12 +18,12 @@ logger = logging.getLogger('espn_fantasy_score_webscrape')
 
 # Set constants and other data
 # Coordinate settings
-chrome_x_coord = 1052 #second item on taskbar
+chrome_x_coord = 1028 #second item on taskbar
 chrome_y_coord = 1055
-notepad_x_coord = 1182 #fifth item on taskbar
+notepad_x_coord = 1160 #fifth item on taskbar
 notepad_y_coord = 1055
-url_x_coord = 155
-url_y_coord = 53
+url_x_coord = 178
+url_y_coord = 62
 
 # ESPN URL Settings
 SWID='{E9FF23A9-48B2-424A-A164-59B896B3E7C6}'
@@ -32,11 +32,12 @@ url_base='https://fantasy.espn.com/baseball/league/scoreboard?'
 
 # League settings
 league_id=150785
-league_calendar=[(2018, 21),
-				 (2019, 21), 
-				 (2020, 8),
-				 (2021, 21),
-				 (2022, 21)
+league_calendar=[#(2018, 21),
+				 #(2019, 21), 
+				 #(2020, 8),
+				 #(2021, 21),
+				 #(2022, 21),
+				 (2023, 19)
 				]
 league_teams=[1,2,3,4,5,6,7,8,9,10,11,12]
 team_names = pd.read_csv('team_name_lookup.csv', sep=';', encoding='cp1252')

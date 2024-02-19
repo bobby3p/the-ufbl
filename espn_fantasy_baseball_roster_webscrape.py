@@ -17,12 +17,12 @@ logger = logging.getLogger('espn_fantasy_webscrape')
 
 # Set constants and other data
 # Coordinate settings
-chrome_x_coord = 1052 #second item on taskbar
+chrome_x_coord = 1028 #second item on taskbar
 chrome_y_coord = 1055
-notepad_x_coord = 1182 #fifth item on taskbar
+notepad_x_coord = 1160 #fifth item on taskbar
 notepad_y_coord = 1055
-url_x_coord = 155
-url_y_coord = 53
+url_x_coord = 178
+url_y_coord = 62
 
 # ESPN URL Settings
 SWID='{E9FF23A9-48B2-424A-A164-59B896B3E7C6}'
@@ -32,11 +32,12 @@ url_base='https://fantasy.espn.com/baseball/team?'
 # League settings
 league_id=150785
 league_calendar=[#(2019, date.fromisoformat("2019-03-20"), 166), 
-				 (2020, date.fromisoformat("2020-03-26"), 179),
-				 (2021, date.fromisoformat("2021-04-01"), 158),
-				 (2022, date.fromisoformat("2022-04-07"), 158)
+				 #(2020, date.fromisoformat("2020-03-26"), 179),
+				 #(2021, date.fromisoformat("2021-04-01"), 158),
+				 #(2022, date.fromisoformat("2022-04-07"), 158)
+				 (2023, date.fromisoformat("2023-03-30"), 144)
 				]
-league_teams=[9,10,11,12] #limited to one team for testing purposes
+league_teams=[1,2,3,4,5,6,7,8,9,10,11,12] #limited to one team for testing purposes
 
 # Define functions
 def espn_fantasy_webscrape():
